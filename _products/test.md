@@ -10,8 +10,6 @@ slides:
     image: /images/net_image1.jpg
   - title: Slide 2
     image: /images/net_image2.jpg
-  - title: Slide 3
-    image:
   - title: Slide 4
     image: /images/net_image1.jpg
   - title:
