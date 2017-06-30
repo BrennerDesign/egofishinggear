@@ -34,8 +34,7 @@
 	<body>
 		<div id="main_content">
 
-
-            {% if site.sale_text != '' %}
+            {% if site.sale_text != blank and site.sale_text != nil %}
                 <div class="sale_block">
                     <div class="sale_block_cont">
                         {{ site.sale_text }}
@@ -183,7 +182,7 @@
                     <a class="cart_block snipcart-checkout " href="#">
                         <img class="shop_icon" src="/images/shop_icon.png" alt="shop" />
                         View
-                        <div class="item_num sniptcart-summary">
+                        <div class="item_num snipcart-summary">
                             <span class="snipcart-total-items"></span>
                         </div>
                     </a>
@@ -217,7 +216,7 @@
 
                     <div class="footer_col one">
 
-                        <a href="partners.html" class="partners_btn"><h3>Our Retail Partners</h3></a>
+                        <a href="/partners" class="partners_btn"><h3>Our Retail Partners</h3></a>
                         <div class="div_line"></div>
 
                         <div class="email_info">
@@ -241,20 +240,19 @@
 
                     <div class="footer_col two">
 
-                        <ul class="footer_nav_col">
-                            <li><a href="/customer-service.html"><h4>Customer Service</h4></a></li>
-                            <li><a href="/contact-us.html">Contact Us</a></li>
-                            <li><a href="/faqs.html">FAQs</a></li>
-                            <li><a href="/replacement-parts.html">Replacement Parts</a></li>
-                            <li><a href="/warranty.html">Warranty Center</a></li>
-                        </ul>
-                        <ul class="footer_nav_col">
-                            <li><a href="/ego-fishing-gear.html" class="bold_link"><h4>EGO Fishing Gear</h4></a></li>
-                            <li><a href="/about-us.html">About Us</a></li>
-                            <li><a href="/news.html">News</a></li>
-                            <li><a href="/media-library.html">Media Library</a></li>
-                            <li><a href="/privacy-policy.html">Privacy Policy</a></li>
-                        </ul>
+                        {% for column in site.data.footer.footer_links %}
+                            <ul class="footer_nav_col">
+                                {% for link in column.links %}
+                                    <li>
+                                        <a href="{{ link.link }}" {% if link.new_window %}target="_blank"{% endif %} >
+                                            {% if link.highlight %}<h4>{% endif %}
+                                                {{ link.name }}
+                                            {% if link.highlight %}</h4>{% endif %}
+                                        </a>
+                                    </li>
+                                {% endfor %}
+                            </ul>
+                        {% endfor %}
 
                     </div>
 
@@ -262,9 +260,9 @@
                     <div class="footer_col three">
 
                         <div class="footer_ad">
-                            <h3>{{ site.footer_ad_line_1 }}</h3>
-                            <h3>{{ site.footer_ad_line_2 }}</h3>
-                            <span>{{ site.footer_ad_subheading }}</span>
+                            <h3>{{ site.data.footer.footer_ad_line_1 }}</h3>
+                            <h3>{{ site.data.footer.footer_ad_line_2 }}</h3>
+                            <span>{{ site.data.footer.footer_ad_subheading }}</span>
                         </div>
 
                     </div>
