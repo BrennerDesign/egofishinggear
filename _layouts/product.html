@@ -56,7 +56,16 @@ layout: default
 
                 <div class="bottom clearfix">
                     <div class="left_info">
-                        <img class="review_holder_img" src="/images/review_placeholder.jpg" alt="review" />
+                        <div class="yotpo bottomLine"
+                          data-appkey="N83yliN6EOoZygW1ADH2alJgXVII1JgZoM9nX5sq"
+                          data-domain="Domain of the shop"
+                          data-product-id="{{ page.sku }}"
+                          data-name="{{ page.name }}"
+                          data-url="{{ page.url }}"
+                          data-image-url="{{ page.slides.first.image }}"
+                          data-description="{{ page.description }}"
+                          >
+                        </div>
                         <h6>Item #{{ page.sku }}</h6>
                     </div>
 
