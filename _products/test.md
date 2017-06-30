@@ -12,6 +12,4 @@ slides:
     image: /images/net_image2.jpg
   - title: Slide 4
     image: /images/net_image1.jpg
-  - title:
-    image:
 ---
