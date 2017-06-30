@@ -4,7 +4,7 @@ subheading: This is another test
 price: 209
 sku: ABC-123
 tag_class: new_tag
-tag_text: New
+tag_text: Newish
 slides:
   - title: Slide 1
     image: /images/net_image1.jpg
