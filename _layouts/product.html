@@ -1,0 +1,171 @@
+---
+layout: default
+---
+
+<div class="page_content">
+
+    <div class="content_wrapper clearfix">
+
+        <div id="product_slider" class="flexslider">
+
+            <ul class="slides">
+                {% for slide in page.slides %}
+                    <li class="product_slide">
+                        <img src="{{ slide.image }}" alt="{{ slide.title }}" />
+                    </li>
+                {% endfor %}
+            </ul>
+
+
+        </div><!-- .#product_slider -->
+
+        <div class="product_specs">
+
+            {% if page.tag_name != '' %}
+            <div class="{{ page.tag_class }}">{{ page.tag_text }}</div>
+            {% endif %}
+
+            <header>
+                <h2>{{ page.name }}</h2>
+                <h3>{{ page.subheading }}</h3>
+            </header>
+
+            
+            <form class="product_cart">
+                <div class="top clearfix">
+                    <h5 class="price">${{page.price}}</h5>
+
+                    <div class="quantity_select">
+                        <label>Qty</label>
+                        <select id="quantity-selector">
+                            <option selected data-qa-qty="1">1</option>
+                            <option data-qa-qty="2">2</option>
+                            <option data-qa-qty="3">3</option>
+                            <option data-qa-qty="4">4</option>
+                            <option data-qa-qty="5">5</option>
+                            <option data-qa-qty="6">6</option>
+                            <option data-qa-qty="7">7</option>
+                            <option data-qa-qty="8">8</option>
+                            <option data-qa-qty="9">9</option>
+                            <option data-qa-qty="10">10</option>
+                            <option data-qa-qty="11">11</option>
+                            <option data-qa-qty="12">12</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="bottom clearfix">
+                    <div class="left_info">
+                        <img class="review_holder_img" src="/images/review_placeholder.jpg" alt="review" />
+                        <h6>Item #{{ page.sku }}</h6>
+                    </div>
+
+                    {% include snipcart-button.html product=page %}
+                </div>
+
+            </form><!-- .product_cart -->
+
+
+
+            <div class="expanders">
+
+
+                <div class="expand_item">
+                    <a href="#" class="product_expander"><h3>Technical Specs</h3><div class="icon"></div></a>
+                    <div class="expander_info clearfix">
+
+                        <div class="left_column">
+                            <p>The S2 Slider Compact landing nets are a modular platform which allows the net to be easily used on kayaks and smaller boats with limited space.</p>
+                            <div class="divider"></div>
+                            <h6>HANDLE EXTENDS</h6>
+                            29in — 60in
+                            <div class="divider"></div>
+                            <h6>Load Capacity</h6>
+                            <strong>Retracted</strong>—30lbs<br />
+                            <strong>Partial Extention</strong>—28lbs<br />
+                            <strong>Full Extention</strong>—28lbs<br />
+                            <div class="divider"></div>
+                            <ul>
+                                <li>Medium Hoop Size 17" x 19"</li>
+                                <li>17" Bag Depth</li>
+                                <li>Ergonomic handle grip</li>
+                                <li>Zip on/off replaceable mesh bag</li>
+                                <li>Lightweight with minimal water drag</li>
+                                <li>Measure fish up to 36 inches</li>
+                            </ul>
+                        </div>
+
+                        <div class="right_column">
+                            <h6>PVC COATED MEASURE NET</h6>
+                            <ul>
+                                <li>Measure Net technology / Hands free fish measurement</li>
+                            </ul>
+                            <img src="/images/spec1.jpg" alt="" />
+                            <div class="divider"></div>
+                            <h6>AWARDS & ACKNOWLEDGMENTS</h6>
+                            <img src="/images/spec2.jpg" alt="" />
+                        </div>
+
+                        <div class="other_products_slider clearfix">
+                            <h2>Other Products You May Like</h2>
+                            <h3>Fill Your War Chest</h3>
+                        </div>
+
+                    </div>
+                </div><!-- .expand_item -->
+
+                <div class="expand_item">
+                    <a href="#" class="product_expander"><h3>Reviews</h3><div class="icon"></div></a>
+                    <div class="expander_info">
+                        <div class="yotpo yotpo-main-widget"
+                            data-product-id="{{ page.sku }}"
+                            data-name="{{ page.name }}"
+                            data-url="{{ page.url }}"
+                            data-image-url="{{ page.slides.first.image }}"
+                            data-description="{{ page.description }}">
+                        </div>
+
+                    </div>
+                </div><!-- .expand_item -->
+
+                <div class="expand_item">
+                    <a href="#" class="product_expander"><h3>Warranty</h3><div class="icon"></div></a>
+                    <div class="expander_info">
+
+                        <div class="left_column">
+                            <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in material and workmanship(excluding net mesh) for a period of two (2) years from the date of original purchase.</p>
+                            <div class="divider"></div>
+                            <p><strong>If your EGO fishing tool exhibits such a defect, Adventure Products will, at its option, replace or repair it without charge, provided the customer:</strong></p>
+                            <p><strong>1) Returns defective product, postage paid and insured, indicating the reason(s) for the return to:</strong></p>
+                            <p>Adventure Products<br />
+                            Product Returns<br />
+                            889 Guy Paine Rd.<br />
+                            Macon, GA 31206</p>
+                            <p><strong>2) Submits proof of date of original purchase.</strong></p>
+
+                            <a href="/contact-us.html" class="block_btn">File Claim Online</a>
+                        </div>
+
+                        <div class="right_column">
+                            <p>This warranty does not cover damage resulting from accident, misuse, abuse, tampering, unreasonable use or normal wear.</p>
+                            <p>ADVENTURE PRODUCTS, INC. MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
+                        </div>
+
+                    </div>
+                </div><!-- .expand_item -->
+
+            </div><!-- .expanders -->
+
+
+        </div><!-- .product_specs -->
+
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(function() {
+        $('#quantity-selector').change(function(e) {
+            $('.snipcart-add-item').data('itemQuantity', $(this).val());
+        });
+    })
+</script>
