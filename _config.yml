@@ -91,4 +91,4 @@ _comments:
   color: The background color used in the plan name and call to action.
   new_window: Open link in new window
   description: This is used for facebook shares of the page and google indexing
-  adjustment: Price adjustment. Examples:  +10.00, -5.00
+  adjustment: Price adjustment. Examples:  +10.00 and -5.00
