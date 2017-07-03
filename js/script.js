@@ -14,7 +14,7 @@ $(document).ready(function() {
 		animation: "slide",
 		animationLoop: true,
 		controlNav: true,
-		directionNav: false,
+		directionNav: true,
 		slideshow: false,
 		animationSpeed: 800
 	});
@@ -62,6 +62,19 @@ $(document).ready(function() {
 		$('.top_nav_bar ul.main_menu').css('height', total_doc_height);
 	}
 
+	// slider mobile image margin
+	var slider_mobile_marg = (((523 - doc_width) / 2) * -1);
+	if (doc_width < 480) {
+		$('.flexslider .slides img').css('margin-left', slider_mobile_marg);
+	}
+
+
+	// trout net page header image margin
+	if (doc_width < 2000) {
+		var troutHeaderMarg = ((2000 - doc_width) / 2) * -1;
+		$('img.header_bgd_img').css('left', troutHeaderMarg);
+	}
+
 
 
 	// subnav submenu button clicks
@@ -70,10 +83,10 @@ $(document).ready(function() {
 		if ($(this).hasClass('expanded')) {
 			$(this).removeClass('expanded');
 			$(this).next().css('display', 'none');
-			$('.top_nav_bar .sub_nav_link').css('display', 'block');
+			$('.top_nav_bar .sub_nav_link').css('display', 'block').css('border-bottom', '2px solid #c4c4c4');
 		} else {
 			$(this).addClass('expanded');
-			$('.top_nav_bar .sub_nav_link').css('display', 'none');
+			$('.top_nav_bar .sub_nav_link').css('display', 'none').css('border-bottom', 'none');
 			$(this).parent().css('display', 'block');
 			$(this).next().css('display', 'block');
 		}
@@ -88,33 +101,22 @@ $(document).ready(function() {
 			$(this).removeClass('expanded');
 			$(this).next().slideUp();
 		} else {
+			$('.product_expander').removeClass('expanded');
+			$('.expander_info').slideUp();
 			$(this).addClass('expanded');
 			$(this).next().slideDown();
+			setTimeout(scrollPos, 400);
 		}
 	});
 
+	function scrollPos() {
+		$.scrollTo($('.expanded'),'slow', {
+			offset: -150
+		});
+	}
+	
 
 
-
-	// about button clicks
-	$('#menu-about_menu .what a').click(function(e) {
-		e.preventDefault();
-		$.scrollTo('.What','slow', {
-			offset: -55
-		});
-	});
-	$('#menu-about_menu .how a').click(function(e) {
-		e.preventDefault();
-		$.scrollTo('.How','slow', {
-			offset: -55
-		});
-	});
-	$('#menu-about_menu .who a').click(function(e) {
-		e.preventDefault();
-		$.scrollTo('.Who','slow', {
-			offset: -55
-		});
-	});
 
 
 
@@ -183,6 +185,22 @@ $(document).ready(function() {
 			$('.top_nav_bar ul.main_menu').css('height', total_doc_height);
 		} else {
 			$('.top_nav_bar ul.main_menu').css('height', 'auto');
+		}
+
+		// slider mobile image margin
+		var slider_mobile_marg = (((523 - doc_width) / 2) * -1);
+		if (doc_width < 480) {
+			$('.flexslider .slides img').css('margin-left', slider_mobile_marg);
+		} else {
+			$('.flexslider .slides img').css('margin-left', '0');
+		}
+
+		// trout net page header image margin
+		if (doc_width < 2000) {
+			var troutHeaderMarg = ((2000 - doc_width) / 2) * -1;
+			$('img.header_bgd_img').css('left', troutHeaderMarg);
+		} else {
+			$('img.header_bgd_img').css('left', '0');
 		}
 
 

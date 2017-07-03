@@ -2,10 +2,22 @@
 name: Test 2
 description:
 price: '9.99'
+price_range: '$9.99 - $24.99'
 sku: Test2Jeff
 tag_class:
 tag_text:
-slides:
-  - title:
-    image:
+options_text: Choose Net Size
+options:
+    - name: 10FT 3/8
+      sku: 61206
+      adjustment: '0.00'
+    - name: 10FT rapid sink 3/8
+      sku: 61206R
+      adjustment: '+5.00'
+    - name: 12FT 3/8
+      sku: 61207
+      adjustment: '+10.00'
+    - name: 12FT rapid sink 3/8
+      sku: 61207R
+      adjustment: '+15.00'
 ---

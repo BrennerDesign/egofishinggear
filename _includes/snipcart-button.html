@@ -3,19 +3,36 @@
     {% assign colors = colors | append: '|' | append: style.name %}
 {% endfor %}
 {% assign colors = colors | remove_first: '|' %}
-<button class="email_submit snipcart-add-item"
+
+{% assign myoptions = "" %}
+{% for option in include.product.options %}
+    {% assign myoptions = myoptions | append: '|' | append: option.name %}
+
+    {% if option.adjustment != '0.00' and option.adjustment != 0.0 %}
+        {% assign myoptions = myoptions | append: '[' | append: option.adjustment | append: ']' %}
+    {% endif %}
+{% endfor %}
+{% assign myoptions = myoptions | remove_first: '|' %}
+
+
+<button class="email_submit snipcart-add-item {% if include.class %} {{include.class}} {% endif %}"
     data-item-name="{{ include.product.name }}"
     data-item-id="{{ include.product.sku }}"
     data-item-image="{{ include.product.slides.first.image }}"
     data-item-description="{{ include.product.description }}"
+    {% if include.product.options %}
+        data-item-custom1-name="Option"
+        data-item-custom1-options="{{ myoptions }}"
+        data-item-custom1-value="{{ include.product.options[0].name }}"
+    {% endif %}
     {%if include.product.sizes %}
-    data-item-custom1-name="Size"
-    data-item-custom1-options="{{ include.product.sizes | join: '|' }}"
-    data-item-custom1-value="Medium"
+    data-item-custom2-name="Size"
+    data-item-custom2-options="{{ include.product.sizes | join: '|' }}"
+    data-item-custom2-value="Medium"
     {% endif %}
     {% if colors != '' %}
-        data-item-custom2-name="Color"
-        data-item-custom2-options="{{ colors }}"
+        data-item-custom3-name="Color"
+        data-item-custom3-options="{{ colors }}"
     {% endif %}
     data-item-url="{{ include.product.url }}"
     data-item-price="{{ include.product.price }}"
