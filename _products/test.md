@@ -4,6 +4,7 @@ subheading: This is another test
 categories:
   - ego-trout-nets
   - s1-nets
+  - Jeffs Test Products
 price: 209
 sku: ABC-123
 tag_class: new_tag
