@@ -93,3 +93,5 @@ _comments:
   description: This is used for facebook shares of the page and google indexing
   adjustment: "Price adjustment. Examples:  +10.00 and -5.00"
   subheading: A sub heding for an item. Typically shown in smaller font below the main heading
+  tag_class: "Define a color class.  Example, use tag_new for a red new tag"
+  tag_text: "Example of New or On Sale"
