@@ -1,6 +1,7 @@
 ---
 name: Test Product
 subheading: This is another test
+categories: ['ego-trout-nets', 's1-nets']
 price: 209
 sku: ABC-123
 tag_class: new_tag

@@ -14,19 +14,19 @@ font-family: 'Oswald', sans-serif;
 /* Variables
 ----------------------------------------------------------------------------------------*/
 @mixin border-radius($radius) {
-  	-webkit-border-radius: $radius;
- 	-moz-border-radius: $radius;
-    -ms-border-radius: $radius;
-    -o-border-radius: $radius;
-    border-radius: $radius;
+	-webkit-border-radius: $radius;
+	-moz-border-radius: $radius;
+	-ms-border-radius: $radius;
+	-o-border-radius: $radius;
+	border-radius: $radius;
 }
 
 @mixin animation($animation) {
-  	-webkit-animation: $animation;
- 	-moz-animation: $animation;
-    -ms-animation: $animation;
-    -o-animation: $animation;
-    animation: $animation;
+	-webkit-animation: $animation;
+	-moz-animation: $animation;
+	-ms-animation: $animation;
+	-o-animation: $animation;
+	animation: $animation;
 }
 
 
@@ -87,7 +87,7 @@ html {
 	clear: both;
 	display: block;
 	font-size: 1px;
-    height:0px;
+	height:0px;
 }
 
 .clearfix:after {
@@ -177,7 +177,7 @@ li {
 	
 }
 .nowrap {
-    white-space: nowrap;
+	white-space: nowrap;
 }
 
 
@@ -236,9 +236,9 @@ h6 {
 /* Naviagtion
 -------------------------------------------------------------- */
 .social_nav {
-  	margin: 14px;
-  	text-align: center;
- 	li {
+	margin: 14px;
+	text-align: center;
+	li {
 		float: left;
 		list-style: none;
 	}
@@ -489,16 +489,16 @@ h6 {
 		width: 100%;
 		height: 250px;
 		-moz-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
-	  	-webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
-	  	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+		-webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+		box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
 		@media (max-width: 980px) {
 			top: 0;
 			padding-bottom: 0;
 			position: static;
 			height: auto;
 			-moz-box-shadow: none;
-		  	-webkit-box-shadow: none;
-		  	box-shadow: none;
+			-webkit-box-shadow: none;
+			box-shadow: none;
 		}
 		.image_link {
 			float: right;
@@ -778,7 +778,7 @@ h6 {
 .mobile_nav.active {
 	.ham_bar.first {
 		-ms-transform: rotate(45deg); /* IE 9 */
-   		-webkit-transform: rotate(45deg); /* Safari */
+		-webkit-transform: rotate(45deg); /* Safari */
 		transform: rotate(45deg);
 		margin-bottom: -16px;
 		margin-top: 12px;
@@ -786,7 +786,7 @@ h6 {
 	}
 	.ham_bar.last {
 		-ms-transform: rotate(-45deg); /* IE 9 */
-   		-webkit-transform: rotate(-45deg); /* Safari */
+		-webkit-transform: rotate(-45deg); /* Safari */
 		transform: rotate(-45deg);
 		margin-top: 5px;
 		background-color: $red;
@@ -1000,15 +1000,15 @@ h6 {
 			background: url(../images/select_arrows.png) no-repeat top right;
 			background-size: 18px 32px;
 			-webkit-appearance: none;
-    		-moz-appearance: none;
-    		width: 64px;
+			-moz-appearance: none;
+			width: 64px;
 			height: 32px;
 			cursor: pointer;
 			text-align: center;
 			padding-right: 28px;
 		}
 		select::-ms-expand {
-    		display: none;
+			display: none;
 		}
 		.left_info {
 			float: left;
@@ -1478,6 +1478,18 @@ header.trout_net {
 		background: url(../images/red_arrow_down.png) no-repeat 4% center, url(../images/red_arrow_down.png) no-repeat 96% center;
 		background-size: 14px auto;
 	}
+	.add-to-cart-trigger-btn {
+		border: 0;
+		background: transparent;
+		float: left;
+		cursor:pointer;
+
+		&:hover,
+		&:active,
+		&:focus {
+			outline:0;
+		}
+	}
 }
 
 
@@ -1713,15 +1725,15 @@ html[xmlns] .slides {display: block;}
 	position: relative; 
 	zoom: 1;
 	width: 100%;
-    height: 100%;
-    min-height: 240px;
+	height: 100%;
+	min-height: 240px;
 }
 .flex-viewport {
 	max-height: 2000px; 
 	zoom: 1;
 	width: 100%;
-    height: 100%;
-    min-height: 240px;
+	height: 100%;
+	min-height: 240px;
 	-webkit-transition: all 1s ease; 
 	-moz-transition: all 1s ease; 
 	transition: all 1s ease;

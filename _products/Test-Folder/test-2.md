@@ -1,6 +1,7 @@
 ---
 name: Test 2
 description:
+categories: ['ego-trout-nets', 's1-nets']
 price: '9.99'
 price_range: '$9.99 - $24.99'
 sku: Test2Jeff

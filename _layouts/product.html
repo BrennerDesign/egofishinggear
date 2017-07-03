@@ -25,7 +25,7 @@ layout: default
         <div class="product_specs">
 
             {% if page.tag_name != '' %}
-            <div class="{{ page.tag_class }}">{{ page.tag_text }}</div>
+                <div class="{{ page.tag_class }}">{{ page.tag_text }}</div>
             {% endif %}
 
             <header>
@@ -167,7 +167,7 @@ layout: default
 
         </div><!-- .product_specs -->
 
-         <div class="other_products clearfix">
+        <div class="other_products clearfix">
 
             {% for slide in site.data.products.bottom_products %}
                 <a href="{{slide.link}}" class="other_product">
