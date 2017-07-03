@@ -40,7 +40,7 @@ layout: default
                         <select id="option-selector">
                             <option disabled selected>{{page.options_text}}</option>
                             {% for option in page.options %}
-                                <option data-qa-qty="{{option.sku}}" data-name="{{option.name}}" data-adjustment="{{option.adjustment}}">{{option.name}} {% if option.adjustment != '0.00' %} ( {{option.adjustment}} ) {% endif %}</option>
+                                <option data-qa-qty="{{option.sku}}" data-name="{{option.name}}" data-adjustment="{{option.adjustment}}">{{option.name}} {% if option.adjustment != '0.00' %} ( {{option.price}} ) {% endif %}</option>
                             {% endfor %}
                         </select>
                     </div>
