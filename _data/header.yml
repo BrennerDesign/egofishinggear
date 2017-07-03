@@ -129,11 +129,11 @@ header_links:
       image: /images/nav_net.jpg
 - name: Apparel
   link: /apparel
-  has_sub_menu:
+  has_sub_menu: false
   has_hover_bar: true
 - name: Contact Us
   link: /contact-us
-  has_sub_menu: 
+  has_sub_menu: false
   has_hover_bar: true
 mobile_area:
   ad:
