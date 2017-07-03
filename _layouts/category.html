@@ -25,7 +25,7 @@ layout: default
                     <h3>{{product.name}}</h3>
                     <h4>{{product.subheading}}</h4>
 
-                    {% if product.tag_name != '' %}
+                    {% if product.tag_text and product.tag_text != blank %}
                         <div class="{{ product.tag_class }}">{{ product.tag_text }}</div>
                     {% endif %}
 

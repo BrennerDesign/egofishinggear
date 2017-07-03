@@ -4,8 +4,9 @@ subheading: This is another test
 categories: ['ego-trout-nets', 's1-nets']
 price: 209
 sku: ABC-123
+show_as_crosssells: true
 tag_class: new_tag
-tag_text: Newish
+tag_text:
 slides:
   - title: Slide 1
     image: /images/net_image1.jpg

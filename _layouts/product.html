@@ -24,7 +24,7 @@ layout: default
 
         <div class="product_specs">
 
-            {% if page.tag_name != '' %}
+            {% if page.tag_text and page.tag_text != blank %}
                 <div class="{{ page.tag_class }}">{{ page.tag_text }}</div>
             {% endif %}
 
