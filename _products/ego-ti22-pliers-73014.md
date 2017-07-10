@@ -1,5 +1,5 @@
 ---
-name: EGO Ti22 Titanium Fishing Pliers
+name: 'EGO Ti22 7.5" Titanium Pliers'
 description: 'EGO Ti22 titanium fishing pliers have strong steel cutters. 100% Rustproof ultra-strong lightweight replaceable tungsten steel cutters Lanyard fastening loop and sheath'
 price: '240.00'
 sku: '73014'
