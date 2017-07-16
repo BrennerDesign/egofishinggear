@@ -4,12 +4,16 @@ subheading: This is another test
 categories:
   - ego-trout-nets
   - s1-nets
+  - s2-nets
   - Jeffs Test Products
 price: 209
 sku: ABC-123
 show_as_crosssells: true
 tag_class: new_tag
 tag_text:
+filter_handle: compact
+filter_hoop: medium
+filter_mesh:  rubber
 slides:
   - title: Slide 1
     image: /images/net_image1.jpg

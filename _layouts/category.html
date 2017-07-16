@@ -3,16 +3,223 @@ layout: default
 ---
 
 <div class="page_content">
-    <img class="header_bgd_img" src="{{page.hero_image_desktop_image}}" alt="{{page.name}}" />
-    <img class="header_bgd_img_mobile" src="{{page.hero_image_mobile_image}}" alt="{{page.name}}" />
-    <header class="trout_net">
+    <img class="featured_prod" src="{{page.hero_image_desktop_image}}" alt="{{page.name}}" />
+    <img class="featured_prod_img_mobile" src="{{page.hero_image_mobile_image}}" alt="{{page.name}}" />
+
+    <header class="featured_prod">
         <div class="title_wrap">
-            <h2>{{page.h2}}</h2>
-            <h3>{{page.h3}}</h3>
+            <div class="logo_img">
+                <img src="{{page.category_header_image}}" alt="{{page.title}}" />
+            </div>
+            <h1>#1 Landing Net system on the planet!</h1>
+            <a href="{{page.header_video_url}}" class="play_btn">
+                <img src="/images/video_play.png" alt="Play Video" />
+            </a>
         </div>
     </header>
 
     <div class="content_wrapper clearfix">
+
+        <div class="product_ads">
+            <div class="ad_block top_ad">
+                <div class="block_wrapper clearfix">
+                    <div class="logo_img">
+                        <img src="{{page.top_ad_image}}" alt="{{page.top_ad_product}}" />
+                    </div>
+                    <h2>{{page.top_ad_heading}}</h2>
+                </div>
+            </div><!-- .ad_block.top_ad -->
+
+
+            {% if page.ad_slider_slides %}
+                <div class="ad_block flexslider clearfix" id="ad_slider">
+                    <ul class="slides">
+                        {% for slide in page.ad_slider_slides %}
+                            <li class="ad_slide">
+                                <img src="{{slide.image}}" alt="{{slide.name}}" class="background" />
+                                <div class="titles">
+                                    <h2>{{slide.h2}}</h2>
+                                    <h3>{{slide.h3}}</h3>
+                                </div>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div><!-- .ad_block.flexslider -->
+            {% endif %}
+
+            {% if page.spec_blocks %}
+            <div class="ad_block spec_block clearfix">
+
+                <div class="block_wrapper clearfix">
+
+                    {% for item in page.spec_blocks %}
+                        <h1>{{item.h1}}</h1>
+                        <h4>{{item.h4}}</h4>
+                        <div class="div_line"></div>
+                    {% endfor %}
+                </div>
+
+            </div><!-- .ad_block.spec_block -->
+            {% endif %}
+
+
+
+            <div class="ad_block awards_block clearfix">
+                {{page.award_block_html}}
+            </div><!-- .ad_block.awards_block -->
+
+
+            <div class="bottom_level"></div>
+        </div><!-- .product_ads -->
+
+        <div class="filter_block">
+
+            <div class="block_btn">Net Selector Tool</div>
+
+            <h4 class="filters">Filters</h4>
+
+            <div class="options clearfix">
+
+                <a class="filter_title length" href="#">
+                    <h6>Handle Length</h6>
+                    <div class="selected_box selected"></div>
+                </a>
+
+                <a class="filter_title size" href="#">
+                    <h6>Hoop Size</h6>
+                    <div class="selected_box"></div>
+                </a>
+
+                <a class="filter_title type" href="#">
+                    <h6>Mesh Type</h6>
+                    <div class="selected_box"></div>
+                </a>
+
+            </div>
+
+        </div><!-- .filter_block -->
+
+        <form action="" method="get">
+            <div class="filter_expand expanded length">
+
+                <div class="options">
+
+                    <div class="option">
+                        <input type="checkbox" name="compact" value="Compact" id="compact_opt">
+                        <label for="compact_opt">Compact 18"–36"<span></span></label>
+                    </div>
+
+                    <div class="option">
+                        <input type="checkbox" name="standard" value="Standard" id="standard_opt">
+                        <label for="standard_opt">Standard 29"–60"<span></span></label>
+                    </div>
+
+                    <div class="option">
+                        <input type="checkbox" name="reach" value="Reach" id="reach_opt">
+                        <label for="reach_opt">Reach 48"–108"<span></span></label>
+                    </div>
+
+                </div>
+
+            </div><!-- .filter_expand -->
+
+
+
+            <div class="filter_expand size">
+
+                <div class="options clearfix">
+
+                    <div class="column">
+
+                        <div class="option">
+                            <input type="checkbox" name="small" value="Small" id="small_opt">
+                            <label for="small_opt">Small 14" x 16"<span></span></label>
+                        </div>
+
+                        <div class="option">
+                            <input type="checkbox" name="medium" value="Medium" id="medium_opt">
+                            <label for="medium_opt">Medium 17" x 19"<span></span></label>
+                        </div>
+
+                        <div class="option">
+                            <input type="checkbox" name="large" value="Large" id="large_opt">
+                            <label for="large_opt">Large 19" x 21"<span></span></label>
+                        </div>
+
+                    </div>
+
+                    <div class="column">
+
+                        <div class="option">
+                            <input type="checkbox" name="large22" value="Large22" id="large_opt22">
+                            <label for="large_opt22">Large 22 22" x 23"<span></span></label>
+                        </div>
+
+                        <div class="option">
+                            <input type="checkbox" name="xlarge" value="xLarge" id="xlarge_opt">
+                            <label for="xlarge_opt">X-Large 24" x 27"<span></span></label>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div><!-- .filter_expand -->
+
+
+            <div class="filter_expand type">
+
+                <div class="options clearfix">
+
+                    <div class="column">
+
+                        <div class="option">
+                            <input type="checkbox" name="nylon" value="Nylon" id="nylon_opt">
+                            <label for="nylon_opt">Nylon<span></span></label>
+                        </div>
+
+                        <div class="option">
+                            <input type="checkbox" name="rubber_coated_nylon" value="Rubber Coated Nylon" id="rubber_coated_nylon_opt">
+                            <label for="rubber_coated_nylon_opt">Rubber Coated Nylon<span></span></label>
+                        </div>
+
+                        <div class="option">
+                            <input type="checkbox" name="pvc_coated_nylon" value="PVC Coated Nylon" id="pvc_coated_nylon_opt">
+                            <label for="pvc_coated_nylon_opt">PVC Coated Nylon<span></span></label>
+                        </div>
+
+                        <div class="option">
+                            <input type="checkbox" name="rubber" value="Rubber" id="rubber_opt">
+                            <label for="rubber_opt">Rubber<span></span></label>
+                        </div>
+
+                    </div>
+
+                    <div class="column">
+
+                        <div class="option">
+                            <input type="checkbox" name="clear_rubber" value="Clear Rubber" id="clear_rubber_opt">
+                            <label for="clear_rubber_opt">Clear Rubber<span></span></label>
+                        </div>
+
+                        <div class="option">
+                            <input type="checkbox" name="deep_rubber" value="Deep Rubber" id="deep_rubber_opt">
+                            <label for="deep_rubber_opt">Deep Rubber<span></span></label>
+                        </div>
+
+                        <div class="option">
+                            <input type="checkbox" name="measure_net" value="Measure Net" id="measure_net_opt">
+                            <label for="measure_net_opt">Measure Net<span></span></label>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div><!-- .filter_expanded -->
+
+        </form>
+
 
         <div class="product_specs cards">
 
@@ -20,7 +227,7 @@ layout: default
 
 
             {% for product in myproducts %}
-                <a class="product_card" href="{{product.url}}">
+                <a class="product_card {{product.filter_handle}} {{product.filter_hoop}} {{product.filter_mesh}}" href="{{product.url}}">
 
                     <h3>{{product.name}}</h3>
                     <h4>{{product.subheading}}</h4>
@@ -52,7 +259,41 @@ layout: default
                 </a><!-- .product_card -->
             {% endfor %}
 
+            <!-- <a href="#" class="block_btn">Load More Nets</a> -->
+            <div class="clearfix"></div>
+
         </div><!-- .product_specs -->
+
+
+        {% if page.testimonials %}
+        <div class="testimonials clearfix">
+            <div class="testimonials_wrapper">
+
+                <h2>{{page.testimonial_title}}</h2>
+
+                {% for testimonial in page.testimonials %}
+                    <div class="testimonial_block">
+                        <h3 class="quote">{{testimonial.quote}}</h3>
+                        <h5>{{testimonial.name}}</h5>
+                        <h6>{{testimonial.location}}</h6>
+                    </div><!-- .testimonial_block -->
+                {% endfor %}
+
+
+                <div class="social_block">
+                    <ul class="social_nav">
+                        <li><a href="https://www.facebook.com/egofishinggear/" target="_blank" class="facebook"></a></li>
+                        <li><a href="https://www.instagram.com/egofishinggear/" target="_blank" class="instagram"></a></li>
+                        <li><a href="http://vimeo.com/" target="_blank" class="vimeo"></a></li>
+                    </ul>
+
+                    <a href="mailto:info@egofishinggear.com" class="block_btn">Share Your EGO Story</a>
+                </div>
+
+            </div>
+        </div><!-- .testimonials -->
+        {% endif %}
+
 
         <div class="other_products clearfix">
             {% for slide in site.data.products.bottom_products %}
