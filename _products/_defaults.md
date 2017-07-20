@@ -22,6 +22,8 @@ filter_mesh:
 slides:
     - title:
       image:
+      video:
+      is_video: false
 options_text: Choose Net Size
 options:
     - name:
