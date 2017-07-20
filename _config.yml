@@ -87,9 +87,18 @@ social_icons:
   - RSS
 
 categories:
+  - apparel
+  - big-game-nets
+  - ego-guide-nets
+  - ego-tools
   - ego-trout-nets
+  - kryptek-tools
   - s1-nets
   - s2-nets
+  - s1-and-s2-landing-net-attachments
+  - reach-nets
+  - wade-kayak-nets
+
 
 filter_handles:
   - compact
