@@ -1,12 +1,21 @@
 ---
 name: Test 2
+subheading: This is another test
 description:
-categories: ['ego-trout-nets', 's1-nets']
+categories:
+  - ego-trout-nets
+  - s1-nets
+  - s2-nets
+  - Jeffs Test Products
 price: '9.99'
 price_range: '$9.99 - $24.99'
 sku: Test2Jeff
+show_as_crosssells: false
 tag_class:
 tag_text:
+filter_handle: compact
+filter_hoop: medium
+filter_mesh:  rubber
 options_text: Choose Net Size
 options:
     - name: 10FT 3/8
@@ -25,4 +34,9 @@ options:
       sku: 61207R
       adjustment: '+15.00'
       price: '$24.99'
+slides:
+left_column_html:
+right_column_html:
+warranty_left_column_html:
+warranty_right_column_html:
 ---
