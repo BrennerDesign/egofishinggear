@@ -98,7 +98,7 @@ filter_hoops:
   - large22
   - xlarge
 
-filter_meshs:
+filter_meshes:
   - nylon
   - rugger_coated_nylon
   - pvc_coated_nylon
