@@ -9,7 +9,7 @@ price: '9.99'
 price_range: $9.99 - $24.99
 sku: Test2Jeff
 show_as_crosssells: false
-tag_class:
+tag_color:
 tag_text:
 filter_handle: compact
 filter_hoop: medium

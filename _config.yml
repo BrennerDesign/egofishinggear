@@ -107,6 +107,9 @@ filter_mesh:
   - deep_rubber
   - measure_net
 
+tag_colors:
+  tag_new: Red
+
 
 _comments:
   highlight: Emphasis the text
