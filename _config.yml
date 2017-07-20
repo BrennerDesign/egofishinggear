@@ -86,6 +86,28 @@ social_icons:
   - YouTube
   - RSS
 
+filter_handle:
+  - compact
+  - standard
+  - reach
+
+filter_hoop:
+  - small
+  - medium
+  - large
+  - large22
+  - xlarge
+
+filter_mesh:
+  - nylon
+  - rugger_coated_nylon
+  - pvc_coated_nylon
+  - rubber
+  - clear_rubber
+  - deep_rubber
+  - measure_net
+
+
 _comments:
   highlight: Emphasis the text
   color: The background color used in the plan name and call to action.
