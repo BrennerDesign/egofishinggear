@@ -86,19 +86,19 @@ social_icons:
   - YouTube
   - RSS
 
-filter_handle:
+filter_handles:
   - compact
   - standard
   - reach
 
-filter_hoop:
+filter_hoops:
   - small
   - medium
   - large
   - large22
   - xlarge
 
-filter_mesh:
+filter_meshs:
   - nylon
   - rugger_coated_nylon
   - pvc_coated_nylon
