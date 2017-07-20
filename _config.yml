@@ -86,6 +86,11 @@ social_icons:
   - YouTube
   - RSS
 
+categories:
+  - ego-trout-nets
+  - s1-nets
+  - s2-nets
+
 filter_handles:
   - compact
   - standard
