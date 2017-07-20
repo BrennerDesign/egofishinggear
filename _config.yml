@@ -95,3 +95,6 @@ _comments:
   subheading: A sub heding for an item. Typically shown in smaller font below the main heading
   tag_class: "Define a color class.  Example, use tag_new for a red new tag"
   tag_text: "Example of New or On Sale"
+  filter_handle: "compact, standard, reach"
+  filter_hoop: "small, medium, large, large22, xlarge"
+  filter_mesh:  "nylon, rugger_coated_nylon,  pvc_coated_nylon, rubber, clear_rubber, deep_rubber, measure_net"
