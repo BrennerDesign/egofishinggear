@@ -223,7 +223,7 @@ layout: default
 
         <div class="product_specs cards">
 
-            {% assign myproducts = site.products | where: 'categories', page.category_filter %}
+            {% assign myproducts = site.products | where: 'categories', page.category_filter | sort: 'order_number' %}
 
 
             {% for product in myproducts %}

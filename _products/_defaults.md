@@ -1,6 +1,7 @@
 ---
 name:
 subheading:
+order_number: 1
 description:
 categories:
 price:

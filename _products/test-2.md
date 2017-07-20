@@ -1,10 +1,13 @@
 ---
 name: Cast Nets
 subheading: This is another test
+order_number: 2
 description:
 categories:
   - ego-trout-nets
   - s1-nets
+  - s2-nets
+  - Jeffs Test Products
 price: '9.99'
 price_range: $9.99 - $24.99
 sku: Test2Jeff

@@ -1,6 +1,7 @@
 ---
 name: Test Product
 subheading: This is another test
+order_number: 20
 categories:
   - ego-trout-nets
   - s1-nets
