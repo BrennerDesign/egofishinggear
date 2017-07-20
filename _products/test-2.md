@@ -33,6 +33,10 @@ options:
       adjustment: '+15.00'
       price: '$24.99'
 slides:
+    - title:
+      image:
+      video:
+      is_video: false
 left_column_html:
 right_column_html:
 warranty_left_column_html:
