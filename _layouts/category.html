@@ -45,10 +45,11 @@ layout: default
                         <div class="logo_img">
                             <img src="{{page.top_ad_image}}" alt="{{page.top_ad_product}}" />
                         </div>
-                    {% endif %}
-                    <h2>{{page.top_ad_heading}}</h2>
-                    {% if page.top_ad_heading_h3 and page.top_ad_heading_h3 != "" and page.top_ad_heading_h3 != nil %}
-                        <h3>{{page.top_ad_heading_h3}}</h3>
+
+                        <h2>{{page.top_ad_heading}}</h2>
+                        {% if page.top_ad_heading_h3 and page.top_ad_heading_h3 != "" and page.top_ad_heading_h3 != nil %}
+                            <h3>{{page.top_ad_heading_h3}}</h3>
+                        {% endif %}
                     {% endif %}
                     
                 </div>
