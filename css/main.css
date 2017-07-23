@@ -1991,6 +1991,9 @@ header.trout_net {
 .filter_block.replacement {
   background: #666666;
   border-top: 20px solid white; }
+  .filter_block.replacement .options {
+    padding: 12px 0 24px;
+    width: 380px; }
 
 .filter_block {
   width: 100%;
@@ -2046,6 +2049,30 @@ header.trout_net {
     z-index: 30; }
   .filter_block .selected_box.selected {
     display: block; }
+  .filter_block .filter_title.bags, .filter_block .filter_title.hoop, .filter_block .filter_title.parts {
+    background: none;
+    margin: 0 4px; }
+    .filter_block .filter_title.bags .selected_box, .filter_block .filter_title.hoop .selected_box, .filter_block .filter_title.parts .selected_box {
+      background: #666666;
+      display: block;
+      border-left: 1px solid white;
+      border-right: 1px solid white;
+      border-top: 1px solid white; }
+    .filter_block .filter_title.bags .selected_box.white, .filter_block .filter_title.hoop .selected_box.white, .filter_block .filter_title.parts .selected_box.white {
+      background: #666666;
+      border-left: 1px solid white;
+      border-right: 1px solid white;
+      border-top: 1px solid white; }
+    .filter_block .filter_title.bags .selected_box.white.selected, .filter_block .filter_title.hoop .selected_box.white.selected, .filter_block .filter_title.parts .selected_box.white.selected {
+      background: white; }
+    .filter_block .filter_title.bags .selected_box.selected, .filter_block .filter_title.hoop .selected_box.selected, .filter_block .filter_title.parts .selected_box.selected {
+      background: #f2f2f2;
+      color: #666666;
+      border-left: 1px solid #f2f2f2;
+      border-right: 1px solid #f2f2f2;
+      border-top: 1px solid #f2f2f2; }
+    .filter_block .filter_title.bags h6, .filter_block .filter_title.hoop h6, .filter_block .filter_title.parts h6 {
+      margin-top: 9px; }
 
 .filter_expand.expanded {
   display: block; }

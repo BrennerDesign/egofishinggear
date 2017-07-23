@@ -6,27 +6,51 @@ layout: default
     <img class="featured_prod" src="{{page.hero_image_desktop_image}}" alt="{{page.name}}" />
     <img class="featured_prod_img_mobile" src="{{page.hero_image_mobile_image}}" alt="{{page.name}}" />
 
-    <header class="featured_prod">
+    <header class="featured_prod {%if page.category_class != blank %} {{page.category_class}} {% endif %}">
         <div class="title_wrap">
             <div class="logo_img">
                 <img src="{{page.category_header_image}}" alt="{{page.title}}" />
             </div>
-            <h1>#1 Landing Net system on the planet!</h1>
-            <a href="{{page.header_video_url}}" class="play_btn">
-                <img src="/images/video_play.png" alt="Play Video" />
-            </a>
+            <h1>{{page.h1}}</h1>
+            {% if page.header_video_url and page.header_video_url != "" and page.header_video_url != nil %}
+                <a href="{{page.header_video_url}}" class="play_btn">
+                    <img src="/images/video_play.png" alt="Play Video" />
+                </a>
+            {% endif %}
         </div>
     </header>
 
     <div class="content_wrapper clearfix">
 
         <div class="product_ads">
-            <div class="ad_block top_ad">
+            <div class="ad_block top_ad  {%if page.category_class != blank %} {{page.category_class}} {% endif %}">
                 <div class="block_wrapper clearfix">
-                    <div class="logo_img">
-                        <img src="{{page.top_ad_image}}" alt="{{page.top_ad_product}}" />
-                    </div>
+
+                    {%if page.top_ad_background and page.top_ad_background != "" and page.top_ad_background != nil %}
+                        <img class="backgrnd" src="{{page.top_ad_background}}" alt="{{page.top_ad_product}}" />
+                        <img class="backgrnd_mobile" src="{{page.top_ad_background_mobile}}" alt="{{page.top_ad_product}}" />
+
+                        <div class="titles">
+                            <h2>{{page.top_ad_heading}}</h2>
+                            {% if page.top_ad_heading_h3 and page.top_ad_heading_h3 != "" and page.top_ad_heading_h3 != nil %}
+                                <h3>{{page.top_ad_heading_h3}}</h3>
+                            {% endif %}
+                        </div>
+
+                        <div class="logo_img">
+                            <img src="{{page.top_ad_image}}" alt="{{page.top_ad_product}}" />
+                        </div>
+
+                    {% else %}
+                        <div class="logo_img">
+                            <img src="{{page.top_ad_image}}" alt="{{page.top_ad_product}}" />
+                        </div>
+                    {% endif %}
                     <h2>{{page.top_ad_heading}}</h2>
+                    {% if page.top_ad_heading_h3 and page.top_ad_heading_h3 != "" and page.top_ad_heading_h3 != nil %}
+                        <h3>{{page.top_ad_heading_h3}}</h3>
+                    {% endif %}
+                    
                 </div>
             </div><!-- .ad_block.top_ad -->
 
