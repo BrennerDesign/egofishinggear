@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div class="page_content">
+    <img class="featured_prod" src="{{page.hero_image_desktop_image}}" alt="{{page.name}}" />
+    <img class="featured_prod_img_mobile" src="{{page.hero_image_mobile_image}}" alt="{{page.name}}" />
+
+    <header class="featured_prod {%if page.category_class != blank %} {{page.category_class}} {% endif %}">
+        <div class="title_wrap">
+            <div class="logo_img">
+                <img src="{{page.category_header_image}}" alt="{{page.title}}" />
+            </div>
+            <h1>{{page.h1}}</h1>
+            {% if page.header_video_url and page.header_video_url != "" and page.header_video_url != nil %}
+                <a href="{{page.header_video_url}}" class="play_btn">
+                    <img src="/images/video_play.png" alt="Play Video" />
+                </a>
+            {% endif %}
+        </div>
+    </header>
+
+    <div class="content_wrapper clearfix">
+
+        {{ content }}
+        
+
+        {% assign myproducts = site.products | where: 'categories', page.category_filter | sort: 'order_number' %}
+        {% include category-listing.html myproducts=myproducts %}
+
+        <div class="other_products clearfix">
+            {% for slide in site.data.products.bottom_products %}
+                <a href="{{slide.link}}" class="other_product">
+                    <img src="{{slide.image}}" alt="{{slide.name}}" />
+                    <div class="titles">
+                        <h2>{{slide.h2}}</h2>
+                        <h3>{{slide.h3}}</h3>
+                    </div>
+                </a>
+            {% endfor %}
+
+        </div><!-- .other_products -->
+    </div>
+
+    <div class="other_products clearfix">
+
