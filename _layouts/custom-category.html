@@ -8,14 +8,21 @@ layout: default
 
     <header class="featured_prod {%if page.category_class != blank %} {{page.category_class}} {% endif %}">
         <div class="title_wrap">
+            {% if page.logo_location != "after" %}
             <div class="logo_img">
                 <img src="{{page.category_header_image}}" alt="{{page.title}}" />
             </div>
+            {% endif %}
             <h1>{{page.h1}}</h1>
             {% if page.header_video_url and page.header_video_url != "" and page.header_video_url != nil %}
                 <a href="{{page.header_video_url}}" class="play_btn">
                     <img src="/images/video_play.png" alt="Play Video" />
                 </a>
+            {% endif %}
+            {% if page.logo_location == "after" %}
+            <div class="logo_img">
+                <img src="{{page.category_header_image}}" alt="{{page.title}}" />
+            </div>
             {% endif %}
         </div>
     </header>
@@ -42,5 +49,4 @@ layout: default
         </div><!-- .other_products -->
     </div>
 
-    <div class="other_products clearfix">
 

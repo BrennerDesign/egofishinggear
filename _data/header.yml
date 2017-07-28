@@ -10,7 +10,7 @@ header_links:
         - name: S2 Slider Nets
           link: /s2-slider-nets
         - name: S1 Genesis Kryptek Nets
-          link: /s1-slider-nets
+          link: /s1-genesis-kryptek-nets
         - name: S1 Genesis Nets
           link: /s1-genesis-nets
         - name: Ego Guide Nets
@@ -32,7 +32,7 @@ header_links:
         - name: Cast Nets
           link: /cast-nets
   bottom_link:
-    name: Replacement Parts ABC
+    name: Replacement Parts
     link: /replacement-parts
   ad:
     line_1: Flat $15.00 Shipping1
@@ -48,7 +48,7 @@ header_links:
   has_sub_menu: true
   has_hover_bar: true
   bottom_link:
-    name: Replacement Parts ABC
+    name: Replacement Parts
     link: /replacement-parts
   ad:
     line_1: Flat $15.00 Shipping1
@@ -100,7 +100,7 @@ header_links:
           link: /handles
           link_class: filter_title
         - name: S1 Genesis
-          link: /s1-genesis
+          link: /s1-genesis-handles
           link_class: filter_selector s1_gen
         - name: S1 Genesis Kryptek
           link: /s1-genesis-kryptek
@@ -117,7 +117,7 @@ header_links:
           link: /s1-s2-landing-nets
           link_class: filter_selector landing
   bottom_link:
-    name: Replacement Parts ABC
+    name: Replacement Parts
     link: /replacement-parts
   ad:
     line_1: Flat $15.00 Shipping1
