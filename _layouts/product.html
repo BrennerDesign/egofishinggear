@@ -111,28 +111,28 @@ layout: default
                         <div class="other_products_slider clearfix">
                             <h2>Other Products You May Like</h2>
                             <h3>Fill Your War Chest</h3>
-                        </div>
 
-                        <!-- loop -->
-                        {% assign cross_sell = site.products %}
+                            <!-- loop -->
+                            {% assign cross_sell = site.products %}
 
-                        {% for sell in cross_sell limit: 3 %}
-                            <div class="other_product">
-                                <img src="{{sell.slides[0].image}}" alt="{{sell.name}}" />
-                                <div class="titles">
-                                    <a href="{{sell.url}}">
-                                        <h3>{{sell.name}}</h3>
-                                    </a>
-                                    {% if sell.price_range %}
-                                        <h5>{{sell.price_range}}</h5>
-                                    {% else %}
-                                        <h5>${{sell.price}}</h5>
-                                    {% endif %}
+                            {% for sell in cross_sell limit: 3 %}
+                                <div class="other_product">
+                                    <img src="{{sell.slides[0].image}}" alt="{{sell.name}}" />
+                                    <div class="titles">
+                                        <a href="{{sell.url}}">
+                                            <h3>{{sell.name}}</h3>
+                                        </a>
+                                        {% if sell.price_range %}
+                                            <h5>{{sell.price_range}}</h5>
+                                        {% else %}
+                                            <h5>${{sell.price}}</h5>
+                                        {% endif %}
 
-                                    {% include snipcart-button.html product=sell text="Add to Cart" class="block_btn" %}
+                                        {% include snipcart-button.html product=sell text="Add to Cart" class="block_btn" %}
+                                    </div>
                                 </div>
-                            </div>
-                        {% endfor %}
+                            {% endfor %}
+                        </div>
 
                     </div>
                 </div><!-- .expand_item -->
