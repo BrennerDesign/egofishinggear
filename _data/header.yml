@@ -1,144 +1,140 @@
 header_links:
-- name: Fishing Nets
-  link: /fishing-nets
-  has_sub_menu: true
-  has_hover_bar: true
-  class: nets
-  subnav:
-    - column: Column 1
-      links:
-        - name: S2 Slider Nets
-          link: /s2-slider-nets
-        - name: S1 Genesis Kryptek Nets
-          link: /s1-genesis-kryptek-nets
-        - name: S1 Genesis Nets
-          link: /s1-genesis-nets
-        - name: Ego Guide Nets
-          link: /ego-guide-nets
-    - column: Column 2
-      links:
-        - name: Wade Kayak Nets
-          link: /wade-kayak-nets
-        - name: Trout Nets
-          link: /ego-trout-nets
-        - name: Reach Nets
-          link: /reach-nets
-        - name: Big Game Nets
-          link: /big-game-nets
-    - column: Column 3
-      links: 
-        - name: Bait Nets
-          link: /bait-nets
-        - name: Cast Nets
-          link: /cast-nets
-  bottom_link:
-    name: Replacement Parts
-    link: /replacement-parts
-  ad:
-    line_1: Flat $15.00 Shipping1
-    line_2: on U.S. Orders
-    line_3: Hawaii & Alaska Excluded
-  image_links:
-    - name: New S1 Genesis Kryptek Nets
-      link: /new-s1-genesis-kryptek-nets
-      image: /images/nav_net.jpg
-- name: Fishing Tools
-  link: /fishing-tools
-  class: tools
-  has_sub_menu: true
-  has_hover_bar: true
-  bottom_link:
-    name: Replacement Parts
-    link: /replacement-parts
-  ad:
-    line_1: Flat $15.00 Shipping1
-    line_2: on U.S. Orders
-    line_3: Hawaii & Alaska Excluded
-  image_links:
-    - name: Ego Kryptek Fishing Tools
-      link: /ego-kryptek-fishing-tools
-      image: /images/tools_nav_1.jpg
-      class: tools
-    - name: Ego Fishing Tools
-      link: /ego-fishing-tools
-      image: /images/tools_nav_2.jpg
-      class: tools
-- name: Accessories
-  link: /accessories
-  has_sub_menu: true
-  has_hover_bar: true
-  class: access
-  subnav:
-    - column: Column 1
-      links:
-        - name: Hoops
-          link: /hoops
-          link_class: filter_title
-        - name: Small
-          link: /small-hoops
-          link_class: filter_selector small
-        - name: Medium
-          link: /medium-hoops
-          link_class: filter_selector medium
-        - name: Large
-          link: /large-hoops
-          link_class: filter_selector large
-    - column: Column 2
-      links:
-        - name: Large 22 Inch
-          link: /large22-hoops
-          link_class: filter_selector large22
-        - name: XLarge
-          link: /xlarge-hoops
-          link_class: filter_selector xlarge
-        - name: Measure Net
-          link: /measure-net
-          link_class: filter_selector measure
-    - column: Column 3
-      links:
-        - name: Handles
-          link: /handles
-          link_class: filter_title
-        - name: S1 Genesis
-          link: /s1-genesis-handles
-          link_class: filter_selector s1_gen
-        - name: S1 Genesis Kryptek
-          link: /s1-genesis-kryptek
-          link_class: filter_selector s1_gen_krypyt
-        - name: S2 Slider
-          link: /s2_slider
-          link_class: filter_selector s2_slider
-    - column: Column 4
-      links:
-        - name: Attachment Tools
-          link: /attachment-tools
-          link_class: filter_title
-        - name: S1 & S2 Landing Nets
-          link: /s1-s2-landing-nets
-          link_class: filter_selector landing
-  bottom_link:
-    name: Replacement Parts
-    link: /replacement-parts
-  ad:
-    line_1: Flat $15.00 Shipping1
-    line_2: on U.S. Orders
-    line_3: Hawaii & Alaska Excluded
-  image_links:
-    - name: New S1 Genesis Kryptek Nets
-      link: /new-s1-genesis-kryptek-nets
-      image: /images/nav_net.jpg
-- name: Apparel
-  link: /apparel
-  has_sub_menu: false
-  has_hover_bar: true
-- name: Contact Us
-  link: /contact-us
-  has_sub_menu: false
-  has_hover_bar: true
+  - name: Fishing Nets
+    link: /fishing-nets
+    has_sub_menu: true
+    has_hover_bar: true
+    class: nets
+    subnav:
+      - column: Column 1
+        links:
+          - name: S2 Slider Nets
+            link: /s2-slider-nets
+          - name: S1 Genesis Kryptek Nets
+            link: /s1-genesis-kryptek-nets
+          - name: S1 Genesis Nets
+            link: /s1-genesis-nets
+          - name: Ego Guide Nets
+            link: /ego-guide-nets
+      - column: Column 2
+        links:
+          - name: Wade Kayak Nets
+            link: /wade-kayak-nets
+          - name: Trout Nets
+            link: /ego-trout-nets
+          - name: Reach Nets
+            link: /reach-nets
+          - name: Big Game Nets
+            link: /big-game-nets
+      - column: Column 3
+        links:
+          - name: Bait Nets
+            link: /bait-nets
+          - name: Cast Nets
+            link: /cast-nets
+    bottom_link:
+      name: Replacement Parts
+      link: /replacement-parts
+    ad:
+      line_1: Flat $15.00 Shipping1
+      line_2: on U.S. Orders
+      line_3: 'Hawaii & Alaska Excluded'
+    image_links:
+      - name: New S1 Genesis Kryptek Nets
+        link: /new-s1-genesis-kryptek-nets
+        image: /images/nav_net.jpg
+  - name: Fishing Tools
+    link: /fishing-tools
+    class: tools
+    has_sub_menu: true
+    has_hover_bar: true
+    bottom_link:
+      name: Replacement Parts
+      link: /replacement-parts
+    ad:
+      line_1: Flat $15.00 Shipping1
+      line_2: on U.S. Orders
+      line_3: 'Hawaii & Alaska Excluded'
+    image_links:
+      - name: Ego Kryptek Fishing Tools
+        link: /ego-kryptek-fishing-tools
+        image: /images/tools_nav_1.jpg
+        class: tools
+      - name: Ego Fishing Tools
+        link: /ego-fishing-tools
+        image: /images/tools_nav_2.jpg
+        class: tools
+  - name: Accessories
+    link: /accessories
+    has_sub_menu: true
+    has_hover_bar: true
+    class: access
+    subnav:
+      - column: Column 1
+        links:
+          - name: Hoops
+            link: /hoops
+            link_class: filter_title
+          - name: Small
+            link: /small-hoops
+            link_class: filter_selector small
+          - name: Medium
+            link: /medium-hoops
+            link_class: filter_selector medium
+          - name: Large
+            link: /large-hoops
+            link_class: filter_selector large
+      - column: Column 2
+        links:
+          - name: Large 22 Inch
+            link: /large22-hoops
+            link_class: filter_selector large22
+          - name: XLarge
+            link: /xlarge-hoops
+            link_class: filter_selector xlarge
+          - name: Measure Net
+            link: /measure-net
+            link_class: filter_selector measure
+      - column: Column 3
+        links:
+          - name: Handles
+            link: /handles
+            link_class: filter_title
+          - name: S1 Genesis
+            link: /s1-genesis-handles
+            link_class: filter_selector s1_gen
+          - name: S1 Genesis Kryptek
+            link: /s1-genesis-kryptek
+            link_class: filter_selector s1_gen_krypyt
+          - name: S2 Slider
+            link: /s2_slider
+            link_class: filter_selector s2_slider
+      - column: Column 4
+        links:
+          - name: Attachment Tools
+            link: /attachment-tools
+            link_class: filter_title
+          - name: 'S1 & S2 Landing Nets'
+            link: /s1-s2-landing-nets
+            link_class: filter_selector landing
+    bottom_link:
+      name: Replacement Parts
+      link: /replacement-parts
+    ad:
+      line_1: Flat $15.00 Shipping1
+      line_2: on U.S. Orders
+      line_3: 'Hawaii & Alaska Excluded'
+    image_links:
+      - name: New S1 Genesis Kryptek Nets
+        link: /new-s1-genesis-kryptek-nets
+        image: /images/nav_net.jpg
+  - name: Contact Us
+    link: /contact-us
+    has_sub_menu: false
+    has_hover_bar: true
 mobile_area:
   ad:
     line_1: Flat $15.00 Shipping1
     line_2: on U.S. Orders
-    line_3: Hawaii & Alaska Exclude
+    line_3: 'Hawaii & Alaska Exclude'
   link_text: Replacement Parts
   link: /replacement-parts
