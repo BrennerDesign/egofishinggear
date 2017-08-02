@@ -4,14 +4,13 @@ subheading: 'Standard 7.5"'
 order_number: 1
 description: Rugged Titanium Pliers for all your heavy dude fishing needs.  I deal for salt water use and comes with replaceable tungsten steel cutters.
 categories:
-  - ego-trout-nets
   - ego-tools
 price: '240.00'
 price_range:
 sku: '73014'
 show_as_crosssells: true
-tag_class:
-tag_text:
+tag_class: red
+tag_text: new
 filter_handle:
 filter_hoop:
 filter_mesh:
