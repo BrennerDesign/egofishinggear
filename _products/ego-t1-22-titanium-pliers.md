@@ -31,7 +31,7 @@ slides:
     image: /uploads/ego-ti22-img-3-1200x550.jpg
     video:
     is_video: false
-options_text: Choose Net Size
+options_text:
 options:
   - name:
     sku:
