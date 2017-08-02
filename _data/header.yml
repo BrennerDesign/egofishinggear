@@ -57,11 +57,11 @@ header_links:
     image_links:
       - name: Ego Kryptek Fishing Tools
         link: /ego-kryptek-fishing-tools
-        image: /images/tools_nav_1.jpg
+        image: /images/tools_nav_2.jpg
         class: tools
       - name: Ego Fishing Tools
         link: /ego-fishing-tools
-        image: /images/tools_nav_2.jpg
+        image: /images/tools_nav_1.jpg
         class: tools
   - name: Accessories
     link: /accessories
