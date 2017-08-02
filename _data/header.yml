@@ -40,7 +40,7 @@ header_links:
       line_3: 'Hawaii & Alaska Excluded'
     image_links:
       - name: New S1 Genesis Kryptek Nets
-        link: /new-s1-genesis-kryptek-nets
+        link: /s1-genesis-kryptek-nets
         image: /images/nav_net.jpg
   - name: Fishing Tools
     link: /fishing-tools
