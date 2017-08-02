@@ -8,7 +8,7 @@ categories:
   - ego-tools
 price: '240.00'
 price_range:
-sku: '#73014'
+sku: '73014'
 show_as_crosssells: true
 tag_class:
 tag_text:
