@@ -1,6 +1,6 @@
 header_links:
   - name: Fishing Nets
-    link: /fishing-nets
+    link: '/#'
     has_sub_menu: true
     has_hover_bar: true
     class: nets
@@ -43,7 +43,7 @@ header_links:
         link: /s1-genesis-kryptek-nets
         image: /images/nav_net.jpg
   - name: Fishing Tools
-    link: /fishing-tools
+    link: '/#'
     class: tools
     has_sub_menu: true
     has_hover_bar: true
