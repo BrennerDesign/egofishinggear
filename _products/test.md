@@ -9,7 +9,7 @@ categories:
 price: 209
 sku: ABC-123
 show_as_crosssells: true
-tag_color:
+tag_color: new_tag
 tag_text:
 filter_handle: compact
 filter_hoop: medium
