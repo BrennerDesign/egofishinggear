@@ -32,6 +32,12 @@ collections:
   products:
     _hide_content: true
     output: true
+  apparel:
+    _hide_content: true
+    output: true
+  replacements:
+    _hide_content: true
+    output: true
 
 permalink: pretty
 
