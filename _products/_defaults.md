@@ -8,7 +8,7 @@ price:
 price_range:
 sku:
 show_as_crosssells: false
-tag_class:
+tag_color:
 tag_text:
 filter_handle: compact
 filter_hoop: medium

@@ -129,7 +129,7 @@ filter_meshes:
   - measure_net
 
 tag_colors:
-  tag_new: Red
+  new_tag: Red
 
 
 _comments:

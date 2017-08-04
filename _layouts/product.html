@@ -113,7 +113,7 @@ layout: default
                             <h3>Fill Your War Chest</h3>
 
                             <!-- loop -->
-                            {% assign cross_sell = site.products | where: 'show_as_crosssells', true %}
+                            {% assign cross_sell = site.products | where: 'show_as_crosssells', true  %}
 
                             {% for sell in cross_sell limit: 3 %}
                                 <div class="other_product">

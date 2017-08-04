@@ -11,7 +11,7 @@ price: '240.00'
 price_range:
 sku: '73014'
 show_as_crosssells: false
-tag_color: tag_new
+tag_color: new_tag
 tag_text: new
 filter_handle:
 filter_hoop:
