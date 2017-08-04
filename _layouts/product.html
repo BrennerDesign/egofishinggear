@@ -194,7 +194,7 @@ layout: default
             $('#option-selector').change(function(e) {
                 var selected = $(this).find(':selected');
                 var form = $(this).closest('form');
-                form.find('.snipcart-add-item').attr('data-item-custom1-value', selected.data('name'));
+                form.find('.snipcart-add-item').data('item-custom1-value', selected.data('name'));
             });
         }
     })

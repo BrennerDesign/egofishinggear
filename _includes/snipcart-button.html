@@ -20,7 +20,7 @@
     data-item-id="{{ include.product.sku }}"
     data-item-image="{{ include.product.slides.first.image }}"
     data-item-description="{{ include.product.description }}"
-    {% if include.product.options %}
+    {% if include.product.options and include.product.options.size > 0 and include.product.options[0].name and include.product.options[0].name != blank %}
         data-item-custom1-name="Option"
         data-item-custom1-options="{{ myoptions }}"
         data-item-custom1-value="{{ include.product.options[0].name }}"
