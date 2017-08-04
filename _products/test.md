@@ -10,7 +10,7 @@ price: 209
 sku: ABC-123
 show_as_crosssells: true
 tag_color: new_tag
-tag_text:
+tag_text: Hello
 filter_handle: compact
 filter_hoop: medium
 filter_mesh: rubber
