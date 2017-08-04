@@ -35,7 +35,7 @@ layout: default
 
             
             <form class="product_cart {% if page.options != '' and page.options.size > 0 %} size {% endif %}">
-                {% if page.options != '' and page.options.size > 0 %}
+                {% if page.options != '' and page.options.size > 0 and page.options[0].name and page.options[0].name != blank %}
                     <div class="size_select not_selected">
                         <select id="option-selector">
                             <option disabled selected>{{page.options_text}}</option>
