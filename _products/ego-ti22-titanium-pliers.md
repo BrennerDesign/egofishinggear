@@ -3,8 +3,8 @@ name: EGO Ti22 Titanium Pliers
 subheading: Standard 7.5"
 order_number: 1
 description: >-
-  Rugged Titanium Pliers for all your heavy dude fishing needs.  I deal for salt
-  water use and comes with replaceable tungsten steel cutters.
+  Rugged Titanium Pliers for all your heavy dude fishing needs.  Prefect for
+  salt water use and comes with replaceable tungsten steel cutters.
 categories:
   - ego-tools
 price: '240.00'
