@@ -10,7 +10,7 @@ categories:
 price: '240.00'
 price_range:
 sku: '73014'
-show_as_crosssells: true
+show_as_crosssells: false
 tag_color: new_tag
 tag_text: New This Year
 filter_handle:
