@@ -12,7 +12,7 @@ price_range:
 sku: '73014'
 show_as_crosssells: false
 tag_color: new_tag
-tag_text: new
+tag_text: Bass Angler Preferred
 filter_handle:
 filter_hoop:
 filter_mesh:
