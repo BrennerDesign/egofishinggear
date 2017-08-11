@@ -38,6 +38,9 @@ collections:
   replacements:
     _hide_content: true
     output: true
+  footer_products:
+    _hide_content: true
+    output: false
 
 permalink: pretty
 
