@@ -2,7 +2,7 @@
 name: EGO S2 Slider Compact
 subheading: Medium Measure Net  29"—60" Handle
 order_number: 2
-description:
+description: Great Fishing
 categories:
   - s2-nets
 price: 299.99
