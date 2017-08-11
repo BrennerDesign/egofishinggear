@@ -1,6 +1,6 @@
 ---
 name: EGO S2 Slider Compact
-subheading: Medium Measure Net—29in—60in Handle
+subheading: Medium Measure Net  29"—60" Handle
 order_number: 2
 description:
 categories:
