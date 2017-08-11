@@ -128,7 +128,7 @@ header_links:
         link: /s1-genesis-kryptek-nets
         image: /images/nav_net.jpg
   - name: Apparel
-    link: /ego-appare
+    link: /ego-apparel
     has_sub_menu: false
     has_hover_bar: true
   - name: Contact Us
