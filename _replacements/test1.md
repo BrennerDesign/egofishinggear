@@ -20,6 +20,6 @@ slides:
   - title: Net
     image: /images/net_image2.jpg
 repalcement_text: Replacement Instructions
-replacement_link: 
-replacement_video: 
+replacement_link:
+replacement_video: 'https://youtu.be/Be9FjxQFtzE'
 ---
