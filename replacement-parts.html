@@ -93,8 +93,84 @@ custom_header_html: '<header class="replacement_parts shorter">
 
 </div><!-- .filter_expand -->
 
-
-
-
-
 </form>
+
+
+{% assign myproducts = site.products | sort: 'order_number' %}
+<div class="product_specs cards replacement">
+
+    {% for product in myproducts %}
+        <h3>EGO Medium Guide Mesh Bag</h3>
+        <h4>Replacement for all EGO medium hoops</h4>
+
+        <div class="new_tag">New</div>
+
+
+        <div class="replacement_slider flexslider clearfix" id="replacement_slider_1">
+
+            <ul class="slides">
+
+                <li class="ad_slide">
+
+                    <img class="thb_img" src="images/replacement_thumb1.jpg" alt="EGO Medium Guide Mesh Bag" />
+
+                </li>
+
+                <li class="ad_slide">
+
+                    <img class="thb_img" src="images/replacement_thumb2.jpg" alt="EGO Medium Guide Mesh Bag" />
+
+                </li>
+
+                <li class="ad_slide">
+
+                    <img class="thb_img" src="images/replacement_thumb1.jpg" alt="EGO Medium Guide Mesh Bag" />
+
+                </li>
+
+                <li class="ad_slide">
+
+                    <img class="thb_img" src="images/replacement_thumb2.jpg" alt="EGO Medium Guide Mesh Bag" />
+
+                </li>
+
+            </ul>
+
+            
+        </div><!-- .replacement_slider.flexslider -->
+
+
+
+        <div class="top clearfix">
+            <h5 class="price">$109.99</h5>
+
+            <a href="#" class="cart_icon"></a>
+
+            <a class="specs" href="#">
+                <label>Replacement Instructions</label>
+            </a>
+        </div>
+
+        <div class="bottom clearfix">
+            <h6>Item #72014</h6>
+        </div>
+    {% endfor %}
+
+    <!-- <a href="#" class="block_btn">Load More Nets</a> -->
+    <div class="clearfix"></div>
+
+</div><!-- .product_specs -->
+
+
+<div class="other_products clearfix">
+    {% for slide in site.data.products.bottom_products %}
+        <a href="{{slide.link}}" class="other_product">
+            <img src="{{slide.image}}" alt="{{slide.name}}" />
+            <div class="titles">
+                <h2>{{slide.h2}}</h2>
+                <h3>{{slide.h3}}</h3>
+            </div>
+        </a>
+    {% endfor %}
+
+</div><!-- .other_products -->
