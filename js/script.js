@@ -40,6 +40,26 @@ $(document).ready(function() {
 		slideshow: false,
 		animationSpeed: 800
 	});
+
+
+
+
+
+	// video popup initialization
+	$('.play_btn').magnificPopup({
+	  	type: 'iframe',
+	  	// other options
+		iframe: {
+			patterns: {
+				youtube: {
+				  	index: 'youtube.com/',
+				  	id: 'v=',
+				  	src: 'h%id%?autoplay=1' // URL that will be set as a source for iframe.
+				}
+			},
+		    srcAction: 'iframe_src',
+		}
+	});
 	
 
 	
@@ -271,7 +291,9 @@ $(document).ready(function() {
 	// trout net page header image margin
 	if (doc_width < 2000) {
 		var troutHeaderMarg = ((2000 - doc_width) / 2) * -1;
+		var aboutHeaderMarg = ((2000 - doc_width) / 2) * -1;
 		$('img.header_bgd_img').css('left', troutHeaderMarg);
+		$('img.header_bgd_img.about').css('left', aboutHeaderMarg);
 	}
 
 	// featured product page header image margin
@@ -285,11 +307,13 @@ $(document).ready(function() {
 	}
 
 	// s1 slider ad block image margin
-	var s1imgMarg = ((1062 - doc_width) / 2) * -1;
-	if (doc_width < 980) {
-		s1imgMarg = ((1062 - doc_width) / 2) * -1;
+	var s1imgMarg = ((1200 - 1160) / 2) * -1;
+	if (doc_width < 1160) {
+		s1imgMarg = ((1200 - doc_width) / 2) * -1;
 		$('img.backgrnd').css('left', s1imgMarg);
 		$('.product_ads.kryptek .ad_block.awards_block img.background').css('left', s1imgMarg);
+	} else {
+		$('img.backgrnd').css('left', s1imgMarg);
 	}
 
 
@@ -301,7 +325,9 @@ $(document).ready(function() {
 		if ($('.product_ads').hasClass('kryptek')) {
 
 		} else {
-			$('.ad_block.text_ad').css('height', txtadHeight);
+			if (txtadHeight > 0) {
+				$('.ad_block.text_ad').css('height', txtadHeight);
+			}
 		}
 	}
 
@@ -311,7 +337,9 @@ $(document).ready(function() {
 	// height for featured product ad blocks
 	var adHeight = $('.ad_block.awards_block').height();
 	if (doc_width > 680) {
-		$('.ad_block.spec_block').css('height', adHeight);
+		if (adHeight > 0) {
+			$('.ad_block.text_ad').css('height', adHeight);
+		}
 	}
 
 
@@ -464,13 +492,13 @@ $(document).ready(function() {
 
 
 		// s1 slider ad block image margin
-		if (doc_width < 980) {
-			s1imgMarg = ((1062 - doc_width) / 2) * -1;
+		var s1imgMarg = ((1200 - 1160) / 2) * -1;
+		if (doc_width < 1160) {
+			s1imgMarg = ((1200 - doc_width) / 2) * -1;
 			$('img.backgrnd').css('left', s1imgMarg);
 			$('.product_ads.kryptek .ad_block.awards_block img.background').css('left', s1imgMarg);
 		} else {
-			$('img.backgrnd').css('left', '0');
-			$('.product_ads.kryptek .ad_block.awards_block img.background').css('left', '0');
+			$('img.backgrnd').css('left', s1imgMarg);
 		}
 
 
@@ -482,7 +510,9 @@ $(document).ready(function() {
 			if ($('.product_ads').hasClass('kryptek')) {
 
 			} else {
-				$('.ad_block.text_ad').css('height', txtadHeight);
+				if (txtadHeight > 0) {
+					$('.ad_block.text_ad').css('height', txtadHeight);
+				}
 			}
 		} else {
 			$('.ad_block.text_ad').css('height', 'auto');
@@ -494,7 +524,9 @@ $(document).ready(function() {
 		// height for featured product ad blocks
 		var adHeight = $('.ad_block.awards_block').height();
 		if (doc_width > 680) {
-			$('.ad_block.spec_block').css('height', adHeight);
+			if (adHeight > 0) {
+				$('.ad_block.text_ad').css('height', adHeight);
+			}
 		} else {
 			$('.ad_block.spec_block').css('height', 'auto');
 		}
