@@ -389,7 +389,7 @@ h6 {
 			border-bottom: 2px solid $light-grey2;
 		}
 		> a {
-			padding: 0 14px 11px;
+			padding: 0 14px 14px;
 			margin-bottom: 0;
 			@media (max-width: 1160px) {
 				padding: 0 1px 6px;
@@ -2826,6 +2826,17 @@ header.trout_net {
 	padding-top: 90px;
 	clear: both;
 	border-top: none;
+	.add-to-cart-trigger-btn {
+		border: 0;
+		background: transparent;
+		float: left;
+		cursor: pointer;
+			&:hover,
+			&:active,
+			&:focus {
+			outline:0;
+		}
+	}
 	.product_card {
 		width: 43.95%;
 		float: left;

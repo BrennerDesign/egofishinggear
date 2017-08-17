@@ -2442,6 +2442,13 @@ header.trout_net {
   padding-top: 90px;
   clear: both;
   border-top: none; }
+  .product_specs.cards .add-to-cart-trigger-btn {
+    border: 0;
+    background: transparent;
+    float: left;
+    cursor: pointer; }
+    .product_specs.cards .add-to-cart-trigger-btn:hover, .product_specs.cards .add-to-cart-trigger-btn:active, .product_specs.cards .add-to-cart-trigger-btn:focus {
+      outline: 0; }
   .product_specs.cards .product_card {
     width: 43.95%;
     float: left;
