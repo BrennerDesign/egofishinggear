@@ -13,7 +13,9 @@ layout: default
                     <li class="product_slide">
                         <img src="{{ slide.image }}" alt="{{ slide.title }}" />
                         {% if slide.is_video == true %}
-                            <a href="{{slide.video}}" target="_blank"  class="product_video"></a>
+                            <a href="{{slide.video}}" target="_blank"  class="play_btn">
+                                <img src="/images/video_play.png" alt="Play Video" />
+                            </a>
                         {% endif %}
                     </li>
                 {% endfor %}
@@ -97,7 +99,7 @@ layout: default
 
 
                 <div class="expand_item">
-                    <a href="#" class="product_expander"><h3>Technical Specs</h3><div class="icon"></div></a>
+                    <a href="#" class="product_expander expanded"><h3>Technical Specs</h3><div class="icon"></div></a>
                     <div class="expander_info clearfix">
 
                         <div class="left_column">

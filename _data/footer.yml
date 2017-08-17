@@ -2,29 +2,29 @@ footer_links:
 - title: Left Links
   links:
     - name: Customer Service
-      link: /customer-service
+      link: /customer-service/
       highlight: true
     - name: Contact Us
-      link: /contact-us
+      link: /contact-us/
     - name: FAQS
-      link: /faq
+      link: /faq/
     - name: Replacement Parts
-      link: /replacement-parts
+      link: /replacement-parts/
     - name: Warranty Center
-      link: /warranty-center
+      link: /warranty/
 - title: Right Links
   links:
     - name: Ego Fishing Gear
-      link: /ego-fishing-gear
+      link: /ego-fishing-gear/
       highlight: true
     - name: About Us
-      link: /about-us
+      link: /about-us/
     - name: News
-      link: /news
+      link: /news/
     - name: Media Library
-      link: /media-library
+      link: /media-library/
     - name: Privacy Policy
-      link: /privacy-policy
+      link: /privacy-policy/
 
 footer_ad_line_1: Flat $15.00 Shipping
 footer_ad_line_2: on U.S. Orders

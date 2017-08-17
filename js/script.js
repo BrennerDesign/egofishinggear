@@ -140,33 +140,6 @@ $(document).ready(function() {
 	});
 
 
-	$('.filter_title.hoop, .filter_title.parts').click(function(e) {
-		e.preventDefault();
-		if ($(this).find('.selected_box').hasClass("selected")) {
-
-		} else {
-			$('.filter_expand.expanded').slideUp(200, function() {
-			    $(this).removeClass("expanded");
-			})
-			$('.selected_box.selected').removeClass("selected");
-			$(this).find('.selected_box').delay(10).addClass("selected");
-		}
-	});
-
-	$('.filter_title.bags').click(function(e) {
-		e.preventDefault();
-		if ($(this).find('.selected_box').hasClass("selected")) {
-
-		} else {
-			$('.filter_expand.bags').slideDown(200, function() {
-		      	$(this).addClass("expanded");
-			})
-			$('.selected_box.selected').removeClass("selected");
-			$(this).find('.selected_box').delay(10).addClass("selected");
-		}
-	});
-
-
 	$('.filter_title.size').click(function(e) {
 		e.preventDefault();
 		if ($(this).find('.selected_box').hasClass("selected")) {
@@ -218,47 +191,405 @@ $(document).ready(function() {
 	});
 
 
+	$('.filter_title.hoop').click(function(e) {
+		e.preventDefault();
+		if ($(this).find('.selected_box').hasClass("selected")) {
 
-	// if filter option is selected
+		} else {
+			$('.product_specs.cards .product_card.bags, .product_specs.cards .product_card.parts').fadeOut();
+        	$('.product_specs.cards .product_card.hoop').fadeIn();
+			$('.filter_expand.expanded').slideUp(200, function() {
+			    $(this).removeClass("expanded");
+			})
+			$('.selected_box.selected').removeClass("selected");
+			$(this).find('.selected_box').delay(10).addClass("selected");
+		}
+	});
+
+	$('.filter_title.parts').click(function(e) {
+		e.preventDefault();
+		if ($(this).find('.selected_box').hasClass("selected")) {
+
+		} else {
+			$('.product_specs.cards .product_card.hoop, .product_specs.cards .product_card.bags').fadeOut();
+        	$('.product_specs.cards .product_card.parts').fadeIn();
+			$('.filter_expand.expanded').slideUp(200, function() {
+			    $(this).removeClass("expanded");
+			})
+			$('.selected_box.selected').removeClass("selected");
+			$(this).find('.selected_box').delay(10).addClass("selected");
+		}
+	});
+
+	$('.filter_title.bags').click(function(e) {
+		e.preventDefault();
+		if ($(this).find('.selected_box').hasClass("selected")) {
+
+		} else {
+			$('.product_specs.cards .product_card.hoop, .product_specs.cards .product_card.parts').fadeOut();
+        	$('.product_specs.cards .product_card.bags').fadeIn();
+			$('.filter_expand.bags').slideDown(200, function() {
+		      	$(this).addClass("expanded");
+			})
+			$('.selected_box.selected').removeClass("selected");
+			$(this).find('.selected_box').delay(10).addClass("selected");
+		}
+	});
+
+	$('.product_specs.cards .product_card.hoop, .product_specs.cards .product_card.parts').fadeOut();
+
+
+
+
+
+
+	// click filter buttons
+	$('.filter_expand input').click(function() {
+		if ($(this).parent().parent().parent().hasClass("checked")) {
+
+		} else {
+			$(this).parent().parent().parent().addClass("checked");
+			$('.product_specs.cards .product_card').fadeOut();
+		}
+	});
+
+
+
+
+
+
+	// if filter option is selected - size
 	if ($('.filter_expand input#compact_opt').is(':checked')) {
-		$('.product_specs.cards .product_card').fadeOut();
 		$('.product_specs.cards .product_card.compact').fadeIn();
 	}
 
 	if ($('.filter_expand input#standard_opt').is(':checked')) {
-		$('.product_specs.cards .product_card').fadeOut();
 		$('.product_specs.cards .product_card.standard').fadeIn();
 	}
 
 	if ($('.filter_expand input#reach_opt').is(':checked')) {
-		$('.product_specs.cards .product_card').fadeOut();
 		$('.product_specs.cards .product_card.reach').fadeIn();
 	}
-	// if filter option is clicked on
+
+
+
+	if ($('.filter_expand input#wade_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.wade').fadeIn();
+	}
+
+	if ($('.filter_expand input#sml_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.sml').fadeIn();
+	}
+
+	if ($('.filter_expand input#med_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.med').fadeIn();
+	}
+	if ($('.filter_expand input#lrg_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.lrg').fadeIn();
+	}
+
+	if ($('.filter_expand input#xlong_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.xlong').fadeIn();
+	}
+
+
+
+
+
+	// if filter option is selected - length
+	if ($('.filter_expand input#small_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.small').fadeIn();
+	}
+
+	if ($('.filter_expand input#medium_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.medium').fadeIn();
+	}
+
+	if ($('.filter_expand input#large_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.large').fadeIn();
+	}
+
+	if ($('.filter_expand input#large_opt22').is(':checked')) {
+		$('.product_specs.cards .product_card.large22').fadeIn();
+	}
+
+	if ($('.filter_expand input#xlarge_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.xlarge').fadeIn();
+	}
+
+
+
+
+	// if filter option is selected - type
+	if ($('.filter_expand input#nylon_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.nylon').fadeIn();
+	}
+
+	if ($('.filter_expand input#rubber_coated_nylon_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.rubber_coated_nylon').fadeIn();
+	}
+
+	if ($('.filter_expand input#pvc_coated_nylon_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.pvc_coated_nylon').fadeIn();
+	}
+
+	if ($('.filter_expand input#rubber_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.rubber').fadeIn();
+	}
+
+	if ($('.filter_expand input#clear_rubber_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.clear_rubber').fadeIn();
+	}
+
+	if ($('.filter_expand input#deep_rubber_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.deep_rubber').fadeIn();
+	}
+
+	if ($('.filter_expand input#measure_net_opt').is(':checked')) {
+		$('.product_specs.cards .product_card.measure_net').fadeIn();
+	}
+
+
+
+
+
+	// if filter option is clicked on - length
 	$('.filter_expand input#compact_opt').click(function() {
 		if ($(this).is(':checked')) {
-			$('.product_specs.cards .product_card').fadeOut();
 			$('.product_specs.cards .product_card.compact').fadeIn();
 		} else {
-			$('.product_specs.cards .product_card').fadeIn();
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.compact').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
 		}
 	});
 	$('.filter_expand input#standard_opt').click(function() {
 		if ($(this).is(':checked')) {
-			$('.product_specs.cards .product_card').fadeOut();
 			$('.product_specs.cards .product_card.standard').fadeIn();
 		} else {
-			$('.product_specs.cards .product_card').fadeIn();
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.standard').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
 		}
 	});
 	$('.filter_expand input#reach_opt').click(function() {
 		if ($(this).is(':checked')) {
-			$('.product_specs.cards .product_card').fadeOut();
 			$('.product_specs.cards .product_card.reach').fadeIn();
 		} else {
-			$('.product_specs.cards .product_card').fadeIn();
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.reach').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
 		}
 	});
+
+
+	$('.filter_expand input#wade_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.wade').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.wade').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#sml_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.sml').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.sml').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#med_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.med').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.med').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#lrg_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.lrg').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.lrg').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#xlong_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.xlong').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.xlong').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+
+
+
+
+	// if filter option is clicked on - size
+	$('.filter_expand input#small_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.small').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.small').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#medium_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.medium').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.medium').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#large_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.large').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.large').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#large_opt22').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.large22').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.large22').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#xlarge_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.xlarge').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.xlarge').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+
+
+
+
+
+	// if filter option is clicked on - size
+	$('.filter_expand input#nylon_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.nylon').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.nylon').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#rubber_coated_nylon_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.rubber_coated_nylon').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.rubber_coated_nylon').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#pvc_coated_nylon_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.pvc_coated_nylon').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.pvc_coated_nylon').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#rubber_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.rubber').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.rubber').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#clear_rubber_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.clear_rubber').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.clear_rubber').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#deep_rubber_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.deep_rubber').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.deep_rubber').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+	$('.filter_expand input#measure_net_opt').click(function() {
+		if ($(this).is(':checked')) {
+			$('.product_specs.cards .product_card.measure_net').fadeIn();
+		} else {
+			if ($('.filter_expand input[type=checkbox]').is(':checked')) {
+				$('.product_specs.cards .product_card.measure_net').fadeOut();
+			} else {
+				$('.product_specs.cards .product_card').fadeIn();
+			}
+		}
+	});
+
+
+
 
 
 
@@ -347,15 +678,17 @@ $(document).ready(function() {
 	// subnav submenu button clicks
 	$('.top_nav_bar a.has_sub_menu').click(function(e) {
 		e.preventDefault();
-		if ($(this).hasClass('expanded')) {
-			$(this).removeClass('expanded');
-			$(this).next().css('display', 'none');
-			$('.top_nav_bar .sub_nav_link').css('display', 'block').css('border-bottom', '2px solid #c4c4c4');
-		} else {
-			$(this).addClass('expanded');
-			$('.top_nav_bar .sub_nav_link').css('display', 'none').css('border-bottom', 'none');
-			$(this).parent().css('display', 'block');
-			$(this).next().css('display', 'block');
+		if (doc_width < 980) {
+			if ($(this).hasClass('expanded')) {
+				$(this).removeClass('expanded');
+				$(this).next().css('display', 'none');
+				$('.top_nav_bar .sub_nav_link').css('display', 'block').css('border-bottom', '2px solid #c4c4c4');
+			} else {
+				$(this).addClass('expanded');
+				$('.top_nav_bar .sub_nav_link').css('display', 'none').css('border-bottom', 'none');
+				$(this).parent().css('display', 'block');
+				$(this).next().css('display', 'block');
+			}
 		}
 	});
 

@@ -353,7 +353,7 @@ h6 {
 	}
 	ul {
 		float: left;
-		margin: 46px 0 -2px 96px;
+		margin: 46px 0 -2px 66px;
 		@media (max-width: 1160px) {
 			margin-left: 48px;
 		}
@@ -389,7 +389,8 @@ h6 {
 			border-bottom: 2px solid $light-grey2;
 		}
 		> a {
-			padding: 0 14px 6px;
+			padding: 0 14px 11px;
+			margin-bottom: 0;
 			@media (max-width: 1160px) {
 				padding: 0 1px 6px;
 			}
@@ -397,6 +398,9 @@ h6 {
 				padding: 17px 0 11px 8%;
 			}
 		}
+	}
+	li.sub_nav_link:first-of-type > a {
+		padding-left: 30px;
 	}
 	a {
 		color: white;
@@ -3455,16 +3459,18 @@ img.mfp-img {
 	.product_slide {
 		position: relative;
 	}
-	.product_video {
+	.play_btn {
 		position: absolute;
-		top: 0;
-		left: 0;
-		right: 0;
-		bottom: 0;
-		background: url(../images/play_btn.png) no-repeat center center, rgba(0,0,0,0.4);
-		background-size: 70px 70px;
-		@media (max-width: 980px) {
-			background-size: 50px 50px;
+		left: 50%;
+		margin-left: -36px;
+		top: 50%;
+		margin-top: -36px;
+		width: 72px;
+		height: 72px;
+		display: block;
+		img {
+			width: 100%;
+			height: auto;
 		}
 	}
 }
