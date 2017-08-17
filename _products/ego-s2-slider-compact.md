@@ -10,9 +10,9 @@ sku: 72014
 show_as_crosssells: false
 tag_color: new_tag
 tag_text: New
-filter_handle: reach
-filter_hoop: medium
-filter_mesh: rubber
+filter_handle: handle_standard
+filter_hoop: hoop_medium
+filter_mesh: mesh_rubber
 slides:
   - title: Net
     image: /images/net_image1.jpg

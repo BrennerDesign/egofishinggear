@@ -11,7 +11,7 @@ layout: default
         
 
         {% assign myproducts = site.products | where: 'categories', page.category_filter | sort: 'order_number' %}
-        {% include category-listing.html myproducts=myproducts %}
+        {% include category-listing.html myproducts=myproducts product_specs_class=page.product_specs_class %}
 
         {% include other-products.html %}
     </div>

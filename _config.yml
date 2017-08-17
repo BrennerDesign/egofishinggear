@@ -111,25 +111,31 @@ categories:
 
 
 filter_handles:
-  - compact
-  - standard
-  - reach
+  handle_wade: Wade 6"
+  handle_small: Small 13"
+  handle_compact: Compact 18" - 36"
+  handle_medium: Medium 25"
+  handle_standard: Standard 29" - 60"
+  handle_large: Large 31"
+  handle_reach: Reach 48" - 108"
+  handle_xlong: Extra Long 55"
+
 
 filter_hoops:
-  - small
-  - medium
-  - large
-  - large22
-  - xlarge
+  hoop_small: Small 14" x 16"
+  hoop_medium: Medium 17" x 19"
+  hoop_large: Large 19" x 21"
+  hoop_large22: Large 22" x 23"
+  hoop_xlarge: X-Large 24" x 27"
 
 filter_meshes:
-  - nylon
-  - rugger_coated_nylon
-  - pvc_coated_nylon
-  - rubber
-  - clear_rubber
-  - deep_rubber
-  - measure_net
+  mesh_nylon: Nylon
+  mesh_ruber_coated_nylon: Ruber Coated Nylon
+  mesh_pvc_coated_nylon: PVC Coated Nylon
+  mesh_rubber: Rubber
+  mesh_clear_rubber: Clear Rubber
+  mesh_deep_rubber: Deep Rubber
+  mesh_measure_net: Measure Net
 
 tag_colors:
   new_tag: Red

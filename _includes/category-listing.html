@@ -1,5 +1,5 @@
 
-<div class="product_specs cards">
+<div class="product_specs cards {{product_specs_class}}">
 
     {% for product in myproducts %}
         <a class="product_card {{product.filter_handle}} {{product.filter_hoop}} {{product.filter_mesh}}" href="{{product.url}}">
