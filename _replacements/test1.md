@@ -6,6 +6,7 @@ price: '149.00'
 sku: RPC-1
 tag_color: new_tag
 tag_text: Newish
+replacement_type: bags
 filter_handle:
 filter_hoop:
 filter_mesh:

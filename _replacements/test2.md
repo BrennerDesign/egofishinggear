@@ -1,11 +1,12 @@
 ---
-name: Test Replacement Part
+name: Test Replacement Part 2 Hoop
 subheading: Available in Multiple Sizes
 order_number: 2
 price: '149.00'
 sku: RPC-1
 tag_color: new_tag
 tag_text: Newish
+replacement_type: hoop
 filter_handle:
 filter_hoop:
 filter_mesh:

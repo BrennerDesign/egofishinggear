@@ -109,6 +109,10 @@ categories:
   - wade-kayak-nets
   - replacement-parts
 
+replacement_types:
+  bags: Mesh Bags
+  hoop: Hoop
+  other: Other Parts
 
 filter_handles:
   handle_wade: Wade 6"

@@ -101,11 +101,103 @@ custom_header_html: '<header class="replacement_parts shorter">
         </form>
 
 
-        {% assign myproducts = site.replacements | sort: 'order_number' %}
+        {% assign myproducts = site.replacements | where: 'replacement_type', 'bags' | sort: 'order_number' %}
+        {% assign myhoops = site.replacements | where: 'replacement_type', 'hoop' | sort: 'order_number' %}
+        {% assign myother = site.replacements | where: 'replacement_type', 'other' | sort: 'order_number' %}
         <div class="product_specs cards replacement">
 
             {% for product in myproducts %}
-                <div class="product_card standard">
+                <div class="product_card bags {{product.filter_mesh}}">
+                    <h3>{{product.name}}</h3>
+                    <h4>{{product.subheading}}</h4>
+
+                    {% if product.tag_text and product.tag_text != blank %}
+                        <div class="{{ product.tag_color }}">{{ product.tag_text }}</div>
+                    {% endif %}
+
+                    <div class="replacement_slider flexslider clearfix" id="replacement_slider_{{forloop.index}}">
+
+                        <ul class="slides">
+
+                            {% for slide in product.slides %}
+                                <li class="ad_slide">
+                                    <img class="thb_img" src="{{ slide.image }}" alt="{{ slide.title }}" />
+                                </li>
+                            {% endfor %}
+
+                        </ul>
+
+                        
+                    </div><!-- .replacement_slider.flexslider -->
+
+
+
+                    <div class="top clearfix">
+                        <h5 class="price">${{product.price}}</h5>
+
+                        {% include snipcart-button.html product=product text="<div class='cart_icon'></div>" %}
+
+                        <a class="specs {% if product.replacement_video and product.replacement_video != blank %} play_btn {% endif %}" 
+                            {% if product.replacement_video and product.replacement_video != blank %} href="{{product.replacement_video}}" {% else %}
+                            href="{{product.replacement_link}}" {% endif %}
+                        >
+                            <label>{{product.repalcement_text}}</label>
+                        </a>
+                    </div>
+
+                    <div class="bottom clearfix">
+                        <h6>Item #{{product.sku}}</h6>
+                    </div>
+                </div>
+            {% endfor %}
+
+            {% for product in myhoops %}
+                <div class="product_card hoop">
+                    <h3>{{product.name}}</h3>
+                    <h4>{{product.subheading}}</h4>
+
+                    {% if product.tag_text and product.tag_text != blank %}
+                        <div class="{{ product.tag_color }}">{{ product.tag_text }}</div>
+                    {% endif %}
+
+                    <div class="replacement_slider flexslider clearfix" id="replacement_slider_{{forloop.index}}">
+
+                        <ul class="slides">
+
+                            {% for slide in product.slides %}
+                                <li class="ad_slide">
+                                    <img class="thb_img" src="{{ slide.image }}" alt="{{ slide.title }}" />
+                                </li>
+                            {% endfor %}
+
+                        </ul>
+
+                        
+                    </div><!-- .replacement_slider.flexslider -->
+
+
+
+                    <div class="top clearfix">
+                        <h5 class="price">${{product.price}}</h5>
+
+                        {% include snipcart-button.html product=product text="<div class='cart_icon'></div>" %}
+
+                        <a class="specs {% if product.replacement_video and product.replacement_video != blank %} play_btn {% endif %}" 
+                            {% if product.replacement_video and product.replacement_video != blank %} href="{{product.replacement_video}}" {% else %}
+                            href="{{product.replacement_link}}" {% endif %}
+                        >
+                            <label>{{product.repalcement_text}}</label>
+                        </a>
+                    </div>
+
+                    <div class="bottom clearfix">
+                        <h6>Item #{{product.sku}}</h6>
+                    </div>
+                </div>
+            {% endfor %}
+
+            {% for product in myother %}
+                <div class="product_card parts">
                     <h3>{{product.name}}</h3>
                     <h4>{{product.subheading}}</h4>
 

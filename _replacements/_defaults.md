@@ -8,7 +8,7 @@ price:
 sku:
 tag_color:
 tag_text:
-filter_hoop: 
+replacement_type: 
 filter_mesh: 
 slides:
     - title:
