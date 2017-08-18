@@ -11,8 +11,8 @@ price: '240.00'
 price_range:
 sku: '73014'
 show_as_crosssells: true
-tag_color: new_tag
-tag_text: New This Year
+tag_color:
+tag_text:
 filter_handle: handle_wade
 filter_hoop:
 filter_mesh:
