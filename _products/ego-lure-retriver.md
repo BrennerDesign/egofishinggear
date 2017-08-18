@@ -19,8 +19,8 @@ left_column_html: >-
   have designed a tool to help you with that. Just detach your net hoop from
   your S1 Genesis or S2 Slider landing net and screw on the EGO Lure Retriever.
   &nbsp;Most anglers say they can replenish their tackle box in two or three
-  fishing trips.</p><h4>Two Ways to use the EGO Lure
-  Retriever:</h4><ol><li>&nbsp;For snagged lures still attached to your line
+  fishing trips.</p><h3>Two Ways to use the EGO Lure
+  Retriever:</h3><ol><li>&nbsp;For snagged lures still attached to your line
   simply feed your line through the cutout in the center of the tool. &nbsp;Push
   the tool down your line till you reach your lure. Once you have reached your
   lure, wrap the chains around your lure's hooks. Once the chains are secured,
