@@ -72,7 +72,7 @@ header_links:
       - column: Column 1
         links:
           - name: Hoops
-            link: /hoops/
+            link: '#'
             link_class: filter_title
           - name: Small
             link: /small-hoops/
@@ -97,7 +97,7 @@ header_links:
       - column: Column 3
         links:
           - name: Handles
-            link: /handles/
+            link: '#'
             link_class: filter_title
           - name: S1 Genesis
             link: /s1-genesis-handles/
@@ -111,7 +111,7 @@ header_links:
       - column: Column 4
         links:
           - name: Attachment Tools
-            link: /attachment-tools/
+            link: '#'
             link_class: filter_title
           - name: S1 & S2 Landing Nets
             link: /s1-s2-landing-nets/
