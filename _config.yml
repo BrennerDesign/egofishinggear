@@ -112,6 +112,12 @@ categories:
   - s1-genesis-handles
   - s1-genesis-kyptek-handles
   - s2-slider-handles
+  - small-hoop
+  - medium-hoop
+  - large-hoop
+  - large22-hoop
+  - xlarge-hoop
+  - measure-net
 
 replacement_types:
   bags: Mesh Bags

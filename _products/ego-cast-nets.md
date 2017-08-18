@@ -8,6 +8,7 @@ categories:
   - s1-genesis-nets
   - accessories
   - s2-slider-handles
+  - small-hoop
 price: '149.00'
 price_range: $149.00 - $299.99
 sku: ECG
