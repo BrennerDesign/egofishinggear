@@ -2,15 +2,14 @@
 name: EGO S2 Slider Compact
 subheading: Medium Measure Net  29"—60" Handle
 order_number: 2
-description: Great Fishing
+description:
 categories:
   - s2-nets
-  - s1-genesis-kryptek-nets
 price: 299.99
 sku: 72014
 show_as_crosssells: false
-tag_color: new_tag
-tag_text: New
+tag_color:
+tag_text:
 filter_handle: handle_standard
 filter_hoop: hoop_medium
 filter_mesh: mesh_nylon
