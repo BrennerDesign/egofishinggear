@@ -1,11 +1,11 @@
 ---
-name: EGO S2 Slider Compact
+name: EGO S2 Slider Compact Guide Landing Net
 subheading: Medium Measure Net  29"—60" Handle
 order_number: 2
 description:
 categories:
   - s2-nets
-price: 299.99
+price: 99.99
 sku: 72014
 show_as_crosssells: false
 tag_color:
@@ -16,14 +16,6 @@ filter_mesh: mesh_nylon
 slides:
   - title: Net
     image: /images/net_image1.jpg
-    video:
-    is_video: false
-  - title: Net
-    image: /images/net_image2.jpg
-    video:
-    is_video: false
-  - title: Net
-    image: /images/net_image2.jpg
     video:
     is_video: false
   - title: Net
