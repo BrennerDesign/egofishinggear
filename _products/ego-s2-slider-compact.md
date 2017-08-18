@@ -22,6 +22,10 @@ slides:
     image: /images/net_image2.jpg
     video: 'https://youtu.be/b8Bd7PJ7KoU?list=PL2FDAACEC9421E7BD'
     is_video: true
+  - title:
+    image:
+    video: 'https://youtu.be/VIi_vuzmOSY'
+    is_video: true
 left_column_html: >-
   <p>The S2 Slider Compact landing nets are a modular platform which allows the
   net to be easily used on kayaks and smaller boats with limited space.</p><div
