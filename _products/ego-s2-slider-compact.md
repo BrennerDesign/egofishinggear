@@ -24,7 +24,7 @@ slides:
     is_video: true
   - title:
     image: /uploads/EGO_Ti22_IMG_3_1200x550.jpg
-    video: 'https://youtu.be/VIi_vuzmOSY'
+    video: 'https://www.youtube.com/embed/d6FoBVSUBlo'
     is_video: true
 left_column_html: >-
   <p>The S2 Slider Compact landing nets are a modular platform which allows the
