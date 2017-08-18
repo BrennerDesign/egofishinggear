@@ -114,7 +114,7 @@ header_links:
             link: '#'
             link_class: filter_title
           - name: S1 & S2 Landing Nets
-            link: /s1-s2-landing-nets/
+            link: /ego-attachment-tools/
             link_class: filter_selector landing
     bottom_link:
       name: Replacement Parts
