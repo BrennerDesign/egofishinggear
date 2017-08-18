@@ -111,7 +111,7 @@ header_links:
       - column: Column 4
         links:
           - name: Attachment Tools
-            link: /ego-attachment-tools
+            link: /ego-attachment-tools/
             link_class: filter_title
           - name: S1 & S2 Landing Nets
             link: /s1-s2-landing-nets/
