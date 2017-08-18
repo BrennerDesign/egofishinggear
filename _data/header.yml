@@ -75,24 +75,24 @@ header_links:
             link: '#'
             link_class: filter_title
           - name: Small
-            link: /small-hoops/
+            link: /ego-small-hoops/
             link_class: filter_selector small
           - name: Medium
-            link: /medium-hoops/
+            link: /ego-medium-hoops/
             link_class: filter_selector medium
           - name: Large
-            link: /large-hoops/
+            link: /ego-large-hoops/
             link_class: filter_selector large
       - column: Column 2
         links:
           - name: Large 22 Inch
-            link: /large22-hoops/
+            link: /ego-large-22-inch-hoops/
             link_class: filter_selector large22
           - name: XLarge
-            link: /xlarge-hoops/
+            link: /ego-xlarge-hoops/
             link_class: filter_selector xlarge
           - name: Measure Net
-            link: /measure-net/
+            link: /ego-measure-net/
             link_class: filter_selector measure
       - column: Column 3
         links:
