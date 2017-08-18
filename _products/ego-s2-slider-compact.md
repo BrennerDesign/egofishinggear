@@ -20,7 +20,7 @@ slides:
     is_video: false
   - title: Net
     image: /images/net_image2.jpg
-    video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU?list=PL2FDAACEC9421E7BD'
+    video: 'https://www.youtube.com/embed/d6FoBVSUBlo'
     is_video: true
   - title:
     image: /uploads/EGO_Ti22_IMG_3_1200x550.jpg
