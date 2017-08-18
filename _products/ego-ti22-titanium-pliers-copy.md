@@ -7,11 +7,10 @@ description: >-
   salt water use and comes with replaceable tungsten steel cutters.
 categories:
   - ego-tools
-  - s2-nets
 price: '240.00'
 price_range:
 sku: '73014'
-show_as_crosssells: false
+show_as_crosssells: true
 tag_color: new_tag
 tag_text: New This Year
 filter_handle: handle_wade
