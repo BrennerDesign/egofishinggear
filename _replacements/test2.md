@@ -7,8 +7,6 @@ sku: RPC-1
 tag_color: new_tag
 tag_text: Newish
 replacement_type: hoop
-filter_handle:
-filter_hoop:
 filter_mesh:
 slides:
   - title: Net
