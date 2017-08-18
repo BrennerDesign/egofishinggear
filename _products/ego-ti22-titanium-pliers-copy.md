@@ -18,11 +18,17 @@ filter_handle: handle_wade
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>100% Rust proof titanium body</li><li>Ultra strong teeth for maximum
-  grip</li><li>Precisely engineered replaceable tungsten steel
-  cutters</li><li>Contoured handles for comfort grip</li><li>Thumb posts for
-  extra control and support</li><li>Lanyard fastening loop</li><li>Limited
-  lifetime warranty</li></ul>
+  <p>EGO's Ti22 Titanium Pliers are made with lightweight, strong and corrosion
+  proof titanium because when you're on the water, you can't afford to have
+  tools fail. Strong teeth ensure a slip-free grip, while contoured handles and
+  thumb posts allow you to maintain control while you work. Replaceable tungsten
+  steel cutters. Lanyard fastening loop keeps the pliers secured so you don't
+  have to worry about losing them in the water. Sheath included. Limited
+  lifetime warranty.</p><ul><li>100% Rust proof titanium body</li><li>Ultra
+  strong teeth for maximum grip</li><li>Precisely engineered replaceable
+  tungsten steel cutters</li><li>Contoured handles for comfort
+  grip</li><li>Thumb posts for extra control and support</li><li>Lanyard
+  fastening loop</li><li>Limited lifetime warranty</li></ul>
 right_column_html: >-
   <h6>AWARDS &amp; ACKNOWLEDGMENTS</h6><p><img alt="" src="/images/spec2.jpg"
   /></p>
