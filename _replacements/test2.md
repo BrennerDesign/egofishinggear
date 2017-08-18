@@ -19,6 +19,6 @@ slides:
   - title: Net
     image: /images/net_image2.jpg
 repalcement_text: Replacement Instructions
-replacement_link: 'https://www.dropbox.com/s/zxbv3uo8xi88mtt/Activity%20By%20Campaign.pdf?dl=0'
-replacement_video: https://www.youtube.com/embed/b8Bd7PJ7KoU?autoplay=1
+replacement_link:
+replacement_video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU?autoplay=1'
 ---
