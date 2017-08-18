@@ -1,0 +1,182 @@
+<div class="filter_expand expanded length">
+    {% assign handles = "" | split: "" %}
+    {% for item in site.filter_handles %}
+        {% assign testP = include.filteredproducts | where: 'filter_handle', item[0] %}
+        {% if testP.size > 0 %}
+            {% assign handles = handles | push: item %}
+        {% endif %}
+    {% endfor %}
+
+    {% assign handles1 = "" | split: "" %}
+    {% assign handles2 = "" | split: "" %}
+
+    {% assign handlesLength = handles.size | divided_by: 2 | ceil | plus: 1 %}
+
+    {% for item in handles %}
+
+        {% if handles.size > 4 %}
+            {% if forloop.index0 < handlesLength %}
+                {% assign handles1 = handles1 | push: item %}
+            {% else %}
+                {% assign handles2 = handles2 | push: item %}
+            {% endif %}
+        {% else %}
+            {% assign handles1 = handles1 | push: item %}
+        {% endif %}
+
+    {% endfor %}
+
+
+    <div class="options {% if handles2.size > 0 %} clearfix {% endif %}">
+
+        {% if handles2.size > 0 %}
+            <div class="column">
+        {% endif %}
+
+        {% for item in handles1 %}
+            <div class="option">
+                <input type="checkbox" name="{{item[0]}}" value="{{item[0]}}" id="{{item[0]}}">
+                <label for="{{item[0]}}">{{item[1]}}<span></span></label>
+            </div>
+        {% endfor %}
+
+        {% if handles2.size > 0 %}
+            </div>
+
+            <div class="column">
+                {% for item in handles2 %}
+                    <div class="option">
+                        <input type="checkbox" name="{{item[0]}}" value="{{item[0]}}" id="{{item[0]}}">
+                        <label for="{{item[0]}}">{{item[1]}}<span></span></label>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+
+    </div>
+
+</div><!-- .filter_expand -->
+
+
+
+<div class="filter_expand size">
+
+    {% assign handles = "" | split: "" %}
+    {% for item in site.filter_hoops %}
+
+        {% assign testP = include.filteredproducts | where: 'filter_hoop', item[0] %}
+        {% if testP.size > 0 %}
+            {% assign handles = handles | push: item %}
+        {% endif %}
+    {% endfor %}
+
+    {% assign handles1 = "" | split: "" %}
+    {% assign handles2 = "" | split: "" %}
+
+    {% assign handlesLength = handles.size | divided_by: 2 | ceil | plus: 1 %}
+
+    {% for item in handles %}
+
+        {% if handles.size > 4 %}
+            {% if forloop.index0 < handlesLength %}
+                {% assign handles1 = handles1 | push: item %}
+            {% else %}
+                {% assign handles2 = handles2 | push: item %}
+            {% endif %}
+        {% else %}
+            {% assign handles1 = handles1 | push: item %}
+        {% endif %}
+
+    {% endfor %}
+
+
+    <div class="options {% if handles2.size > 0 %} clearfix {% endif %}">
+
+        {% if handles2.size > 0 %}
+            <div class="column">
+        {% endif %}
+
+        {% for item in handles1 %}
+            <div class="option">
+                <input type="checkbox" name="{{item[0]}}" value="{{item[0]}}" id="{{item[0]}}">
+                <label for="{{item[0]}}">{{item[1]}}<span></span></label>
+            </div>
+        {% endfor %}
+
+        {% if handles2.size > 0 %}
+            </div>
+
+            <div class="column">
+                {% for item in handles2 %}
+                    <div class="option">
+                        <input type="checkbox" name="{{item[0]}}" value="{{item[0]}}" id="{{item[0]}}">
+                        <label for="{{item[0]}}">{{item[1]}}<span></span></label>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+
+    </div>
+
+</div><!-- .filter_expand -->
+
+
+<div class="filter_expand type">
+
+    {% assign handles = "" | split: "" %}
+    {% for item in site.filter_meshes %}
+        {% assign testP = include.filteredproducts | where: 'filter_mesh', item[0] %}
+        {% if testP.size > 0 %}
+            {% assign handles = handles | push: item %}
+        {% endif %}
+    {% endfor %}
+
+    {% assign handles1 = "" | split: "" %}
+    {% assign handles2 = "" | split: "" %}
+
+    {% assign handlesLength = handles.size | divided_by: 2 | ceil | plus: 1 %}
+
+    {% for item in handles %}
+
+        {% if handles.size > 4 %}
+            {% if forloop.index0 < handlesLength %}
+                {% assign handles1 = handles1 | push: item %}
+            {% else %}
+                {% assign handles2 = handles2 | push: item %}
+            {% endif %}
+        {% else %}
+            {% assign handles1 = handles1 | push: item %}
+        {% endif %}
+
+    {% endfor %}
+
+
+    <div class="options {% if handles2.size > 0 %} clearfix {% endif %}">
+
+        {% if handles2.size > 0 %}
+            <div class="column">
+        {% endif %}
+
+        {% for item in handles1 %}
+            <div class="option">
+                <input type="checkbox" name="{{item[0]}}" value="{{item[0]}}" id="{{item[0]}}">
+                <label for="{{item[0]}}">{{item[1]}}<span></span></label>
+            </div>
+        {% endfor %}
+
+        {% if handles2.size > 0 %}
+            </div>
+
+            <div class="column">
+                {% for item in handles2 %}
+                    <div class="option">
+                        <input type="checkbox" name="{{item[0]}}" value="{{item[0]}}" id="{{item[0]}}">
+                        <label for="{{item[0]}}">{{item[1]}}<span></span></label>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+
+    </div>
+
+</div><!-- .filter_expanded -->

@@ -5,6 +5,7 @@ order_number: 2
 description: Great Fishing
 categories:
   - s2-nets
+  - s1-genesis-kryptek-nets
 price: 299.99
 sku: 72014
 show_as_crosssells: false
@@ -12,7 +13,7 @@ tag_color: new_tag
 tag_text: New
 filter_handle: handle_standard
 filter_hoop: hoop_medium
-filter_mesh: mesh_rubber
+filter_mesh: mesh_nylon
 slides:
   - title: Net
     image: /images/net_image1.jpg

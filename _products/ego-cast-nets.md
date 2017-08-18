@@ -4,15 +4,17 @@ subheading: Available in Multiple Sizes
 order_number: 2
 description:
 categories:
+  - s2-nets
+  - s1-genesis-nets
 price: '149.00'
 price_range: $149.00 - $299.99
 sku: ECG
 show_as_crosssells: false
 tag_color: new_tag
 tag_text: New
-filter_handle:
-filter_hoop:
-filter_mesh:
+filter_handle: handle_large
+filter_hoop: hoop_medium
+filter_mesh: mesh_pvc_coated_nylon
 options_text: Choose Net Size
 options:
   - name: 10FT 3/8
