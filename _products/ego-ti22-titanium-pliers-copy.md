@@ -53,7 +53,7 @@ slides:
     video:
     is_video: false
   - title: EGO Ti22 Titanium Fishing Pliers and Sheath
-    image: /uploads/ego-ti22-img-3-1200x550.jpg
+    image: /uploads/EGO_Ti22_IMG_3_1200x550.jpg
     video:
     is_video: false
 options_text:
