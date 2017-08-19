@@ -30,7 +30,7 @@ left_column_html: >-
   Capacity</h6><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extention</strong>&mdash;28lbs<br /><strong>Full
   Extention</strong>&mdash;28lbs</p><p>&nbsp;</p><div
-  class="divider">&nbsp;<p>&nbsp;</p><ul><li>Medium Hoop Size 17" x
+  class="divider">&nbsp;</div></p><ul><li>Medium Hoop Size 17" x
   19"</li><li>17" Bag Depth</li><li>Ergonomic handle grip</li><li>Zip on/off
   replaceable mesh bag</li><li>Lightweight with minimal water
   drag</li><li>Measure fish up to 36 inches</li></ul></div>
