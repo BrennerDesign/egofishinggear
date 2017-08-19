@@ -25,14 +25,15 @@ slides:
 left_column_html: >-
   <p>The S2 Slider Compact landing nets are a modular platform which allows the
   net to be easily used on kayaks and smaller boats with limited space.</p><div
-  class="divider">&nbsp;</div><p><h6>HANDLE EXTENDS</h6>29in &mdash;
-  60in<div class="divider">&nbsp;</div></p><p><h6>Load
-  Capacity</h6><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
+  class="divider">&nbsp;</div><h6>HANDLE EXTENDS</h6><p>29in &mdash;
+  60in</p><div class="divider">&nbsp;</div><h6>Load
+  Capacity</h6><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extention</strong>&mdash;28lbs<br /><strong>Full
-  Extention</strong>&mdash;28lbs</p><div class="divider">&nbsp;</div>
-  <p><ul><li>Medium Hoop Size 17" x 19"</li><li>17" Bag Depth</li><li>Ergonomic handle grip</li><li>Zip on/off
+  Extention</strong>&mdash;28lbs</p><p>&nbsp;</p><div
+  class="divider">&nbsp;<p>&nbsp;</p><ul><li>Medium Hoop Size 17" x
+  19"</li><li>17" Bag Depth</li><li>Ergonomic handle grip</li><li>Zip on/off
   replaceable mesh bag</li><li>Lightweight with minimal water
-  drag</li><li>Measure fish up to 36 inches</li></ul></p></div>
+  drag</li><li>Measure fish up to 36 inches</li></ul></div>
 right_column_html: >-
   <h6>PVC COATED MEASURE NET</h6><ul><li>Measure Net technology / Hands free
   fish measurement</li></ul><p><img alt="" src="/images/spec1.jpg" /></p><div
