@@ -20,5 +20,5 @@ slides:
     image: /images/net_image2.jpg
 repalcement_text: Replacement Instructions
 replacement_link:
-replacement_video: 'https://www.youtube.com/embed/d6FoBVSUBlo'
+replacement_video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU?list=PL2FDAACEC9421E7BD'
 ---
