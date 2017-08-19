@@ -19,7 +19,7 @@ slides:
     video:
     is_video: false
   - title: Net
-    image:
+    image: /uploads/S2_Slider_Video_Joe_2.0_1200x550.jpg
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU?list=PL2FDAACEC9421E7BD'
     is_video: true
 left_column_html: >-
