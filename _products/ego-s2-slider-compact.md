@@ -1,6 +1,6 @@
 ---
 name: EGO S2 Slider Compact Guide Landing Net
-subheading: 'Medium Measure Net, Handle Extends from  29"—60"'
+subheading: 'Medium Measure Net, Handle Extends from  18"—36"'
 order_number: 2
 description:
 categories:
