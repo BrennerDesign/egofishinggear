@@ -23,10 +23,13 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The S2 Slider Compact landing nets are a modular platform which allows the
-  net to be easily used on kayaks and smaller boats with limited space.</p><div
-  class="divider">&nbsp;</div><h6>HANDLE EXTENDS</h6><p>29in &mdash;
-  60in</p><div class="divider">&nbsp;</div><h6>Load
+  <p>The S2 Slider Compact Guide landing net featuring a revolutionary slider
+  handle extension technology, providing maximum reach with the shortest
+  possible handle. The compact modular platform allows this net to store easily
+  on kayaks and smaller boats with limited space while offering 36&rdquo; of
+  extended reach.<br /><br />The All S2 Slider Guide nets come standard with
+  Measure Net technology.&nbsp;</p><div class="divider">&nbsp;</div><h6>HANDLE
+  EXTENDS</h6><p>29in &mdash; 60in</p><div class="divider">&nbsp;</div><h6>Load
   Capacity</h6><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extention</strong>&mdash;28lbs<br /><strong>Full
   Extention</strong>&mdash;28lbs</p><div
