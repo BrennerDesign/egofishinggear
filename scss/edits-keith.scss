@@ -47,6 +47,13 @@ h6 {
     font-size: 2em;
 }
 
+.product_specs .product_cart h6 {
+    text-transform: uppercase;
+    font-size: .857em;
+    color: #949494;
+    margin-top: 10px;
+}
+
 /* Other Products Product Page
 ----------------------------------------------------------------------------------------*/
 
@@ -65,4 +72,9 @@ h6 {
 .yotpo .yotpo-first-review .yotpo-first-review-content {
     text-align: center;
     margin-bottom: 60px;
+}
+
+.yotpo .text-m {
+    font-size: 13px;
+    display: none;
 }
