@@ -23,11 +23,13 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The S2 Slider Compact Guide landing net featuring a revolutionary slider
-  handle extension technology, providing maximum reach with the shortest
+  <p>The S2 Slider Compact Guide landing net comes with the revolutionary S2
+  slider extension&nbsp;<span style="background-color: rgb(245, 246,
+  245);">handle</span><span style="background-color: rgb(245, 246,
+  245);">&nbsp;</span>technology, providing maximum reach with the shortest
   possible handle. The compact modular platform allows this net to store easily
   on kayaks and smaller boats with limited space while offering 36&rdquo; of
-  extended reach.<br /><br />The All S2 Slider Guide nets come standard with
+  extended reach.</p><p><br />The All S2 Slider Guide nets come standard with
   Measure Net technology.&nbsp;</p><div class="divider">&nbsp;</div><h6>HANDLE
   EXTENDS</h6><p>29in &mdash; 60in</p><div class="divider">&nbsp;</div><h6>Load
   Capacity</h6><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
