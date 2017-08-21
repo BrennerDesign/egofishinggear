@@ -1,5 +1,5 @@
 ---
-name: EGO S2 Slider Compact Guide Net
+name: EGO S2 SLIDER COMPACT PVC COATED LANDING NET
 subheading: Handle Extends From  18in—36in
 order_number: 2
 description:
