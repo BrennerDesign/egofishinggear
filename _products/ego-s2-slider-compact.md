@@ -1,6 +1,6 @@
 ---
 name: EGO S2 Slider Compact Guide Landing Net
-subheading: Medium Measure Net  29"—60" Handle
+subheading: 'Medium Measure Net, Handle Extends from  29"—60"'
 order_number: 2
 description:
 categories:
@@ -29,10 +29,11 @@ left_column_html: >-
   60in</p><div class="divider">&nbsp;</div><h6>Load
   Capacity</h6><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extention</strong>&mdash;28lbs<br /><strong>Full
-  Extention</strong>&mdash;28lbs</p><div class="divider">&nbsp;</div><ul><li>Medium Hoop Size 17" x 19"</li><li>17" Bag
+  Extention</strong>&mdash;28lbs</p><div
+  class="divider">&nbsp;</div><ul><li>Medium Hoop Size 17" x 19"</li><li>17" Bag
   Depth</li><li>Ergonomic handle grip</li><li>Zip on/off replaceable mesh
   bag</li><li>Lightweight with minimal water drag</li><li>Measure fish up to 36
-  inches</li></ul></div><div &nbsp;</div>
+  inches</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h6>PVC COATED MEASURE NET</h6><ul><li>Measure Net technology / Hands free
   fish measurement</li></ul><p><img alt="" src="/images/spec1.jpg" /></p><div
