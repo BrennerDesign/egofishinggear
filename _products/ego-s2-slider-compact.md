@@ -33,15 +33,15 @@ left_column_html: >-
   Measure Net technology.&nbsp;</p><div class="divider">&nbsp;</div><h6>HANDLE
   EXTENDS</h6><p>29in &mdash; 60in</p><div class="divider">&nbsp;</div><h6>Load
   Capacity</h6><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
-  Extention</strong>&mdash;28lbs<br /><strong>Full
-  Extention</strong>&mdash;28lbs</p><div
+  Extension</strong>&mdash;28lbs<br /><strong>Full
+  Extension</strong>&mdash;28lbs</p><div
   class="divider">&nbsp;</div><ul><li>Medium Hoop Size 17" x 19"</li><li>17" Bag
   Depth</li><li>Ergonomic handle grip</li><li>Zip on/off replaceable mesh
   bag</li><li>Lightweight with minimal water drag</li><li>Measure fish up to 36
   inches</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h6>PVC COATED MEASURE NET</h6><ul><li>Measure Net technology / Hands free
-  fish measurement</li></ul><p><img alt="" src="/images/spec1.jpg" /></p><div
+  <h6>PVC COATED MEASURE NET</h6><p>Measure Net technology / Hands-free fish
+  measurement</p><p><img alt="" src="/images/spec1.jpg" /></p><div
   class="divider">&nbsp;</div><h6>AWARDS &amp; ACKNOWLEDGMENTS</h6><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
