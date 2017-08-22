@@ -6,10 +6,10 @@ description:
 categories:
 price: '149.00'
 price_range: $149.00 - $299.99
-sku:
+sku: '61206'
 show_as_crosssells: false
-tag_color: new_tag
-tag_text: New
+tag_color:
+tag_text:
 filter_handle: handle_large
 filter_hoop: hoop_medium
 filter_mesh: mesh_measure_net
