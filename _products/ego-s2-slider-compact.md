@@ -27,9 +27,9 @@ left_column_html: >-
   revolutionary S2 Slider extension handle and Measure Net technology. These two
   great features provide for a &nbsp;maximum reach with the shortest possible
   handle and the advantage of hands free fish measurement up to 36
-  inches.</p><p>&nbsp;</p><p>The S2 Slider modular platform also features a
-  detachable handle, providing interchangeability of attachment tools, easy
-  storage on kayaks and boats with limited space.&nbsp;</p><p>.&nbsp;</p><div
+  inches.</p><p>The S2 Slider modular platform also features a detachable
+  handle, providing interchangeability of attachment tools, easy storage on
+  kayaks and boats with limited space.&nbsp;</p><p>.&nbsp;</p><div
   class="divider">&nbsp;</div><h6>HANDLE EXTENDS</h6><p>18in &mdash;
   36in</p><div class="divider">&nbsp;</div><h6>Load
   Capacity</h6><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
