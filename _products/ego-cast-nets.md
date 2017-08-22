@@ -6,7 +6,7 @@ description:
 categories:
 price: '149.00'
 price_range: $149.00 - $299.99
-sku: ECG
+sku:
 show_as_crosssells: false
 tag_color: new_tag
 tag_text: New
