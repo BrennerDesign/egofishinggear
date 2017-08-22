@@ -1,6 +1,6 @@
 ---
 name: EGO S2 SLIDER LARGE GUIDE NET
-subheading: Standard S2 Slider Handle Extends 29in—60in
+subheading: Standard Handle—Extends 29in–60in
 order_number: 2
 description:
 categories:
