@@ -42,9 +42,9 @@ left_column_html: >-
   inches.</p><p>The S2 Slider modular platform also features a detachable
   handle, providing interchangeability of attachment tools, easy storage on
   kayaks and boats with limited space.&nbsp;</p><div
-  class="divider">&nbsp;</div><h6>HANDLE EXTENDS</h6><p>18in &mdash;
-  36in</p><div class="divider">&nbsp;</div><h6>Load
-  Capacity</h6><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
+  36in</p><div class="divider">&nbsp;</div><h7>Load
+  Capacity</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;28lbs</p><div
   class="divider">&nbsp;</div><ul><li>Medium Hoop Size 17" x 19"</li><li>17" Bag
@@ -52,9 +52,9 @@ left_column_html: >-
   bag</li><li>Lightweight with minimal water drag</li><li>Measure fish up to 36
   inches</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h6>PVC COATED MEASURE NET</h6><p>Measure Net technology / Hands-free fish
+  <h7>PVC COATED MEASURE NET</h7><p>Measure Net technology / Hands-free fish
   measurement</p><p><img alt="" src="/uploads/MeasureNet_400x150.jpg" /></p><div
-  class="divider">&nbsp;</div><h6>AWARDS &amp; ACKNOWLEDGMENTS</h6><p><img
+  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
