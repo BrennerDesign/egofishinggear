@@ -1,17 +1,17 @@
 ---
-name: EGO S2 SLIDER COMPACT GUIDE NET
-subheading: Handle Extends From  18in—36in
+name: EGO S2 SLIDER LARGE GUIDE NET
+subheading: Handle Extends From  29in—60in
 order_number: 2
 description:
 categories:
   - s2-nets
-price: 109.99
-sku: 72014
+price: 129.99
+sku: 72059
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_compact
-filter_hoop: hoop_medium
+filter_handle: handle_standard
+filter_hoop: hoop_large
 filter_mesh: mesh_measure_net
 slides:
   - title: EGO S2 Slider Compact Guide Net
@@ -35,22 +35,23 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Compact PVC Coated Guide Landing Net comes with both the
+  <p>The EGO S2 Slider Large PVC Coated Guide Landing Net comes with both the
   revolutionary S2 Slider extension handle and Measure Net technology. These two
   great features provide for a &nbsp;maximum reach with the shortest possible
-  handle and the advantage of hands free fish measurement up to 36
+  handle and the advantage of hands-free fish measurement up to 40
   inches.</p><p>The S2 Slider modular platform also features a detachable
   handle, providing interchangeability of attachment tools, easy storage on
   kayaks and boats with limited space.&nbsp;</p><div
-  class="divider">&nbsp;</div><h6>HANDLE EXTENDS</h6><p>18in &mdash;
-  36in</p><div class="divider">&nbsp;</div><h6>Load
+  class="divider">&nbsp;</div><h6>HANDLE EXTENDS</h6><p>29in &mdash;
+  60in</p><div class="divider">&nbsp;</div><h6>Load
   Capacity</h6><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
-  Extension</strong>&mdash;28lbs<br /><strong>Full
-  Extension</strong>&mdash;28lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Medium Hoop Size 17" x 19"</li><li>17" Bag
-  Depth</li><li>Ergonomic handle grip</li><li>Zip on/off replaceable mesh
-  bag</li><li>Lightweight with minimal water drag</li><li>Measure fish up to 36
-  inches</li></ul><div>&nbsp;</div>
+  Extension</strong>&mdash;24lbs<br /><strong>Full
+  Extension</strong>&mdash;20lbs</p><div
+  class="divider">&nbsp;</div><ul><li>Measure Net technology / Hands-free fish
+  measurement</li><li>Ergonomic handle grip</li><li>Zip on/off replaceable mesh
+  bag</li><li>Lightweight with minimal water drag</li><li>Measure fish up to 40
+  inches</li><li>20" Bag Depth</li><li>Large Hoop Size 19" x
+  21"</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h6>PVC COATED MEASURE NET</h6><p>Measure Net technology / Hands-free fish
   measurement</p><p><img alt="" src="/uploads/MeasureNet_400x150.jpg" /></p><div
