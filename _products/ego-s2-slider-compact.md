@@ -15,7 +15,7 @@ filter_hoop: hoop_medium
 filter_mesh: mesh_measure_net
 slides:
   - title: Net
-    image: /images/net_image1.jpg
+    image: /images/72014_S2_Compact_Guide_1200x550.jpg
     video:
     is_video: false
   - title: Net
