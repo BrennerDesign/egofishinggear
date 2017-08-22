@@ -24,6 +24,7 @@ h6 {
 h7 {
 	font-family: Arial, sans-serif;
 	font-size: 1.25em; /* 20px */
+	font-style: oblique;
 }
 
 
@@ -39,6 +40,13 @@ h7 {
 
 .expander_info .left_column {
     float: left;
+    width: 46%;
+    margin-bottom: 56px;
+    margin-top: 15px;
+}
+
+.expander_info .right_column {
+    float: right;
     width: 46%;
     margin-bottom: 56px;
     margin-top: 15px;
