@@ -43,8 +43,7 @@ left_column_html: >-
   handle, providing interchangeability of attachment tools, easy storage on
   kayaks and boats with limited space.&nbsp;</p><div
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
-  36in</p><div class="divider">&nbsp;</div><h7>Load
-  Capacity</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
+  36in</p><div class="divider">&nbsp;</div><h7>Load Capacity</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;28lbs</p><div
   class="divider">&nbsp;</div><ul><li>Medium Hoop Size 17" x 19"</li><li>17" Bag
