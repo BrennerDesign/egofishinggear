@@ -33,21 +33,9 @@ options:
     price: $24.99
 slides:
   - title: Net
-    image: /images/net_image1.jpg
+    image: /images/nets/EGOCastNet_IMG1_1160x533.jpg
     video:
     is_video: false
-  - title: Net
-    image: /images/net_image2.jpg
-    video:
-    is_video: false
-  - title: Net
-    image: /images/net_image2.jpg
-    video:
-    is_video: false
-  - title: Net
-    image: /images/net_image2.jpg
-    video: 'https://youtu.be/b8Bd7PJ7KoU?list=PL2FDAACEC9421E7BD'
-    is_video: true
 left_column_html: >-
   <p>EGO Cast Nets make filling your bait bucket a breeze. Clear monofilament
   doesn't alert fish until it's too late, while the durable six-wedge panel
