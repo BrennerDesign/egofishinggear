@@ -41,7 +41,7 @@ left_column_html: >-
   inches</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h6>PVC COATED MEASURE NET</h6><p>Measure Net technology / Hands-free fish
-  measurement</p><p><img alt="" src="/images/spec1.jpg" /></p><div
+  measurement</p><p><img alt="" src="/uploads/MeasureNet_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h6>AWARDS &amp; ACKNOWLEDGMENTS</h6><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
