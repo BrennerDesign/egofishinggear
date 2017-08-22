@@ -63,7 +63,7 @@ left_column_html: >-
   braided rope</li><li>Mesh grid individually tied to lead line</li><li>High
   grade monofilament</li></ul>
 right_column_html: >-
-  <h6>AVAILABLE CAST NETS SIZES</h6><p><img alt="" src="/images/size_chart.png"
+  <h7>AVAILABLE CAST NETS SIZES</h7><p><img alt="" src="/images/size_chart.png"
   /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
