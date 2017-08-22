@@ -1,6 +1,6 @@
 ---
 name: EGO S2 SLIDER COMPACT GUIDE NET
-subheading: Handle Extends From  18in—36in
+subheading: Compact Handle—Extends 18in—36in
 order_number: 2
 description:
 categories:
