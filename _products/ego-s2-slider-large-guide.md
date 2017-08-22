@@ -14,20 +14,16 @@ filter_handle: handle_standard
 filter_hoop: hoop_large
 filter_mesh: mesh_measure_net
 slides:
-  - title: EGO S2 Slider Compact Guide Net
-    image: /images/nets/72014_S2_Compact_Guide_1160x533.jpg
+  - title: EGO S2 Slider Large Guide Net
+    image: /images/nets/72059_S2_Large_Guide_1160x533.jpg
     video:
     is_video: false
-  - title: EGO S2 Slider Compact Guide Net Measure Net
-    image: /images/nets/72014_S2_Compact_Guide_IMG2_1160x533.jpg
+  - title: EGO S2 Slider Large Guide Net Measure Net
+    image: /images/nets/72059_S2_Large_Guide_IMG2_1160x533.jpg
     video:
     is_video: false
-  - title: EGO S2 Slider Compact Guide Side View
-    image: /images/nets/72014_S2_Compact_Guide_IMG4_1160x533.jpg
-    video:
-    is_video: false
-  - title: EGO S2 Slider Compact Guide Net  Zipper
-    image: /images/nets/72014_S2_Compact_Guide_IMG3_1160x533.jpg
+  - title: EGO S2 Slider Large Guide Net  Zipper
+    image: /images/nets/72059_S2_Large_Guide_IMG3_1160x533.jpg
     video:
     is_video: false
   - title: Net
