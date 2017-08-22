@@ -18,7 +18,7 @@ slides:
     image: /images/nets/72010_S2_Compact_Nylon_1160x533.jpg
     video:
     is_video: false
-  - title: Net
+  - title: S2 Slider Product Demo Video
     image: /uploads/S2_Slider_Video_Joe_2.0_1200x550.jpg
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
