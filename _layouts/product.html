@@ -42,7 +42,7 @@ layout: default
                         <select id="option-selector">
                             <option disabled selected>{{page.options_text}}</option>
                             {% for option in page.options %}
-                                <option data-qa-qty="{{option.sku}}" data-name="{{option.name}}" data-adjustment="{{option.adjustment}}">{{option.name}} {% if option.adjustment != '0.00' %} ( {{option.price}} ) {% endif %}</option>
+                                <option data-qa-qty="{{option.sku}}" data-sku="{{option.sku}}" data-name="{{option.name}}" data-adjustment="{{option.adjustment}}">{{option.name}} {% if option.adjustment != '0.00' %} ( {{option.price}} ) {% endif %}</option>
                             {% endfor %}
                         </select>
                     </div>
@@ -85,7 +85,7 @@ layout: default
                           data-description="{{ page.description }}"
                           >
                         </div>
-                        <h6>Item #{{ page.sku }}</h6>
+                        <h6>Item <span id="item-sku">#{{ page.sku }}</span></h6>
                     </div>
 
                     {% include snipcart-button.html product=page %}
@@ -185,6 +185,9 @@ layout: default
                 var selected = $(this).find(':selected');
                 var form = $(this).closest('form');
                 form.find('.snipcart-add-item').data('item-custom1-value', selected.data('name'));
+                form.find('.snipcart-add-item').data('itemId', selected.data('sku'));
+
+                $('#item-sku').html('#' + selected.data('sku'));
             });
         }
     })
