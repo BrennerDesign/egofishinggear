@@ -52,8 +52,7 @@ left_column_html: >-
   bag</li><li>Lightweight with minimal water drag</li><li>Measure fish up to 36
   inches</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>PVC COATED MEASURE NET</h7><p>Measure Net technology / Hands-free fish
-  measurement</p><p><img alt="" src="/uploads/MeasureNet_400x150.jpg" /></p><div
+  <h7>PVC COATED MEASURE NET</h7><p><img alt="" src="/uploads/MeasureNet_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
