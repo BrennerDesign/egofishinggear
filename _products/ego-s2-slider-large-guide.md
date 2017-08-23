@@ -5,6 +5,7 @@ order_number: 25
 description:
 categories:
   - s2-nets
+  - ego-guide-nets
 price: 129.99
 sku: 72059
 show_as_crosssells: false
@@ -49,7 +50,8 @@ left_column_html: >-
   inches</li><li>20" Bag Depth</li><li>Large Hoop Size 19" x
   21"</li></ul><div>&nbsp;</div></h7>
 right_column_html: >-
-  <h7>PVC COATED MEASURE NET</h7><p><img alt="" src="/uploads/MeasureNet_400x150.jpg" /></p><div
+  <h7>PVC COATED MEASURE NET</h7><p><img alt=""
+  src="/uploads/MeasureNet_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
