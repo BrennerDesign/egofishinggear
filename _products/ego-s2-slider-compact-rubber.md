@@ -16,7 +16,7 @@ filter_handle: handle_compact
 filter_hoop: hoop_medium
 filter_mesh: mesh_rubber
 slides:
-  - title: EGO S2 Slider Compact Guide Net
+  - title: EGO S2 Slider Compact Rubber Net
     image: /images/nets/72011_S2_Compact_Rubber_1160x533.jpg
     video:
     is_video: false
@@ -40,8 +40,9 @@ left_column_html: >-
   Bottom / 15" Bag Depth<br />(Stretches up to 1.5X with load)</li><li>Medium
   Hoop Size 17" x 19"</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <p>LIGHTWEIGHT RUBBER MESH</p><p><img alt="" src="/images/Rubber_400x150.jpg"/></p><div class="divider">&nbsp;</div><h7>AWARDS
-  &amp; ACKNOWLEDGMENTS</h7><p><img alt="" src="/images/spec2.jpg" /></p>
+  <p>LIGHTWEIGHT RUBBER MESH</p><p><img alt="" src="/images/Rubber_400x150.jpg"
+  /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp;
+  ACKNOWLEDGMENTS</h7><p><img alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
