@@ -1,7 +1,7 @@
 ---
 name: EGO S2 SLIDER COMPACT RUBBER NET
 subheading: Compact Handle—Extends 18in—36in
-order_number: 3
+order_number: 4
 description: >-
   EGO Compact S2 Slider Rubber Landing Net. A revolutionary extension handle net
   reaching up to 36"
