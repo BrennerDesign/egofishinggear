@@ -25,18 +25,19 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Compact Rubber Landing Net comes with the revolutionary
-  S2 Slider extension handle technology, providing maximum reach with the
-  shortest possible handle. The S2 Slider modular platform also allows the
-  handle to detach, providing interchangeability of attachment tools, easy
-  storage on kayaks and boats with limited space.&nbsp;</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
-  36in</p><div class="divider">&nbsp;</div><h7>LOAD
+  <p>The EGO S2 Slider Medium Rubber Landing Net comes with the revolutionary S2
+  slider extension handle technology. With a simple pull or push of the S2
+  Slider handle grip, it gives the savvy angler real time control of the handle
+  extension length throughout the fish capturing process. The innovative modular
+  platform also allows the handle to detach, providing interchangeability of
+  attachment tools and compact storage.</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in &mdash;
+  60in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
-  Extension</strong>&mdash;28lbs<br /><strong>Full
-  Extension</strong>&mdash;28lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>18" Slider
-  Handle Extends To 36"</li><li>Non-Tangle Lightweight Rubber Mesh</li><li>Flat
+  Extension</strong>&mdash;24lbs<br /><strong>Full
+  Extension</strong>&mdash;20lbs</p><div
+  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>29" Slider
+  Handle Extends To 60"</li><li>Non-Tangle Lightweight Rubber Mesh</li><li>Flat
   Bottom / 15" Bag Depth<br />(Stretches up to 1.5X with load)</li><li>Medium
   Hoop Size 17" x 19"</li></ul><div>&nbsp;</div>
 right_column_html: >-
