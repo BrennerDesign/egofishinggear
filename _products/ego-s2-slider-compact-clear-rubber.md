@@ -1,21 +1,21 @@
 ---
-name: EGO S2 SLIDER COMPACT RUBBER NET
+name: EGO S2 SLIDER COMPACT CLEAR RUBBER NET
 subheading: Compact Handle—Extends 18in—36in
 order_number: 4
 description: >-
-  EGO Compact S2 Slider Rubber Landing Net. A revolutionary extension handle net
-  reaching up to 36"
+  EGO Compact S2 SliderClear Rubber Landing Net. A revolutionary extension
+  handle net reaching up to 36"
 categories:
   - s2-nets
   - ego-guide-nets
 price: 89.99
-sku: 72011
+sku: 72013
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_compact
 filter_hoop: hoop_medium
-filter_mesh: mesh_rubber
+filter_mesh: mesh_clear_rubber
 slides:
   - title: EGO S2 Slider Compact Rubber Net
     image: /images/nets/72011_S2_Compact_Rubber_1160x533.jpg
@@ -26,10 +26,10 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Compact Rubber Landing Net comes with the revolutionary
-  S2 Slider extension handle technology, providing maximum reach with the
-  shortest possible handle. The S2 Slider modular platform also allows the
-  handle to detach, providing interchangeability of attachment tools, easy
+  <p>The EGO S2 Slider Compact Clear Rubber Landing Net comes with the
+  revolutionary S2 Slider extension handle technology, providing maximum reach
+  with the shortest possible handle. The S2 Slider modular platform also allows
+  the handle to detach, providing interchangeability of attachment tools, easy
   storage on kayaks and boats with limited space.&nbsp;</p><div
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
   36in</p><div class="divider">&nbsp;</div><h7>LOAD
@@ -37,13 +37,15 @@ left_column_html: >-
   Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;28lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>18" Slider
-  Handle Extends To 36"</li><li>Non-Tangle Lightweight Rubber Mesh</li><li>Flat
-  Bottom / 15" Bag Depth<br />(Stretches up to 1.5X with load)</li><li>Medium
-  Hoop Size 17" x 19"</li></ul><div>&nbsp;</div>
+  Handle Extends To 36"</li><li>Unique Scoop Design</li><li>Non-Tangle
+  Lightweight Clear Rubber Mesh</li><li>Flat Bottom / 15" Bag Depth<br
+  />(Stretches up to 1.5X with load)</li><li>Medium Hoop Size 17" x
+  19"</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <p>LIGHTWEIGHT RUBBER MESH</p><p><img alt="" src="/images/Rubber_400x150.jpg"
-  /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp;
-  ACKNOWLEDGMENTS</h7><p><img alt="" src="/images/spec2.jpg" /></p>
+  <p>LIGHTWEIGHT CLEAR RUBBER MESH</p><p><img alt=""
+  src="/images/Rubber_400x150.jpg" /></p><div
+  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
+  alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
