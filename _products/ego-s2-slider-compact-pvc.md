@@ -8,7 +8,7 @@ description: >-
 categories:
   - s2-nets
 price: 86.99
-sku: 720102
+sku: 72012
 show_as_crosssells: false
 tag_color:
 tag_text:
