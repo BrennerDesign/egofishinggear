@@ -33,8 +33,8 @@ left_column_html: >-
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
   36in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
-  Extension</strong>&mdash;28lbs<br /><strong>Full
-  Extension</strong>&mdash;28lbs</p><div
+  Extension</strong>&mdash;24lbs<br /><strong>Full
+  Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>18" Slider Handle Extends To 36"</li><li>Non-Tangle PVC Coated
   Mesh</li><li>Flat Bottom / 16" Bag Depth</li><li>Medium Hoop Size 17" x
