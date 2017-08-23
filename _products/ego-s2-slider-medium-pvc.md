@@ -1,7 +1,7 @@
 ---
 name: EGO S2 SLIDER COMPACT PVC NYLON NET
 subheading: Standard Handle—Extends 29in–60in
-order_number: 3
+order_number: 7
 description: >-
   EGO Compact S2 Slider Medium Nylon Landing Net. Features the S2 Slider
   revolutionary extension handle fishing net reaching from 29" to 60"
