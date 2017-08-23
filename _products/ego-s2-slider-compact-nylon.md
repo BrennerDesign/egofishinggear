@@ -38,7 +38,7 @@ left_column_html: >-
   Mesh</li><li>28" Bag Depth</li><li>Medium Hoop Size 17" x
   19"</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p>Non-Tangle Nylon Mesh<img alt=""
+  <h7>NYLON MESH</h7><p>alt=""
   src="/uploads/Nylon_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
