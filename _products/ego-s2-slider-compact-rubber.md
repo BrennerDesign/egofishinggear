@@ -7,6 +7,7 @@ description: >-
   reaching up to 36"
 categories:
   - s2-nets
+  - ego-guide-nets
 price: 89.99
 sku: 72011
 show_as_crosssells: false
