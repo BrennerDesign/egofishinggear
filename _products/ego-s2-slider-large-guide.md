@@ -1,7 +1,7 @@
 ---
 name: EGO S2 SLIDER LARGE GUIDE NET
 subheading: Standard Handle—Extends 29in–60in
-order_number: 2
+order_number: 25
 description:
 categories:
   - s2-nets
@@ -40,14 +40,14 @@ left_column_html: >-
   kayaks and boats with limited space.&nbsp;</p><div
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in &mdash;
   60in</p><div class="divider">&nbsp;</div><h7>Load
-  Capacity</h7<p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
+  Capacity<strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
-  Extension</strong>&mdash;20lbs</p><div
+  Extension</strong>&mdash;20lbs<p>&nbsp;</p><div
   class="divider">&nbsp;</div><ul><li>Measure Net technology / Hands-free fish
   measurement</li><li>Ergonomic handle grip</li><li>Zip on/off replaceable mesh
   bag</li><li>Lightweight with minimal water drag</li><li>Measure fish up to 40
   inches</li><li>20" Bag Depth</li><li>Large Hoop Size 19" x
-  21"</li></ul><div>&nbsp;</div>
+  21"</li></ul><div>&nbsp;</div></h7>
 right_column_html: >-
   <h7>PVC COATED MEASURE NET</h7><p>Measure Net technology / Hands-free fish
   measurement</p><p><img alt="" src="/uploads/MeasureNet_400x150.jpg" /></p><div
