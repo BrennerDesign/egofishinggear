@@ -17,8 +17,8 @@ filter_handle: handle_compact
 filter_hoop: hoop_medium
 filter_mesh: mesh_clear_rubber
 slides:
-  - title: EGO S2 Slider Compact Rubber Net
-    image: /images/nets/72011_S2_Compact_Rubber_1160x533.jpg
+  - title: EGO S2 Slider Compact Clear Rubber Net
+    image: /images/nets/72013_S2_Compact_ClearRubber_1160x533.jpg
     video:
     is_video: false
   - title: S2 Slider Product Demo Video
