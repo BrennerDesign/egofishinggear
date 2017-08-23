@@ -1,21 +1,21 @@
 ---
-name: EGO S2 SLIDER COMPACT NYLON NET
-subheading: Compact Handle—Extends 18in—36in
-order_number: 2
+name: EGO S2 SLIDER MEDIUM NYLON NET
+subheading: Standard Handle—Extends 29in–60in
+order_number: 6
 description:
 categories:
   - s2-nets
-price: 79.99
-sku: 72010
+price: 89.99
+sku: 72060
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_compact
+filter_handle: handle_standard
 filter_hoop: hoop_medium
 filter_mesh: mesh_nylon
 slides:
-  - title: EGO S2 Slider Compact Nylon Net
-    image: /images/nets/72010_S2_Compact_Nylon_1160x533.jpg
+  - title: EGO S2 Slider Medium Nylon Net
+    image: /images/nets/72060_S2_Medium_Nylon_1160x533.jpg
     video:
     is_video: false
   - title: S2 Slider Product Demo Video
@@ -23,23 +23,23 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Compact Nylon Landing Net comes with the revolutionary S2
-  Slider extension handle technology, providing maximum reach with the shortest
-  possible handle. The S2 Slider modular platform also allows the handle to
-  detach, providing interchangeability of attachment tools, easy storage on
-  kayaks and boats with limited space.&nbsp;</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
-  36in</p><div class="divider">&nbsp;</div><h7>LOAD
+  <p>The EGO S2 Slider Medium Nylon Landing Net comes with the revolutionary S2
+  slider extension handle technology. With a simple pull or push of the S2
+  Slider handle grip, it gives the savvy angler real time control of the handle
+  extension length throughout the fish capturing process. The innovative modular
+  platform also allows the handle to detach, providing interchangeability of
+  attachment tools and compact storage.&nbsp;</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in &mdash;
+  60in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
-  Extension</strong>&mdash;28lbs<br /><strong>Full
-  Extension</strong>&mdash;28lbs</p><div
+  Extension</strong>&mdash;24lbs<br /><strong>Full
+  Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
-  Design</li><li>18" Slider Handle Extends To 36"</li><li>Non-Tangle Nylon
+  Design</li><li>29" Slider Handle Extends To 60"</li><li>Non-Tangle Nylon
   Mesh</li><li>28" Bag Depth</li><li>Medium Hoop Size 17" x
   19"</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt=""
-  src="/images/Nylon_400x150.jpg" /></p><div
+  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
