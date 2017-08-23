@@ -14,7 +14,7 @@ filter_handle: handle_compact
 filter_hoop: hoop_medium
 filter_mesh: mesh_nylon
 slides:
-  - title: EGO S2 Slider Compact Guide Net
+  - title: EGO S2 Slider Compact Nylon Net
     image: /images/nets/72010_S2_Compact_Nylon_1160x533.jpg
     video:
     is_video: false
