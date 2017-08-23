@@ -5,6 +5,7 @@ order_number: 1
 description:
 categories:
   - s2-nets
+  - ego-guide-nets
 price: 109.99
 sku: 72014
 show_as_crosssells: false
@@ -43,16 +44,17 @@ left_column_html: >-
   handle, providing interchangeability of attachment tools, easy storage on
   kayaks and boats with limited space.&nbsp;</p><div
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
-  36in</p><div class="divider">&nbsp;</div><h7>LOAD CAPACITY</h7>
-  <p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
-  Extension</strong>&mdash;28lbs<br /><strong>Full
+  36in</p><div class="divider">&nbsp;</div><h7>LOAD
+  CAPACITY</h7><p>&nbsp;</p><p><strong>Retracted</strong>&mdash;30lbs<br
+  /><strong>Partial Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;28lbs</p><div
   class="divider">&nbsp;</div><ul><li>Medium Hoop Size 17" x 19"</li><li>17" Bag
   Depth</li><li>Ergonomic handle grip</li><li>Zip on/off replaceable mesh
   bag</li><li>Lightweight with minimal water drag</li><li>Measure fish up to 36
   inches</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>PVC COATED MEASURE NET</h7><p><img alt="" src="/uploads/MeasureNet_400x150.jpg" /></p><div
+  <h7>PVC COATED MEASURE NET</h7><p><img alt=""
+  src="/uploads/MeasureNet_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
