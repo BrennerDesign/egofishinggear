@@ -1,24 +1,23 @@
 ---
-name: EGO S2 SLIDER COMPACT RUBBER NET
-subheading: Compact Handle—Extends 18in—36in
+name: EGO S2 SLIDER MEDIUM RUBBER NET
+subheading: Standard Handle—Extends 29in–60in
 order_number: 4
 description: >-
   EGO Compact S2 Slider Rubber Landing Net. A revolutionary extension handle net
   reaching up to 36"
 categories:
   - s2-nets
-  - ego-guide-nets
-price: 89.99
-sku: 72011
+price: 99.99
+sku: 72061
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_compact
+filter_handle: handle_standard
 filter_hoop: hoop_medium
 filter_mesh: mesh_rubber
 slides:
-  - title: EGO S2 Slider Compact Rubber Net
-    image: /images/nets/72011_S2_Compact_Rubber_1160x533.jpg
+  - title: EGO S2 SliderMedium Rubber Net
+    image: /images/nets/72061_S2_Medium_Rubber_1160x533.jpg
     video:
     is_video: false
   - title: S2 Slider Product Demo Video
