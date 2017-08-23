@@ -40,7 +40,7 @@ left_column_html: >-
   Mesh</li><li>Flat Bottom / 16" Bag Depth</li><li>Medium Hoop Size 17" x
   19"</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <p>PVC COATED NYLON MESH</p><p><img alt="" src="/images/Rubber_400x150.jpg"
+  <p>PVC COATED NYLON MESH</p><p><img alt="" src="/images/PVC_400x150.jpg"
   /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp;
   ACKNOWLEDGMENTS</h7><p><img alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
