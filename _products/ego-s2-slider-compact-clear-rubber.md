@@ -3,8 +3,8 @@ name: S2 SLIDER COMPACT CLEAR RUBBER NET
 subheading: Compact Handle—Extends 18in—36in
 order_number: 5
 description: >-
-  EGO Compact S2 SliderClear Rubber Landing Net. A revolutionary extension
-  handle net reaching up to 36"
+  The best Kayak fishing net. The EGO S2 Slider Compact Clear Rubber fishing
+  net. Features advanced handle extension technology. Extends 18" to 36"
 categories:
   - s2-nets
   - ego-guide-nets
@@ -28,9 +28,9 @@ slides:
 left_column_html: >-
   <p>The EGO S2 Slider Compact Clear Rubber Landing Net comes with the
   revolutionary S2 Slider extension handle technology, providing maximum reach
-  with the shortest possible handle. The S2 Slider modular platform also allows
-  the handle to detach, providing interchangeability of attachment tools, easy
-  storage on kayaks and boats with limited space.&nbsp;</p><div
+  with the shortest possible handle. The S2 Slider modular platform fishing net
+  also allows the handle to detach, providing interchangeability of attachment
+  tools, easy storage on kayaks and boats with limited space.&nbsp;</p><div
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
   36in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
