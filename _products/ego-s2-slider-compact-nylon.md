@@ -1,5 +1,5 @@
 ---
-name: S2 SLIDER COMPACT NYLON NET
+name: S2 SLIDER—COMPACT NYLON NET
 subheading: Compact Handle—Extends 18in—36in
 order_number: 1
 description: >-
