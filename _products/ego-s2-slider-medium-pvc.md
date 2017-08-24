@@ -1,10 +1,10 @@
 ---
-name: S2 SLIDER MEDIUM PVC NET
+name: S2 SLIDER—MEDIUM PVC NET
 subheading: Standard Handle—Extends 29in–60in
 order_number: 7
 description: >-
-  EGO S2 Slider Medium PVC Coated Landing Net. Features the S2 Slider
-  revolutionary extension handle fishing net reaching from 29" to 60"
+  Best Bass fishing net on the planet. EGO S2 Slider Medium PVC Coated fishing
+  net features advanced handle extension technology. Extends from 18" to 36"
 categories:
   - s2-nets
 price: 96.99
@@ -29,10 +29,10 @@ left_column_html: >-
   revolutionary S2 slider extension handle technology. With a simple pull or
   push of the S2 Slider handle grip, it gives the savvy angler real time control
   of the handle extension length throughout the fish capturing process. The
-  innovative modular platform also allows the handle to detach, providing
-  interchangeability of attachment tools and compact
-  storage.&nbsp;&nbsp;</p><div class="divider">&nbsp;</div><h7>HANDLE
-  EXTENDS</h7><p>29in &mdash; 60in</p><div class="divider">&nbsp;</div><h7>LOAD
+  innovative modular fishing net platform also allows the handle to detach,
+  providing interchangeability of attachment tools and compact storage.</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in &mdash;
+  60in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p><div
@@ -41,9 +41,9 @@ left_column_html: >-
   Mesh</li><li>Flat Bottom / 16" Bag Depth</li><li>Medium Hoop Size 17" x
   19"</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <p>PVC COATED NYLON MESH</p><p><img alt="" src="/images/PVC_400x150.jpg"
-  /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp;
-  ACKNOWLEDGMENTS</h7><p><img alt="" src="/images/spec2.jpg" /></p>
+  <p>PVC COATED MESH</p><p><img alt="" src="/images/PVC_400x150.jpg" /></p><div
+  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
+  alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
