@@ -1,8 +1,11 @@
 ---
-name: EGO S2 SLIDER LARGE GUIDE NET
+name: S2 SLIDER—LARGE GUIDE NET
 subheading: Standard Handle—Extends 29in–60in
 order_number: 25
-description:
+description: >-
+  Best Walleye fishing net on the planet. EGO S2 Slider Large Guide fishing net
+  features advanced handle extension technology and a measure net. Extends from
+  18" to 36"
 categories:
   - s2-nets
   - ego-guide-nets
@@ -34,13 +37,12 @@ slides:
 left_column_html: >-
   <p>The EGO S2 Slider Large PVC Coated Guide Landing Net comes with both the
   revolutionary S2 Slider extension handle and Measure Net technology. These two
-  great features provide for a &nbsp;maximum reach with the shortest possible
-  handle and the advantage of hands-free fish measurement up to 40
-  inches.</p><p>The S2 Slider modular platform also features a detachable
-  handle, providing interchangeability of attachment tools, easy storage on
-  kayaks and boats with limited space.&nbsp;</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in &mdash;
-  60in</p><div class="divider">&nbsp;</div><h7>Load
+  great features provide for a maximum reach with the shortest possible handle
+  and the advantage of hands-free fish measurement up to 40 inches.</p><p>The S2
+  Slider fishing net modular platform also features a detachable handle,
+  providing interchangeability of attachment tools, easy storage on kayaks and
+  boats with limited space.&nbsp;</p><div class="divider">&nbsp;</div><h7>HANDLE
+  EXTENDS</h7><p>29in &mdash; 60in</p><div class="divider">&nbsp;</div><h7>Load
   Capacity<strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs<p>&nbsp;</p><div
