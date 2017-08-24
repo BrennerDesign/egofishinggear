@@ -1,10 +1,10 @@
 ---
-name: EGO S2 SLIDER MEDIUM CLEAR RUBBER NET
+name: S2 SLIDER—MEDIUM CLEAR RUBBER NET
 subheading: Standard Handle—Extends 29in–60in
 order_number: 9
 description: >-
-  EGO Compact S2 Slider Clear Rubber Landing Net. Features the revolutionary EGO
-  S2 Slider extension handle net reaching up to 36"
+  Best Bass fishing net on the planet. EGO S2 Slider Medium Clear Rubber fishing
+  net features advanced handle extension technology. Extends from 18" to 36"
 categories:
   - s2-nets
 price: 99.99
@@ -25,12 +25,12 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Medium Clear Rubber Landing Net comes with the
-  revolutionary S2 slider extension handle technology. With a simple pull or
+  <p>The EGO S2 Slider Medium Clear lightweight Rubber Landing Net comes with
+  the revolutionary S2 slider extension handle technology. With a simple pull or
   push of the S2 Slider handle grip, it gives the savvy angler real time control
   of the handle extension length throughout the fish capturing process. The
-  innovative modular platform also allows the handle to detach, providing
-  interchangeability of attachment tools and compact storage.</p><div
+  innovative fishing net modular platform also allows the handle to detach,
+  providing interchangeability of attachment tools and compact storage.</p><div
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in &mdash;
   60in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
