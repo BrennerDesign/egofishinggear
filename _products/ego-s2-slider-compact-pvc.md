@@ -1,10 +1,10 @@
 ---
-name: EGO S2 SLIDER COMPACT PVC NYLON NET
+name: S2 SLIDER COMPACT PVC NYLON NET
 subheading: Compact Handle—Extends 18in—36in
 order_number: 3
 description: >-
-  EGO Compact S2 Slider PVC Coated Nylon Landing Net. With the revolutionary S2
-  Slider extension handle fishing net reaching from 18" to 36"
+  The best Kayak fishing net. The EGO S2 Slider Compact PVC fishing net features
+  advanced handle extension technology. Extends from 18" to 36"
 categories:
   - s2-nets
 price: 86.99
