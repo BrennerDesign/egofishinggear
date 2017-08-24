@@ -39,14 +39,13 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Compact PVC Coated Guide Landing Net comes with both the
-  revolutionary S2 Slider extension handle and Measure Net technology. These two
-  great features provide for a maximum reach with the shortest possible handle
-  and the advantage of hands-free fish measurement up to 36 inches.</p><p>The S2
-  Slider modular fishing net platform also features a detachable handle,
-  providing interchangeability of attachment tools, easy storage on kayaks and
-  boats with limited space.&nbsp;</p><div class="divider">&nbsp;</div><h7>HANDLE
-  EXTENDS</h7><p>18in &mdash; 36in</p><div class="divider">&nbsp;</div><h7>LOAD
+  <p>The EGO S2 Slider Compact Nylon Landing Net comes with the revolutionary S2
+  Slider extension handle technology, providing maximum reach with the shortest
+  possible handle. The S2 Slider modular fishing net platform also allows the
+  handle to detach, providing interchangeability of attachment tools, easy
+  storage on kayaks and boats with limited space.&nbsp;</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
+  36in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;28lbs</p><div
