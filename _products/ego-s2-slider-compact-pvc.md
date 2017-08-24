@@ -27,9 +27,9 @@ slides:
 left_column_html: >-
   <p>The EGO S2 Slider Compact PVC Coated Nylon Landing Net comes with the
   revolutionary S2 Slider extension handle technology, providing maximum reach
-  with the shortest possible handle. The S2 Slider modular platform also allows
-  the handle to detach, providing interchangeability of attachment tools, easy
-  storage on kayaks and boats with limited space.&nbsp;&nbsp;</p><div
+  with the shortest possible handle. The S2 Slider modular fishing net platform
+  also allows the handle to detach, providing interchangeability of attachment
+  tools, easy storage on kayaks and boats with limited space.&nbsp;</p><div
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
   36in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
@@ -40,9 +40,9 @@ left_column_html: >-
   Mesh</li><li>Flat Bottom / 16" Bag Depth</li><li>Medium Hoop Size 17" x
   19"</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <p>PVC COATED NYLON MESH</p><p><img alt="" src="/images/PVC_400x150.jpg"
-  /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp;
-  ACKNOWLEDGMENTS</h7><p><img alt="" src="/images/spec2.jpg" /></p>
+  <p>PVC COATED MESH</p><p><img alt="" src="/images/PVC_400x150.jpg" /></p><div
+  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
+  alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
