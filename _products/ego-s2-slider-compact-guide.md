@@ -1,5 +1,5 @@
 ---
-name: S2 SLIDER COMPACT GUIDE NET
+name: S2 SLIDER—COMPACT GUIDE NET
 subheading: Compact Handle—Extends 18in—36in
 order_number: 5
 description: >-
