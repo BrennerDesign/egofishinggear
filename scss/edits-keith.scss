@@ -10,9 +10,6 @@ p {
 
 
 
-
-
-
 /* Headings 
 ----------------------------------------------------------------------------------------*/
 
@@ -35,75 +32,3 @@ h7 {
 }
 
 
-
-/* Product Page Styles
-----------------------------------------------------------------------------------------*/
-
-	.expander_info .divider {
-		border-bottom: 1px solid #c4c4c4;
-		width: 100%;
-		margin: 0 0 24px 0;
-}
-
-.expander_info .left_column {
-    float: left;
-    width: 46%;
-    margin-bottom: 56px;
-    margin-top: 15px;
-}
-
-.expander_info .right_column {
-    float: right;
-    width: 46%;
-    margin-bottom: 56px;
-    margin-top: 15px;
-}
-
-.product_specs h2 {
-    color: #000;
-    margin: 26px 0 6px;
-    line-height: 1.2em;
-    font-size: 2em;
-}
-
-.product_specs .product_cart h6 {
-    text-transform: uppercase;
-    font-size: .857em;
-    color: #949494;
-    margin-top: 10px;
-}
-
-/* Product Cards Styles
-----------------------------------------------------------------------------------------*/
-
-.product_specs.cards img.thb_img {
-    width: 100%;
-    height: auto;
-    margin-top: 30px;
-    margin-bottom: 30px;
-}
-
-/* Other Products Product Page
-----------------------------------------------------------------------------------------*/
-
-.expander_info .other_products_slider {
-    clear: both;
-    border-top: 1px solid #c4c4c4;
-    width: 100%;
-    text-align: center;
-    padding: 60px 0 60px 0;
-   
-}
-
-/* Yotpo Review Widget Products Product Page
-----------------------------------------------------------------------------------------*/
-
-.yotpo .yotpo-first-review .yotpo-first-review-content {
-    text-align: center;
-    margin-bottom: 60px;
-}
-
-.yotpo .text-m {
-    font-size: 13px;
-    display: none;
-}
