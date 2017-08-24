@@ -1,5 +1,5 @@
 ---
-name: S2 SLIDER COMPACT CLEAR RUBBER NET
+name: S2 SLIDER—COMPACT CLEAR RUBBER NET
 subheading: Compact Handle—Extends 18in—36in
 order_number: 4
 description: >-
