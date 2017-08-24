@@ -7,7 +7,6 @@ description: >-
   net. Features advanced handle extension technology. Extends 18" to 36"
 categories:
   - s2-nets
-  - ego-guide-nets
 price: 89.99
 sku: 72013
 show_as_crosssells: false
