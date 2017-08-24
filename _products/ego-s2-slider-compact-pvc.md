@@ -1,5 +1,5 @@
 ---
-name: S2 SLIDER COMPACT PVC NYLON NET
+name: S2 SLIDER COMPACT PVC NET
 subheading: Compact Handle—Extends 18in—36in
 order_number: 2
 description: >-
@@ -25,7 +25,7 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Compact PVC Coated Nylon Landing Net comes with the
+  <p>The EGO S2 Slider Compact PVC Coated Landing Net comes with the
   revolutionary S2 Slider extension handle technology, providing maximum reach
   with the shortest possible handle. The S2 Slider modular fishing net platform
   also allows the handle to detach, providing interchangeability of attachment
