@@ -1,8 +1,10 @@
 ---
-name: EGO S2 SLIDER COMPACT NYLON NET
+name: S2 SLIDER COMPACT NYLON NET
 subheading: Compact Handle—Extends 18in—36in
-order_number: 2
-description:
+order_number: 1
+description: >-
+  The best Kayak fishing net. The EGO S2 Slider Compact Nylon fishing net
+  features advanced handle extension technology. Extends from 18" to 36"
 categories:
   - s2-nets
 price: 79.99
@@ -25,9 +27,9 @@ slides:
 left_column_html: >-
   <p>The EGO S2 Slider Compact Nylon Landing Net comes with the revolutionary S2
   Slider extension handle technology, providing maximum reach with the shortest
-  possible handle. The S2 Slider modular platform also allows the handle to
-  detach, providing interchangeability of attachment tools, easy storage on
-  kayaks and boats with limited space.&nbsp;</p><div
+  possible handle. The S2 Slider modular fishing net platform also allows the
+  handle to detach, providing interchangeability of attachment tools, easy
+  storage on kayaks and boats with limited space.&nbsp;</p><div
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
   36in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
@@ -38,8 +40,7 @@ left_column_html: >-
   Mesh</li><li>28" Bag Depth</li><li>Medium Hoop Size 17" x
   19"</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt=""
-  src="/images/Nylon_400x150.jpg" /></p><div
+  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
