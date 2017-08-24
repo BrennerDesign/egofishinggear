@@ -4,7 +4,7 @@ subheading: Standard Handle—Extends 29in–60in
 order_number: 7
 description: >-
   Best Bass fishing net on the planet. EGO S2 Slider Medium PVC Coated fishing
-  net features advanced handle extension technology. Extends from 18" to 36"
+  net features advanced handle extension technology. Extends from 29" to 60"
 categories:
   - s2-nets
 price: 96.99
