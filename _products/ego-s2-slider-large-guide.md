@@ -5,7 +5,7 @@ order_number: 25
 description: >-
   Best Walleye fishing net on the planet. EGO S2 Slider Large Guide fishing net
   features advanced handle extension technology and a measure net. Extends from
-  18" to 36"
+  29" to 60"
 categories:
   - s2-nets
   - ego-guide-nets
