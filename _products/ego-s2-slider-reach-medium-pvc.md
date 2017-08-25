@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—REACH MEDIUM PVC NET
-subheading: Standard Handle—Extends 29in–60in
+subheading: Standard Handle—Extends 48in–108in
 order_number: 21
 description: >-
   Best extendable Fishing Net on the Planet. EGO S2 Slider Reach Medium PVC
@@ -33,8 +33,8 @@ left_column_html: >-
   real time control of the handle extension length throughout the fish capturing
   process. The innovative fishing net modular platform also allows the handle to
   detach, providing interchangeability of attachment tools and compact
-  storage.</p><div class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in
-  &mdash; 60in</p><div class="divider">&nbsp;</div><h7>LOAD
+  storage.</p><div class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>48in
+  &mdash; 108in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;20lbs<br /><strong>Full
   Extension</strong>&mdash;12lbs</p><div
