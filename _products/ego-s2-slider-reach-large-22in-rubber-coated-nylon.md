@@ -1,11 +1,11 @@
 ---
-name: S2 SLIDER—LARGE 22in RUBBER COATED NYLON NET
-subheading: Standard Handle—Extends 29in–60in
-order_number: 16
+name: S2 SLIDER—REACH LARGE 22in RUBBER COATED NYLON NET
+subheading: REACH Handle—Extends 48in–108in
+order_number: 28
 description: >-
-  Best fishing net on the planet. EGO S2 Slider Large 22in Rubber Coated Nylon
-  landing net features advanced handle extension technology. Extends from 29" to
-  60"
+  Best extendable Fishing Net on the Planet. EGO S2 Slider Reach Large Rubber
+  Coated Nylon fishing net advanced handle extension technology. Extends from
+  48" to 108"
 categories:
   - s2-nets
 price: 109.99
@@ -13,12 +13,12 @@ sku: 72054
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_standard
+filter_handle: handle_reach
 filter_hoop: hoop_large22
 filter_mesh: mesh_ruber_coated_nylon
 slides:
-  - title: EGO S2 Slider Large 22in PVC Net
-    image: /images/nets/72054_S2_Large22_RCNylon_1160x533.jpg
+  - title: EGO S2 Slider Large 22in Rubber Coated Nylon Net
+    image: /images/nets/72089_S2_Reach_Large22_RCNylon_1160x533.jpg
     video:
     is_video: false
   - title: S2 Slider Product Demo Video
