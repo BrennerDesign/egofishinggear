@@ -27,8 +27,8 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Reach Medium Lightweight Clear Rubber Landing Net comes
-  with the revolutionary S2 slider extendable fishing net handle technology.
+  <p>The EGO S2 Slider Reach Large Lightweight Clear Rubber Landing Net comes
+  with the revolutionary S2 Slider extendable fishing net handle technology.
   With a simple pull or push of the S2 Slider handle grip, it gives the savvy
   angler real time control of the handle extension length throughout the fish
   capturing process. The innovative fishing net modular platform also allows the
