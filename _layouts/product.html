@@ -13,7 +13,7 @@ layout: default
                     <li class="product_slide">
                         <img src="{{ slide.image }}" alt="{{ slide.title }}" />
                         {% if slide.is_video == true %}
-                            <a href="{{slide.video}}" target="_blank"  class="play_btn">
+                            <a href="{{slide.video}}" target="_blank" class="play_btn">
                                 <img src="/images/video_play.png" alt="Play Video" />
                             </a>
                         {% endif %}
@@ -31,7 +31,7 @@ layout: default
             {% endif %}
 
             <header>
-                <h2 class="editable">{{ page.name }}</h2>
+                <h2 class="editable">S2 SLIDER&mdash;COMPACT CLEAR RUBBER NET2</h2>
                 <h3 class="editable">{{ page.subheading }}</h3>
             </header>
 
@@ -75,15 +75,7 @@ layout: default
 
                 <div class="bottom clearfix">
                     <div class="left_info">
-                        <div class="yotpo bottomLine"
-                          data-appkey="N83yliN6EOoZygW1ADH2alJgXVII1JgZoM9nX5sq"
-                          data-domain="Domain of the shop"
-                          data-product-id="{{ page.sku }}"
-                          data-name="{{ page.name }}"
-                          data-url="{{ page.url }}"
-                          data-image-url="{{ page.slides.first.image }}"
-                          data-description="{{ page.description }}"
-                          >
+                        <div class="yotpo bottomLine" data-appkey="N83yliN6EOoZygW1ADH2alJgXVII1JgZoM9nX5sq" data-domain="Domain of the shop" data-product-id="{{ page.sku }}" data-name="{{ page.name }}" data-url="{{ page.url }}" data-image-url="{{ page.slides.first.image }}" data-description="{{ page.description }}">
                         </div>
                         <h6>Item <span id="item-sku">#{{ page.sku }}</span></h6>
                     </div>
@@ -106,9 +98,7 @@ layout: default
                             {{ page.left_column_html }}
                         </div>
 
-                        <div class="right_column editable">
-                            {{ page.right_column_html }}
-                        </div>
+                        <div class="right_column editable"><p>LIGHTWEIGHT CLEAR RUBBER MESH</p><p><img alt="" src="/images/ClearRubber_400x150.jpg" /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img alt="" src="/images/spec2.jpg" /></p><p>&nbsp;</p></div>
 
                         <div class="other_products_slider clearfix">
                             <h2>Other Products You May Like</h2>
@@ -142,12 +132,7 @@ layout: default
                 <div class="expand_item">
                     <a href="#" class="product_expander"><h3>Reviews</h3><div class="icon"></div></a>
                     <div class="expander_info">
-                        <div class="yotpo yotpo-main-widget"
-                            data-product-id="{{ page.sku }}"
-                            data-name="{{ page.name }}"
-                            data-url="{{ page.url }}"
-                            data-image-url="{{ page.slides.first.image }}"
-                            data-description="{{ page.description }}">
+                        <div class="yotpo yotpo-main-widget" data-product-id="{{ page.sku }}" data-name="{{ page.name }}" data-url="{{ page.url }}" data-image-url="{{ page.slides.first.image }}" data-description="{{ page.description }}">
                         </div>
 
                     </div>
