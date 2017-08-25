@@ -3,8 +3,8 @@ name: S2 SLIDER—LARGE PVC NET
 subheading: Standard Handle—Extends 29in–60in
 order_number: 11
 description: >-
-  Best fishing net on the planet. EGO S2 Slider Large Nylon landing net features
-  advanced handle extension technology. Extends from 29" to 60"
+  Best fishing net on the planet. EGO S2 Slider Large PVC Coated landing net
+  features advanced handle extension technology. Extends from 29" to 60"
 categories:
   - s2-nets
 price: 109.99
@@ -25,8 +25,8 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Large Nylon Landing Net comes with the revolutionary S2
-  slider extension handle technology. With a simple pull or push of the S2
+  <p>The EGO S2 Slider Large PVC Coated Landing Net comes with the revolutionary
+  S2 slider extension handle technology. With a simple pull or push of the S2
   Slider handle grip, it gives the savvy angler real time control of the handle
   extension length throughout the fish capturing process. The innovative fishing
   net modular platform also allows the handle to detach, providing
@@ -38,10 +38,10 @@ left_column_html: >-
   Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>29" Slider Handle Extends To 60"</li><li>Unique Scoop
-  Design</li><li>Non-Tangle Nylon Mesh</li><li>31" Bag Depth</li><li>Large Hoop
-  Size 19" x 21"</li></ul><div>&nbsp;</div>
+  Design</li><li>Non-Tangle PVC Coated Mesh</li><li>Flat Bottom / 20" Bag
+  Depth</li><li>Large Hoop Size 19" x 21"</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><div
+  <h7>PVC MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
