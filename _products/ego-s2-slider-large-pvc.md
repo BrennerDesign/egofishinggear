@@ -41,9 +41,9 @@ left_column_html: >-
   Design</li><li>Non-Tangle PVC Coated Mesh</li><li>Flat Bottom / 20" Bag
   Depth</li><li>Large Hoop Size 19" x 21"</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>PVC MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><div
-  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
-  alt="" src="/images/spec2.jpg" /></p>
+  <h7>PVC COATED MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp;
+  ACKNOWLEDGMENTS</h7><p><img alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
