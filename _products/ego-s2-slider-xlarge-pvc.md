@@ -25,7 +25,7 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider XLarge Rubber Coated Nylon Landing Net comes with the
+  <p>The EGO S2 Slider XLarge PVC Coated Nylon Landing Net comes with the
   revolutionary S2 slider extension handle technology. With a simple pull or
   push of the S2 Slider handle grip, it gives the savvy angler real time control
   of the handle extension length throughout the fish capturing process. The
@@ -37,7 +37,7 @@ left_column_html: >-
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>29" Slider
-  Handle Extends To 60"</li><li>Unique Scoop Design</li><li>non-tangle rubber
+  Handle Extends To 60"</li><li>Unique Scoop Design</li><li>non-tangle PVC
   coated nylon mesh</li><li>38" Bag Depth</li><li>XLarge Hoop Size 24" x
   27"</li></ul><div>&nbsp;</div>
 right_column_html: >-
