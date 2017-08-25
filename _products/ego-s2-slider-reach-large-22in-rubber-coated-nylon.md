@@ -18,7 +18,7 @@ filter_handle: handle_reach
 filter_hoop: hoop_large22
 filter_mesh: mesh_ruber_coated_nylon
 slides:
-  - title: EGO S2 Slider Large 22in Rubber Coated Nylon Net
+  - title: EGO S2 Slider Large 22in </br>Rubber Coated Nylon Net
     image: /images/nets/72089_S2_Reach_Large22_RCNylon_1160x533.jpg
     video:
     is_video: false
