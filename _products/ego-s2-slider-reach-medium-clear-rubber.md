@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—REACH MEDIUM Clear Rubber NET
-subheading: Standard Handle—Extends 29in–60in
+subheading: Standard Handle—Extends 48in–108in
 order_number: 23
 description: >-
   Best extendable Fishing Net on the Planet. EGO S2 Slider Reach Medium Clear
@@ -27,23 +27,25 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Reach Medium PVC Coated Nylon Landing Net comes with the
-  revolutionary S2 slider extendable fishing net handle technology. With a
-  simple pull or push of the S2 Slider handle grip, it gives the savvy angler
-  real time control of the handle extension length throughout the fish capturing
-  process. The innovative fishing net modular platform also allows the handle to
-  detach, providing interchangeability of attachment tools and compact
-  storage.</p><div class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in
-  &mdash; 60in</p><div class="divider">&nbsp;</div><h7>LOAD
+  <p>The EGO S2 Slider Reach Medium Lightweight Clear Rubber Landing Net comes
+  with the revolutionary S2 slider extendable fishing net handle technology.
+  With a simple pull or push of the S2 Slider handle grip, it gives the savvy
+  angler real time control of the handle extension length throughout the fish
+  capturing process. The innovative fishing net modular platform also allows the
+  handle to detach, providing interchangeability of attachment tools and compact
+  storage.</p><div class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>48in
+  &mdash; 108in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;20lbs<br /><strong>Full
   Extension</strong>&mdash;12lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>48" Slider
-  Handle Extends To 108"</li><li>Unique Scoop Design</li><li>Non-Tangle PVC
-  Coated Mesh</li><li>Flat Bottom / 16" Bag Depth</li><li>Medium Hoop Size 17" x
+  Handle Extends To 108"</li><li>Unique Scoop Design</li><li>Non-Tangle
+  Lightweight Clear Rubber Mesh</li><li>Flat Bottom / 15" Bag Depth<br
+  />(Stretches up to 1.5X with load)</li><li>Medium Hoop Size 17" x
   19"</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <p>PVC COATED MESH</p><p><img alt="" src="/images/PVC_400x150.jpg" /></p><div
+  <p>CLEAR LIGHTWEIGHT RUBBER MESH</p><p><img alt=""
+  src="/images/PVC_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
