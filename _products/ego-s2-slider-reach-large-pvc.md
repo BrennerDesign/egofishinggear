@@ -3,7 +3,7 @@ name: S2 SLIDER—REACH LARGE PVC NET
 subheading: REACH Handle—Extends 48in–108in
 order_number: 24
 description: >-
-  Best extendable Fishing Net on the Planet. EGO S2 Slider Reach Large PVC
+  Best Extendable Fishing Net on the Planet. EGO S2 Slider Reach Large PVC
   Coated fishing net advanced handle extension technology. Extends from 48" to
   108"
 categories:
@@ -27,7 +27,7 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Reach Medium PVC Coated Nylon Landing Net comes with the
+  <p>The EGO S2 Slider Reach Large PVC Coated Nylon Landing Net comes with the
   revolutionary S2 slider extendable fishing net handle technology. With a
   simple pull or push of the S2 Slider handle grip, it gives the savvy angler
   real time control of the handle extension length throughout the fish capturing
@@ -40,8 +40,8 @@ left_column_html: >-
   Extension</strong>&mdash;12lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>48" Slider
   Handle Extends To 108"</li><li>Unique Scoop Design</li><li>Non-Tangle PVC
-  Coated Mesh</li><li>Flat Bottom / 16" Bag Depth</li><li>Medium Hoop Size 17" x
-  19"</li></ul><div>&nbsp;</div>
+  Coated Mesh</li><li>Flat Bottom / 20" Bag Depth</li><li>Large Hoop Size 19" x
+  21"</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <p>PVC COATED MESH</p><p><img alt="" src="/images/PVC_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
