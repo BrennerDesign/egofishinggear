@@ -32,8 +32,8 @@ left_column_html: >-
   real time control of the handle extension length throughout the fish capturing
   process. The innovative fishing net modular platform also allows the handle to
   detach, providing interchangeability of attachment tools and compact
-  storage.</p><div class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in
-  &mdash; 60in</p><div class="divider">&nbsp;</div><h7>LOAD
+  storage.</p><div class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>48in
+  &mdash; 108in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;20lbs<br /><strong>Full
   Extension</strong>&mdash;12lbs</p><div
@@ -42,7 +42,7 @@ left_column_html: >-
   Coated Mesh</li><li>Flat Bottom / 16" Bag Depth</li><li>Medium Hoop Size 17" x
   19"</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <p>PVC COATED MESH</p><p><img alt="" src="/images/PVC_400x150.jpg" /></p><div
+  <p>RUBBER MESH</p><p><img alt="" src="/images/PVC_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
