@@ -18,7 +18,7 @@ filter_handle: handle_reach
 filter_hoop: hoop_large
 filter_mesh: mesh_deep_rubber
 slides:
-  - title: EGO S2 Slider Reach Large PVC Nylon Coated Net
+  - title: EGO S2 Slider Reach Large Deep Rubber Net
     image: /images/nets/72084_S2_Reach_Large_DeepR_1160x533.jpg
     video:
     is_video: false
