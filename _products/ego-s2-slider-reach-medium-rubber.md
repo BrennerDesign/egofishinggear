@@ -1,25 +1,24 @@
 ---
-name: S2 SLIDER—REACH MEDIUM PVC NET
-subheading: Standard Handle—Extends 29in–60in
-order_number: 21
+name: S2 SLIDER—REACH MEDIUM RUBBER NET
+subheading: Reach Handle—Extends 48in–108in
+order_number: 22
 description: >-
-  Best extendable Fishing Net on the Planet. EGO S2 Slider Reach Medium PVC
-  Coated fishing net advanced handle extension technology. Extends from 48" to
-  108"
+  Best extendable Fishing Net on the Planet. EGO S2 Slider Reach Medium Rubber
+  fishing net advanced handle extension technology. Extends from 48" to 108"
 categories:
   - s2-nets
   - reach-nets
-price: 119.99
-sku: 72081
+price: 124.99
+sku: 72082
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_reach
 filter_hoop: hoop_medium
-filter_mesh: mesh_pvc_coated_nylon
+filter_mesh: mesh_rubber
 slides:
-  - title: EGO S2 Slider Reach Medium PVC Nylon Coated Net
-    image: /images/nets/72081_S2_Reach_Medium_PVC_1160x533.jpg
+  - title: EGO S2 Slider Reach Medium Rubber Net
+    image: /images/nets/72082_S2_Reach_Medium_Rubber_1160x533.jpg
     video:
     is_video: false
   - title: S2 Slider Product Demo Video
