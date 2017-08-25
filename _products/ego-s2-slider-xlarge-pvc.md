@@ -16,7 +16,7 @@ filter_handle: handle_standard
 filter_hoop: hoop_xlarge
 filter_mesh: mesh_pvc_coated_nylon
 slides:
-  - title: EGO S2 Slider Large 22in PVC Net
+  - title: EGO S2 Slider XLarge PVC Coated Net
     image: /images/nets/72156_S2_XL_PVC_1160x533.jpg
     video:
     is_video: false
