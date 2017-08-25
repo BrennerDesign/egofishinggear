@@ -14,7 +14,7 @@ sku: 72081
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_standard
+filter_handle: handle_reach
 filter_hoop: hoop_medium
 filter_mesh: mesh_pvc_coated_nylon
 slides:
@@ -36,11 +36,11 @@ left_column_html: >-
   storage.</p><div class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in
   &mdash; 60in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
-  Extension</strong>&mdash;24lbs<br /><strong>Full
-  Extension</strong>&mdash;20lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
-  Design</li><li>29" Slider Handle Extends To 60"</li><li>Non-Tangle PVC Coated
-  Mesh</li><li>Flat Bottom / 16" Bag Depth</li><li>Medium Hoop Size 17" x
+  Extension</strong>&mdash;20lbs<br /><strong>Full
+  Extension</strong>&mdash;12lbs</p><div
+  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>48" Slider
+  Handle Extends To 108"</li><li>Unique Scoop Design</li><li>Non-Tangle PVC
+  Coated Mesh</li><li>Flat Bottom / 16" Bag Depth</li><li>Medium Hoop Size 17" x
   19"</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <p>PVC COATED MESH</p><p><img alt="" src="/images/PVC_400x150.jpg" /></p><div
