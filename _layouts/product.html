@@ -31,8 +31,8 @@ layout: default
             {% endif %}
 
             <header>
-                <h2>{{ page.name }}</h2>
-                <h3>{{ page.subheading }}</h3>
+                <h2 class="editable">{{ page.name }}</h2>
+                <h3 class="editable">{{ page.subheading }}</h3>
             </header>
 
             
@@ -102,11 +102,11 @@ layout: default
                     <a href="#" class="product_expander expanded"><h3>Technical Specs</h3><div class="icon"></div></a>
                     <div class="expander_info clearfix">
 
-                        <div class="left_column">
+                        <div class="left_column editable">
                             {{ page.left_column_html }}
                         </div>
 
-                        <div class="right_column">
+                        <div class="right_column editable">
                             {{ page.right_column_html }}
                         </div>
 
@@ -157,9 +157,9 @@ layout: default
                     <a href="#" class="product_expander"><h3>Warranty</h3><div class="icon"></div></a>
                     <div class="expander_info">
 
-                        <div class="left_column">{{page.warranty_left_column_html}}</div>
+                        <div class="left_column editable">{{page.warranty_left_column_html}}</div>
 
-                        <div class="right_column">{{page.warranty_right_column_html}}</div>
+                        <div class="right_column editable">{{page.warranty_right_column_html}}</div>
 
                     </div>
                 </div><!-- .expand_item -->
