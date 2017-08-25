@@ -85,7 +85,7 @@ layout: default
                           data-description="{{ page.description }}"
                           >
                         </div>
-                        <h6>Item <span id="item-sku">#{{ page.sku }}</span></h6>
+                        <h6>Item <span id="item-sku">#<span class="editable">{{ page.sku }}</span></span></h6>
                     </div>
 
                     {% include snipcart-button.html product=page %}
