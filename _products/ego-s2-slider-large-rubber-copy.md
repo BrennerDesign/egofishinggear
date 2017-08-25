@@ -1,23 +1,23 @@
 ---
-name: S2 SLIDER—LARGE RUBBER NET
+name: S2 SLIDER—LARGE CLEAR RUBBER NET
 subheading: Standard Handle—Extends 29in–60in
-order_number: 10
+order_number: 14
 description: >-
-  Best fishing net on the planet. EGO S2 Slider Large Rubber landing net
+  Best fishing net on the planet. EGO S2 Slider Large Clear Rubber landing net
   features advanced handle extension technology. Extends from 29" to 60"
 categories:
   - s2-nets
 price: 109.99
-sku: 72051
+sku: 72057
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_standard
 filter_hoop: hoop_large
-filter_mesh: mesh_rubber
+filter_mesh: mesh_clear_rubber
 slides:
-  - title: EGO S2 Slider Medium Nylon Net
-    image: /images/nets/72051_S2_Large_Rubber_1160x533.jpg
+  - title: EGO S2 Slider Large Clear Lightweight Rubber Net
+    image: /images/nets/72057_S2_Large_ClearRubber_1160x533.jpg
     video:
     is_video: false
   - title: S2 Slider Product Demo Video
@@ -25,7 +25,7 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Large lightweight Rubber Landing Net comes with the
+  <p>The EGO S2 Slider Large Clear Lightweight Rubber Landing Net comes with the
   revolutionary S2 slider extension handle technology. With a simple pull or
   push of the S2 Slider handle grip, it gives the savvy angler real time control
   of the handle extension length throughout the fish capturing process. The
@@ -39,10 +39,10 @@ left_column_html: >-
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>29" Slider
   Handle Extends To 60"</li><li>Unique Scoop Design</li><li>Non-Tangle
   Lightweight Rubber Mesh</li><li>Flat Bottom / 15" Bag Depth<br />(Stretches up
-  to 1.5X with load)</li><li>Large Hoop Size 19" x
-  21"</li></ul><div>&nbsp;</div>
+  to 1.5X with load)</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><div
+  <p>CLEAR LIGHTWEIGHT RUBBER MESH</p><p><img alt=""
+  src="/images/Nylon_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
