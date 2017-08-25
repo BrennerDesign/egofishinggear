@@ -1,23 +1,23 @@
 ---
-name: S2 SLIDER—LARGE RUBBER NET
+name: S2 SLIDER—LARGE DEEP RUBBER NET
 subheading: Standard Handle—Extends 29in–60in
-order_number: 10
+order_number: 15
 description: >-
-  Best fishing net on the planet. EGO S2 Slider Large Rubber landing net
+  Best fishing net on the planet. EGO S2 Slider Large Deep Rubber landing net
   features advanced handle extension technology. Extends from 29" to 60"
 categories:
   - s2-nets
-price: 109.99
-sku: 72051
+price: 119.99
+sku: 72035
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_standard
 filter_hoop: hoop_large
-filter_mesh: mesh_rubber
+filter_mesh: mesh_deep_rubber
 slides:
-  - title: EGO S2 Slider Large Rubber
-    image: /images/nets/72051_S2_Large_Rubber_1160x533.jpg
+  - title: EGO S2 Slider Large Deep Rubber Net
+    image: /images/nets/72035_S2_Large_DeepRubber_1160x533.jpg
     video:
     is_video: false
   - title: S2 Slider Product Demo Video
