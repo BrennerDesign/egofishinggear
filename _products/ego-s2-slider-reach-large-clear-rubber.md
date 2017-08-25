@@ -39,10 +39,9 @@ left_column_html: >-
   Extension</strong>&mdash;20lbs<br /><strong>Full
   Extension</strong>&mdash;12lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>48" Slider
-  Handle Extends To 108"</li><li>Unique Scoop Design</li><li>Non-Tangle
-  Lightweight Clear Rubber Mesh</li><li>Flat Bottom / 15" Bag Depth<br
-  />(Stretches up to 1.5X with load)</li><li>Medium Hoop Size 17" x
-  19"</li></ul><div>&nbsp;</div>
+  Handle Extends To 108"</li><li>Unique Scoop Design</li><li>Non-Tangle Clear
+  Rubber Mesh</li><li>Flat Bottom / 15" Bag Depth<br />(Stretches up to 1.5X
+  with load)</li><li>Large Hoop Size 19" x 21"</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <p>CLEAR LIGHTWEIGHT RUBBER MESH</p><p><img alt=""
   src="/images/ClearRubber_400x150.jpg" /></p><div
