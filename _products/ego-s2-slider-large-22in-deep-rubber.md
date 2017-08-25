@@ -1,23 +1,23 @@
 ---
-name: S2 SLIDER—LARGE 22in PVC NET
+name: S2 SLIDER—LARGE 22in DEEP RUBBER NET
 subheading: Standard Handle—Extends 29in–60in
-order_number: 15
+order_number: 17
 description: >-
-  Best fishing net on the planet. EGO S2 Slider Large 22in PVC Coated landing
+  Best fishing net on the planet. EGO S2 Slider Large 22in Deep Rubber landing
   net features advanced handle extension technology. Extends from 29" to 60"
 categories:
   - s2-nets
-price: 109.99
-sku: 72056
+price: 119.99
+sku: 72036
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_standard
 filter_hoop: hoop_large22
-filter_mesh: mesh_pvc_coated_nylon
+filter_mesh: mesh_deep_rubber
 slides:
-  - title: EGO S2 Slider Large 22in PVC Net
-    image: /images/nets/72056_S2_Large22_PVC_1160x533.jpg
+  - title: EGO S2 Slider Large 22in Deep Rubber Net
+    image: /images/nets/72036_S2_Large22_DeepRubber_1160x533.jpg
     video:
     is_video: false
   - title: S2 Slider Product Demo Video
