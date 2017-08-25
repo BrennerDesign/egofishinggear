@@ -1,10 +1,11 @@
 ---
-name: S2 SLIDER—LARGE 22in PVC NET
+name: S2 SLIDER—LARGE 22in RUBBER COATED NYLON NET
 subheading: Standard Handle—Extends 29in–60in
-order_number: 15
+order_number: 16
 description: >-
-  Best fishing net on the planet. EGO S2 Slider Large 22in PVC Coated landing
-  net features advanced handle extension technology. Extends from 29" to 60"
+  Best fishing net on the planet. EGO S2 Slider Large 22in Rubber Coated Nylon
+  landing net features advanced handle extension technology. Extends from 29" to
+  60"
 categories:
   - s2-nets
 price: 109.99
@@ -14,10 +15,10 @@ tag_color:
 tag_text:
 filter_handle: handle_standard
 filter_hoop: hoop_large22
-filter_mesh: mesh_pvc_coated_nylon
+filter_mesh: mesh_ruber_coated_nylon
 slides:
   - title: EGO S2 Slider Large 22in PVC Net
-    image: /images/nets/72056_S2_Large22_PVC_1160x533.jpg
+    image: /images/nets/72054_S2_Large22_RCNylon_1160x533.jpg
     video:
     is_video: false
   - title: S2 Slider Product Demo Video
@@ -25,11 +26,11 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Large 22&rdquo; PVC Coated Nylon Landing Net comes with
-  the revolutionary S2 slider extension handle technology. With a simple pull or
-  push of the S2 Slider handle grip, it gives the savvy angler real time control
-  of the handle extension length throughout the fish capturing process. The
-  innovative fishing net modular platform also allows the handle to detach,
+  <p>The EGO S2 Slider Large 22&rdquo; Rubber Coated Nylon Landing Net comes
+  with the revolutionary S2 slider extension handle technology. With a simple
+  pull or push of the S2 Slider handle grip, it gives the savvy angler real time
+  control of the handle extension length throughout the fish capturing process.
+  The innovative fishing net modular platform also allows the handle to detach,
   providing interchangeability of attachment tools and compact storage.</p><div
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in &mdash;
   60in</p><div class="divider">&nbsp;</div><h7>LOAD
@@ -38,7 +39,7 @@ left_column_html: >-
   Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>29" Slider Handle Extends To 60"</li><li>Unique Scoop
-  Design</li><li>Non-Tangle PVC Coated Mesh</li><li>Flat Bottom / 20" Bag
+  Design</li><li>Non-Tangle Rubber Coated Mesh</li><li>31" Bag
   Depth</li><li>Large Hoop Size 22" x 23"</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>PVC COATED MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
