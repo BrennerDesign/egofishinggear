@@ -16,7 +16,7 @@ filter_handle: handle_standard
 filter_hoop: hoop_large
 filter_mesh: mesh_rubber
 slides:
-  - title: EGO S2 Slider Medium Nylon Net
+  - title: EGO S2 Slider Large Rubber
     image: /images/nets/72051_S2_Large_Rubber_1160x533.jpg
     video:
     is_video: false
