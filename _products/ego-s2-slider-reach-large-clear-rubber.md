@@ -1,25 +1,25 @@
 ---
-name: S2 SLIDER—REACH MEDIUM Clear Rubber NET
+name: S2 SLIDER—REACH LARGE Clear Rubber NET
 subheading: REACH Handle—Extends 48in–108in
-order_number: 23
+order_number: 26
 description: >-
-  Best extendable Fishing Net on the Planet. EGO S2 Slider Reach Medium Clear
+  Best extendable Fishing Net on the Planet. EGO S2 Slider Reach Large Clear
   Rubber fishing net advanced handle extension technology. Extends from 48" to
   108"
 categories:
   - s2-nets
   - reach-nets
 price: 124.99
-sku: 72087
+sku: 72088
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_reach
-filter_hoop: hoop_medium
+filter_hoop: hoop_large
 filter_mesh: mesh_clear_rubber
 slides:
-  - title: EGO S2 Slider Reach Medium Clear Rubber Net
-    image: /images/nets/72087_S2_Reach_Medium_CRubber_1160x533.jpg
+  - title: EGO S2 Slider Reach Large Clear Rubber Net
+    image: /images/nets/72088_S2_Reach_Large_ClearR_1160x533.jpg
     video:
     is_video: false
   - title: S2 Slider Product Demo Video
