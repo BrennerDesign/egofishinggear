@@ -1,23 +1,23 @@
 ---
-name: S2 SLIDER—LARGE PVC NET
+name: S2 SLIDER—LARGE 22in PVC NET
 subheading: Standard Handle—Extends 29in–60in
-order_number: 11
+order_number: 15
 description: >-
-  Best fishing net on the planet. EGO S2 Slider Large PVC Coated landing net
-  features advanced handle extension technology. Extends from 29" to 60"
+  Best fishing net on the planet. EGO S2 Slider Large 22in PVC Coated landing
+  net features advanced handle extension technology. Extends from 29" to 60"
 categories:
   - s2-nets
 price: 109.99
-sku: 72053
+sku: 72056
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_standard
-filter_hoop: hoop_large
+filter_hoop: hoop_large22
 filter_mesh: mesh_pvc_coated_nylon
 slides:
-  - title: EGO S2 Slider PVC Net
-    image: /images/nets/72053_S2_Large_PVC_1160x533.jpg
+  - title: EGO S2 Slider Large 22in PVC Net
+    image: /images/nets/72056_S2_Large22_PVC_1160x533.jpg
     video:
     is_video: false
   - title: S2 Slider Product Demo Video
