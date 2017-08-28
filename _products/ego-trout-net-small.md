@@ -22,12 +22,12 @@ slides:
     is_video: false
 left_column_html: >-
   <p>The EGO Small Nylon Trout Net is lightweight and has a built-in retractable
-  quick-draw tether plus a waits-band clip. &nbsp;An ideal trout net for the
+  quick-draw tether plus a waistband clip. &nbsp;An ideal trout net for the
   angler who needs a great net at a reasonable price.</p><div
   class="divider">&nbsp;</div><ul><li>Product Weight: 0.5 lbs</li><li>Hoop:
   12&rdquo; x 15&rdquo;</li><li>Bag Depth:
   12&rdquo;&nbsp;</li><li>Non-Tangle/Hook-Free</li><li>Rubber Coated Nylon
-  Mesh</li><li>Waist-Band Clip-On</li><li>Retractable Quick-Draw</li></ul>
+  Mesh</li><li>Waistband Clip-On</li><li>Retractable Quick-Draw</li></ul>
 right_column_html: >-
   <h7>SMALL NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
   /></p><p>&nbsp;</p>
