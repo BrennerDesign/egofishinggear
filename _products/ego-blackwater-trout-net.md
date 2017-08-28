@@ -1,6 +1,6 @@
 ---
 name: EGO TROUT NET LARGE
-subheading: Nylon Mesh
+subheading: Measure Net technology
 order_number: 3
 description: >-
   Measure your fish with the EGO Blackwater Fly Fishing Net.  Featuring Measure
@@ -45,7 +45,7 @@ left_column_html: >-
   bag</li><li>Non-tangle / hook free vinyl coated mesh</li><li>Lightweight with
   minimal water drag</li></ul>
 right_column_html: >-
-  <h7>Measure Net Technology&nbsp;</h7><p><img alt=""
+  <h7><p>Measure Net technology</p></h7><p><img alt=""
   src="/images/Nylon_400x150.jpg" /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
