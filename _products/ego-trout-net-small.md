@@ -1,20 +1,20 @@
 ---
-name: S2 SLIDER—COMPACT NYLON NET
-subheading: Compact Handle—Extends 18in—36in
+name: EGO TROUT NET SMALL
+subheading: Small Nylon Mesh
 order_number: 1
 description: >-
-  The best Kayak fishing net. The EGO S2 Slider Compact Nylon fishing net
-  features advanced handle extension technology. Extends from 18" to 36"
+  Great Nylon Trout Net at a great price.  EGO Fishing Gear, designing fishing
+  gear for the savvy angler.
 categories:
-  - s2-nets
-price: 79.99
-sku: 72010
+  - ego-trout-nets
+price: 11.99
+sku: 71590
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_compact
-filter_hoop: hoop_medium
-filter_mesh: mesh_nylon
+filter_handle:
+filter_hoop:
+filter_mesh:
 slides:
   - title: EGO S2 Slider Compact Nylon Net
     image: /images/nets/72010_S2_Compact_Nylon_1160x533.jpg
@@ -25,24 +25,15 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Compact Nylon Landing Net comes with the revolutionary S2
-  Slider extension handle technology, providing maximum reach with the shortest
-  possible handle. The S2 Slider modular fishing net platform also allows the
-  handle to detach, providing interchangeability of attachment tools, easy
-  storage on kayaks and boats with limited space.&nbsp;</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
-  36in</p><div class="divider">&nbsp;</div><h7>LOAD
-  CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
-  Extension</strong>&mdash;28lbs<br /><strong>Full
-  Extension</strong>&mdash;28lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
-  Design</li><li>18" Slider Handle Extends To 36"</li><li>Non-Tangle Nylon
-  Mesh</li><li>28" Bag Depth</li><li>Medium Hoop Size 17" x
-  19"</li></ul><div>&nbsp;</div>
+  <p>The EGO Small Nylon Trout Net is lightweight has a built-in retractable
+  quick-draw tether and wait-band clip. &nbsp; An ideal trout net for the angler
+  who needs a great net at a reasonable price.</p><ul><li>Product Weight: 0.5
+  lbs</li><li>Hoop: 12&rdquo; x 15&rdquo;</li><li>Bag Depth:
+  12&rdquo;&nbsp;</li><li>Non-Tangle/Hook-Free</li><li>Rubber Coated Nylon
+  Mesh</li><li>Waist-Band Clip-On</li><li>Retractable Quick-Draw</li></ul>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><div
-  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
-  alt="" src="/images/spec2.jpg" /></p>
+  <h7>SMALL NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  /></p><div class="divider">&nbsp;</div><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
