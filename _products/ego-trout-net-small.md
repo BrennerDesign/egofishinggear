@@ -3,8 +3,8 @@ name: EGO TROUT NET SMALL
 subheading: Small Nylon Mesh
 order_number: 1
 description: >-
-  Great Nylon Trout Net at a great price.  EGO Fishing Gear, designing fishing
-  gear for the savvy angler.
+  Great Nylon Trout Net at a great price.  EGO Small Trout Net by Ego Fishing
+  Gear.
 categories:
   - ego-trout-nets
 price: 11.99
@@ -21,11 +21,11 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO Small Nylon Trout Net is lightweight has a built-in retractable
-  quick-draw tether and wait-band clip. &nbsp;An ideal trout net for the angler
-  who needs a great net at a reasonable price.</p><div
-  class="divider">&nbsp;</div><ul><li>Product Weight: 0.5
-  lbs</li><li>Hoop: 12&rdquo; x 15&rdquo;</li><li>Bag Depth:
+  <p>The EGO Small Nylon Trout Net is lightweight and has a built-in retractable
+  quick-draw tether plus a waits-band clip. &nbsp;An ideal trout net for the
+  angler who needs a great net at a reasonable price.</p><div
+  class="divider">&nbsp;</div><ul><li>Product Weight: 0.5 lbs</li><li>Hoop:
+  12&rdquo; x 15&rdquo;</li><li>Bag Depth:
   12&rdquo;&nbsp;</li><li>Non-Tangle/Hook-Free</li><li>Rubber Coated Nylon
   Mesh</li><li>Waist-Band Clip-On</li><li>Retractable Quick-Draw</li></ul>
 right_column_html: >-
