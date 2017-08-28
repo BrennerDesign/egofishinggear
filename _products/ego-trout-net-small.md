@@ -17,18 +17,15 @@ filter_hoop:
 filter_mesh:
 slides:
   - title: EGO S2 Slider Compact Nylon Net
-    image: /images/nets/72010_S2_Compact_Nylon_1160x533.jpg
+    image: /images/nets/71590_EGO_Trout_Nylon_Small_1160x533.jpg
     video:
     is_video: false
-  - title: S2 Slider Product Demo Video
-    image: /uploads/S2_Slider_Video_Joe_2.0_1200x550.jpg
-    video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
-    is_video: true
 left_column_html: >-
   <p>The EGO Small Nylon Trout Net is lightweight has a built-in retractable
   quick-draw tether and wait-band clip. &nbsp;An ideal trout net for the angler
-  who needs a great net at a reasonable price.<div class="divider">&nbsp;</div></p><ul><li>Product
-  Weight: 0.5 lbs</li><li>Hoop: 12&rdquo; x 15&rdquo;</li><li>Bag Depth:
+  who needs a great net at a reasonable price.</p><div
+  class="divider">&nbsp;</div><p>&nbsp;</p><ul><li>Product Weight: 0.5
+  lbs</li><li>Hoop: 12&rdquo; x 15&rdquo;</li><li>Bag Depth:
   12&rdquo;&nbsp;</li><li>Non-Tangle/Hook-Free</li><li>Rubber Coated Nylon
   Mesh</li><li>Waist-Band Clip-On</li><li>Retractable Quick-Draw</li></ul>
 right_column_html: >-
