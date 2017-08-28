@@ -61,6 +61,12 @@ h7 {
   height: auto;
   margin-top: 0px; }
 
+.product_specs.cards .product_blk_titles {
+  height: 90px;
+  overflow: visible;
+  z-index: 10;
+  position: relative; }
+
 /* Yotpo Review Widget Products Product Page
 ----------------------------------------------------------------------------------------*/
 .yotpo .yotpo-first-review .yotpo-first-review-content {
