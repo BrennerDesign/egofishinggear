@@ -1,14 +1,14 @@
 ---
 name: EGO TROUT NET LARGE
 subheading: Nylon Mesh
-order_number: 2
+order_number: 3
 description: >-
-  Great Nylon Trout Net at a great price.  EGO Large Trout Net by Ego Fishing
-  Gear.
+  Measure your fish with the EGO Blackwater Fly Fishing Net.  Featuring Measure
+  Net technology / Hands-free fish measurement, Retractable Quick-Draw
 categories:
   - ego-trout-nets
-price: 11.99
-sku: 71480
+price: 49.99
+sku: 71690
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -16,18 +16,34 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 slides:
-  - title: EGO Trout Net Nylon Small
-    image: /images/nets/71480_EGO_Trout_Nylon_Large_1160x533.jpg
+  - title: EGO Blackwater Trout Net
+    image: /images/nets/71690_EGO_Trout_BlackWater_1_1160x533.jpg
+    video:
+    is_video: false
+  - title: EGO Blackwater Trout Net Measure Net Technology
+    image: /images/nets/71690_EGO_Trout_BlackWater_2_1160x533.jpg
+    video:
+    is_video: false
+  - title: EGO Blackwater Trout Net Zip on and off mesh bag
+    image: /images/nets/71690_EGO_Trout_BlackWater_3_1160x533.jpg
+    video:
+    is_video: false
+  - title: EGO Blackwater Trout Net  Quick Draw
+    image: /images/nets/71690_EGO_Trout_BlackWater_4_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO Large Nylon Trout Net is lightweight and has a built-in retractable
-  quick-draw tether plus a waistband clip. &nbsp;An ideal trout net for the
-  angler who needs a great net at a reasonable price.</p><div
-  class="divider">&nbsp;</div><ul><li>Product Weight: 0.5 lbs</li><li>Hoop:
-  13.5&rdquo; x 17&rdquo;</li><li>Bag Depth:
-  20&rdquo;&nbsp;</li><li>Non-Tangle/Hook-Free</li><li>Rubber Coated Nylon
-  Mesh</li><li>Waistband Clip-On</li><li>Retractable Quick-Draw</li></ul>
+  <p>The EGO Blackwater trout net has been designed to meet the fishing style
+  requirements of both the amateur and avid fly fisherman. The net, featuring
+  Measure Net technology, provides the angler with the advantage of hands-free
+  fish measurement. It is the ultimate solution to catch and release trout
+  fishing, preserving the fish and allowing it to be released unharmed.</p><div
+  class="divider">&nbsp;</div><ul><li>Product Weight: 0.7 lbs</li><li>Hoop:
+  10.5&rdquo; x 15&rdquo;</li><li>Bag Depth: 11&rdquo;&nbsp;</li><li>Measure Net
+  technology / Hands-free fish measurement</li><li>Ergonomic handle
+  grip</li><li>Retractable Quick-Draw&nbsp;</li><li>Zip on/off replaceable mesh
+  bag</li><li>Non-tangle / hook free vinyl coated mesh</li><li>Lightweight with
+  minimal water drag</li></ul>
 right_column_html: >-
   <h7>LARGE NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
   /></p><p>&nbsp;</p>
