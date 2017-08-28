@@ -45,8 +45,8 @@ left_column_html: >-
   bag</li><li>Non-tangle / hook free vinyl coated mesh</li><li>Lightweight with
   minimal water drag</li></ul>
 right_column_html: >-
-  <h7>LARGE NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
-  /></p><p>&nbsp;</p>
+  <h7>Measure Net Technology&nbsp;</h7><p><img alt=""
+  src="/images/Nylon_400x150.jpg" /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
