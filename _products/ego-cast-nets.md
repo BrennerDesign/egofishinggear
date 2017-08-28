@@ -5,7 +5,7 @@ order_number: 2
 description:
 categories:
 price: '149.00'
-price_range: $149.00 - $299.99
+price_range: $149.00 - 299.99
 sku: '61206'
 show_as_crosssells: false
 tag_color:
