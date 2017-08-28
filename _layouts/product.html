@@ -153,16 +153,18 @@ layout: default
                     </div>
                 </div><!-- .expand_item -->
 
-                <div class="expand_item">
-                    <a href="#" class="product_expander"><h3>Warranty</h3><div class="icon"></div></a>
-                    <div class="expander_info">
+                {% if page.warranty_left_column_html and page.warranty_left_column_html != blank %}
+                    <div class="expand_item">
+                        <a href="#" class="product_expander"><h3>Warranty</h3><div class="icon"></div></a>
+                        <div class="expander_info">
 
-                        <div class="left_column">{{page.warranty_left_column_html}}</div>
+                            <div class="left_column">{{page.warranty_left_column_html}}</div>
 
-                        <div class="right_column">{{page.warranty_right_column_html}}</div>
+                            <div class="right_column">{{page.warranty_right_column_html}}</div>
 
-                    </div>
-                </div><!-- .expand_item -->
+                        </div>
+                    </div><!-- .expand_item -->
+                {% endif %}
 
             </div><!-- .expanders -->
 
