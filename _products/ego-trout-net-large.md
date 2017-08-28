@@ -17,7 +17,7 @@ filter_hoop:
 filter_mesh:
 slides:
   - title: EGO Trout Net Nylon Small
-    image: /images/nets/71590_EGO_Trout_Nylon_Small_1160x533.jpg
+    image: /images/nets/71480_EGO_Trout_Nylon_Large_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
