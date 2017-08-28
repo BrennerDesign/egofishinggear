@@ -29,7 +29,7 @@ left_column_html: >-
   12&rdquo;&nbsp;</li><li>Non-Tangle/Hook-Free</li><li>Rubber Coated Nylon
   Mesh</li><li>Waistband Clip-On</li><li>Retractable Quick-Draw</li></ul>
 right_column_html: >-
-  <h7>SMALL NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>SMALL NYLON MESH</h7><p><img alt="" src="/images/Small_Nylon_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
