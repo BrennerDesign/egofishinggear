@@ -65,9 +65,5 @@ warranty_left_column_html: >-
   Rd.<br />Macon, GA 31206</p><p><strong>2) Submits proof of date of original
   purchase.</strong></p><p><a class="block_btn" href="/contact-us">File Claim
   Online</a></p>
-warranty_right_column_html: >-
-  <p>This warranty does not cover damage resulting from accident, misuse, abuse,
-  tampering, unreasonable use or normal wear.</p><p>ADVENTURE PRODUCTS, INC.
-  MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
-  MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
+warranty_right_column_html:
 ---
