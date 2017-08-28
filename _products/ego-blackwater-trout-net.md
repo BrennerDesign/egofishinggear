@@ -46,7 +46,7 @@ left_column_html: >-
   minimal water drag</li></ul>
 right_column_html: >-
   <h7><p>Measure Net technology</p></h7><p><img alt=""
-  src="/images/Nylon_400x150.jpg" /></p><p>&nbsp;</p>
+  src="/images/BlackWaterTrout_Mesh_400x150.jpg" /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
