@@ -4,12 +4,14 @@
     {% for product in myproducts %}
         <a class="product_card {{product.filter_handle}} {{product.filter_hoop}} {{product.filter_mesh}}" href="{{product.url}}">
 
-            <h3>{{product.name}}</h3>
-            <h4>{{product.subheading}}</h4>
+            <div class="product_blk_titles">
+                <h3>{{product.name}}</h3>
+                <h4>{{product.subheading}}</h4>
 
-            {% if product.tag_text and product.tag_text != blank %}
-                <div class="{{ product.tag_color }}">{{ product.tag_text }}</div>
-            {% endif %}
+                {% if product.tag_text and product.tag_text != blank %}
+                    <div class="{{ product.tag_color }}">{{ product.tag_text }}</div>
+                {% endif %}
+            </div>
 
             <img class="thb_img" src="{{product.slides[0].image}}" alt="{{product.name}}" />
 

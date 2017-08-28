@@ -389,7 +389,7 @@ h6 {
 			border-bottom: 2px solid $light-grey2;
 		}
 		> a {
-			padding: 0 14px 11px;
+			padding: 0 14px 14px;
 			margin-bottom: 0;
 			@media (max-width: 1160px) {
 				padding: 0 1px 6px;
@@ -2826,6 +2826,17 @@ header.trout_net {
 	padding-top: 90px;
 	clear: both;
 	border-top: none;
+	.add-to-cart-trigger-btn {
+		border: 0;
+		background: transparent;
+		float: left;
+		cursor: pointer;
+			&:hover,
+			&:active,
+			&:focus {
+			outline:0;
+		}
+	}
 	.product_card {
 		width: 43.95%;
 		float: left;
@@ -2843,11 +2854,18 @@ header.trout_net {
 			width: 100%;
 		}
 	}
+	.product_blk_titles {
+		height: 106px;
+		overflow: visible;
+		z-index: 10;
+		position: relative;
+	}
 	h3 {
 		color: black;
 		text-transform: uppercase;
 		margin: 0 0 5px;
 		font-size: 1.6428em; /* 23px */
+		line-height: 1.2em;
 	}
 	h4 {
 		color: $red;
@@ -2865,7 +2883,7 @@ header.trout_net {
 		text-transform: uppercase;
 		font-size: 0.857em; /* 12px */
 		color: $light-grey3;
-		margin-top: 8px;
+		margin: 8px 0 2px;
 	}
 	.new_tag {
 		position: static;
@@ -3468,6 +3486,12 @@ img.mfp-img {
 		width: 72px;
 		height: 72px;
 		display: block;
+		@media all and (max-width: 580px) {
+			width: 50px;
+			height: 50px;
+			margin-top: -25px;
+			top: 42%;
+		}
 		img {
 			width: 100%;
 			height: auto;
@@ -3487,10 +3511,6 @@ img.mfp-img {
 	width: 100%; 
 	height: auto;
 	display: block;
-	@media (max-width: 480px) {
-		height: 240px;
-		width: auto;
-	}
 }
 .flex-pauseplay span {text-transform: capitalize;}
 
