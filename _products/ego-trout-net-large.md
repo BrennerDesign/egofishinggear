@@ -3,8 +3,8 @@ name: EGO TROUT NET LARGE
 subheading: Nylon Mesh
 order_number: 2
 description: >-
-  Great Nylon Trout Net at a great price.  EGO Fishing Gear, fishing gear for
-  the savvy angler.
+  Great Nylon Trout Net at a great price.  EGO Large Trout Net by Ego Fishing
+  Gear.
 categories:
   - ego-trout-nets
 price: 11.99
