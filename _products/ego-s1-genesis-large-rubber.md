@@ -17,7 +17,7 @@ filter_hoop: hoop_large
 filter_mesh: mesh_rubber
 slides:
   - title: EGO S1 Genesis Large Rubber Net
-    image: /images/nets/71153_S1_L_RCN_1160x533.jpg
+    image: /images/nets/71151_S1_L_RUBBER_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
