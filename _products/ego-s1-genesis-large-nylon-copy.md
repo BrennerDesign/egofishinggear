@@ -1,7 +1,7 @@
 ---
 name: S1 GENESIS—LARGE RUBBER NET
 subheading: 31in Removable Handle — 19in x 21in Hoop
-order_number: 9
+order_number: 12
 description: >-
   Best large fishing net on the planet. EGO S1 Genesis Large Rubber fishing net
   FLOATS and features a removable handle for component interchangeability.
@@ -21,21 +21,21 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Large Nylon net utilizes a strong lightweight
-  hexagonal extruded aluminum handle design that provides economical and
-  dependable functionality.&nbsp; With a simple twist of the wrist, any EGO
+  <p>The innovative EGO S1 Genesis Large Rubber net utilizes a strong
+  lightweight hexagonal extruded aluminum handle design that provides economical
+  and dependable functionality.&nbsp; With a simple twist of the wrist, any EGO
   accessories hoop head or attachment tool can be securely fastened and ready
   for use. The modular platform allows for component interchangeability and
   compact storage. EGO Fishing Nets are the first choice for the Savvy angler.
   &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 31"</li><li>Mesh bag:
-  Nylon</li><li>Bag depth: 31"</li><li>Hoop Size: Medium 19" x
-  21"</li><li>Minimal water drag</li><li>Weight: 1.35
-  lbs</li></ul><div>&nbsp;</div>
+  design</li><li>Removable handle &ndash; 31"</li><li>Mesh bag: Lightweight
+  non-tangle rubber mesh</li><li>Bag depth: 24" Flat Bottom (Stretches up to
+  1.5X with load)</li><li>Hoop Size: Large 19" x 21"</li><li>Minimal water
+  drag</li><li>Weight: 2.1 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
