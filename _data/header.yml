@@ -127,10 +127,6 @@ header_links:
       - name: New S1 Genesis Kryptek Nets
         link: /s1-genesis-kryptek-nets/
         image: /images/nav_net.jpg
-  - name: Apparel
-    link: /ego-apparel/
-    has_sub_menu: false
-    has_hover_bar: true
   - name: Contact Us
     link: /contact-us/
     has_sub_menu: false
