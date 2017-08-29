@@ -254,9 +254,10 @@ $(document).ready(function() {
 
 	// click filter buttons
 	$('.filter_expand input').click(function() {
-		if ($(this).parent().parent().parent().hasClass("checked")) {
+		var parent = $(this).closest('.filter_expand');
+		if (parent.hasClass("checked")) {
 		} else {
-			$(this).parent().parent().parent().addClass("checked");
+			parent.addClass("checked");
 			$('.product_specs.cards .product_card').fadeOut();
 		}
 	});
