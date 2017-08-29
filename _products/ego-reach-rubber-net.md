@@ -1,14 +1,15 @@
 ---
 name: EGO REACH
-subheading: PVC Coated Mesh
-order_number: 1
+subheading: Rubber Mesh
+order_number: 2
 description: >-
   The Ultimate Crappie Landing Net. Features a Telescoping Handle reaching up to
-  8.6 feet. The EGO Reach fishing net is the OFFICIAL NET OF CRAPPIE USA.
+  8.6 feet and rubber mesh. The EGO Reach fishing net is the OFFICIAL NET OF
+  CRAPPIE USA.
 categories:
   - reach-nets
-price: 46.99
-sku: 71001
+price: 49.99
+sku: 71002
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -16,8 +17,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 slides:
-  - title: EGO Reach Crappie Landing Net
-    image: /images/nets/71001_Reach_RCN_1160x533.jpg
+  - title: EGO Reach Rubber Crappie Landing Net
+    image: /images/nets/71002_Reach_Rubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
