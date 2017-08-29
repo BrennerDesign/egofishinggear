@@ -27,7 +27,6 @@ left_column_html: >-
   extension length throughout the fish capturing process. The innovative fishing
   net modular platform also allows the handle to detach, providing
   interchangeability of attachment tools and compact storage.</p><div
-  class="divider">&nbsp;</div><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Product Weight:&nbsp; 3.0
   lbs</li><li>Hoop: 27&rdquo; x 33&rdquo;</li><li>Handle: 66&rdquo; Anodized
   Octagonal Aluminum</li><li>Bag Depth: 38&rdquo;&nbsp;</li></ul>
