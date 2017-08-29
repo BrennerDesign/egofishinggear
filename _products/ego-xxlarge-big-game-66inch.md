@@ -21,17 +21,15 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO S2 Slider Large Nylon Landing Net comes with the revolutionary S2
-  slider extension handle technology. With a simple pull or push of the S2
-  Slider handle grip, it gives the savvy angler real time control of the handle
-  extension length throughout the fish capturing process. The innovative fishing
-  net modular platform also allows the handle to detach, providing
-  interchangeability of attachment tools and compact storage.</p><div
+  <p>The EGO S2 Slider XXLarge Nylon Big Game Landing Net comes was designed to
+  make fishing big fish like Salmon, Striper, Muskie and other large fish.
+  Designed to float for easy recovery if dropped or blown overboard.
+  &nbsp;Designed with a functional grip that aids in net control, eliminates
+  bulky yoke assemblies and protects mono line from being frayed or cut</p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Product Weight:&nbsp; 3.0
   lbs</li><li>Hoop: 27&rdquo; x 33&rdquo;</li><li>Handle: 66&rdquo; Anodized
   Octagonal Aluminum</li><li>Bag Depth: 38&rdquo;&nbsp;</li></ul>
-right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p>
+right_column_html: <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
