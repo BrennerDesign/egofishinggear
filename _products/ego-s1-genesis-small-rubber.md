@@ -30,12 +30,13 @@ left_column_html: >-
   for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong><br />&nbsp;</p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 13"</li><li>Mesh bag:
-  Nylon</li><li>Bag depth: 20"</li><li>Hoop Size: Small 14" x
-  16"</li><li>Minimal water drag</li><li>Weight: .95
-  lbs</li></ul><div>&nbsp;</div>
+  design</li><li>Removable handle &ndash; 13"</li><li>Mesh bag: Lightweight
+  non-tangle clear rubber mesh</li><li>Bag depth: 11" Flat Bottom (Stretches up
+  to 1.5X with load)</li><li>Hoop Size: Small 14" x 16"</li><li>Minimal water
+  drag</li><li>Weight: 1.35 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg" /></p><div
+  <h7>LIGHTWEIGHT CLEAR RUBBER MESH</h7><p><img alt=""
+  src="/images/Rubber_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
