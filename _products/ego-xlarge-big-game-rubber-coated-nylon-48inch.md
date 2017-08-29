@@ -16,7 +16,7 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 slides:
-  - title: EGO S2 XL Rubber Coated Nylon BIG GAME STRIPER an Catfish NET
+  - title: EGO XL Rubber Coated Nylon BIG GAME STRIPER an Catfish NET
     image: /images/nets/71003_XL_RCN_1160x533.jpg
     video:
     is_video: false
