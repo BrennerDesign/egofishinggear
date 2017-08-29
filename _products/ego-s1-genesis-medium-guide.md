@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS—MEDIUM GUIDE NET
-subheading: 13in Removable Handle — 14in x 16in Hoop
+subheading: 13in Removable Handle — 17in x 19in Hoop
 order_number: 4
 description: >-
   Best medium fishing net on the planet. EGO S1 Genesis Medium  fishing net
@@ -48,8 +48,8 @@ left_column_html: >-
   19"</li><li>Measure fish up to 36 inches</li><li>Weight: 2.55
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7></h7><p>PVC COATED MEASURE NET<img alt="" src="/images/MeasureNet_400x150.jpg"
-  /></p><p>&nbsp;</p>
+  <h7></h7><p>PVC COATED MEASURE NET<img alt=""
+  src="/images/MeasureNet_400x150.jpg" /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
