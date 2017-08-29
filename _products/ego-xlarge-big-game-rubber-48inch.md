@@ -4,7 +4,7 @@ subheading: 48 inch Handle—24in x 29in Hoop
 order_number: 3
 description: >-
   Best big game rubber fishing net on the planet for CATFISH fishing. EGO XLarge
-  rubber landing net comes with a 48-inch handle and FLOATS.
+  rubber fishing net comes with a 48-inch handle and FLOATS.
 categories:
   - big-game-nets
 price: 82.99
