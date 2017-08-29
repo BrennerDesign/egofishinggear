@@ -76,3 +76,8 @@ h7 {
 .yotpo .text-m {
   font-size: 13px;
   display: none; }
+
+/* Yotpo Review Page
+----------------------------------------------------------------------------------------*/
+.product_specs.warranty .yotpo-review-page {
+  clear: both; }
