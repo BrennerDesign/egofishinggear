@@ -3,7 +3,7 @@ name: S1 GENESIS—MEDIUM RUBBER COATED  NYLON NET
 subheading: 25in Removable Handle — 17in x 19in Hoop
 order_number: 5
 description: >-
-  Best small fishing net on the planet. EGO S1 Genesis Medium Nylon Rubber
+  Best medium fishing net on the planet. EGO S1 Genesis Medium Nylon Rubber
   Coated Nylon fishing net FLOATS and features a removable handle for component
   interchangeability.
 categories:
