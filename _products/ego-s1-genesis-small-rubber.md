@@ -3,7 +3,7 @@ name: S1 GENESIS—SMALL RUBBER NET
 subheading: 13in Removable Handle — 14in x 16in Hoop
 order_number: 2
 description: >-
-  Best small fishing net on the planet. EGO S1 Genesis Small Nylon fishing net
+  Best small fishing net on the planet. EGO S1 Genesis Small Rubber fishing net
   FLOATS and features a removable handle for component interchangeability.
 categories:
   - s1-nets
@@ -21,13 +21,13 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Small Nylon net utilizes a strong lightweight
-  hexagonal extruded aluminum handle design that provides economical and
-  dependable functionality.&nbsp; With a simple twist of the wrist, any EGO
-  accessories hoop head or attachment tool can be<br />securely fastened and
-  ready for use. The modular platform allows for component interchangeability
-  and compact storage. EGO Fishing Nets are the first choice for the Savvy
-  angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  <p>The innovative EGO S1 Genesis Small lightweight Rubber fishing net utilizes
+  a strong lightweight hexagonal extruded aluminum handle design that provides
+  economical and dependable functionality.&nbsp; With a simple twist of the
+  wrist, any EGO accessories hoop head or attachment tool can be<br />securely
+  fastened and ready for use. The modular platform allows for component
+  interchangeability and compact storage. EGO Fishing Nets are the first choice
+  for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong><br />&nbsp;</p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>Removable handle &ndash; 13"</li><li>Mesh bag:
