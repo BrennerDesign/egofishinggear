@@ -1,6 +1,6 @@
 ---
 name: EGO BIG GAME—XXLARGE NYLON NET
-subheading: 66 inch Handle—FLOATS
+subheading: 66 inch Handle—27in x 33in Hoop
 order_number: 5
 description: >-
   Best big game fishing net on the planet for SALMON, and STRIPER. EGO XXLarge
