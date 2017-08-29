@@ -35,7 +35,7 @@ left_column_html: >-
   1.5X with load)</li><li>Hoop Size: Large 19" x 21"</li><li>Weight: 1.75
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
