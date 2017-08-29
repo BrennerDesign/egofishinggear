@@ -1,24 +1,23 @@
 ---
-name: S1 GENESIS—LARGE RUBBER COATED  NYLON NET
+name: S1 GENESIS—LARGE PVC COATED NET
 subheading: 31in Removable Handle — 19in x 21in Hoop
-order_number: 10
+order_number: 11
 description: >-
-  Best small fishing net on the planet. EGO S1 Genesis Large Nylon Rubber Coated
-  Nylon fishing net FLOATS and features a removable handle for component
-  interchangeability.
+  Best Large fishing net on the planet. EGO S1 Genesis Large PVC Coated fishing
+  net FLOATS and features a removable handle for component interchangeability.
 categories:
   - s1-nets
-price: 54.99
-sku: 71153
+price: 64.99
+sku: 71353
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_large
 filter_hoop: hoop_large
-filter_mesh: mesh_ruber_coated_nylon
+filter_mesh: mesh_pvc_coated_nylon
 slides:
-  - title: EGO S1 Genesis Large Rubber Coated Nylon Net
-    image: /images/nets/71153_S1_L_RCN_1160x533.jpg
+  - title: EGO S1 Genesis Large PVC Coated Net
+    image: /images/nets/71353_S1_L_PVC_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
