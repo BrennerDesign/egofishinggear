@@ -29,7 +29,7 @@ left_column_html: >-
   fastened and ready for use. The modular platform allows for component
   interchangeability and compact storage. EGO Fishing Nets are the first choice
   for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
-  CAPACITY</h7><p><strong>30lbs</strong><br />&nbsp;</p><div
+  CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>Removable handle &ndash; 13"</li><li>Mesh bag: Lightweight
   non-tangle clear rubber mesh</li><li>Bag depth: 11" Flat Bottom (Stretches up
