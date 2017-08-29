@@ -28,7 +28,7 @@ left_column_html: >-
   fastened and ready for use. The modular platform allows for component
   interchangeability and compact storage. EGO Fishing Nets are the first choice
   for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
-  CAPACITY</h7><p><strong>30lbs</strong><br />&nbsp;</p><div
+  CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>Removable handle &ndash; 13"</li><li>Mesh bag: Lightweight
   non-tangle rubber mesh</li><li>Bag depth: 11" Flat Bottom (Stretches up to
@@ -36,8 +36,7 @@ left_column_html: >-
   drag</li><li>Weight: 1.35 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt=""
-  src="/images/Rubber_400x150.jpg" /></p><div
-  class="divider">&nbsp;</div><p>&nbsp;</p>
+  src="/images/Rubber_400x150.jpg" /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
