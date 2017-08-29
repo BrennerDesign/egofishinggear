@@ -1,14 +1,14 @@
 ---
-name: EGO TROUT NET SMALL
+name: EGO REACH
 subheading: Small Nylon Mesh
 order_number: 1
 description: >-
-  Great Nylon Trout Net at a great price.  EGO Small Trout Net by Ego Fishing
-  Gear.
+  The Best Telescoping Quick Twist-Lock Handle Crappie Landing Net. The EGO
+  Reach fishing net is the net of Crappie USA.
 categories:
-  - ego-trout-nets
-price: 11.99
-sku: 71590
+  - reach-nets
+price: 46.99
+sku: 71001
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -24,10 +24,10 @@ left_column_html: >-
   <p>The EGO Small Nylon Trout Net is lightweight and has a built-in retractable
   quick-draw tether plus a waistband clip. &nbsp;An ideal trout net for the
   angler who needs a great net at a reasonable price.</p><div
-  class="divider">&nbsp;</div><ul><li>Product Weight: 0.5 lbs</li><li>Hoop:
-  12&rdquo; x 15&rdquo;</li><li>Bag Depth:
-  12&rdquo;&nbsp;</li><li>Non-Tangle/Hook-Free</li><li>Rubber Coated Nylon
-  Mesh</li><li>Waistband Clip-On</li><li>Retractable Quick-Draw</li></ul>
+  class="divider">&nbsp;</div><ul><li>Hoop: 14&rdquo; x 18&rdquo;</li><li>Bag
+  Depth: 15&rdquo;&nbsp;</li><li>Reaches up to 8' 6" inches</li><li>Unique Scoop
+  Design</li><li>Non-Tangle/Hook-Free PVC Coated Mesh</li><li>Telescoping Quick
+  Twist-Lock Handle</li><li>Product Weight: 1.8 lbs</li></ul>
 right_column_html: >-
   <h7>SMALL NYLON MESH</h7><p><img alt="" src="/images/Small_Nylon_400x150.jpg"
   /></p><p>&nbsp;</p>
