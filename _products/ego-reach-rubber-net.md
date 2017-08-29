@@ -1,5 +1,5 @@
 ---
-name: EGO REACH
+name: EGO REACH CRAPPIE FISHING NET
 subheading: Rubber Mesh
 order_number: 2
 description: >-
