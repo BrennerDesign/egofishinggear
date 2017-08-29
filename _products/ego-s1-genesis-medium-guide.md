@@ -20,6 +20,18 @@ slides:
     image: /images/nets/71790_S1_Compact_Guide_1160x533.jpg
     video:
     is_video: false
+  - title:
+    image: /images/nets/72014_S2_Compact_Guide_IMG2_1160x533.jpg
+    video:
+    is_video: false
+  - title:
+    image: /images/nets/72014_S2_Compact_Guide_IMG3_1160x533.jpg
+    video:
+    is_video: false
+  - title:
+    image: /images/nets/72014_S2_Compact_Guide_IMG4_1160x533.jpg
+    video:
+    is_video: false
 left_column_html: >-
   <p>The EGO S1 Genesis PVC Coated Guide fishing net comes with Measure Net
   technology and a strong lightweight hexagonal extruded aluminum handle design
