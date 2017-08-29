@@ -35,7 +35,7 @@ left_column_html: >-
   1.5X with load)</li><li>Hoop Size: Small 14" x 16"</li><li>Minimal water
   drag</li><li>Weight: 1.35 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>LIGHTWEIGHT CLEAR RUBBER MESH</h7><p><img alt=""
+  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt=""
   src="/images/Rubber_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><p>&nbsp;</p>
 warranty_left_column_html: >-
