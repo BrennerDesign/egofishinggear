@@ -1,11 +1,10 @@
 ---
-name: S1 GENESIS—MEDIUM PVC COATED NET
-subheading: 25in Removable Handle — 17in x 19in Hoop
+name: S1 GENESIS—MEDIUM GUIDE NET
+subheading: 13in Removable Handle — 14in x 16in Hoop
 order_number: 6
 description: >-
-  Best medium fishing net on the planet. EGO S1 Genesis Medium PVC Coated
-  fishing net FLOATS and features a removable handle for component
-  interchangeability.
+  Best medium fishing net on the planet. EGO S1 Genesis Medium  fishing net
+  FLOATS and features a removable handle for component interchangeability.
 categories:
   - s1-nets
 price: 58.99
@@ -17,25 +16,26 @@ filter_handle: handle_medium
 filter_hoop: hoop_medium
 filter_mesh: mesh_pvc_coated_nylon
 slides:
-  - title: EGO S1 Genesis Medium PVC Coated Net
-    image: /images/nets/71363_S1_M_PVC_1160x533.jpg
+  - title: EGO S1 Genesis Medium Guide Net
+    image: /images/nets/71790_S1_Compact_Guide_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Medium PVC Coated fishing net utilizes a
-  strong lightweight hexagonal extruded aluminum handle design that provides
-  economical and dependable functionality.&nbsp; With a simple twist of the
-  wrist, any EGO accessories hoop head or attachment tool can be securely
+  <p>The EGO S1 Genesis PVC Coated Guide fishing net comes with Measure Net
+  technology and a strong lightweight hexagonal extruded aluminum handle design
+  that provides economical and dependable functionality. With a simple twist of
+  the wrist, any EGO accessories hoop head or attachment tool can be securely
   fastened and ready for use. The modular platform allows for component
   interchangeability and compact storage. EGO Fishing Nets are the first choice
   for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 25"</li><li>Mesh bag: PVC Coated
-  Mesh</li><li>Bag depth: 16" flat bottom</li><li>Hoop Size: Medium 17" x
-  19"</li><li>Weight: 1.3 lbs</li></ul><div>&nbsp;</div>
+  design</li><li>Removable handle &ndash; 13"</li><li>Zip on/off replaceable
+  mesh bag</li><li>Bag depth: 17&rdquo;</li><li>Hoop size: Medium 17" x
+  19"</li><li>Measure fish up to 36 inches</li><li>Weight: 2.55
+  lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>PVC COATED MESH</h7><p><img alt="" src="/images/PVC_400x150.jpg"
+  <h7></h7><p>PVC COATED MEASURE NET<img alt="" src="/images/PVC_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
