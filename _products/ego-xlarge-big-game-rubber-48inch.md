@@ -32,7 +32,7 @@ left_column_html: >-
   Anodized Octagonal Aluminum</li><li>Flat bottom Lightweight Rubber Mesh
   Net</li><li>Bag Depth: 16&rdquo; (Stretches up to 1.5X with load)</li></ul>
 right_column_html: >-
-  <h7>Lightweight Rubber Mesh</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>Lightweight Rubber Mesh</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
   /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
