@@ -22,8 +22,8 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Medium Lightweight Rubber net utilizes a
-  strong lightweight hexagonal extruded aluminum handle design that provides
+  <p>The innovative EGO S1 Genesis Medium Lightweight Clear Rubber net utilizes
+  a strong lightweight hexagonal extruded aluminum handle design that provides
   economical and dependable functionality.&nbsp; With a simple twist of the
   wrist, any EGO accessories hoop head or attachment tool can be securely
   fastened and ready for use. The modular platform allows for component
@@ -32,11 +32,11 @@ left_column_html: >-
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>Removable handle &ndash; 25"</li><li>Mesh bag: Lightweight
-  non-tangle rubber mesh</li><li>Bag depth: 15" Flat Bottom (Stretches up to
-  1.5X with load)</li><li>Hoop Size: Small 17" x 19"</li><li>Weight: 1.65
+  non-tangle clear rubber mesh</li><li>Bag depth: 15" Flat Bottom (Stretches up
+  to 1.5X with load)</li><li>Hoop Size: Small 17" x 19"</li><li>Weight: 1.65
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt=""
+  <h7>LIGHTWEIGHT CLEAR RUBBER MESH</h7><p><img alt=""
   src="/images/Rubber_400x150.jpg" /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
