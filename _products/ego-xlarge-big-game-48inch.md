@@ -3,7 +3,7 @@ name: EGO BIG GAME—XLARGE NYLON NET
 subheading: 48 inch Handle—FLOATS
 order_number: 1
 description: >-
-  Best big game fishing net on the planet for STRIPER fishing. EGO XXLarge Nylon
+  Best big game fishing net on the planet for CATFISH fishing. EGO XLarge Nylon
   landing net comes with a 48-inch handle and FLOATS.
 categories:
   - big-game-nets
@@ -21,15 +21,16 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO S2 Slider XXLarge Nylon Big Game landing net with a 48" handle
-  makes fishing easy for Salmon, Striper, and other large fish. Designed to
-  float for easy recovery if dropped or blown overboard. &nbsp;Designed with a
-  functional grip that aids in net control, eliminates bulky yoke assemblies and
-  protects mono line from being frayed or cut. &nbsp;EGO Large Fishing Nets are
-  the first choice for the Savvy angler.</p><div
-  class="divider">&nbsp;</div><ul><li>Floats</li><li>Product Weight:&nbsp; 3.0
-  lbs</li><li>Hoop: 27&rdquo; x 33&rdquo;</li><li>Handle: 48&rdquo; Anodized
-  Octagonal Aluminum</li><li>Bag Depth: 38&rdquo;&nbsp;</li></ul>
+  <p>The EGO S2 Slider XLarge Nylon Big Game landing net with a 48" handle makes
+  fishing easy for Catfish, Striper, and other large fish. Designed to float for
+  easy recovery if dropped or blown overboard. &nbsp;Designed with a functional
+  grip that aids in net control, eliminates bulky yoke assemblies and protects
+  mono line from being frayed or cut. &nbsp;EGO Large Fishing Nets are the first
+  choice for the Savvy angler.</p><div
+  class="divider">&nbsp;</div><ul><li>Floats</li><li>Product Weight: 2.5
+  lbs</li><li>Nylon Mesh&nbsp;</li><li>Hoop: 24&rdquo; x
+  29&rdquo;</li><li>Handle: 48&rdquo; Anodized Octagonal Aluminum</li><li>Bag
+  Depth: 16&rdquo; (Stretches up to 1.5X with load)</li></ul>
 right_column_html: <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
