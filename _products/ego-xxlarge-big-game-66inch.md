@@ -21,11 +21,12 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO S2 Slider XXLarge Nylon Big Game Landing Net comes was designed to
-  make fishing big fish like Salmon, Striper, Muskie and other large fish.
-  Designed to float for easy recovery if dropped or blown overboard.
-  &nbsp;Designed with a functional grip that aids in net control, eliminates
-  bulky yoke assemblies and protects mono line from being frayed or cut</p><div
+  <p>The EGO S2 Slider XXLarge Nylon Big Game landing net with a 66" handle
+  makes fishing easy for Salmon, Striper, Muskie and other large fish. Designed
+  to float for easy recovery if dropped or blown overboard. &nbsp;Designed with
+  a functional grip that aids in net control, eliminates bulky yoke assemblies
+  and protects mono line from being frayed or cut. &nbsp;EGO Large Fishing Nets
+  are the first choice for Savvy anglers.</p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Product Weight:&nbsp; 3.0
   lbs</li><li>Hoop: 27&rdquo; x 33&rdquo;</li><li>Handle: 66&rdquo; Anodized
   Octagonal Aluminum</li><li>Bag Depth: 38&rdquo;&nbsp;</li></ul>
