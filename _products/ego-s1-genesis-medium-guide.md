@@ -1,20 +1,21 @@
 ---
 name: S1 GENESIS—MEDIUM GUIDE NET
 subheading: 13in Removable Handle — 14in x 16in Hoop
-order_number: 6
+order_number: 4
 description: >-
   Best medium fishing net on the planet. EGO S1 Genesis Medium  fishing net
   FLOATS and features a removable handle for component interchangeability.
 categories:
   - s1-nets
-price: 58.99
-sku: 71363
+  - ego-guide-nets
+price: 0
+sku: 71790
 show_as_crosssells: false
-tag_color:
-tag_text:
-filter_handle: handle_medium
+tag_color: new_tag
+tag_text: NEW
+filter_handle: handle_small
 filter_hoop: hoop_medium
-filter_mesh: mesh_pvc_coated_nylon
+filter_mesh: mesh_measure_net
 slides:
   - title: EGO S1 Genesis Medium Guide Net
     image: /images/nets/71790_S1_Compact_Guide_1160x533.jpg
