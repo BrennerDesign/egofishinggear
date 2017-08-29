@@ -31,8 +31,7 @@ left_column_html: >-
   lbs</li><li>Hoop: 27&rdquo; x 33&rdquo;</li><li>Handle: 66&rdquo; Anodized
   Octagonal Aluminum</li><li>Bag Depth: 38&rdquo;&nbsp;</li></ul>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><div
-  class="divider">&nbsp;</div>
+  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
