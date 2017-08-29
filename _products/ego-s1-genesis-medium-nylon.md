@@ -1,23 +1,23 @@
 ---
-name: S1 GENESIS—SMALL NYLON NET
-subheading: 13in Removable Handle — 14in x 16in Hoop
+name: S1 GENESIS—MEDIUM NYLON NET
+subheading: 25in Removable Handle — 17in x 19in Hoop
 order_number: 1
 description: >-
-  Best small fishing net on the planet. EGO S1 Genesis Small Nylon fishing net
+  Best small fishing net on the planet. EGO S1 Genesis Medium Nylon fishing net
   FLOATS and features a removable handle for component interchangeability.
 categories:
   - s1-nets
-price: 32.99
-sku: 71370
+price: 48.99
+sku: 71260
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_small
-filter_hoop: hoop_small
+filter_handle: handle_medium
+filter_hoop: hoop_medium
 filter_mesh: mesh_nylon
 slides:
-  - title: EGO S1 Genesis Small Nylon Net
-    image: /images/nets/71370_S1_S_Nylon_1160x533.jpg
+  - title: EGO S1 Genesis Medium Nylon Net
+    image: /images/nets/71260_S1_M_Nylon_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
