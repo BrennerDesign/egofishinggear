@@ -1,29 +1,25 @@
 ---
-name: S2 SLIDER—MEDIUM NYLON NET
-subheading: Standard Handle—Extends 29in–60in
-order_number: 6
+name: S1 GENESIS—SMALL NYLON NET
+subheading: Removable Handle Size—13in
+order_number: 1
 description: >-
   Best Bass fishing net on the planet. EGO S2 Slider Medium Nylon fishing net
   features advanced handle extension technology. Extends from 29" to 60"
 categories:
-  - s2-nets
-price: 89.99
-sku: 72060
+  - s1-nets
+price: 32.99
+sku: 71370
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_standard
-filter_hoop: hoop_medium
+filter_handle: handle_small
+filter_hoop: hoop_small
 filter_mesh: mesh_nylon
 slides:
-  - title: EGO S2 Slider Medium Nylon Net
-    image: /images/nets/72060_S2_Medium_Nylon_1160x533.jpg
+  - title: EGO S1 Genesis Small Nylon Net
+    image: /images/nets/71370_S1_S_Nylon_1160x533.jpg
     video:
     is_video: false
-  - title: S2 Slider Product Demo Video
-    image: /uploads/S2_Slider_Video_Joe_2.0_1200x550.jpg
-    video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
-    is_video: true
 left_column_html: >-
   <p>The EGO S2 Slider Medium Nylon Landing Net comes with the revolutionary S2
   slider extension handle technology. With a simple pull or push of the S2
