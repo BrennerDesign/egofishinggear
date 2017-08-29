@@ -1,24 +1,24 @@
 ---
-name: S1 GENESIS—MEDIUM RUBBER COATED  NYLON NET
-subheading: 25in Removable Handle — 17in x 19in Hoop
-order_number: 5
+name: S1 GENESIS—LARGE RUBBER COATED  NYLON NET
+subheading: 31in Removable Handle — 19in x 21in Hoop
+order_number: 10
 description: >-
-  Best small fishing net on the planet. EGO S1 Genesis Medium Nylon Rubber
-  Coated Nylon fishing net FLOATS and features a removable handle for component
+  Best small fishing net on the planet. EGO S1 Genesis Large Nylon Rubber Coated
+  Nylon fishing net FLOATS and features a removable handle for component
   interchangeability.
 categories:
   - s1-nets
-price: 49.99
-sku: 71263
+price: 54.99
+sku: 71153
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_medium
-filter_hoop: hoop_medium
+filter_handle: handle_large
+filter_hoop: hoop_large
 filter_mesh: mesh_ruber_coated_nylon
 slides:
-  - title: EGO S1 Genesis Medium Rubber Coated Nylon Net
-    image: /images/nets/71263_S1_M_RCN_1160x533.jpg
+  - title: EGO S1 Genesis Large Rubber Coated Nylon Net
+    image: /images/nets/71153_S1_L_RCN_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
