@@ -16,7 +16,7 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 slides:
-  - title: EGO Trout Net Nylon Small
+  - title: EGO Reach Crappie Landing Net
     image: /images/nets/71590_EGO_Trout_Nylon_Small_1160x533.jpg
     video:
     is_video: false
