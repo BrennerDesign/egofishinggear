@@ -1,23 +1,23 @@
 ---
-name: EGO BIG GAME—XLARGE NYLON NET
+name: EGO BIG GAME—XLARGE RUBBER NET
 subheading: 48 inch Handle—24in x 29in Hoop
-order_number: 1
+order_number: 3
 description: >-
-  Best big game fishing net on the planet for CATFISH fishing. EGO XLarge Nylon
-  landing net comes with a 48-inch handle and FLOATS.
+  Best big game rubber fishing net on the planet for CATFISH fishing. EGO XLarge
+  rubber landing net comes with a 48-inch handle and FLOATS.
 categories:
   - big-game-nets
-price: 69.99
-sku: 71000
+price: 82.99
+sku: 71006
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle:
 filter_hoop:
-filter_mesh: mesh_nylon
+filter_mesh: mesh_rubber
 slides:
-  - title: EGO S2 XL BIG GAME STRIPER an Catfish NET
-    image: /images/nets/71000_XL_Nylon_1160x533.jpg
+  - title: EGO S2 XL BIG GAME Rubber Fishing Net
+    image: /images/nets/71006_XL_RUBBER_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
