@@ -21,19 +21,19 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO XLarge Nylon Big Game flat bottom light weight rubber fishing net
-  with a 48" handle makes fishing easy for Catfish, Striper, and other large
-  fish. Designed to float for easy recovery if dropped or blown overboard.
+  <p>The EGO XLarge Big Game flat bottom light weight rubber fishing net with a
+  48" handle makes fishing easy for Catfish, Striper, and other large fish.
+  Designed to float for easy recovery if dropped or blown overboard.
   &nbsp;Designed with a functional grip that aids in net control, eliminates
   bulky yoke assemblies and protects mono line from being frayed or cut.
-  &nbsp;EGO Large rubber fishing nets are the first choice for the Savvy
-  angler.</p><div class="divider">&nbsp;</div><ul><li>Floats</li><li>Product
-  Weight: 3.5 lbs</li><li>Hoop: 24&rdquo; x 29&rdquo;</li><li>Handle: 48&rdquo;
-  Anodized Octagonal Aluminum</li><li>Flat bottom Lightweight Rubber Mesh
-  Net</li><li>Bag Depth: 16&rdquo; (Stretches up to 1.5X with load)</li></ul>
+  &nbsp;EGO fishing nets are the first choice for the Savvy angler.</p><div
+  class="divider">&nbsp;</div><ul><li>Floats</li><li>Product Weight: 3.5
+  lbs</li><li>Hoop: 24&rdquo; x 29&rdquo;</li><li>Handle: 48&rdquo; Anodized
+  Octagonal Aluminum</li><li>Flat bottom Lightweight Rubber Mesh Net</li><li>Bag
+  Depth: 16&rdquo; (Stretches up to 1.5X with load)</li></ul>
 right_column_html: >-
-  <h7>Lightweight Rubber Mesh</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
-  /></p>
+  <h7>Lightweight Rubber Mesh</h7><p><img alt=""
+  src="/images/Rubber_400x150.jpg" /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
