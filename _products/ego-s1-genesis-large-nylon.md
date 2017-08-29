@@ -1,22 +1,22 @@
 ---
-name: S1 GENESIS—MEDIUM NYLON NET
+name: S1 GENESIS—LARGE NYLON NET
 subheading: 25in Removable Handle — 17in x 19in Hoop
-order_number: 4
+order_number: 9
 description: >-
-  Best small fishing net on the planet. EGO S1 Genesis Medium Nylon fishing net
+  Best small fishing net on the planet. EGO S1 Genesis Large Nylon fishing net
   FLOATS and features a removable handle for component interchangeability.
 categories:
   - s1-nets
-price: 48.99
-sku: 71260
+price: 54.99
+sku: 71150
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_medium
-filter_hoop: hoop_medium
+filter_handle: handle_large
+filter_hoop: hoop_large22
 filter_mesh: mesh_nylon
 slides:
-  - title: EGO S1 Genesis Medium Nylon Net
+  - title: EGO S1 Genesis Large Nylon Net
     image: /images/nets/71260_S1_M_Nylon_1160x533.jpg
     video:
     is_video: false
@@ -24,10 +24,10 @@ left_column_html: >-
   <p>The innovative EGO S1 Genesis Medium Nylon net utilizes a strong
   lightweight hexagonal extruded aluminum handle design that provides economical
   and dependable functionality.&nbsp; With a simple twist of the wrist, any EGO
-  accessories hoop head or attachment tool can be securely fastened and
-  ready for use. The modular platform allows for component interchangeability
-  and compact storage. EGO Fishing Nets are the first choice for the Savvy
-  angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  accessories hoop head or attachment tool can be securely fastened and ready
+  for use. The modular platform allows for component interchangeability and
+  compact storage. EGO Fishing Nets are the first choice for the Savvy angler.
+  &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>Removable handle &ndash; 25"</li><li>Mesh bag:
@@ -35,7 +35,8 @@ left_column_html: >-
   19"</li><li>Minimal water drag</li><li>Weight: 1.25
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><p>&nbsp;</p>
+  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
