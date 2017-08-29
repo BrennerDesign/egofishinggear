@@ -16,7 +16,7 @@ filter_handle:
 filter_hoop:
 filter_mesh: mesh_rubber
 slides:
-  - title: EGO S2 XL BIG GAME Rubber Fishing Net
+  - title: EGO XL BIG GAME Rubber Fishing Net
     image: /images/nets/71006_XL_RUBBER_1160x533.jpg
     video:
     is_video: false
