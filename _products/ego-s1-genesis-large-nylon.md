@@ -17,7 +17,7 @@ filter_hoop: hoop_large22
 filter_mesh: mesh_nylon
 slides:
   - title: EGO S1 Genesis Large Nylon Net
-    image: /images/nets/71260_S1_M_Nylon_1160x533.jpg
+    image: /images/nets/71150_S1_L_Nylon_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
