@@ -1,10 +1,10 @@
 ---
 name: EGO REACH
-subheading: Small Nylon Mesh
+subheading: PVC Coated Mesh
 order_number: 1
 description: >-
-  The Best Telescoping Quick Twist-Lock Handle Crappie Landing Net. The EGO
-  Reach fishing net is the net of Crappie USA.
+  The Ultimate Crappie Landing Net. Features a Telescoping Handle reaching up to
+  8.6 feet. The EGO Reach fishing net is the OFFICIAL NET OF CRAPPIE USA.
 categories:
   - reach-nets
 price: 46.99
@@ -21,16 +21,16 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO Small Nylon Trout Net is lightweight and has a built-in retractable
-  quick-draw tether plus a waistband clip. &nbsp;An ideal trout net for the
-  angler who needs a great net at a reasonable price.</p><div
-  class="divider">&nbsp;</div><ul><li>Hoop: 14&rdquo; x 18&rdquo;</li><li>Bag
-  Depth: 15&rdquo;&nbsp;</li><li>Reaches up to 8' 6" inches</li><li>Unique Scoop
-  Design</li><li>Non-Tangle/Hook-Free PVC Coated Mesh</li><li>Telescoping Quick
-  Twist-Lock Handle</li><li>Product Weight: 1.8 lbs</li></ul>
+  <p>The EGO REACH, the ultimate crappie landing net features a Telescoping
+  handle reaching up to 8 feet 6inchs. The official fishing net of Crappie
+  USA.&nbsp;</p><div class="divider">&nbsp;</div><ul><li>Hoop: 14&rdquo; x
+  18&rdquo;</li><li>Bag Depth: 15&rdquo;&nbsp;</li><li>Reaches up to 8' 6"
+  inches</li><li>Unique Scoop Design</li><li>Non-Tangle/Hook-Free PVC Coated
+  Mesh</li><li>Telescoping Quick Twist-Lock Handle</li><li>Product Weight: 1.8
+  lbs</li></ul>
 right_column_html: >-
-  <h7>SMALL NYLON MESH</h7><p><img alt="" src="/images/Small_Nylon_400x150.jpg"
-  /></p><p>&nbsp;</p>
+  <h7><p>PVC COATED MESH</p></h7><p><img alt=""
+  src="/images/Small_Nylon_400x150.jpg" /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
