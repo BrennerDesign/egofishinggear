@@ -48,7 +48,7 @@ left_column_html: >-
   19"</li><li>Measure fish up to 36 inches</li><li>Weight: 2.55
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7></h7><p>PVC COATED MEASURE NET<img alt="" src="/images/PVC_400x150.jpg"
+  <h7></h7><p>PVC COATED MEASURE NET<img alt="" src="/images/MeasureNet_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
