@@ -14,7 +14,7 @@ tag_color:
 tag_text:
 filter_handle:
 filter_hoop:
-filter_mesh: mesh_nylon
+filter_mesh:
 slides:
   - title: EGO S2 XXXL BIG GAMER SALMON Fishing Net
     image: /images/nets/71008_XXXL_Nylon_1160x533.jpg
