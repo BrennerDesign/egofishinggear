@@ -3,8 +3,8 @@ name: S1 GENESIS—SMALL NYLON NET
 subheading: Removable Handle Size—13in
 order_number: 1
 description: >-
-  Best Bass fishing net on the planet. EGO S2 Slider Medium Nylon fishing net
-  features advanced handle extension technology. Extends from 29" to 60"
+  Best small fishing net on the planet. EGO S1 Genesis Small Nylon fishing net
+  FLOATS and features a removable handle for component interchangeability.
 categories:
   - s1-nets
 price: 32.99
@@ -21,13 +21,13 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO S2 Slider Medium Nylon Landing Net comes with the revolutionary S2
-  slider extension handle technology. With a simple pull or push of the S2
-  Slider handle grip, it gives the savvy angler real time control of the handle
-  extension length throughout the fish capturing process. The innovative modular
-  fishing net platform also allows the handle to detach, providing
-  interchangeability of attachment tools and compact storage.</p><div
-  class="divider">&nbsp;</div><h7>MAX LOAD
+  <p>The innovative EGO S1 Genesis Small Nylon net utilizes a strong lightweight
+  hexagonal extruded aluminum handle design that provides economical and
+  dependable functionality.&nbsp; With a simple twist of the wrist, any EGO
+  accessories hoop head or attachment tool can be<br />securely fastened and
+  ready for use. The modular platform allows for component interchangeability
+  and compact storage. EGO Fishing Nets are the first choice for the Savvy
+  angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong><br />&nbsp;</p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>Removable handle &ndash; 13"</li><li>Mesh bag:
