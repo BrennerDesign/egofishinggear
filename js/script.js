@@ -126,10 +126,14 @@ $(document).ready(function() {
 		} else {
 			$('.filter_expand.expanded').slideUp(200, function() {
 			      $(this).removeClass("expanded");
+			      $(this).removeClass("checked");
 			})
 			$('.selected_box.selected').fadeOut(120, function() {
 			      $(this).removeClass("selected");
 			})
+			$('.filter_expand input[type=checkbox]').prop('checked', false); // Unchecks it
+			$('.product_specs.cards .product_card').fadeIn(); // fade all cards back in
+
 			$('.filter_expand.length').slideDown(200, function() {
 		      	$(this).addClass("expanded");
 			})
@@ -152,10 +156,14 @@ $(document).ready(function() {
 		} else {
 			$('.filter_expand.expanded').slideUp(200, function() {
 			      $(this).removeClass("expanded");
+			      $(this).removeClass("checked");
 			})
 			$('.selected_box.selected').fadeOut(120, function() {
 			      $(this).removeClass("selected");
 			})
+			$('.filter_expand input[type=checkbox]').prop('checked', false); // Unchecks it
+			$('.product_specs.cards .product_card').fadeIn(); // fade all cards back in
+
 			$('.filter_expand.size').slideDown(200, function() {
 		      	$(this).addClass("expanded");
 			})
@@ -177,10 +185,14 @@ $(document).ready(function() {
 		} else {
 			$('.filter_expand.expanded').slideUp(200, function() {
 			      $(this).removeClass("expanded");
+			      $(this).removeClass("checked");
 			})
 			$('.selected_box.selected').fadeOut(120, function() {
 			      $(this).removeClass("selected");
 			})
+			$('.filter_expand input[type=checkbox]').prop('checked', false); // Unchecks it
+			$('.product_specs.cards .product_card').fadeIn(); // fade all cards back in
+
 			$('.filter_expand.type').slideDown(200, function() {
 		      	$(this).addClass("expanded");
 			})
@@ -240,13 +252,9 @@ $(document).ready(function() {
 
 
 
-
-
-
 	// click filter buttons
 	$('.filter_expand input').click(function() {
 		if ($(this).parent().parent().parent().hasClass("checked")) {
-
 		} else {
 			$(this).parent().parent().parent().addClass("checked");
 			$('.product_specs.cards .product_card').fadeOut();
@@ -266,9 +274,11 @@ $(document).ready(function() {
 			if ($(this).is(':checked')) {
 				$('.product_specs.cards .product_card.' + scopedItem).fadeIn();
 			} else {
+
 				if ($('.filter_expand input[type=checkbox]').is(':checked')) {
 					$('.product_specs.cards .product_card.' + scopedItem).fadeOut();
 				} else {
+					$(this).closest('.filter_expand').removeClass('checked');
 					$('.product_specs.cards .product_card').fadeIn();
 				}
 			}
@@ -283,9 +293,9 @@ $(document).ready(function() {
 
 	// product slider mobile image margin
 	var slider_mobile_marg = (((523 - doc_width) / 2) * -1);
-	if (doc_width < 480) {
-		$('#product_slider.flexslider .slides img').css('margin-left', slider_mobile_marg);
-	}
+	/* if (doc_width < 480) {
+		$('#product_slider.flexslider .slides > li > img').css('margin-left', slider_mobile_marg);
+	} */
 
 
 	// smaller ad background image margin
@@ -469,11 +479,11 @@ $(document).ready(function() {
 
 		// product slider mobile image margin
 		var slider_mobile_marg = (((523 - doc_width) / 2) * -1);
-		if (doc_width < 480) {
-			$('#product_slider.flexslider .slides img').css('margin-left', slider_mobile_marg);
+		/* if (doc_width < 480) {
+			$('#product_slider.flexslider .slides > li > img').css('margin-left', slider_mobile_marg);
 		} else {
-			$('#product_slider.flexslider .slides img').css('margin-left', '0');
-		}
+			$('#product_slider.flexslider .slides > li > img').css('margin-left', '0');
+		} */
 
 		// smaller ad background image margin
 		var small_ad_marg = (($('.ad_block.text_ad img').width() - $('.ad_block.text_ad').width()) / 2) * -1;
