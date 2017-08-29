@@ -7,8 +7,8 @@ description: >-
   FLOATS and features a removable handle for component interchangeability.
 categories:
   - s1-nets
-price: 54.99
-sku: 71153
+price: 69.99
+sku: 71151
 show_as_crosssells: false
 tag_color:
 tag_text:
