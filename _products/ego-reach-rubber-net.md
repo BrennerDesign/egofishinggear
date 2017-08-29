@@ -1,6 +1,6 @@
 ---
-name: EGO REACH CRAPPIE FISHING NET
-subheading: Rubber Mesh
+name: EGO REACH—RUBBER NET
+subheading: Telescoping Handle Reaching up to 8.6 ft
 order_number: 2
 description: >-
   The Ultimate Crappie Landing Net. Featuring telescoping handle reaching up to
