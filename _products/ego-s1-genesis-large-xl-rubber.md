@@ -10,8 +10,8 @@ categories:
 price: 74.99
 sku: 71251
 show_as_crosssells: false
-tag_color:
-tag_text:
+tag_color: new_tag
+tag_text: NEW
 filter_handle: handle_large
 filter_hoop: hoop_xlarge
 filter_mesh: mesh_rubber
