@@ -21,22 +21,21 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Large Rubber Coated Nylon net utilizes a
-  strong lightweight hexagonal extruded aluminum handle design that provides
-  economical and dependable functionality.&nbsp; With a simple twist of the
-  wrist, any EGO accessories hoop head or attachment tool can be securely
-  fastened and ready for use. The modular platform allows for component
-  interchangeability and compact storage. EGO Fishing Nets are the first choice
-  for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  <p>The innovative EGO S1 Genesis Large PVC Coated net utilizes a strong
+  lightweight hexagonal extruded aluminum handle design that provides economical
+  and dependable functionality.&nbsp; With a simple twist of the wrist, any EGO
+  accessories hoop head or attachment tool can be securely fastened and ready
+  for use. The modular platform allows for component interchangeability and
+  compact storage. EGO Fishing Nets are the first choice for the Savvy angler.
+  &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 31"</li><li>Mesh bag: Rubber Coated
-  Nylon</li><li>Bag depth: 31"</li><li>Hoop Size: Medium 19" x
-  21"</li><li>Minimal water drag</li><li>Weight: 1.45
-  lbs</li></ul><div>&nbsp;</div>
+  design</li><li>Removable handle &ndash; 31"</li><li>Mesh bag: PVC Coated
+  Mesh</li><li>Bag depth: 31"</li><li>Hoop Size: Medium 19" x
+  21"</li><li>Weight: 1.5 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>RUBBER COATED NYLON MESH</h7><p><img alt=""
-  src="/images/Nylon_400x150.jpg" /></p><p>&nbsp;</p>
+  <h7>PVC COATED MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
