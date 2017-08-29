@@ -22,7 +22,7 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Medium Rubber Coated Nylon net utilizes a
+  <p>The innovative EGO S1 Genesis Large Rubber Coated Nylon net utilizes a
   strong lightweight hexagonal extruded aluminum handle design that provides
   economical and dependable functionality.&nbsp; With a simple twist of the
   wrist, any EGO accessories hoop head or attachment tool can be securely
@@ -31,9 +31,9 @@ left_column_html: >-
   for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 25"</li><li>Mesh bag:
-  Nylon</li><li>Bag depth: 28"</li><li>Hoop Size: Medium 17" x
-  19"</li><li>Minimal water drag</li><li>Weight: 1.25
+  design</li><li>Removable handle &ndash; 31"</li><li>Mesh bag: Rubber Coated
+  Nylon</li><li>Bag depth: 31"</li><li>Hoop Size: Medium 19" x
+  21"</li><li>Minimal water drag</li><li>Weight: 1.45
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>RUBBER COATED NYLON MESH</h7><p><img alt=""
