@@ -16,8 +16,8 @@ filter_handle: handle_medium
 filter_hoop: hoop_medium
 filter_mesh: mesh_rubber
 slides:
-  - title: EGO S1 Genesis Medium PVC Coated Net
-    image: /images/nets/71363_S1_M_PVC_1160x533.jpg
+  - title: EGO S1 Genesis Medium Rubber Net
+    image: /images/nets/71261_S1_M_Rubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
@@ -35,8 +35,8 @@ left_column_html: >-
   1.5X with load)</li><li>Hoop Size: Small 17" x 19"</li><li>Weight: 1.65
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
-  /></p><p>&nbsp;</p>
+  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt=""
+  src="/images/Rubber_400x150.jpg" /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
