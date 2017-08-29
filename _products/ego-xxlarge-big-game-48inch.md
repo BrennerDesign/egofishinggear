@@ -1,14 +1,14 @@
 ---
 name: EGO BIG GAME—XXLARGE NYLON NET
-subheading: 66 inch Handle—FLOATS
-order_number: 5
+subheading: 48 inch Handle—FLOATS
+order_number: 3
 description: >-
-  Best big game fishing net on the planet for SALMON, and STRIPER. EGO XXLarge
-  Nylon landing net comes with a 66-inch handle and FLOATS.
+  Best big game fishing net on the planet for STRIPER fishing. EGO XXLarge Nylon
+  landing net comes with a 48-inch handle and FLOATS.
 categories:
   - big-game-nets
-price: 89.99
-sku: 71009
+price: 79.99
+sku: 71007
 show_as_crosssells: false
 tag_color:
 tag_text:
