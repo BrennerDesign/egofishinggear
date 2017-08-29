@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS—SMALL NYLON NET
-subheading: Removable Handle Size—13in
+subheading: 13in Removable Handle — 14in x 16in Hoop
 order_number: 1
 description: >-
   Best small fishing net on the planet. EGO S1 Genesis Small Nylon fishing net
