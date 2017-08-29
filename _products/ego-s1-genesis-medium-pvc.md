@@ -34,7 +34,7 @@ left_column_html: >-
   Mesh</li><li>Bag depth: 16" flat bottom</li><li>Hoop Size: Medium 17" x
   19"</li><li>Weight: 1.3 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>PVC COATED MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>PVC COATED MESH</h7><p><img alt="" src="/images/PVC_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
