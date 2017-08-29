@@ -1,23 +1,23 @@
 ---
 name: S1 GENESIS—LARGE RUBBER NET
 subheading: 31in Removable Handle — 19in x 21in Hoop
-order_number: 12
+order_number: 14
 description: >-
-  Best large fishing net on the planet. EGO S1 Genesis Large Rubber fishing net
-  FLOATS and features a removable handle for component interchangeability.
+  Best large fishing net on the planet. EGO S1 Genesis Large Deep Rubber fishing
+  net FLOATS and features a removable handle for component interchangeability.
 categories:
   - s1-nets
-price: 69.99
-sku: 71151
+price: 76.99
+sku: 71351
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_large
 filter_hoop: hoop_large
-filter_mesh: mesh_rubber
+filter_mesh: mesh_deep_rubber
 slides:
-  - title: EGO S1 Genesis Large Rubber Net
-    image: /images/nets/71151_S1_L_RUBBER_1160x533.jpg
+  - title: EGO S1 Genesis Large Deep Rubber Net
+    image: /images/nets/71351_S1_L_DeepRubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
@@ -35,8 +35,8 @@ left_column_html: >-
   1.5X with load)</li><li>Hoop Size: Large 19" x 21"</li><li>Weight: 1.75
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
-  /></p><p>&nbsp;</p>
+  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt=""
+  src="/images/Rubber_400x150.jpg" /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
