@@ -1,7 +1,7 @@
 ---
 name: S1 GENESIS—MEDIUM PVC COATED NET
 subheading: 25in Removable Handle — 17in x 19in Hoop
-order_number: 5
+order_number: 6
 description: >-
   Best small fishing net on the planet. EGO S1 Genesis Medium PVC Coated Nylon
   fishing net FLOATS and features a removable handle for component
