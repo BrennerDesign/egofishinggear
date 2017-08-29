@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS—LARGE NYLON NET
-subheading: 31in Removable Handle — 22in x 23in Hoop
+subheading: 31in Removable Handle — 19in x 21in Hoop
 order_number: 9
 description: >-
   Best large fishing net on the planet. EGO S1 Genesis Large Nylon fishing net
@@ -13,7 +13,7 @@ show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_large
-filter_hoop: hoop_large22
+filter_hoop: hoop_large
 filter_mesh: mesh_nylon
 slides:
   - title: EGO S1 Genesis Large Nylon Net
