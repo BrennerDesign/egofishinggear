@@ -29,7 +29,7 @@ left_column_html: >-
   Mesh</li><li>Telescoping Quick Twist-Lock Handle</li><li>Product Weight: 2.0
   lbs</li></ul>
 right_column_html: >-
-  <h7><p>RUBBER MESH</p></h7><p><img alt="" src="/images/PVC_Small_400x150.jpg"
+  <h7><p>RUBBER MESH</p></h7><p><img alt="" src="/images/Rubber_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
