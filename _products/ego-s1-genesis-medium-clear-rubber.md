@@ -1,23 +1,24 @@
 ---
-name: S1 GENESIS—MEDIUM RUBBER NET
+name: S1 GENESIS—MEDIUM CLEAR RUBBER NET
 subheading: 25in Removable Handle — 17in x 19in Hoop
-order_number: 7
+order_number: 8
 description: >-
-  Best small fishing net on the planet. EGO S1 Genesis Medium Rubber fishing net
-  FLOATS and features a removable handle for component interchangeability.
+  Best small fishing net on the planet. EGO S1 Genesis Medium Clear Rubber
+  fishing net FLOATS and features a removable handle for component
+  interchangeability.
 categories:
   - s1-nets
 price: 64.99
-sku: 71261
+sku: 71267
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_medium
 filter_hoop: hoop_medium
-filter_mesh: mesh_rubber
+filter_mesh: mesh_clear_rubber
 slides:
-  - title: EGO S1 Genesis Medium Rubber Net
-    image: /images/nets/71261_S1_M_Rubber_1160x533.jpg
+  - title: EGO S1 Genesis Medium Clear Rubber Net
+    image: /images/nets/71267_S1_M_ClearRubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
