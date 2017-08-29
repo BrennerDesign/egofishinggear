@@ -7,17 +7,17 @@ description: >-
   FLOATS and features a removable handle for component interchangeability.
 categories:
   - s1-nets
-price: 54.99
-sku: 71153
+price: 76.99
+sku: 71351
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_large
 filter_hoop: hoop_large
-filter_mesh: mesh_rubber
+filter_mesh: mesh_deep_rubber
 slides:
-  - title: EGO S1 Genesis Large Rubber Net
-    image: /images/nets/71153_S1_L_RCN_1160x533.jpg
+  - title: EGO S1 Genesis Large Deep Rubber Net
+    image: /images/nets/71351_S1_L_DeepRubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
