@@ -15,7 +15,7 @@
 {% assign myoptions = myoptions | remove_first: '|' %}
 
 
-<a href="javascript:;" class="email_submit add-to-cart-trigger-btn snipcart-add-item {% if include.class %} {{include.class}} {% endif %}"
+<button class="email_submit add-to-cart-trigger-btn snipcart-add-item {% if include.class %} {{include.class}} {% endif %}"
     data-item-name="{{ include.product.name }}"
     data-item-id="{{ include.product.sku }}"
     data-item-image="{{ include.product.slides.first.image }}"
@@ -39,4 +39,4 @@
     data-item-quantity="1"
 >
     {% if include.text %}{{ include.text }}{% endif %}
-</a>
+</button>
