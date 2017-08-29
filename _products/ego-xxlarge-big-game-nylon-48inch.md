@@ -28,8 +28,9 @@ left_column_html: >-
   line from being frayed or cut. &nbsp;EGO fishing nets are the first choice for
   the Savvy angler.</p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Product Weight:&nbsp; 3.0
-  lbs</li><li>Hoop: 27&rdquo; x 33&rdquo;</li><li>Handle: 48&rdquo; Anodized
-  Octagonal Aluminum</li><li>Bag Depth: 38&rdquo;&nbsp;</li></ul>
+  lbs</li><li>Hoop: 27&rdquo; x 33&rdquo;</li><li>Nylon Mesh</li><li>Handle:
+  48&rdquo; Anodized Octagonal Aluminum</li><li>Bag Depth:
+  38&rdquo;&nbsp;</li></ul>
 right_column_html: <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
