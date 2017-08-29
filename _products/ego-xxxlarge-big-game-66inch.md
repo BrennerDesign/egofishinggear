@@ -3,8 +3,8 @@ name: EGO BIG GAME—XXXLARGE NYLON NET
 subheading: 66 inch Handle—FLOATS
 order_number: 2
 description: >-
-  Best big game fishing net on the planet for SALMON fishing. EGOX XXLarge Nylon
-  landing net comes with a 66-inch handle and FLOATS. 30inch x 36inch Hoop
+  Best big game large fishing net on the planet for SALMON fishing. EGO XXXLarge
+  Nylon landing net features a 66-inch handle and FLOATS. 30inch x 36inch Hoop
 categories:
   - big-game-nets
 price: 109.99
@@ -21,14 +21,15 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO S2 Slider XXLarge Nylon Big Game Landing Net comes was designed to
-  make fishing big fish like Salmon, Striper, Muskie and other large fish.
-  Designed to float for easy recovery if dropped or blown overboard.
-  &nbsp;Designed with a functional grip that aids in net control, eliminates
-  bulky yoke assemblies and protects mono line from being frayed or cut</p><div
-  class="divider">&nbsp;</div><ul><li>Floats</li><li>Product Weight:&nbsp; 3.0
-  lbs</li><li>Hoop: 27&rdquo; x 33&rdquo;</li><li>Handle: 66&rdquo; Anodized
-  Octagonal Aluminum</li><li>Bag Depth: 38&rdquo;&nbsp;</li></ul>
+  <p>The EGO S2 Slider XXXLarge Nylon Big Game landing net is designed to make
+  fishing easy for Salmon, Striper, Muskie and other large fish. Designed to
+  float for easy recovery if dropped or blown overboard. &nbsp;Designed with a
+  functional grip that aids in net control, eliminates bulky yoke assemblies and
+  protects mono line from being frayed or cut. &nbsp;EGO Large Fishing Nets are
+  the first choice for Savvy anglers.</p><div
+  class="divider">&nbsp;</div><ul><li>Floats</li><li>Product Weight:&nbsp; 4.0
+  lbs</li><li>Hoop: 30&rdquo; x 36&rdquo;</li><li>Handle: 66&rdquo; Anodized
+  Octagonal Aluminum</li><li>Bag Depth: 41&rdquo;&nbsp;</li></ul>
 right_column_html: <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
