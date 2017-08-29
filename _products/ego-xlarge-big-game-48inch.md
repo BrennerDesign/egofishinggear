@@ -1,6 +1,6 @@
 ---
 name: EGO BIG GAME—XLARGE NYLON NET
-subheading: 48 inch Handle—FLOATS
+subheading: 48 inch Handle—24in x 29in Hoop
 order_number: 1
 description: >-
   Best big game fishing net on the planet for CATFISH fishing. EGO XLarge Nylon
