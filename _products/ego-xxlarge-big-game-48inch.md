@@ -16,8 +16,8 @@ filter_handle:
 filter_hoop:
 filter_mesh: mesh_nylon
 slides:
-  - title: EGO S2 XXL BIG GAMER SALMON AND STRIPER NET
-    image: /images/nets/71009_XXL_Nylon_1160x533.jpg
+  - title: EGO S2 XXL BIG GAME STRIPER NET
+    image: /images/nets/71007_XXL_Nylon_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
@@ -27,7 +27,7 @@ left_column_html: >-
   &nbsp;Designed with a functional grip that aids in net control, eliminates
   bulky yoke assemblies and protects mono line from being frayed or cut</p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Product Weight:&nbsp; 3.0
-  lbs</li><li>Hoop: 27&rdquo; x 33&rdquo;</li><li>Handle: 66&rdquo; Anodized
+  lbs</li><li>Hoop: 27&rdquo; x 33&rdquo;</li><li>Handle: 48&rdquo; Anodized
   Octagonal Aluminum</li><li>Bag Depth: 38&rdquo;&nbsp;</li></ul>
 right_column_html: <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p>
 warranty_left_column_html: >-
