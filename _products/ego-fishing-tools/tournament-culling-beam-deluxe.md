@@ -1,6 +1,6 @@
 ---
 name: Tournament Culling Beam Deluxe
-subheading: Provides quick Fish Weight
+subheading: Provides Quick Fish Weight
 order_number: 11
 description: >-
   The EGO Deluxe Tournament Culling beam is designed to provide a quick fish
