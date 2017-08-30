@@ -1,6 +1,6 @@
 ---
 name: EGO Aluminum Fish Measuring Board—18in
-subheading: Laser Etched For Longevity
+subheading: Accurate 1/16" Increments
 order_number: 7
 description: >-
   The EGO Standard Tournament Culling beam is designed to provide a quick fish
@@ -8,9 +8,9 @@ description: >-
   plate.
 categories:
   - ego-tools
-price: '26.99'
+price: '19.99'
 price_range:
-sku: '73009'
+sku: '73001'
 show_as_crosssells: false
 tag_color:
 tag_text:
