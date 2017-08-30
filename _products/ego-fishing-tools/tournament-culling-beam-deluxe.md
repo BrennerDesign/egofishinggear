@@ -26,7 +26,7 @@ warranty_left_column_html:
 warranty_right_column_html:
 slides:
   - title:
-    image:
+    image: /images/73000_Tournament_CullingBeam_Deluxe_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
