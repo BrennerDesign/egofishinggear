@@ -32,7 +32,7 @@ left_column_html: >-
   Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
   Clip</li><li>Unique Hoop Scoop Design</li><li>Mesh bag: PVC coated
   mesh</li><li>Handle Lenght: 6"</li><li>Bag depth: 20&rdquo; Flat
-  Bottom</li><li>Hoop size: Medium 19" x 21"</li><li>Product Weight: 1.1
+  Bottom</li><li>Hoop size: Large 19" x 21"</li><li>Product Weight: 1.1
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>PVC COATED MESH</h7><p><img alt="" src="/images/PVC_400x150.jpg"
