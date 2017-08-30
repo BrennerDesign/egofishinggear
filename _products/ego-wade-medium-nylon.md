@@ -1,5 +1,5 @@
 ---
-name: EGO WADE KAYAK—MEDIUM NYLON NET
+name: EGO WADE—MEDIUM NYLON NET
 subheading: Clip On Tether—17in x 19in Hoop
 order_number: 3
 description: >-
