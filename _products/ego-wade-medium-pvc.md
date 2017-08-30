@@ -1,15 +1,15 @@
 ---
-name: EGO WADE—MEDIUM RUBBER COATED NYLON NET
+name: EGO WADE—MEDIUM PVC COATED NET
 subheading: Clip On Tether—17in x 19in Hoop
-order_number: 5
+order_number: 4
 description: >-
-  Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Medium Rubber
-  Coated Nylon fishing net FLOATS and features an 11" elastic
-  adjustable/removable clip on tether.
+  Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Medium PVC Coated
+  fishing net FLOATS and features an 11" elastic adjustable/removable clip on
+  tether.
 categories:
   - wade-kayak-nets
-price: 49.99
-sku: 71265
+price: 54.99
+sku: 71364
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -17,8 +17,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 slides:
-  - title: EGO WADE Medium Rubber Coated Nylon
-    image: /images/nets/71265_WADE_M_RCN_1160x533.jpg
+  - title: EGO WADE Medium PVC Coated Net
+    image: /images/nets/71364_WADE_M_PVC_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
