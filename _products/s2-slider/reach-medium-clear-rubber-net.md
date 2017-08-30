@@ -1,7 +1,7 @@
 ---
 name: S2 SLIDER—REACH MEDIUM Clear Rubber NET
 subheading: REACH Handle—Extends 48in–108in
-order_number: 23
+order_number: 123
 description: >-
   Best extendable Fishing Net on the Planet. EGO S2 Slider Reach Medium Clear
   Rubber fishing net advanced handle extension technology. Extends from 48" to
