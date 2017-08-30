@@ -8,8 +8,8 @@ description: >-
 categories:
   - s1-nets
   - ego-guide-nets
-price: 0
-sku: 71790
+price: 94.99
+sku: 71890
 show_as_crosssells: false
 tag_color: new_tag
 tag_text: NEW
@@ -45,7 +45,7 @@ left_column_html: >-
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>Removable handle &ndash; 13"</li><li>Zip on/off replaceable
   mesh bag</li><li>Bag depth: 17&rdquo;</li><li>Hoop size: Medium 17" x
-  19"</li><li>Measure fish up to 36 inches</li><li>Weight: 2.55
+  19"</li><li>Measure fish up to 36 inches</li><li>Weight: 1.45
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7></h7><p>PVC COATED MEASURE NET<img alt=""
