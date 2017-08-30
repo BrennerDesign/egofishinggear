@@ -45,8 +45,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Standard Culling Beam
-    image: /images/73000_Tournament_CullingBeam_Standard_1160x533.jpg
+  - title: EGO 18in Aluminum Fishing Measuring Board
+    image: /images/73001_18in_MeasuringBoard_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
