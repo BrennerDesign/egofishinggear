@@ -23,7 +23,7 @@ left_column_html: >-
   measure</li></ul>
 right_column_html:
 warranty_left_column_html: >-
-  <p><strong>1-Year Limited Warranty</strong></p><p>Adventure Products warrants
+  <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants
   your EGO fishing tool to be free of defects in material<br />and workmanship
   for a period of one (1) years from the date of original purchase.</p><div
   class="divider">&nbsp;</div><p><strong>If your EGO fishing tool exhibits such
