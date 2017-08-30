@@ -17,8 +17,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 slides:
-  - title: EGO WADE Large Nylon
-    image: /images/nets/71152_WADE_L_Nylon_1160x533.jpg
+  - title: EGO WADE Large PVC Coated Net
+    image: /images/nets/71354_WADE_L_PVC_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
