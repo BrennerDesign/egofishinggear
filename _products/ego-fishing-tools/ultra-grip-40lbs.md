@@ -1,16 +1,15 @@
 ---
-name: EGO Aluminum Fish Measuring Board—18in
+name: EGO Ultra Grip—40lbs
 subheading: Accurate 1/16" Increments
 order_number: 7
 description: >-
-  The EGO 18" aluminum measuring board is designed to provide a quick accurate
-  measurement.  It's made of 3/16" anodized-aluminum and is laser etched for
-  longevity and durability.
+  The best Fish Gripper on the water.  With a BUILT-IN 40lb SCALE, the EGO Ultra
+  Grip 40lb model is a savvy anglers top choice.
 categories:
   - ego-tools
-price: '19.99'
+price: '69.99'
 price_range:
-sku: '73001'
+sku: '73004'
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -45,8 +44,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO 18in Aluminum Fishing Measuring Board
-    image: /images/73001_18in_MeasuringBoard_1160x533.jpg
+  - title: EGO Ultra Fish Griper 40lbs
+    image: /images/73004_Ultra-Grip-40lbs_1_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
