@@ -1,15 +1,15 @@
 ---
-name: EGO WADE—LARGE RUBBER NET
+name: EGO WADE—LARGE CLEAR RUBBER NET
 subheading: Clip On Tether—19in x 21in Hoop
-order_number: 11
+order_number: 12
 description: >-
-  Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Large Rubber
-  fishing net FLOATS and features an 11" elastic adjustable/removable clip on
-  tether.
+  Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Large Clear
+  Rubber fishing net FLOATS and features an 11" elastic adjustable/removable
+  clip on tether.
 categories:
   - wade-kayak-nets
 price: 69.99
-sku: 71156
+sku: 71115
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -17,8 +17,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 slides:
-  - title: EGO WADE Large Rubber Net
-    image: /images/nets/71156_WADE_L_RUBBER_1160x533.jpg
+  - title: EGO WADE Large Clear Rubber Net
+    image: /images/nets/71158_WADE_L_ClearRUBBER_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
