@@ -1,6 +1,6 @@
 ---
-name: EGO Ultra Grip—40lbs
-subheading: Accurate 1/16" Increments
+name: EGO Ultra Grip—40lb
+subheading: Built-in 40lb Scale with Stainless Jaws
 order_number: 7
 description: >-
   The best Fish Gripper on the water.  With a BUILT-IN 40lb SCALE, the EGO Ultra
