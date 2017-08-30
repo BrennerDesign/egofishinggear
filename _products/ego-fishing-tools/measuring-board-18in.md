@@ -3,9 +3,9 @@ name: EGO Aluminum Fish Measuring Board—18in
 subheading: Accurate 1/16" Increments
 order_number: 7
 description: >-
-  The EGO Standard Tournament Culling beam is designed to provide a quick fish
-  weight measure for tournament anglers. It's made of 3/16" anodized-aluminum
-  plate.
+  The EGO 18" aluminum measuring board is designed to provide a quick accurate
+  measurement.  It's made of 3/16" anodized-aluminum and is laser etched for
+  longevity and durability.
 categories:
   - ego-tools
 price: '19.99'
@@ -18,12 +18,15 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>Make sure all your catches are of legal length. The rugged EGO 18in
-  aluminum measuring board is laser etched for accurate 1/16" increment fish
-  measurements.</p>
+  <p>The EGO measuring board was designed to provide an effect and accurate way
+  to measure fish length without having to deal with hassles of using a
+  tradition tape. The angler can quickly get an accurate measuring length by
+  simply setting the fish on the board and placing the nose against the vertical
+  end of the board. The rugged EGO 18in aluminum measuring board is laser etched
+  for accurate 1/16" increment fish measurements.</p>
 right_column_html: >-
   <ul><li>3/16" anodized aluminum plate</li><li>Accurate measuring length (1/16"
-  increments)</li><li>Laser etched for longevity</li><li>Durable</li></ul>
+  increments)</li><li>Laser etched for longevity and durability</li></ul>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
