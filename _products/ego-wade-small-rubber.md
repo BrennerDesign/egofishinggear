@@ -15,7 +15,7 @@ tag_color:
 tag_text:
 filter_handle:
 filter_hoop:
-filter_mesh: mesh_rubber
+filter_mesh:
 slides:
   - title: EGO WADE Small Rubber
     image: /images/nets/71376_WADE_S_RUBBER_1160x533.jpg
