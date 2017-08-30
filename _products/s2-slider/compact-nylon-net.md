@@ -44,9 +44,9 @@ right_column_html: >-
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
-  <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
-  material and workmanship(excluding net mesh) for a period of two (2) years
-  from the date of original purchase.</p><div
+  <p>2-Year Limited Warranty</p><p>EGO Fishing Gear warrants your EGO landing
+  net to be free of defects in material and workmanship(excluding net mesh) for
+  a period of two (2) years from the date of original purchase.</p><div
   class="divider">&nbsp;</div><p><strong>If your EGO fishing tool exhibits such
   a defect, Adventure Products will, at its option, replace or repair it without
   charge, provided the customer:</strong></p><p><strong>1) Returns defective
