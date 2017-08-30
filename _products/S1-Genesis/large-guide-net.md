@@ -1,7 +1,7 @@
 ---
 name: S1 GENESIS—COMPACT GUIDE NET
 subheading: 13in Removable Handle — 17in x 19in Hoop
-order_number: 3
+order_number: 17
 description: >-
   Best medium fishing net on the planet. EGO S1 Genesis Compact Guide fishing
   net FLOATS and features a removable handle for component interchangeability.
@@ -13,24 +13,20 @@ sku: 71890
 show_as_crosssells: false
 tag_color: new_tag
 tag_text: NEW
-filter_handle: handle_small
-filter_hoop: hoop_medium
+filter_handle: handle_large
+filter_hoop: hoop_large
 filter_mesh: mesh_measure_net
 slides:
-  - title: EGO S1 Genesis Medium Guide Net
+  - title: EGO S1 Genesis Large Guide Net
     image: /images/nets/71790_S1_Compact_Guide_1160x533.jpg
     video:
     is_video: false
-  - title:
-    image: /images/nets/72014_S2_Compact_Guide_IMG2_1160x533.jpg
+  - title: EGO S1 Genesis Large Guide Net
+    image: /images/nets/72059_S2_Large_Guide_IMG2_1160x533.jpg
     video:
     is_video: false
-  - title:
-    image: /images/nets/72014_S2_Compact_Guide_IMG3_1160x533.jpg
-    video:
-    is_video: false
-  - title:
-    image: /images/nets/72014_S2_Compact_Guide_IMG4_1160x533.jpg
+  - title: EGO S1 Genesis Large Guide Net
+    image: /images/nets/72059_S2_Large_Guide_IMG3_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
