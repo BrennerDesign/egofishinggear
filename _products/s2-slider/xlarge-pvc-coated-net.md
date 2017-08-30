@@ -1,7 +1,7 @@
 ---
 name: S2 SLIDER—XLARGE PVC COATED NET
 subheading: Standard Handle—Extends 29in–60in
-order_number: 18
+order_number: 118
 description: >-
   Best fishing net on the planet. EGO S2 Slider XLarge PVC Coated landing net
   features advanced handle extension technology. Extends from 29" to 60"
