@@ -30,9 +30,10 @@ left_column_html: >-
   LOAD CAPACITY</p><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
-  Clip</li><li>Unique Hoop Scoop Design</li><li>Mesh bag: Non-Tangle/Hook-Free
-  Rubber Coated Nylon Mesh</li><li>Bag depth: 28&rdquo;</li><li>Hoop size:
-  Medium 17" x 19"</li><li>Product Weight: 1.25 lbs</li></ul><div>&nbsp;</div>
+  Clip</li><li>Unique Hoop Scoop Design</li><li>Handle Lenght: 6"</li><li>Mesh
+  bag: Non-Tangle/Hook-Free Rubber Coated Nylon Mesh</li><li>Bag depth:
+  28&rdquo;</li><li>Hoop size: Medium 17" x 19"</li><li>Product Weight: 1.25
+  lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>RUBBER COATED NYLON MESH</h7><p><img alt=""
   src="/images/Nylon_400x150.jpg" /></p><p>&nbsp;</p>
