@@ -1,41 +1,41 @@
 ---
-name: S1 GENESIS—SMALL NYLON NET
-subheading: 13in Removable Handle — 14in x 16in Hoop
+name: EGO WADE—SMALL NYLON NET
+subheading: 14in x 16in Hoop
 order_number: 1
 description: >-
-  Best small fishing net on the planet. EGO S1 Genesis Small Nylon fishing net
-  FLOATS and features a removable handle for component interchangeability.
+  Best Wade and Kayak fishing net on the planet. EGO S1 Genesis Small Nylon
+  fishing net FLOATS and features a removable handle for component
+  interchangeability.
 categories:
   - s1-nets
 price: 32.99
-sku: 71370
+sku: 71372
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_small
-filter_hoop: hoop_small
+filter_handle:
+filter_hoop:
 filter_mesh: mesh_nylon
 slides:
-  - title: EGO S1 Genesis Small Nylon Net
-    image: /images/nets/71370_S1_S_Nylon_1160x533.jpg
+  - title: EGO WADE Small Nylon
+    image: /images/nets/71372_WADE_S_Nylon_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Small Nylon net utilizes a strong lightweight
-  hexagonal extruded aluminum handle design that provides economical and
-  dependable functionality.&nbsp; With a simple twist of the wrist, any EGO
-  accessories hoop head or attachment tool can be<br />securely fastened and
-  ready for use. The modular platform allows for component interchangeability
-  and compact storage. EGO Fishing Nets are the first choice for the Savvy
-  angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  <p>The EGO WADE Small Nylon net utilizes a strong lightweight hexagonal
+  extruded aluminum handle, innovative grip design, an 11" elastic
+  adjustable/removable tether and the ability to float. What a perfect Kayak
+  fishing net or Wade fishing net. &nbsp;EGO Fishing Nets are the first choice
+  for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
-  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 13"</li><li>Mesh bag:
-  Nylon</li><li>Bag depth: 20"</li><li>Hoop Size: Small 14" x
-  16"</li><li>Minimal water drag</li><li>Weight: .95
-  lbs</li></ul><div>&nbsp;</div>
+  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
+  Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
+  Clip</li><li>Non-Tangle/Hook-Free Nylon Mesh</li><li>Unique Hoop Scoop
+  Design</li><li>Bag depth: 20&rdquo;</li><li>Hoop size: Medium 14" x
+  16"</li><li>Product Weight: 0.65 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><p>&nbsp;</p>
+  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
