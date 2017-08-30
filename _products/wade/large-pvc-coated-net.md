@@ -1,5 +1,5 @@
 ---
-name: EGO WADE—LARGE NYLON NET
+name: EGO WADE—LARGE PVC COATED NET
 subheading: Clip On Tether—19in x 21in Hoop
 order_number: 10
 description: >-
@@ -8,8 +8,8 @@ description: >-
   tether.
 categories:
   - wade-kayak-nets
-price: 42.99
-sku: 71152
+price: 59.99
+sku: 71354
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -22,7 +22,7 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO WADE Medium Nylon net utilizes a strong, lightweight hexagonal
+  <p>The EGO WADE Large PVC Coated net utilizes a strong, lightweight hexagonal
   extruded aluminum handle, innovative grip design, an 11" elastic
   adjustable/removable clip on tether and the ability to float. What a perfect
   Kayak fishing net or Wade fishing net. &nbsp;EGO Fishing Nets are the first
@@ -30,11 +30,12 @@ left_column_html: >-
   LOAD CAPACITY</p><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
-  Clip</li><li>Unique Hoop Scoop Design</li><li>Mesh bag: Nylon
-  Mesh</li><li>Handle Lenght: 6"</li><li>Bag depth: 31&rdquo;</li><li>Hoop size:
-  Medium 19" x 21"</li><li>Product Weight: 1.35 lbs</li></ul><div>&nbsp;</div>
+  Clip</li><li>Unique Hoop Scoop Design</li><li>Mesh bag: PVC coated
+  mesh</li><li>Handle Lenght: 6"</li><li>Bag depth: 20&rdquo; Flat
+  Bottom</li><li>Hoop size: Medium 19" x 21"</li><li>Product Weight: 1.1
+  lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>PVC COATED MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
