@@ -18,7 +18,7 @@ filter_hoop: hoop_large
 filter_mesh: mesh_measure_net
 slides:
   - title: EGO S1 Genesis Large Guide Net
-    image: /images/nets/71790_S1_Compact_Guide_1160x533.jpg
+    image: /images/nets/71890_S1_L_Guide_1160x533.jpg
     video:
     is_video: false
   - title: EGO S1 Genesis Large Guide Net
