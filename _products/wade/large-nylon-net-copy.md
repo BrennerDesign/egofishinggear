@@ -1,15 +1,15 @@
 ---
-name: EGO WADE—LARGE NYLON NET
+name: EGO WADE—LARGE RUBBER COATED NYLON NET
 subheading: Clip On Tether—19in x 21in Hoop
 order_number: 9
 description: >-
-  Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Large Nylon
-  fishing net FLOATS and features an 11" elastic adjustable/removable clip on
-  tether.
+  Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Large Rubber
+  Coated Nylon fishing net FLOATS and features an 11" elastic
+  adjustable/removable clip on tether.
 categories:
   - wade-kayak-nets
-price: 42.99
-sku: 71152
+price: 54.99
+sku: 71155
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -17,8 +17,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 slides:
-  - title: EGO WADE Large Nylon
-    image: /images/nets/71152_WADE_L_Nylon_1160x533.jpg
+  - title: EGO WADE Large Rubber Coated Nylon
+    image: /images/nets/71155_WADE_L_RCN_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
