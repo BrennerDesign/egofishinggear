@@ -34,7 +34,7 @@ left_column_html: >-
   Design</li><li>Bag depth: 20&rdquo;</li><li>Hoop size: Medium 14" x
   16"</li><li>Product Weight: 0.65 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>NYLON MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
