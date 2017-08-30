@@ -17,15 +17,15 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO measuring board was designed to provide an effect and accurate way
-  to measure fish length without having to deal with hassles of using a
-  tradition tape. The angler can quickly get an accurate measuring length by
-  simply setting the fish on the board and placing the nose against the vertical
-  end of the board. The rugged EGO 18in aluminum measuring board is laser etched
-  for accurate 1/16" increment fish measurements.</p>
+  <p>The EGO Ultra-Grip built-in 40lb scale fish gripping tool was designed to
+  allow the angler to quickly and easily reach out and lip a fish to either lift
+  it into the boat and/or get an accurate weight on the fish with the built-in
+  weigh scale. The EGO Ultra-Grip fish gripping tool offers very good quality
+  and exceptional value.</p>
 right_column_html: >-
-  <ul><li>3/16" anodized aluminum plate</li><li>Accurate measuring length (1/16"
-  increments)</li><li>Laser etched for longevity and durability</li></ul>
+  <ul><li>Stainless Steel Jaws</li><li>Anodized aluminum body</li><li>Quick
+  trigger action</li><li>Built-in weigh scale (up to 40lbs)</li><li>Quick-clip
+  lanyard</li></ul>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
