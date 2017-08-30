@@ -31,13 +31,13 @@ left_column_html: >-
   CAPACITY</p><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
-  Clip</li><li>Unique Hoop Scoop Design</li><li>Mesh bag: PVC coated
-  mesh</li><li>Handle Lenght: 6"</li><li>Bag depth: 20&rdquo; Flat
-  Bottom</li><li>Hoop size: Medium 19" x 21"</li><li>Product Weight: 1.1
-  lbs</li></ul><div>&nbsp;</div>
+  Clip</li><li>Unique Hoop Scoop Design</li><li>Bag depth: 15" Flat Bottom
+  (Stretches up to 1.5X with load)</li><li>Handle Lenght: 6"</li><li>Mesh bag:
+  Lightweight non-tangle rubber mesh</li><li>Hoop size: Large 19" x
+  21"</li><li>Product Weight: 1.4 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
-  /></p><p>&nbsp;</p>
+  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt=""
+  src="/images/Rubber_400x150.jpg" /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p>EGO Fishing Gear warrants your EGO landing net to be free of defects in
   material and workmanship(excluding net mesh) for a period of two (2) years
