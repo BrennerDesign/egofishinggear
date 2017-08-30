@@ -47,7 +47,7 @@ warranty_left_column_html: >-
   and insured, indicating the reason(s) for the return to:</p><p>Adventure
   Products<br />Product Returns<br />889 Guy Paine Rd.<br />Macon, GA
   31206</p><p>2) Submits proof of date of original
-  purchase.</p><p>&nbsp;</p><p>File Claim Online</p><p>&nbsp;</p>
+  purchase.</p><p>&nbsp;</p><p>File Claim Online</p>
 warranty_right_column_html: >-
   <p>This warranty does not cover damage resulting from accident, misuse, abuse,
   tampering, unreasonable use or normal wear.</p><p>ADVENTURE PRODUCTS, INC.
