@@ -1,10 +1,10 @@
 ---
-name: S1 GENESIS—MEDIUM GUIDE NET
+name: S1 GENESIS—COMPACT GUIDE NET
 subheading: 13in Removable Handle — 17in x 19in Hoop
-order_number: 4
+order_number: 3
 description: >-
-  Best medium fishing net on the planet. EGO S1 Genesis Medium  fishing net
-  FLOATS and features a removable handle for component interchangeability.
+  Best medium fishing net on the planet. EGO S1 Genesis Compact Guide fishing
+  net FLOATS and features a removable handle for component interchangeability.
 categories:
   - s1-nets
   - ego-guide-nets
@@ -34,11 +34,11 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO S1 Genesis PVC Coated Guide fishing net comes with Measure Net
-  technology and a strong lightweight hexagonal extruded aluminum handle design
-  that provides economical and dependable functionality. With a simple twist of
-  the wrist, any EGO accessories hoop head or attachment tool can be securely
-  fastened and ready for use. The modular platform allows for component
+  <p>The EGO S1 Genesis PVC Coated Compact Guide fishing net comes with Measure
+  Net technology and a strong lightweight hexagonal extruded aluminum handle
+  design that provides economical and dependable functionality. With a simple
+  twist of the wrist, any EGO accessories hoop head or attachment tool can be
+  securely fastened and ready for use. The modular platform allows for component
   interchangeability and compact storage. EGO Fishing Nets are the first choice
   for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
