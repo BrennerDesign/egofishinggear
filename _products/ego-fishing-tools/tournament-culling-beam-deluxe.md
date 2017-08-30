@@ -22,7 +22,20 @@ left_column_html: >-
   handle</li><li>Engraved for longevity</li><li>Provides quick fish weight
   measure</li></ul>
 right_column_html:
-warranty_left_column_html:
+warranty_left_column_html: >-
+  <p>Adventure Products warrants the EGO Ti22 Pliers Titanium Body to be free of
+  defects in material and workmanship for the lifetime of the product for as
+  long as the original customer owns the product. All other components used in
+  the manufacture of the pliers are covered by warranty for a period of (1) year
+  from the date of original purchase.</p><div
+  class="divider">&nbsp;</div><p><strong>If your EGO fishing tool exhibits such
+  a defect, Adventure Products will, at its option, replace or repair it without
+  charge, provided the customer:</strong></p><p><strong>1) Returns the defective
+  product, postage paid and insured, indicating the reason(s) for the return
+  to:</strong></p><p>Adventure Products<br />Product Returns<br />889 Guy Paine
+  Rd.<br />Macon, GA 31206</p><p><strong>2) Submits proof of date of original
+  purchase.</strong></p><p>&nbsp;</p><p><a class="block_btn"
+  href="/contact-us">File Claim Online</a></p>
 warranty_right_column_html:
 slides:
   - title: EGO Deluxe Culling Beam
