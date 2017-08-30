@@ -32,7 +32,7 @@ right_column_html: >-
   <h6>AWARDS &amp; ACKNOWLEDGMENTS</h6><p><img alt="" src="/images/spec2.jpg"
   /></p>
 warranty_left_column_html: >-
-  <p>Limited Lifetime Warranty</p><p>Adventure Products warrants the EGO Ti22
+  <p><h7>Limited Lifetime Warranty</h7></p><p>Adventure Products warrants the EGO Ti22
   Pliers Titanium Body to be free of defects in material and workmanship for the
   lifetime of the product for as long as the original customer owns the product.
   All other components used in the manufacture of the pliers are covered by
