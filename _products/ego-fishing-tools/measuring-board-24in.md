@@ -1,16 +1,16 @@
 ---
-name: EGO Aluminum Fish Measuring Board—18in
+name: EGO Aluminum Fish Measuring Board—24in
 subheading: Accurate 1/16" Increments
-order_number: 7
+order_number: 8
 description: >-
-  The EGO 18" aluminum measuring board is designed to provide a quick accurate
+  The EGO 24" aluminum measuring board is designed to provide a quick accurate
   measurement.  It's made of 3/16" anodized-aluminum and is laser etched for
   longevity and durability.
 categories:
   - ego-tools
-price: '19.99'
+price: '24.99'
 price_range:
-sku: '73001'
+sku: '73002'
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -22,7 +22,7 @@ left_column_html: >-
   to measure fish length without having to deal with hassles of using a
   tradition tape. The angler can quickly get an accurate measuring length by
   simply setting the fish on the board and placing the nose against the vertical
-  end of the board. The rugged EGO 18in aluminum measuring board is laser etched
+  end of the board. The rugged EGO 24in aluminum measuring board is laser etched
   for accurate 1/16" increment fish measurements.</p>
 right_column_html: >-
   <ul><li>3/16" anodized aluminum plate</li><li>Accurate measuring length (1/16"
@@ -45,8 +45,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO 18in Aluminum Fishing Measuring Board
-    image: /images/73001_18in_MeasuringBoard_1160x533.jpg
+  - title: EGO 24in Aluminum Fishing Measuring Board
+    image: /images/73001_24in_MeasuringBoard_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
