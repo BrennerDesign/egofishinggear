@@ -1,10 +1,10 @@
 ---
-name: S1 GENESIS—COMPACT GUIDE NET
-subheading: 13in Removable Handle — 17in x 19in Hoop
+name: S1 GENESIS—LARGE GUIDE NET
+subheading: 31in Removable Handle — 19in x 21in Hoop
 order_number: 17
 description: >-
-  Best medium fishing net on the planet. EGO S1 Genesis Compact Guide fishing
-  net FLOATS and features a removable handle for component interchangeability.
+  Best medium fishing net on the planet. EGO S1 Genesis Large Guide fishing net
+  FLOATS and features a removable handle for component interchangeability.
 categories:
   - s1-nets
   - ego-guide-nets
