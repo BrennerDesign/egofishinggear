@@ -1,24 +1,24 @@
 ---
 name: EGO WADE KAYAK—SMALL NYLON NET
 subheading: Clip On Tether—14in x 16in Hoop
-order_number: 1
+order_number: 2
 description: >-
-  Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Small Nylon
+  Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Small Rubber
   fishing net FLOATS and features an 11" elastic adjustable/removable clip on
   tether.
 categories:
   - wade-kayak-nets
-price: 32.99
-sku: 71372
+price: 49.99
+sku: 71376
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle:
 filter_hoop:
-filter_mesh: mesh_nylon
+filter_mesh: mesh_rubber
 slides:
-  - title: EGO WADE Small Nylon
-    image: /images/nets/71372_WADE_S_Nylon_1160x533.jpg
+  - title: EGO WADE Small Rubber
+    image: /images/nets/71376_WADE_S_RUBBER_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
