@@ -1,7 +1,7 @@
 ---
 name: S2 SLIDER—COMPACT NYLON NET
 subheading: Compact Handle—Extends 18in—36in
-order_number: 1
+order_number: 101
 description: >-
   The best Kayak fishing net. The EGO S2 Slider Compact Nylon fishing net
   features advanced handle extension technology. Extends from 18" to 36"
