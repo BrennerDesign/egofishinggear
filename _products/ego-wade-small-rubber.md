@@ -1,5 +1,5 @@
 ---
-name: EGO WADE KAYAK—SMALL RUBBER NET
+name: EGO WADE—SMALL RUBBER NET
 subheading: Clip On Tether—14in x 16in Hoop
 order_number: 2
 description: >-
