@@ -1,7 +1,7 @@
 ---
 name: EGO WADE—MEDIUM RUBBER COATED NYLON NET
 subheading: Clip On Tether—17in x 19in Hoop
-order_number: 4
+order_number: 5
 description: >-
   Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Medium Rubber
   Coated Nylon fishing net FLOATS and features an 11" elastic
