@@ -1,13 +1,13 @@
 ---
-name: EGO WADE—SMALL NYLON NET
-subheading: 14in x 16in Hoop
+name: EGO WADE KAYAK—SMALL NYLON NET
+subheading: Clip On Tether—14in x 16in Hoop
 order_number: 1
 description: >-
-  Best Wade and Kayak fishing net on the planet. EGO S1 Genesis Small Nylon
-  fishing net FLOATS and features a removable handle for component
-  interchangeability.
+  Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Small Nylon
+  fishing net FLOATS and features an 11" elastic adjustable/removable clip on
+  tether.
 categories:
-  - s1-nets
+  - wade-kayak-nets
 price: 32.99
 sku: 71372
 show_as_crosssells: false
@@ -22,12 +22,12 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO WADE Small Nylon net utilizes a strong lightweight hexagonal
+  <p>The EGO WADE Small Nylon net utilizes a strong, lightweight hexagonal
   extruded aluminum handle, innovative grip design, an 11" elastic
-  adjustable/removable tether and the ability to float. What a perfect Kayak
-  fishing net or Wade fishing net. &nbsp;EGO Fishing Nets are the first choice
-  for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
-  CAPACITY</h7><p><strong>30lbs</strong></p><div
+  adjustable/removable clip on tether and the ability to float. What a perfect
+  Kayak fishing net or Wade fishing net. &nbsp;EGO Fishing Nets are the first
+  choice for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><p>MAX
+  LOAD CAPACITY</p><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
   Clip</li><li>Non-Tangle/Hook-Free Nylon Mesh</li><li>Unique Hoop Scoop
