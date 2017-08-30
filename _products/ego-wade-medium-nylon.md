@@ -1,15 +1,15 @@
 ---
-name: EGO WADE—MEDIUM NYLON NET
+name: EGO WADE—MEDIUM RUBBER NET
 subheading: Clip On Tether—17in x 19in Hoop
 order_number: 3
 description: >-
-  Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Medium Nylon
+  Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Medium Rubber
   fishing net FLOATS and features an 11" elastic adjustable/removable clip on
   tether.
 categories:
   - wade-kayak-nets
-price: 39.99
-sku: 71262
+price: 59.99
+sku: 71266
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -17,8 +17,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 slides:
-  - title: EGO WADE Medium Nylon
-    image: /images/nets/71262_WADE_M_NYLON_1160x533.jpg
+  - title: EGO WADE Medium Rubber Net
+    image: /images/nets/71266_WADE_M_RUBBER_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
