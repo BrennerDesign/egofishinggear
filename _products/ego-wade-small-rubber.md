@@ -32,8 +32,9 @@ left_column_html: >-
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
   Clip</li><li>Unique Hoop Scoop Design</li><li>Mesh bag: Lightweight non-tangle
-  rubber mesh</li><li>Bag depth: 11&rdquo; Flat bottom</li><li>Hoop size: Medium
-  14" x 16"</li><li>Product Weight: 0.95 lbs</li></ul><div>&nbsp;</div>
+  rubber mesh</li><li>Handle Lenght: 6"</li><li>Bag depth: 11&rdquo; Flat
+  bottom</li><li>Hoop size: Medium 14" x 16"</li><li>Product Weight: 0.95
+  lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt=""
   src="/images/Rubber_400x150.jpg" /></p><p>&nbsp;</p>
