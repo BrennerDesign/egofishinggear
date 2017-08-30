@@ -22,7 +22,7 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO WADE Large Lightweight Rubber fishing net utilizes a strong,
+  <p>The EGO WADE Large XLarge Lightweight Rubber fishing net utilizes a strong,
   lightweight hexagonal extruded aluminum handle, innovative grip design, an 11"
   elastic adjustable/removable clip on tether and the ability to float. What a
   perfect Kayak fishing net or Wade fishing net. &nbsp;EGO Fishing Nets are the
@@ -33,8 +33,8 @@ left_column_html: >-
   Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
   Clip</li><li>Unique Hoop Scoop Design</li><li>Bag depth: 15" Flat Bottom
   (Stretches up to 1.5X with load)</li><li>Handle Lenght: 6"</li><li>Mesh bag:
-  Lightweight non-tangle rubber mesh</li><li>Hoop size: Large 19" x
-  21"</li><li>Product Weight: 1.4 lbs</li></ul><div>&nbsp;</div>
+  Lightweight non-tangle rubber mesh</li><li>Hoop size: XLarge 24" x
+  27"</li><li>Product Weight: 1.4 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt=""
   src="/images/Rubber_400x150.jpg" /></p><p>&nbsp;</p>
