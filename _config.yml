@@ -145,7 +145,7 @@ filter_hoops:
 filter_meshes:
   mesh_nylon: Nylon
   mesh_ruber_coated_nylon: Ruber Coated Nylon
-  mesh_pvc_coated_nylon: PVC Coated Nylon
+  mesh_pvc_coated_nylon: PVC Coated
   mesh_rubber: Rubber
   mesh_clear_rubber: Clear Rubber
   mesh_deep_rubber: Deep Rubber
