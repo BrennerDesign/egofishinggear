@@ -1,6 +1,6 @@
 ---
 name: EGO Bait-Mark
-subheading: Bait Containment System
+subheading: 20 Gallon Bait Containment System
 order_number: 6
 display_product: true
 description: >-
@@ -11,7 +11,7 @@ categories:
   - ego-tools
 price: '59.99'
 price_range:
-sku: '73009'
+sku: '73013'
 show_as_crosssells: false
 tag_color:
 tag_text:
