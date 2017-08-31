@@ -1,16 +1,16 @@
 ---
-name: EGO Ultra Grip—40lb
-subheading: Built-in 40lb Scale with Stainless Jaws
-order_number: 7
+name: EGO Ultra Grip—25lbs
+subheading: Built-in 25lbs Scale with Stainless Jaws
+order_number: 4
 display_product: true
 description: >-
-  The best Fish Gripper on the water.  With a BUILT-IN 40lb SCALE, the EGO Ultra
-  Grip 40lb model is a savvy anglers top choice.
+  The best Fish Gripper on the water.  With a BUILT-IN 25lbs SCALE, the EGO
+  Ultra Grip 25lbs model is a savvy anglers top choice.
 categories:
   - ego-tools
 price: '69.99'
 price_range:
-sku: '73004'
+sku: '73010'
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -18,14 +18,14 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Ultra-Grip built-in 40lb scale fish gripping tool was designed to
+  <p>The EGO Ultra-Grip built-in 25lbs scale fish gripping tool was designed to
   allow the angler to quickly and easily reach out and lip a fish to either lift
   it into the boat and/or get an accurate weight on the fish with the built-in
   weigh scale. The EGO Ultra-Grip fish gripping tool offers very good quality
   and exceptional value.</p>
 right_column_html: >-
   <ul><li>Stainless Steel Jaws</li><li>Anodized aluminum body</li><li>Quick
-  trigger action</li><li>Built-in weigh scale (up to 40lbs)</li><li>Quick-clip
+  trigger action</li><li>Built-in weigh scale (up to 25lbs)</li><li>Quick-clip
   lanyard</li></ul>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
@@ -45,7 +45,7 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Ultra Fish Griper 40lbs
+  - title: EGO Ultra Fish Griper 25lbs
     image: /images/73004_Ultra-Grip-40lbs_1_1160x533.jpg
     video:
     is_video: false
