@@ -1,5 +1,5 @@
 ---
-name: EGO Ti22 Titanium Pliers
+name: EGO Ti22 Titanium Fishing Pliers
 subheading: Standard 7.5"
 order_number: 1
 display_product: true
@@ -14,7 +14,7 @@ sku: '73014'
 show_as_crosssells: true
 tag_color:
 tag_text:
-filter_handle: handle_wade
+filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
