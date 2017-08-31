@@ -2,6 +2,7 @@
 name: EGO BIG GAME—XLARGE RUBBER NET
 subheading: 48 inch Handle—24in x 29in Hoop
 order_number: 3
+display_product: true
 description: >-
   Best big game rubber fishing net on the planet for CATFISH fishing. EGO XLarge
   rubber fishing net comes with a 48-inch handle and FLOATS.

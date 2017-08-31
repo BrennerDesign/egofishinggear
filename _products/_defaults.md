@@ -2,6 +2,7 @@
 name:
 subheading:
 order_number: 1
+display_product: true
 description:
 categories:
 price:
