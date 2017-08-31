@@ -1,16 +1,16 @@
 ---
-name: EGO Ultra Grip—40lbs
-subheading: Built-in 40lbs Scale with Stainless Jaws
-order_number: 3
+name: EGO Ultra Grip—Standard
+subheading: No built-in scale
+order_number: 5
 display_product: true
 description: >-
-  The best Fish Gripper on the water.  With a BUILT-IN 40lbs SCALE, the EGO
-  Ultra Grip 40lbs model is a savvy anglers top choice.
+  The EGO Standard Ultra-Grip tool is designed to allow an angler to quickly and
+  easily lip a fish and lift it into the boat.
 categories:
   - ego-tools
-price: '69.99'
+price: '39.99'
 price_range:
-sku: '73004'
+sku: '73015'
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -18,11 +18,11 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Ultra-Grip built-in 40lbs scale fish gripping tool was designed to
-  allow the angler to quickly and easily reach out and lip a fish to either lift
-  it into the boat and/or get an accurate weight on the fish with the built-in
-  weigh scale. The EGO Ultra-Grip fish gripping tool offers very good quality
-  and exceptional value.</p>
+  <p>The EGO Ultra Grip Standard model is perfect for landing fish - especially
+  the toothy variety. The stainless steel jaws open by a quick-action trigger
+  that provides easy and convenient operation with the flick of your finger. The
+  anodized aluminum body keeps it lightweight and its rubber handle grip
+  provides a solid grip even in wet conditions.</p>
 right_column_html: >-
   <ul><li>Stainless Steel Jaws</li><li>Anodized aluminum body</li><li>Quick
   trigger action</li><li>Built-in weigh scale (up to 40lbs)</li><li>Quick-clip
