@@ -1,5 +1,5 @@
 ---
-name: EGO Aluminum Fish Measuring Board—36in
+name: EGO Measuring Board—36in
 subheading: Accurate 1/16" Increments
 order_number: 9
 display_product: true
