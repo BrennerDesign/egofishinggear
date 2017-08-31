@@ -66,6 +66,18 @@ slides:
     image: /images/BaitMark_1_1160x533.jpg
     video:
     is_video: false
+  - title:
+    image: /images/BaitMark_2_1160x533.jpg
+    video:
+    is_video: false
+  - title:
+    image: /images/BaitMark_3_1160x533.jpg
+    video:
+    is_video: false
+  - title:
+    image: /images/BaitMark_4_1160x533.jpg
+    video:
+    is_video: false
 options_text: Choose Net Size
 options:
   - name:
