@@ -19,7 +19,7 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>EGO Bait-Mark Value Added Functionality &amp; Features</p><p>The EGO bait
+  <p><h7>EGO Bait-Mark Value Added Functionality &amp; Features</h7></p><p>The EGO bait
   mark bait containment system is a revolutionary product that allows an angler
   to preserve live bait at the dock and then while fishing off shore. The bait
   mark can be easily collapsed for stowing and transport and then quickly
