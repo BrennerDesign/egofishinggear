@@ -9,6 +9,7 @@ description: >-
   plate.
 categories:
   - ego-tools
+  - bait-nets
 price: '59.99'
 price_range:
 sku: '73013'
