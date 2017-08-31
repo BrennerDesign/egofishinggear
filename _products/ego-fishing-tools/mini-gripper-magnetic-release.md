@@ -1,7 +1,7 @@
 ---
 name: EGO Mini Gripper
 subheading: With Magnetic Release
-order_number: 5
+order_number: 2
 display_product: true
 description: >-
   The Best Mini Fish Gripper Tool On The Water.  Grip and lift your fish with
