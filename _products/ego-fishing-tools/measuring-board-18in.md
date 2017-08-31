@@ -26,8 +26,8 @@ left_column_html: >-
   end of the board. The rugged EGO 18in aluminum measuring board is laser etched
   for accurate 1/16" increment fish measurements.</p>
 right_column_html: >-
-  <ul><li>3/16" anodized aluminum plate</li><li>Accurate measuring length (1/16"
-  increments)</li><li>Laser etched for longevity and durability</li></ul>
+  <p><ul><li>3/16" anodized aluminum plate</li><li>Accurate measuring length (1/16"
+  increments)</li><li>Laser etched for longevity and durability</li></ul></p>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
