@@ -1,6 +1,6 @@
 ---
 name: EGO Tournament Weigh-In Bag
-subheading: W
+subheading: Cold Crack & UV Protected
 order_number: 12
 display_product: true
 description: >-
