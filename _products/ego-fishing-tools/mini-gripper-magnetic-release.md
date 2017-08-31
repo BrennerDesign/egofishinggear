@@ -1,11 +1,11 @@
 ---
 name: EGO Mini Gripper
 subheading: With Magnetic Release
-order_number: 3
+order_number: 5
 display_product: true
 description: >-
   The Best Mini Fish Gripper Tool On The Water.  Grip and lift your fish with
-  the extra wide jaw and magnetic release tether.
+  the extra wide jaw and magnetic release.
 categories:
   - ego-tools
 price: '19.99'
@@ -19,8 +19,8 @@ filter_hoop:
 filter_mesh:
 left_column_html: >-
   <p>The Mini Gripper Tool with Magnetic Release helps land fish with ease. This
-  gripper is equipped with a magnetic release tether and features an extra wide
-  jaw opening. In addition, it has an ergonomic foam grip and comfortable palm
+  gripper is equipped with a magnetic release and features an extra wide jaw
+  opening. In addition, it has an ergonomic foam grip and comfortable palm
   design. Compact and lightweight, the EGO Mini Gripper Tool with Magnetic
   Release is constructed with an aluminum body and jaw trigger.</p>
 right_column_html: >-
