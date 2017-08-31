@@ -42,9 +42,7 @@ right_column_html: >-
   <p><img alt="" src="/images/Deployed.jpg" /></p><p>&nbsp;</p><p><img alt=""
   src="/images/Stowed.jpg" /></p><div
   class="divider">&nbsp;</div><p><h7>Additional Uses:</h7></p><ul><li>Location
-  Marking Device (collapsed in stowed position)</li><li>Fish Attracting Device
-  (deployed with bait contained inside)</li><li>Chumming Device (deployed with
-  chum contained inside)</li><li>Saves live bait = Quick return on
+  Marking Device (use in stowed position)</li><li>Saves live bait = Quick return on
   investment</li></ul>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
