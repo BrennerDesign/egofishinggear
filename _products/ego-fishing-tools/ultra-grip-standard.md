@@ -45,8 +45,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Ultra Fish Griper 40lbs
-    image: /images/73004_Ultra-Grip-40lbs_1_1160x533.jpg
+  - title: EGO Standard Ultra Fish Griper
+    image: /images/73015_Ultra-Grip-Standard_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
