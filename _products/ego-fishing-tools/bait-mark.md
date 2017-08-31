@@ -37,8 +37,9 @@ left_column_html: >-
   desired fishing location, redeploy the Bait-Mark, fill it with live bait from
   live well and place it in the water next to the side of the boat. Easily
   tether to the boat using the fastening ring just below the collar. The live
-  bait swimming inside the Bait-Mark will attract game and predator fish.</p>
-right_column_html: "<p><h7>Additional Uses:</h7></p><ul><li>\aLocation Marking Device (collapsed in stowed position)</li><li>Fish Attracting Device (deployed with bait contained inside)</li><li>Chumming Device (deployed with chum contained inside)</li><li>Saves live bait = Quick return on investment</li></ul>"
+  bait swimming inside the Bait-Mark will attract game and predator fish.</p><div
+  class="divider">&nbsp;</div><p><h7>Additional Uses:</h7></p><ul><li>\aLocation Marking Device (collapsed in stowed position)</li><li>Fish Attracting Device (deployed with bait contained inside)</li><li>Chumming Device (deployed with chum contained inside)</li><li>Saves live bait = Quick return on investment</li></ul>
+right_column_html: 
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
