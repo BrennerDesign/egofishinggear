@@ -28,11 +28,11 @@ left_column_html: >-
   used as an offshore Marking device.</p><p>&nbsp;</p><h7>1. CONTAIN</h7><p><img
   alt="" src="/images/1_baitmark.jpg" /></p><p>Tether the Bait-Mark
   bait containment system to the dock to contain and keep your live bait fresh
-  and active until you are ready to embark on your fishing trip.</p><h7>2.
+  and active until you are ready to embark on your fishing trip.</p><p>&nbsp;</p><h7>2.
   TRANSFER</h7><p><img alt="" src="/images/2_baitmark.jpg"
   /></p><p>Leave live bait inside the Bait-Mark and carry to the live well on
   your boat. Open the hatch door on the side of the Bait-Mark and easily
-  transfer the bait unharmed into the live well.</p><h7>3. ATTRACT</h7><p><img
+  transfer the bait unharmed into the live well.</p><p>&nbsp;</p><h7>3. ATTRACT</h7><p><img
   alt="" src="/images/3_baitmark.jpg" /></p><p>Upon arrival at the
   desired fishing location, redeploy the Bait-Mark, fill it with live bait from
   live well and place it in the water next to the side of the boat. Easily
