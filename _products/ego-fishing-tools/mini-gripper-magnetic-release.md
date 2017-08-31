@@ -1,16 +1,16 @@
 ---
-name: EGO Ultra Grip—40lbs
-subheading: Built-in 40lbs Scale with Stainless Jaws
+name: EGO Mini Gripper
+subheading: With Magnetic Release
 order_number: 3
 display_product: true
 description: >-
-  The best Fish Gripper on the water.  With a BUILT-IN 40lbs SCALE, the EGO
-  Ultra Grip 40lbs model is a savvy anglers top choice.
+  The Best Mini Fish Gripper Tool On The Water.  Grip and lift your fish with
+  the extra wide jaw and magnetic release tether.
 categories:
   - ego-tools
-price: '69.99'
+price: '19.99'
 price_range:
-sku: '73004'
+sku: '73017'
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -18,15 +18,15 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Ultra-Grip built-in 40lbs scale fish gripping tool was designed to
-  allow the angler to quickly and easily reach out and lip a fish to either lift
-  it into the boat and/or get an accurate weight on the fish with the built-in
-  weigh scale. The EGO Ultra-Grip fish gripping tool offers very good quality
-  and exceptional value.</p>
+  <p>The Mini Gripper Tool with Magnetic Release helps land fish with ease. This
+  gripper is equipped with a magnetic release tether and features an extra wide
+  jaw opening. In addition, it has an ergonomic foam grip and comfortable palm
+  design. Compact and lightweight, the EGO Mini Gripper Tool with Magnetic
+  Release is constructed with an aluminum body and jaw trigger.</p>
 right_column_html: >-
-  <ul><li>Stainless Steel Jaws</li><li>Anodized aluminum body</li><li>Quick
-  trigger action</li><li>Built-in weigh scale (up to 40lbs)</li><li>Quick-clip
-  lanyard</li></ul>
+  <ul><li>Magnetic Release</li><li>Aluminum body and jaw trigger</li><li>Extra
+  wide jaw opening</li><li>Ergonomic foam grip</li><li>Comfortable palm
+  design</li><li>Compact &amp; lightweight</li></ul>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
@@ -45,8 +45,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Ultra Fish Griper 40lbs
-    image: /images/73004_Ultra-Grip-40lbs_1_1160x533.jpg
+  - title: EGO Mini Gripper Magnetic Release
+    image: /images/73017_Mini_Gripper-Magnetic-R_1_160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
