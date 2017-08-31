@@ -1,17 +1,17 @@
 ---
-name: Tournament Culling Beam—Deluxe
-subheading: Provides Quick Fish Weight
-order_number: 11
+name: EGO Tournament Weigh-In Bag
+subheading: W
+order_number: 12
 display_product: true
 description: >-
-  The EGO Deluxe Tournament Culling beam is designed to provide a quick fish
-  weight measure for tournament anglers. It's made of 3/16" anodized-aluminum
-  plate.
+  The EGO Tournament Weigh-In Bag designed to provide tournament and
+  recreational anglers with a fish safe high quality carrying bag for their
+  weigh-in fish.
 categories:
   - ego-tools
-price: '36.99'
+price: '29.99'
 price_range:
-sku: '73000'
+sku: '73011'
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -19,14 +19,15 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Deluxe tournament culling beam was designed to provide a quick fish
-  weight measure for tournament anglers while not causing damage to the fish.
-  The stainless steel clips provide for an easy method to attach the fish while
-  being corrosion resistant.​</p><ul></ul>
+  <p>The EGO Tournament Weigh-In Bag was designed to provide a safe and friendly
+  way for the tournament or recreational angler to carry and weigh-in their
+  trophy fish. The 20 mil thick clear cold crack and UV protected plastic
+  substrate material is extremely durable and absolutely does not leak
+  water.</p><ul></ul>
 right_column_html: >-
-  <p><ul><li>3/16&rdquo; anodized aluminum plate</li><li>Removable
-  handle</li><li>Engraved for longevity</li><li>Provides quick fish weight
-  measure</li></ul></p>
+  <ul><li>Cold crack and UV protection for longevity</li><li>Strong woven nylon
+  carrying handles</li><li>R.F. Sealed / Zero leaks</li><li>Clear vinyl
+  material</li><li>20 mil thick wall</li><li>8 gallon capacity</li></ul>
 warranty_left_column_html: >-
   <p><h7><strong>1-Year Limited Warranty</strong></h7></p><p>Adventure Products
   warrants your EGO fishing tool to be free of defects in material and
@@ -45,8 +46,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Deluxe Culling Beam
-    image: /images/73000_Tournament_CullingBeam_Deluxe_1160x533.jpg
+  - title: EGO Tournament Weigh-in Bag
+    image: /images/73011_Tour-weigh-in-bag_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
