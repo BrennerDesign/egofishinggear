@@ -24,9 +24,9 @@ left_column_html: >-
   The stainless steel clips provide for an easy method to attach the fish while
   being corrosion resistant.​</p><ul></ul>
 right_column_html: >-
-  <ul><li>3/16&rdquo; anodized aluminum plate</li><li>Removable
+  <p><ul><li>3/16&rdquo; anodized aluminum plate</li><li>Removable
   handle</li><li>Engraved for longevity</li><li>Provides quick fish weight
-  measure</li></ul>
+  measure</li></ul></p>
 warranty_left_column_html: >-
   <p><h7><strong>1-Year Limited Warranty</strong></h7></p><p>Adventure Products
   warrants your EGO fishing tool to be free of defects in material and
