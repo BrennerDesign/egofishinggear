@@ -4,9 +4,8 @@ subheading: 20 Gallon Bait Containment System
 order_number: 13
 display_product: true
 description: >-
-  The EGO Standard Tournament Culling beam is designed to provide a quick fish
-  weight measure for tournament anglers. It's made of 3/16" anodized-aluminum
-  plate.
+  Innovative EGO Bait-Mark Bait Containment System. The Bait-Mark system allows
+  and angler to preserve live bait at the dock and then while fishing off shore
 categories:
   - ego-tools
   - bait-nets
@@ -61,7 +60,8 @@ warranty_right_column_html: >-
   <p>This warranty does not cover damage resulting from accident, misuse, abuse,
   tampering, unreasonable use or normal wear.</p><p>ADVENTURE PRODUCTS, INC.
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
-  MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
+  MERCHANTABILITY AND FITNESS FOR PARTICULAR
+  USE.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 slides:
   - title: EGO BaitMark
     image: /images/BaitMark_1_1160x533.jpg
