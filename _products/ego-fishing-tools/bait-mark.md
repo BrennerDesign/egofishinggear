@@ -19,29 +19,33 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p><h7>EGO Bait-Mark Value Added Functionality &amp; Features</h7></p><p>The
-  EGO bait mark bait containment system is a revolutionary product that allows
-  an angler to preserve live bait at the dock and then while fishing off shore.
-  The bait mark can be easily collapsed for stowing and transport and then
-  quickly deployed and tethered to the side of the boat with your live bait held
-  inside. When collapsed the bait mark with its center float design can also be
-  used as an offshore Marking device.</p><p>&nbsp;</p><h7>1. CONTAIN</h7><p><img
-  alt="" src="/images/1_baitmark.jpg" /></p><p>Tether the Bait-Mark
-  bait containment system to the dock to contain and keep your live bait fresh
-  and active until you are ready to embark on your fishing trip.</p><p>&nbsp;</p><h7>2.
-  TRANSFER</h7><p><img alt="" src="/images/2_baitmark.jpg"
-  /></p><p>Leave live bait inside the Bait-Mark and carry to the live well on
-  your boat. Open the hatch door on the side of the Bait-Mark and easily
-  transfer the bait unharmed into the live well.</p><p>&nbsp;</p><h7>3. ATTRACT</h7><p><img
-  alt="" src="/images/3_baitmark.jpg" /></p><p>Upon arrival at the
-  desired fishing location, redeploy the Bait-Mark, fill it with live bait from
-  live well and place it in the water next to the side of the boat. Easily
-  tether to the boat using the fastening ring just below the collar. The live
-  bait swimming inside the Bait-Mark will attract game and predator fish.</p><div
-  class="divider">&nbsp;</div><p><h7>Additional Uses:</h7></p><ul><li>\aLocation Marking Device (collapsed in stowed position)</li><li>Fish Attracting Device (deployed with bait contained inside)</li><li>Chumming Device (deployed with chum contained inside)</li><li>Saves live bait = Quick return on investment</li></ul>
-right_column_html: <p><img alt="" src="/images/Deployed.jpg"
-  /></p><p>&nbsp;</p><p><img alt="" src="/images/Stowed.jpg"
-  /></p>
+  <p><h7>Value Added Functionality &amp; Features</h7></p><p>The EGO bait mark
+  bait containment system is a revolutionary product that allows an angler to
+  preserve live bait at the dock and then while fishing off shore. The bait mark
+  can be easily collapsed for stowing and transport and then quickly deployed
+  and tethered to the side of the boat with your live bait held inside. When
+  collapsed the bait mark with its center float design can also be used as an
+  offshore Marking device.</p><p>&nbsp;</p><h7>1. CONTAIN</h7><p><img alt=""
+  src="/images/1_baitmark.jpg" /></p><p>Tether the Bait-Mark bait containment
+  system to the dock to contain and keep your live bait fresh and active until
+  you are ready to embark on your fishing trip.</p><p>&nbsp;</p><h7>2.
+  TRANSFER</h7><p><img alt="" src="/images/2_baitmark.jpg" /></p><p>Leave live
+  bait inside the Bait-Mark and carry to the live well on your boat. Open the
+  hatch door on the side of the Bait-Mark and easily transfer the bait unharmed
+  into the live well.</p><p>&nbsp;</p><h7>3. ATTRACT</h7><p><img alt=""
+  src="/images/3_baitmark.jpg" /></p><p>Upon arrival at the desired fishing
+  location, redeploy the Bait-Mark, fill it with live bait from live well and
+  place it in the water next to the side of the boat. Easily tether to the boat
+  using the fastening ring just below the collar. The live bait swimming inside
+  the Bait-Mark will attract game and predator fish.</p><div
+  class="divider">&nbsp;</div><p><h7>Additional Uses:</h7></p><ul><li>\aLocation
+  Marking Device (collapsed in stowed position)</li><li>Fish Attracting Device
+  (deployed with bait contained inside)</li><li>Chumming Device (deployed with
+  chum contained inside)</li><li>Saves live bait = Quick return on
+  investment</li></ul>
+right_column_html: >-
+  <p><img alt="" src="/images/Deployed.jpg" /></p><p>&nbsp;</p><p><img alt=""
+  src="/images/Stowed.jpg" /></p>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
