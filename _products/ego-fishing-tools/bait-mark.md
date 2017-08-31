@@ -38,7 +38,7 @@ left_column_html: >-
   place it in the water next to the side of the boat. Easily tether to the boat
   using the fastening ring just below the collar. The live bait swimming inside
   the Bait-Mark will attract game and predator fish.</p><div
-  class="divider">&nbsp;</div><p><h7>Additional Uses:</h7></p><ul><li>\aLocation
+  class="divider">&nbsp;</div><p><h7>Additional Uses:</h7></p><ul><li>Location
   Marking Device (collapsed in stowed position)</li><li>Fish Attracting Device
   (deployed with bait contained inside)</li><li>Chumming Device (deployed with
   chum contained inside)</li><li>Saves live bait = Quick return on
