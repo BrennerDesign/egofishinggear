@@ -25,13 +25,15 @@ left_column_html: >-
   The bait mark can be easily collapsed for stowing and transport and then
   quickly deployed and tethered to the side of the boat with your live bait held
   inside. When collapsed the bait mark with its center float design can also be
-  used as an offshore Marking device.</p><p><strong>1.
-  Contain</strong></p><p>Tether the Bait-Mark bait containment system to the
+  used as an offshore Marking device.</p><h7>1. CONTAIN</h7><p><img alt=""
+  src="/images/ClearRubber_400x150.jpg" /></p><p>Tether the Bait-Mark bait containment system to the
   dock to contain and keep your live bait fresh and active until you are ready
-  to embark on your fishing trip.</p><p><strong>2. Transfer</strong></p><p>Leave
+  to embark on your fishing trip.</p><h7>2. TRANSFER</h7><p><img alt=""
+  src="/images/ClearRubber_400x150.jpg" /></p><p>Leave
   live bait inside the Bait-Mark and carry to the live well on your boat. Open
   the hatch door on the side of the Bait-Mark and easily transfer the bait
-  unharmed into the live well.</p><p><strong>3. Attract</strong></p><p>Upon
+  unharmed into the live well.</p><h7>3. Attract</h7><p><img alt=""
+  src="/images/ClearRubber_400x150.jpg" /></p><p>Upon
   arrival at the desired fishing location, redeploy the Bait-Mark, fill it with
   live bait from live well and place it in the water next to the side of the
   boat. Easily tether to the boat using the fastening ring just below the
