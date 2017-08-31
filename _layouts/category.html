@@ -124,7 +124,7 @@ layout: default
 
         </div><!-- .filter_block -->
 
-        {% assign myproducts = site.products | where: 'categories', page.category_filter | sort: 'order_number' %}
+        {% assign myproducts = site.products | where: 'categories', page.category_filter | sort: 'order_number' | where: 'display_product', true %}
         <form action="" method="get">
             {% include filters.html filteredproducts=myproducts %}
         </form>

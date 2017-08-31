@@ -9,7 +9,7 @@ layout: default
         </div>
     </header>
 
-    {% assign myproducts = site.products | where: 'categories', page.category_to_filter | where: page.field_to_filter, page.field_to_filter_value | sort: 'order_number' %}
+    {% assign myproducts = site.products | where: 'categories', page.category_to_filter | where: page.field_to_filter, page.field_to_filter_value | sort: 'order_number' | where: 'display_product', true %}
     <div class="content_wrapper clearfix">
         {% include category-listing.html myproducts=myproducts product_specs_class='accessories' %}
     

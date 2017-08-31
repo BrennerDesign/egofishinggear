@@ -116,6 +116,6 @@ product_specs_class: 'kryptek'
 
 
 <form action="" method="get">
-    {% assign myproducts = site.products | where: 'categories', page.category_filter | sort: 'order_number' %}
+    {% assign myproducts = site.products | where: 'categories', page.category_filter | sort: 'order_number' | where: 'display_product', true %}
     {% include filters.html filteredproducts=myproducts %}
 </form>

@@ -2,6 +2,7 @@
 name: Test Replacement Part
 subheading: Available in Multiple Sizes
 order_number: 2
+display_product: true
 price: '149.00'
 sku: RPC-1
 tag_color: new_tag

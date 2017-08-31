@@ -1,5 +1,5 @@
 <div class="other_products clearfix">
-    {% assign footerproducts = site.footer_products | sort: 'order_number' %}
+    {% assign footerproducts = site.footer_products | sort: 'order_number' | where: 'display_product', true %}
     {% for slide in footerproducts limit:3 %}
         <a href="{{slide.link}}" class="other_product">
             <img src="{{slide.image}}" alt="{{slide.name}}" />

@@ -101,9 +101,9 @@ custom_header_html: '<header class="replacement_parts shorter">
         </form>
 
 
-        {% assign myproducts = site.replacements | where: 'replacement_type', 'bags' | sort: 'order_number' %}
-        {% assign myhoops = site.replacements | where: 'replacement_type', 'hoop' | sort: 'order_number' %}
-        {% assign myother = site.replacements | where: 'replacement_type', 'other' | sort: 'order_number' %}
+        {% assign myproducts = site.replacements | where: 'replacement_type', 'bags' | sort: 'order_number' | where: 'display_product', true %}
+        {% assign myhoops = site.replacements | where: 'replacement_type', 'hoop' | sort: 'order_number' | where: 'display_product', true %}
+        {% assign myother = site.replacements | where: 'replacement_type', 'other' | sort: 'order_number' | where: 'display_product', true %}
         <div class="product_specs cards replacement">
 
             {% for product in myproducts %}
