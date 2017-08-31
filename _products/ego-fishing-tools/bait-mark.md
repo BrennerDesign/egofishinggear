@@ -19,13 +19,13 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p><h7>EGO BaitMark Value Added Functionality And Features</h7></p><p>The EGO bait mark
-  bait containment system is a revolutionary product that allows an angler to
-  preserve live bait at the dock and then while fishing off shore. The bait mark
-  can be easily collapsed for stowing and transport and then quickly deployed
-  and tethered to the side of the boat with your live bait held inside. When
-  collapsed the bait mark with its center float design can also be used as an
-  offshore Marking device.</p><p>&nbsp;</p><h7>1. CONTAIN</h7><p><img alt=""
+  <p><h7>EGO BaitMark Value Added Functionality And Features</h7></p><p>The EGO
+  bait mark bait containment system is a revolutionary product that allows an
+  angler to preserve live bait at the dock and then while fishing off shore. The
+  bait mark can be easily collapsed for stowing and transport and then quickly
+  deployed and tethered to the side of the boat with your live bait held inside.
+  When collapsed the bait mark with its center float design can also be used as
+  an offshore Marking device.</p><p>&nbsp;</p><h7>1. CONTAIN</h7><p><img alt=""
   src="/images/1_baitmark.jpg" /></p><p>Tether the Bait-Mark bait containment
   system to the dock to contain and keep your live bait fresh and active until
   you are ready to embark on your fishing trip.</p><p>&nbsp;</p><h7>2.
@@ -42,8 +42,8 @@ right_column_html: >-
   <p><img alt="" src="/images/Deployed.jpg" /></p><p>&nbsp;</p><p><img alt=""
   src="/images/Stowed.jpg" /></p><div
   class="divider">&nbsp;</div><p><h7>Additional Uses:</h7></p><ul><li>Location
-  Marking Device (use in stowed position)</li><li>Saves live bait = Quick return on
-  investment</li></ul>
+  Marking Device (use in stowed position)</li><li>Saves live bait = Quick return
+  on investment</li></ul>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
@@ -62,8 +62,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Standard Culling Beam
-    image: /images/73000_Tournament_CullingBeam_Standard_1160x533.jpg
+  - title: EGO BaitMark
+    image: /images/BaitMark_1_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
