@@ -29,7 +29,7 @@ left_column_html: >-
   grip</li><li>Thumb posts for extra control and support</li><li>Lanyard
   fastening loop</li><li>Limited lifetime warranty</li></ul>
 right_column_html: >-
-  <h6>AWARDS &amp; ACKNOWLEDGMENTS</h6><p><img alt="" src="/images/spec2.jpg"
+  <h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img alt="" src="/images/spec2.jpg"
   /></p>
 warranty_left_column_html: >-
   <p><h7>Limited Lifetime Warranty</h7></p><p>Adventure Products warrants the
