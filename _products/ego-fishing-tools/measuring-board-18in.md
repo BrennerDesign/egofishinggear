@@ -2,6 +2,7 @@
 name: EGO Aluminum Fish Measuring Board—18in
 subheading: Accurate 1/16" Increments
 order_number: 7
+display_product: true
 description: >-
   The EGO 18" aluminum measuring board is designed to provide a quick accurate
   measurement.  It's made of 3/16" anodized-aluminum and is laser etched for

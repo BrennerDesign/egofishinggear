@@ -2,7 +2,7 @@
 name: EGO Lure Retriver
 subheading: Fits All S1 and S2 Landing Nets
 order_number: 1
-display_product: false
+display_product: true
 description:
 categories:
   - ego-attachment-tools

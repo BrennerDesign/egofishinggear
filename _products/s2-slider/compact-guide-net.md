@@ -2,6 +2,7 @@
 name: S2 SLIDER—COMPACT GUIDE NET
 subheading: Compact Handle—Extends 18in—36in
 order_number: 105
+display_product: true
 description: >-
   The best Kayak fishing net. The EGO S2 Slider Compact Guide fishing net
   features advanced handle extension technology and a measure net. Extends 18"

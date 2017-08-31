@@ -2,6 +2,7 @@
 name: S2 SLIDER—LARGE GUIDE NET
 subheading: Standard Handle—Extends 29in–60in
 order_number: 115
+display_product: true
 description: >-
   Best Walleye fishing net on the planet. EGO S2 Slider Large Guide fishing net
   features advanced handle extension technology and a measure net. Extends from

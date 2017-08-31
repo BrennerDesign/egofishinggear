@@ -2,6 +2,7 @@
 name: Tournament Culling Beam—Standard
 subheading: Provides Quick Fish Weight
 order_number: 10
+display_product: true
 description: >-
   The EGO Standard Tournament Culling beam is designed to provide a quick fish
   weight measure for tournament anglers. It's made of 3/16" anodized-aluminum

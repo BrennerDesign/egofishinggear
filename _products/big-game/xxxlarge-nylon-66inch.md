@@ -10,7 +10,7 @@ categories:
   - big-game-nets
 price: 109.99
 sku: 71008
-show_as_crosssells: false
+show_as_crosssells: true
 tag_color:
 tag_text:
 filter_handle:

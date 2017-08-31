@@ -2,6 +2,7 @@
 name: S1 GENESIS—LARGE RUBBER NET
 subheading: 31in Removable Handle — 19in x 21in Hoop
 order_number: 12
+display_product: true
 description: >-
   Best large fishing net on the planet. EGO S1 Genesis Large Rubber fishing net
   FLOATS and features a removable handle for component interchangeability.

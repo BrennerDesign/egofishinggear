@@ -2,6 +2,7 @@
 name: S2 SLIDER—REACH LARGE 22in RUBBER COATED NYLON NET
 subheading: REACH Handle—Extends 48in–108in
 order_number: 128
+display_product: true
 description: >-
   Best extendable Fishing Net on the Planet. EGO S2 Slider Reach Large Rubber
   Coated Nylon fishing net advanced handle extension technology. Extends from

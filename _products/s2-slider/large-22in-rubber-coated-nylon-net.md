@@ -2,6 +2,7 @@
 name: S2 SLIDER—LARGE 22in RUBBER COATED NYLON NET
 subheading: Standard Handle—Extends 29in–60in
 order_number: 116
+display_product: true
 description: >-
   Best fishing net on the planet. EGO S2 Slider Large 22in Rubber Coated Nylon
   landing net features advanced handle extension technology. Extends from 29" to

@@ -2,6 +2,7 @@
 name: EGO WADE—MEDIUM CLEAR RUBBER NET
 subheading: Clip On Tether—17in x 19in Hoop
 order_number: 7
+display_product: true
 description: >-
   Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Medium Clear
   Rubber fishing net FLOATS and features an 11" elastic adjustable/removable

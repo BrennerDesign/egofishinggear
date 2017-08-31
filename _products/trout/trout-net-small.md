@@ -2,6 +2,7 @@
 name: EGO TROUT NET SMALL
 subheading: Small Nylon Mesh
 order_number: 1
+display_product: true
 description: >-
   Great Nylon Trout Net at a great price.  EGO Small Trout Net by Ego Fishing
   Gear.
