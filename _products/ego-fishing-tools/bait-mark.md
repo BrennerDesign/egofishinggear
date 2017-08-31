@@ -1,7 +1,7 @@
 ---
 name: EGO Bait-Mark
 subheading: 20 Gallon Bait Containment System
-order_number: 6
+order_number: 13
 display_product: true
 description: >-
   The EGO Standard Tournament Culling beam is designed to provide a quick fish
