@@ -1,17 +1,17 @@
 ---
-name: EGO Measuring Board—36in
-subheading: Accurate 1/16" Increments
-order_number: 9
+name: EGO Kryptek Camo Measuring Board—34in
+subheading: Accurate 1/4" Increments
+order_number: 90
 display_product: true
 description: >-
-  The EGO 36" aluminum measuring board is designed to provide a quick accurate
-  measurement.  It's made of 3/16" anodized-aluminum and is laser etched for
-  longevity and durability.
+  The EGO Kryptek 36" long, 3/16" thick aluminum measuring board features
+  Kryptek Camo technology to help fight the battle on the water. Measures fish
+  quickly accurately.
 categories:
-  - ego-tools
-price: '34.99'
+  - kryptek-tools
+price: '42.99'
 price_range:
-sku: '73003'
+sku: '75003'
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -19,15 +19,15 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO measuring board was designed to provide an effect and accurate way
-  to measure fish length without having to deal with hassles of using a
-  tradition tape. The angler can quickly get an accurate measuring length by
-  simply setting the fish on the board and placing the nose against the vertical
-  end of the board. The rugged EGO 34in aluminum measuring board is laser etched
-  for accurate 1/16" increment fish measurements.</p>
+  <p>The EGO Kryptek camo measuring board was designed to provide an efficient
+  and accurate way to measure fish length without having to deal with hassles of
+  using a tradition tape. The angler can quickly get an accurate measuring
+  length by simply setting the fish on the board and placing the nose against
+  the vertical end of the board. The rugged EGO 34in aluminum measuring board
+  features Kryptek Camo for taking the battle to the water.</p>
 right_column_html: >-
-  <ul><li>3/16" anodized aluminum plate</li><li>Accurate measuring length (1/16"
-  increments)</li><li>Laser etched for longevity and durability</li></ul>
+  <ul><li>3/16" aluminum plate</li><li>Accurate measuring length (1/4"
+  increments)</li><li>Kryptek Camo Technology</li><li>Durable</li></ul>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
@@ -46,8 +46,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO 34in Aluminum Fishing Measuring Board
-    image: /images/73003_34in_MeasuringBoard_1160x533.jpg
+  - title: EGO Kryptek Camo 34in Aluminum Fishing Measuring Board
+    image: /images/75003_Kryptek_34in_MB_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
