@@ -46,8 +46,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO 24in Aluminum Fishing Measuring Board
-    image: /images/73001_24in_MeasuringBoard_1160x533.jpg
+  - title: EGO Kryptek Camo 24in Aluminum Fishing Measuring Board
+    image: /images/75002_Kryptek_24in_MB_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
