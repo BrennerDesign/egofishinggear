@@ -48,7 +48,7 @@ warranty_right_column_html: >-
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
   - title: EGO Kryptek Camo 18in Aluminum Fishing Measuring Board
-    image: /images/73001_18in_MeasuringBoard_1160x533.jpg
+    image: /images/75001_Kryptek_18in_MB_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
