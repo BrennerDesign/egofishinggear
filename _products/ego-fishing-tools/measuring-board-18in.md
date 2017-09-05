@@ -26,7 +26,7 @@ left_column_html: >-
   the vertical end of the board. The rugged EGO 18in aluminum measuring board
   features Kryptek Camo for taking the battle to the water.</p>
 right_column_html: >-
-  <p>&nbsp;</p><ul><li>3/16" anodized aluminum plate</li><li>Accurate measuring
+ <ul><li>3/16" anodized aluminum plate</li><li>Accurate measuring
   length (1/16" increments)</li><li>Laser etched for longevity and
   durability</li></ul><p>&nbsp;</p>
 warranty_left_column_html: >-
