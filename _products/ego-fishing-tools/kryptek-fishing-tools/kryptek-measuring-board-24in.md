@@ -1,5 +1,5 @@
 ---
-name: EGO Kryptek Camo Measuring Board—24in
+name: EGO Kryptek Measuring Board—24in
 subheading: Accurate 1/4" Increments
 order_number: 80
 display_product: true
