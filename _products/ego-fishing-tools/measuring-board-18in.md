@@ -19,15 +19,16 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO measuring board was designed to provide an effect and accurate way
-  to measure fish length without having to deal with hassles of using a
-  tradition tape. The angler can quickly get an accurate measuring length by
-  simply setting the fish on the board and placing the nose against the vertical
-  end of the board. The rugged EGO 18in aluminum measuring board is laser etched
-  for accurate 1/16" increment fish measurements.</p>
+  <p>The EGO Kryptek camo measuring board was designed to provide an efficient
+  and accurate way to measure fish length without having to deal with hassles of
+  using a tradition tape. The angler can quickly get an accurate measuring
+  length by simply setting the fish on the board and placing the nose against
+  the vertical end of the board. The rugged EGO 18in aluminum measuring board
+  features Kryptek Camo for taking the battle to the water.</p>
 right_column_html: >-
-  <p><ul><li>3/16" anodized aluminum plate</li><li>Accurate measuring length (1/16"
-  increments)</li><li>Laser etched for longevity and durability</li></ul></p>
+  <p>&nbsp;</p><ul><li>3/16" anodized aluminum plate</li><li>Accurate measuring
+  length (1/16" increments)</li><li>Laser etched for longevity and
+  durability</li></ul><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
