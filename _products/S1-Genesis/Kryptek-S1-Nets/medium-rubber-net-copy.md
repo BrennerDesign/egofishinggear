@@ -1,15 +1,15 @@
 ---
-name: S1 GENESIS—MEDIUM RUBBER NET
+name: S1 GENESIS KRYPTEK—MEDIUM RUBBER NET
 subheading: 25in Removable Handle — 17in x 19in Hoop
-order_number: 7
+order_number: 40
 display_product: true
 description: >-
   Best medium fishing net on the planet. EGO S1 Genesis Medium Rubber fishing
   net FLOATS and features a removable handle for component interchangeability.
 categories:
-  - s1-nets
-price: 64.99
-sku: 71261
+  - s1-genesis-kryptek-nets
+price: 69.99
+sku: 75261
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -17,8 +17,8 @@ filter_handle: handle_medium
 filter_hoop: hoop_medium
 filter_mesh: mesh_rubber
 slides:
-  - title: EGO S1 Genesis Medium Rubber Net
-    image: /images/nets/71261_S1_M_Rubber_1160x533.jpg
+  - title: EGO S1 Genesis Kryptek Medium Rubber Net
+    image: /images/75261_S1_Kryptek_M_Rubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
