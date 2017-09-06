@@ -10,7 +10,7 @@ description: >-
 categories:
   - s1-genesis-kryptek-nets
 price: 69.99
-sku: 71157
+sku: 75157
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -23,18 +23,20 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Large Clear Rubber net utilizes a strong
-  lightweight hexagonal extruded aluminum handle design that provides economical
-  and dependable functionality.&nbsp; With a simple twist of the wrist, any EGO
-  accessories hoop head or attachment tool can be securely fastened and ready
-  for use. The modular platform allows for component interchangeability and
-  compact storage. EGO Fishing Nets are the first choice for the Savvy angler.
-  &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  <p>The innovative EGO Kryptek S1 Genesis Large Lightweight Clear Rubber net
+  utilizes a strong lightweight hexagonal extruded aluminum handle design that
+  provides economical and dependable functionality.&nbsp; Featuring Kryptek Camo
+  technology for the savvy angler to take the battle to the water. With a simple
+  twist of the wrist, any EGO accessories hoop head or attachment tool can be
+  securely fastened and ready for use. The modular platform allows for component
+  interchangeability and compact storage. EGO Fishing Nets are the first choice
+  for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 31"</li><li>Mesh bag: Lightweight
-  non-tangle clear rubber mesh</li><li>Bag depth: 11" Flat Bottom (Stretches up
-  to 1.5X with load)</li><li>Hoop Size: Large 19" x 21"</li><li>Weight: 1.75
+  design</li><li>Removable handle &ndash; 31"</li><li>Kryptek Camo
+  Technology</li><li>Mesh bag: Lightweight non-tangle clear rubber
+  mesh</li><li>Bag depth: 11" Flat Bottom (Stretches up to 1.5X with
+  load)</li><li>Hoop Size: Large 19" x 21"</li><li>Weight: 1.75
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt=""
