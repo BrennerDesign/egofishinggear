@@ -18,11 +18,9 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Kryptek Camo Deluxe tournament culling beam was designed to provide
-  a quick fish weight measure for tournament anglers while not causing damage to
-  the fish. The stainless steel clips provide for an easy method to attach the
-  fish while being corrosion resistant. &nbsp;The Kryptek Camo helps take the
-  battle to the water.</p><ul></ul>
+  <p>The EGO Kryptek Camo Gaff Hook features 24" durable aluminum handle, 3"
+  stainless steel hook, very popular Kryptek Camo technology. &nbsp;The perfect
+  gaff hook for savvy anglers to take the battle to the water.</p><ul></ul>
 right_column_html: >-
   <ul><li>3&rdquo; stainless steel hook</li><li>24&rdquo; durable aluminum
   handle</li><li>Comfortable hand grip</li><li>6&rdquo; wrist tether for
@@ -45,8 +43,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Kryptek Camo Deluxe Culling Beam
-    image: /images/75000_Kryptek_DeluexCB_1160x533.jpg
+  - title: EGO Kryptek 3 foot gaff hook
+    image: /images/75012_Kryptek_3inGaff_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
