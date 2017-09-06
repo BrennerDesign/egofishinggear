@@ -8,7 +8,7 @@ description: >-
   salt water use and comes with replaceable tungsten steel cutters.
 categories:
   - kryptek-tools
-price: '240.00'
+price: '319.00'
 price_range:
 sku: '73014'
 show_as_crosssells: false
