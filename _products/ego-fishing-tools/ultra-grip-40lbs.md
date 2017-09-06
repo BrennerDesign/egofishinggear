@@ -11,7 +11,7 @@ categories:
 price: '69.99'
 price_range:
 sku: '73004'
-show_as_crosssells: true
+show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle:
