@@ -1,16 +1,15 @@
 ---
-name: S1 GENESIS—MEDIUM PVC COATED NET
+name: S1 GENESIS KRYPTEK—MEDIUM PVC COATED NET
 subheading: 25in Removable Handle — 17in x 19in Hoop
-order_number: 6
+order_number: 30
 display_product: true
 description: >-
-  Best medium fishing net on the planet. EGO S1 Genesis Medium PVC Coated
-  fishing net FLOATS and features a removable handle for component
-  interchangeability.
+  Best fishing net on the water. EGO S1 Genesis Kryptek Medium PVC fishing net
+  FLOATS and features a removable handle for component interchangeability.
 categories:
-  - s1-nets
-price: 58.99
-sku: 71363
+  - s1-genesis-kryptek-nets
+price: 66.99
+sku: 75363
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -18,8 +17,8 @@ filter_handle: handle_medium
 filter_hoop: hoop_medium
 filter_mesh: mesh_pvc_coated_nylon
 slides:
-  - title: EGO S1 Genesis Medium PVC Coated Net
-    image: /images/nets/71363_S1_M_PVC_1160x533.jpg
+  - title: EGO S1 Genesis Kryptek Medium PVC Coated Net
+    image: /images/75363_S1_Kryptek_M_PVC_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
