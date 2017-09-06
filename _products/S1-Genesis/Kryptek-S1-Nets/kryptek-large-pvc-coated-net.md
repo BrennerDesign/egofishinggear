@@ -1,15 +1,15 @@
 ---
-name: S1 GENESIS—LARGE PVC COATED NET
+name: S1 GENESIS KRYPTEK—LARGE PVC COATED NET
 subheading: 31in Removable Handle — 19in x 21in Hoop
-order_number: 11
+order_number: 70
 display_product: true
 description: >-
-  Best large fishing net on the planet. EGO S1 Genesis Large PVC Coated fishing
+  Best fishing net on the water. EGO S1 Genesis Kryptek Large PVC Coated fishing
   net FLOATS and features a removable handle for component interchangeability.
 categories:
-  - s1-nets
-price: 64.99
-sku: 71353
+  - s1-genesis-kryptek-nets
+price: 74.99
+sku: 75353
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -17,8 +17,8 @@ filter_handle: handle_large
 filter_hoop: hoop_large
 filter_mesh: mesh_pvc_coated_nylon
 slides:
-  - title: EGO S1 Genesis Large PVC Coated Net
-    image: /images/nets/71353_S1_L_PVC_1160x533.jpg
+  - title: EGO S1 Genesis Kryptek Large PVC Coated Net
+    image: /images/75353_S1_Kryptek_L_PVC_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
