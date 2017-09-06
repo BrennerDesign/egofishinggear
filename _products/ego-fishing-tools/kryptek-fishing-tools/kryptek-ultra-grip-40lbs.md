@@ -1,5 +1,5 @@
 ---
-name: EGO Kryptek Ultra Grip—40lbs
+name: EGO Kryptek—Ultra Grip–40lbs
 subheading: Built-in 40lbs Scale with Stainless Jaws
 order_number: 30
 display_product: true
