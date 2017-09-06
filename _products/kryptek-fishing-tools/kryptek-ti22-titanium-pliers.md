@@ -4,8 +4,8 @@ subheading: Standard 7.5"
 order_number: 19
 display_product: true
 description: >-
-  Rugged Titanium Pliers for all your heavy dude fishing needs.  Prefect for
-  salt water use and comes with replaceable tungsten steel cutters.
+  Rugged Kryptek Camo Titanium Fishing Pliers. Prefect for heavy dude salt water
+  use and features replaceable tungsten steel cutters for cutting braided lines.
 categories:
   - kryptek-tools
 price: '319.00'
@@ -18,16 +18,18 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>EGO's Ti22 Titanium Pliers are made with lightweight, strong and corrosion
-  proof titanium and the replaceable tungsten steel cutters will easily cut
-  through braided and Mono line. The pliers come with a light weight and
-  saltwater friendly sheath and tether lanyard so you never have to worry about
-  loosing them overboard. Limited lifetime
+  <p>The EGO Kryptek Ti22 Titanium Fishing Pliers are constructed of
+  lightweight, strong and corrosion proof titanium. &nbsp;They feature Kryptek
+  Camo technology, replaceable tungsten steel cutters for quickly cutting
+  through braided and Mono fishing line. These fishing pliers come with a light
+  weight and durable sheath and tether lanyard, so you will never have to worry
+  about loosing them overboard. Limited lifetime
   warranty.</p><p>&nbsp;</p><ul><li>100% Rust proof titanium body</li><li>Ultra
   strong teeth for maximum grip</li><li>Precisely engineered replaceable
   tungsten steel cutters</li><li>Contoured handles for comfort
-  grip</li><li>Thumb posts for extra control and support</li><li>Lanyard
-  fastening loop</li><li>Limited lifetime warranty</li></ul>
+  grip</li><li>Kryptek Camo Technology</li><li>Thumb posts for extra control and
+  support</li><li>Lanyard fastening loop</li><li>Limited lifetime
+  warranty</li></ul>
 right_column_html: >-
   <h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img alt="" src="/images/spec2.jpg"
   /></p>
@@ -52,16 +54,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Ti22 Titanium Fishing Pliers
+  - title: EGO Kryptek Ti22 Titanium Fishing Pliers
     image: /uploads/ego-ti22-img-1-1200x550.jpg
-    video:
-    is_video: false
-  - title: EGO Ti22 Titanium Fishing Plier replaceable tungsten steel cutters Cutters
-    image: /uploads/ego-ti22-img-2-1200x550.jpg
-    video:
-    is_video: false
-  - title: EGO Ti22 Titanium Fishing Pliers and Sheath
-    image: /uploads/EGO_Ti22_IMG_3_1200x550.jpg
     video:
     is_video: false
 options_text:
