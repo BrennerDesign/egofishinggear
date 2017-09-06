@@ -1,13 +1,13 @@
 ---
 name: EGO Kryptek — Ti22 Titanium Fishing Pliers
 subheading: Standard 7.5"
-order_number: 1
+order_number: 19
 display_product: true
 description: >-
   Rugged Titanium Pliers for all your heavy dude fishing needs.  Prefect for
   salt water use and comes with replaceable tungsten steel cutters.
 categories:
-  - ego-tools
+  - kryptek-tools
 price: '240.00'
 price_range:
 sku: '73014'
