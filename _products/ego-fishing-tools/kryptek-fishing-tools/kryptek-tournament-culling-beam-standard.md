@@ -1,5 +1,5 @@
 ---
-name: EGO Kryptek Tournament Culling Beam—Standard
+name: EGO Kryptek—Tournament Culling Beam Standard
 subheading: Provides Quick Fish Weight
 order_number: 100
 display_product: true
