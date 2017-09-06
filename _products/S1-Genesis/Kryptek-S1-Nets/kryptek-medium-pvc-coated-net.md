@@ -4,8 +4,9 @@ subheading: 25in Removable Handle — 17in x 19in Hoop
 order_number: 30
 display_product: true
 description: >-
-  Best fishing net on the water. EGO S1 Genesis Kryptek Medium PVC fishing net
-  FLOATS and features a removable handle for component interchangeability.
+  Best fishing net on the water. EGO S1 Genesis Kryptek Medium PVC coated
+  fishing net FLOATS and features a removable handle for component
+  interchangeability.
 categories:
   - s1-genesis-kryptek-nets
 price: 66.99
@@ -22,18 +23,20 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Medium PVC Coated fishing net utilizes a
+  <p>The innovative EGO Kryptek S1 Genesis Medium PCV coated net utilizes a
   strong lightweight hexagonal extruded aluminum handle design that provides
-  economical and dependable functionality.&nbsp; With a simple twist of the
-  wrist, any EGO accessories hoop head or attachment tool can be securely
-  fastened and ready for use. The modular platform allows for component
+  economical and dependable functionality.&nbsp; Featuring Kryptek Camo
+  technology for the savvy angler to take the battle to the water. With a simple
+  twist of the wrist, any EGO accessories hoop head or attachment tool can be
+  securely fastened and ready for use. The modular platform allows for component
   interchangeability and compact storage. EGO Fishing Nets are the first choice
   for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 25"</li><li>Mesh bag: PVC Coated
-  Mesh</li><li>Bag depth: 16" flat bottom</li><li>Hoop Size: Medium 17" x
-  19"</li><li>Weight: 1.3 lbs</li></ul><div>&nbsp;</div>
+  design</li><li>Removable handle &ndash; 25"</li><li>Kryptek Camo
+  Technology</li><li>Mesh bag: PVC Coated Mesh</li><li>Bag depth: 16" flat
+  bottom</li><li>Hoop Size: Medium 17" x 19"</li><li>Weight: 1.3
+  lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>PVC COATED MESH</h7><p><img alt="" src="/images/PVC_400x150.jpg"
   /></p><p>&nbsp;</p>
