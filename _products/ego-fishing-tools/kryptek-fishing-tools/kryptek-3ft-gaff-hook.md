@@ -1,17 +1,16 @@
 ---
-name: EGO Kryptek—Tournament Culling Deluxe
-subheading: Provides Quick Fish Weight
-order_number: 110
+name: EGO Kryptek—3 foot Gaff Hook
+subheading: Stainless Steel Hook & Aluminum Handle
+order_number: 120
 display_product: true
 description: >-
-  EGO Kryptek Camo Deluxe Tournament Culling beam is designed for quick
-  tournament fish weight measurement. Made of 3/16" aluminum plate and features
-  Kryptek Camo Technology.
+  3ft durable aluminum handle EGO Kryptek Camo gaff hook. Features Comfortable
+  hand grip, Kryptek Camo technology and a 3in stainless steel hook.
 categories:
   - kryptek-tools
 price: '39.99'
 price_range:
-sku: '75000'
+sku: '75012'
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -25,9 +24,9 @@ left_column_html: >-
   fish while being corrosion resistant. &nbsp;The Kryptek Camo helps take the
   battle to the water.</p><ul></ul>
 right_column_html: >-
-  <p>&nbsp;</p><ul><li>3/16&rdquo; aluminum plate</li><li>Kryptek Camo
-  Technology</li><li>Removable handle</li><li>Engraved for
-  longevity</li><li>Provides quick fish weight measure</li></ul><p>&nbsp;</p>
+  <ul><li><p>3&rdquo; stainless steel hook</p></li><li><p>24&rdquo; durable
+  aluminum handle</p></li><li><p>Comfortable hand grip</p></li><li><p>6&rdquo;
+  wrist tether for safety</p></li></ul>
 warranty_left_column_html: >-
   <p><h7><strong>1-Year Limited Warranty</strong></h7></p><p>Adventure Products
   warrants your EGO fishing tool to be free of defects in material and
