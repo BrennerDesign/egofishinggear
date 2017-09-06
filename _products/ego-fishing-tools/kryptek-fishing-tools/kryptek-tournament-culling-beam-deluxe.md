@@ -1,5 +1,5 @@
 ---
-name: EGO Kryptek—Tournament Culling – Deluxe
+name: EGO Kryptek—Tournament Culling "Deluxe"
 subheading: Provides Quick Fish Weight
 order_number: 110
 display_product: true
