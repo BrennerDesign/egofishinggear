@@ -1,6 +1,6 @@
 ---
-name: EGO Kryptek—4.5in Aluminum Fishing Pliers
-subheading: Replaceable Steel Jaw Plates and Tungsten Cutters
+name: EGO Kryptek—6.5in Aluminum Fishing Pliers
+subheading: Stainless Steel Jaw Plates and Replaceable Tungsten Cutters
 order_number: 17
 display_product: true
 description: >-
@@ -18,13 +18,17 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Kryptek 4.5&rdquo; aluminum fishing pliers featuring Kryptek Camo,
-  Replaceable Steel Jaw Plates, and Tungsten Cutters. Lightweight and Durable,
-  these trout pliers are a savvy anglers top pick for fly fishing pliers.</p>
+  <p>The Ego Kryptek Aluminum Pliers are made from durable aircraft-grade
+  aluminum resulting in an ultra lightweight set of fishing pliers.
+  &nbsp;Equipped with replaceable stainless steel jaws, split-ring tool,
+  crimping slots, and replaceable braided line tungsten steel cutters.
+  &nbsp;Featuring Kryptek Camo, the Ego Kryptek Aluminum fishing pliers are for
+  a savvy anglers fishing arsenal.</p>
 right_column_html: >-
-  <ul><li>Replaceable stainless steel jaw plates and Tungsten steel
-  cutters&nbsp;</li><li>Cuts mono and braided lines with ease</li><li>Aircraft
-  aluminum body</li><li>Kryptek Camo Technology</li></ul>
+  <ul><li>Contoured handles for comfortable grip</li><li>Thumb
+  posts</li><li>Precisely engineered replaceable tungsten steel
+  cutters</li><li>Aircraft aluminum body</li><li>Replaceable stainless steel jaw
+  plates</li><li>Kryptek Camo Technology</li></ul>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
@@ -43,8 +47,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Kryptek Camo Aluminum Trout Pliers
-    image: /images/75005_Kryptek_4.5AiPliers_1160x533.jpg
+  - title: EGO Kryptek Camo Aluminum Fishing Pliers
+    image: /images/75006_Kryptek_6.5AiPliers_1160x533.jpg
     video:
     is_video: false
 options_text:
