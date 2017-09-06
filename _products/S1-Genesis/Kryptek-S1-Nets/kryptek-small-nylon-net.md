@@ -18,7 +18,7 @@ filter_hoop: hoop_small
 filter_mesh: mesh_nylon
 slides:
   - title: EGO S1 Genesis Small Nylon Net
-    image: /images/nets/71370_S1_S_Nylon_1160x533.jpg
+    image: /images/75370_S1_Kryptek_S_Nylon_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
