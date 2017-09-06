@@ -24,9 +24,9 @@ left_column_html: >-
   fish while being corrosion resistant. &nbsp;The Kryptek Camo helps take the
   battle to the water.</p><ul></ul>
 right_column_html: >-
-  <ul><li><p>3&rdquo; stainless steel hook</p></li><li><p>24&rdquo; durable
-  aluminum handle</p></li><li><p>Comfortable hand grip</p></li><li><p>6&rdquo;
-  wrist tether for safety</p></li></ul>
+  <ul><li>3&rdquo; stainless steel hook</li><li>24&rdquo; durable aluminum
+  handle</li><li>Comfortable hand grip</li><li>6&rdquo; wrist tether for
+  safety</li></ul>
 warranty_left_column_html: >-
   <p><h7><strong>1-Year Limited Warranty</strong></h7></p><p>Adventure Products
   warrants your EGO fishing tool to be free of defects in material and
