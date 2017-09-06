@@ -1,16 +1,16 @@
 ---
-name: EGO Kryptek—4.5in Aluminum Fishing Pliers
-subheading: Replaceable Steel Jaw Plates and Tungsten Cutters
-order_number: 18
+name: EGO Kryptek—Plier Sheath
+subheading: Works with 6.5"—7.5" pliers.
+order_number: 19
 display_product: true
 description: >-
   The Best Trout Fishing Aluminum Pliers. EGO Kryptek 4.5” Aluminum Pliers
   Featuring Kryptek Camo, Replaceable Steel Jaw Plates, and Tungsten Cutters.
 categories:
   - kryptek-tools
-price: '32.99'
+price: '27.99'
 price_range:
-sku: '75005'
+sku: '75008'
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -18,13 +18,16 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Kryptek 4.5&rdquo; aluminum fishing pliers featuring Kryptek Camo,
-  Replaceable Steel Jaw Plates, and Tungsten Cutters. Lightweight and Durable,
-  these trout pliers are a savvy anglers top pick for fly fishing pliers.</p>
+  <p>The Ego Kryptek Plier Sheath is built for the savvy angler and is crafted
+  from heavy-duty materials providing many years of trustworthy use on the
+  water.&nbsp; It features a coiled lanyard, and a hardened pocket, which will
+  protect your plier from damage or self-injury.&nbsp; Finally, the Ego Kryptek
+  Plier Sheath is finished with Kryptek Camo for taking the battle to the
+  water.</p>
 right_column_html: >-
-  <ul><li>Replaceable stainless steel jaw plates and Tungsten steel
-  cutters&nbsp;</li><li>Cuts mono and braided lines with ease</li><li>Aircraft
-  aluminum body</li><li>Kryptek Camo Technology</li></ul>
+  <ul><li>Easy plier access</li><li>Durable material construction</li><li>Quick
+  clip lanyard</li><li>Designed for both wet and dry use</li><li>Kryptek Camo
+  Technology</li><li>Belt loops for securing to your shorts or pants</li></ul>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
@@ -43,8 +46,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Kryptek Camo Aluminum Trout Pliers
-    image: /images/75005_Kryptek_4.5AiPliers_1160x533.jpg
+  - title: EGO Kryptek Camo Plier Sheath
+    image: /images/75008_Kryptek_Sheath_1160x533.jpg
     video:
     is_video: false
 options_text:
