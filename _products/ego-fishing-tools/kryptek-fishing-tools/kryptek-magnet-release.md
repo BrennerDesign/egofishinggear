@@ -1,16 +1,16 @@
 ---
-name: EGO Kryptek—4.5in Aluminum Fishing Pliers
-subheading: Replaceable Steel Jaw Plates and Tungsten Cutters
+name: EGO Kryptek—Magnetic Release
+subheading: 6in stretchable lanyard extends out to 36in
 order_number: 17
 display_product: true
 description: >-
-  The Best Trout Fishing Aluminum Pliers. EGO Kryptek 4.5” Aluminum Pliers
-  Featuring Kryptek Camo, Replaceable Steel Jaw Plates, and Tungsten Cutters.
+  The Powerful EGO Kryptek  Fishing Lanyard With Magnetic Release makes it easy
+  to keep your favorite fishing tools close and secure.
 categories:
   - kryptek-tools
-price: '32.99'
+price: '12.99'
 price_range:
-sku: '75005'
+sku: '75010'
 show_as_crosssells: false
 tag_color:
 tag_text:
