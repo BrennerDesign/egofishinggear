@@ -2,13 +2,14 @@
 name: S1 GENESIS KRYPTEK—SMALL NYLON NET
 subheading: 13in Removable Handle — 14in x 16in Hoop
 order_number: 10
-display_product: false
+display_product: true
 description: >-
-  Best small fishing net on the planet. EGO S1 Genesis Small Nylon fishing net
+  Best fishing net on the water. EGO S1 Genesis Kryptek Small Nylon fishing net
   FLOATS and features a removable handle for component interchangeability.
 categories:
-price: 32.99
-sku: 71370
+  - s1-genesis-kryptek-nets
+price: 39.99
+sku: 75370
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -21,18 +22,19 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Small Nylon net utilizes a strong lightweight
-  hexagonal extruded aluminum handle design that provides economical and
-  dependable functionality.&nbsp; With a simple twist of the wrist, any EGO
-  accessories hoop head or attachment tool can be<br />securely fastened and
-  ready for use. The modular platform allows for component interchangeability
-  and compact storage. EGO Fishing Nets are the first choice for the Savvy
-  angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  <p>The innovative EGO Kryptek S1 Genesis Small Nylon net utilizes a strong
+  lightweight hexagonal extruded aluminum handle design that provides economical
+  and dependable functionality.&nbsp; Featuring Kryptek Camo technology for the
+  savvy angler to take the battle to the water. With a simple twist of the
+  wrist, any EGO accessories hoop head or attachment tool can be securely
+  fastened and ready for use. The modular platform allows for component
+  interchangeability and compact storage. EGO Fishing Nets are the first choice
+  for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 13"</li><li>Mesh bag:
-  Nylon</li><li>Bag depth: 20"</li><li>Hoop Size: Small 14" x
-  16"</li><li>Minimal water drag</li><li>Weight: .95
+  design</li><li>Removable handle &ndash; 13"</li><li>Kryptek Camo
+  Technology</li><li>Mesh bag: Nylon</li><li>Bag depth: 20"</li><li>Hoop Size:
+  Small 14" x 16"</li><li>Minimal water drag</li><li>Weight: .95
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
