@@ -1,16 +1,16 @@
 ---
-name: EGO Kryptek—Ultra Grip–40lbs
-subheading: Built-in 40lbs Scale with Stainless Jaws
-order_number: 30
+name: EGO Kryptek—4.5in Aluminum Pliers
+subheading: Replaceable Steel Jaw Plates and Tungsten Cutters
+order_number: 18
 display_product: true
 description: >-
-  The best Fish Gripper on the water. Featuring Kryptek Camo, BUILT-IN 40lbs
-  SCALE, extra wide jaw, and magnetic release. Designed For The Savvy Angler.
+  The Best Trout Fishing Aluminum Pliers. EGO Kryptek 4.5” Aluminum Pliers
+  Featuring Kryptek Camo, Replaceable Steel Jaw Plates, and Tungsten Cutters.
 categories:
   - kryptek-tools
-price: '54.99'
+price: '32.99'
 price_range:
-sku: '75004'
+sku: '75005'
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -18,17 +18,13 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Kryptek camo Ultra-Grip built-in 40lbs scale fish gripping tool was
-  designed to allow the angler to quickly and easily reach out and lip a fish to
-  either lift it into the boat and/or get an accurate weight on the fish with
-  the built-in weigh scale. The EGO Kryptek camo Ultra-Grip fish gripping tool
-  with Kryptek Camo technology offers very good quality and exceptional
-  value.</p>
+  <p>The EGO Kryptek 4.5&rdquo; aluminum fishing pliers featuring Kryptek Camo,
+  Replaceable Steel Jaw Plates, and Tungsten Cutters. Lightweight and Durable,
+  these trout pliers are a savvy anglers top pick for fly fishing pliers.</p>
 right_column_html: >-
-  <ul><li>Magnetic Release</li><li>Aluminum body and jaw trigger</li><li>Kryptek
-  Camo Technology</li><li>Extra wide jaw opening</li><li>Ergonomic foam
-  grip</li><li>Comfortable palm design</li><li>Compact &amp;
-  lightweight</li></ul>
+  <ul><li>Replaceable stainless steel jaw plates and Tungsten steel
+  cutters&nbsp;</li><li>Cuts mono and braided lines with ease</li><li>Aircraft
+  aluminum body</li><li>Kryptek Camo Technology</li></ul>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
@@ -47,8 +43,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Kryptek Camo Ultra Fish Griper 40lbs
-    image: /images/75004_Kryptek_UltraGrip40_1160x533.jpg
+  - title: EGO Kryptek Camo Aluminum Trout Pliers
+    image: /images/75005_Kryptek_4.5AiPliers_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
