@@ -1,7 +1,7 @@
 ---
 name: EGO Kryptek—6.5in Aluminum Fishing Pliers
 subheading: Stainless Steel Jaw Plates and Replaceable Tungsten Cutters
-order_number: 17
+order_number: 16
 display_product: true
 description: >-
   The Best Trout Fishing Aluminum Pliers. EGO Kryptek 4.5” Aluminum Pliers
