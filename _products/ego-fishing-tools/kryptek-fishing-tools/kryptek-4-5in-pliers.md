@@ -47,7 +47,7 @@ slides:
     image: /images/75005_Kryptek_4.5AiPliers_1160x533.jpg
     video:
     is_video: false
-options_text: Choose Net Size
+options_text:
 options:
   - name:
     sku:
