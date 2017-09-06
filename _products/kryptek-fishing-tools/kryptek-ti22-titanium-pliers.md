@@ -55,7 +55,7 @@ warranty_right_column_html: >-
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
   - title: EGO Kryptek Ti22 Titanium Fishing Pliers
-    image: /uploads/ego-ti22-img-1-1200x550.jpg
+    image: /images/75012_Kryptek_Ti122_Pliers_1160x533.jpg
     video:
     is_video: false
 options_text:
