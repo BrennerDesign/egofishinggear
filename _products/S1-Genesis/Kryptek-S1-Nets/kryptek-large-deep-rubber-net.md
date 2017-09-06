@@ -1,15 +1,16 @@
 ---
-name: S1 GENESIS—LARGE DEEP RUBBER NET
+name: S1 GENESIS KRYPTEK—LARGE DEEP RUBBER NET
 subheading: 31in Removable Handle — 19in x 21in Hoop
-order_number: 14
+order_number: 100
 display_product: true
 description: >-
-  Best large fishing net on the planet. EGO S1 Genesis Large Rubber fishing net
-  FLOATS and features a removable handle for component interchangeability.
+  Best fishing net on the water. EGO S1 Genesis Kryptek Large Deep Rubber
+  fishing net FLOATS and features a removable handle for component
+  interchangeability.
 categories:
-  - s1-nets
-price: 76.99
-sku: 71351
+  - s1-genesis-kryptek-nets
+price: 79.99
+sku: 75351
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -17,23 +18,25 @@ filter_handle: handle_large
 filter_hoop: hoop_large
 filter_mesh: mesh_deep_rubber
 slides:
-  - title: EGO S1 Genesis Large Deep Rubber Net
-    image: /images/nets/71351_S1_L_DeepRubber_1160x533.jpg
+  - title: EGO S1 Genesis Kryptek Large Deep Rubber Net
+    image: /images/75351_S1_Kryptek_L_DRubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Large Deep Rubber net utilizes a strong
-  lightweight hexagonal extruded aluminum handle design that provides economical
-  and dependable functionality.&nbsp; With a simple twist of the wrist, any EGO
-  accessories hoop head or attachment tool can be securely fastened and ready
-  for use. The modular platform allows for component interchangeability and
-  compact storage. EGO Fishing Nets are the first choice for the Savvy angler.
-  &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  <p>The innovative EGO Kryptek S1 Genesis Large Deep Rubber net utilizes a
+  strong lightweight hexagonal extruded aluminum handle design that provides
+  economical and dependable functionality.&nbsp; Featuring Kryptek Camo
+  technology for the savvy angler to take the battle to the water. With a simple
+  twist of the wrist, any EGO accessories hoop head or attachment tool can be
+  securely fastened and ready for use. The modular platform allows for component
+  interchangeability and compact storage. EGO Fishing Nets are the first choice
+  for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 31"</li><li>Mesh bag: Lightweight
-  non-tangle deep rubber mesh</li><li>Bag depth: 24" Flat Bottom (Stretches up
-  to 1.5X with load)</li><li>Hoop Size: Large 19" x 21"</li><li>Weight: 2.1
+  design</li><li>Removable handle &ndash; 31"</li><li>Kryptek Camo
+  Technology</li><li>Mesh bag: Lightweight non-tangle deep rubber
+  mesh</li><li>Bag depth: 24" Flat Bottom (Stretches up to 1.5X with
+  load)</li><li>Hoop Size: Large 19" x 21"</li><li>Weight: 2.1
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>LIGHTWEIGHT DEEP RUBBER MESH</h7><p><img alt=""
