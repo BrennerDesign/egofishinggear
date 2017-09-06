@@ -1,15 +1,15 @@
 ---
-name: S1 GENESIS—LARGE NYLON NET
+name: S1 GENESIS KRYPTEK—LARGE NYLON NET
 subheading: 31in Removable Handle — 19in x 21in Hoop
-order_number: 9
+order_number: 60
 display_product: true
 description: >-
   Best large fishing net on the planet. EGO S1 Genesis Large Nylon fishing net
   FLOATS and features a removable handle for component interchangeability.
 categories:
-  - s1-nets
-price: 54.99
-sku: 71150
+  - s1-genesis-kryptek-nets
+price: 59.99
+sku: 75150
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -17,8 +17,8 @@ filter_handle: handle_large
 filter_hoop: hoop_large
 filter_mesh: mesh_nylon
 slides:
-  - title: EGO S1 Genesis Large Nylon Net
-    image: /images/nets/71150_S1_L_Nylon_1160x533.jpg
+  - title: EGO S1 Genesis Kryptek Large Nylon Net
+    image: /images/75150_S1_Kryptek_L_Nylon_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
