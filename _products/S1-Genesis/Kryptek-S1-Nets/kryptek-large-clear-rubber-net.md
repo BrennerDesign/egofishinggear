@@ -1,14 +1,14 @@
 ---
-name: S1 GENESIS—LARGE CLEAR RUBBER NET
+name: S1 GENESIS KRYPTEK—LARGE CLEAR RUBBER NET
 subheading: 31in Removable Handle — 19in x 21in Hoop
-order_number: 13
+order_number: 90
 display_product: true
 description: >-
-  Best large fishing net on the planet. EGO S1 Genesis Large Clear Rubber
+  Best fishing net on the water. EGO S1 Genesis Kryptek Large Clear Rubber
   fishing net FLOATS and features a removable handle for component
   interchangeability.
 categories:
-  - s1-nets
+  - s1-genesis-kryptek-nets
 price: 69.99
 sku: 71157
 show_as_crosssells: false
@@ -18,8 +18,8 @@ filter_handle: handle_large
 filter_hoop: hoop_large
 filter_mesh: mesh_clear_rubber
 slides:
-  - title: EGO S1 Genesis Large Clear Rubber Net
-    image: /images/nets/71157_S1_L_ClearRubber_1160x533.jpg
+  - title: EGO S1 Genesis Kryptek Large Clear Rubber Net
+    image: /images/75157_S1_Kryptek_L_CRubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
