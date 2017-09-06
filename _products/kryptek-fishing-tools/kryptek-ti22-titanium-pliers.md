@@ -1,6 +1,6 @@
 ---
 name: EGO Kryptek — Ti22 Titanium Fishing Pliers
-subheading: Standard 7.5"
+subheading: Standard 7.5in
 order_number: 19
 display_product: false
 description: >-
