@@ -18,13 +18,15 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Kryptek 4.5&rdquo; aluminum fishing pliers featuring Kryptek Camo,
-  Replaceable Steel Jaw Plates, and Tungsten Cutters. Lightweight and Durable,
-  these trout pliers are a savvy anglers top pick for fly fishing pliers.</p>
+  <p>The EGO Kryptek Magnetic Release keeps your favorite fishing tool within
+  easy reach and ready. When more control is needed, separate the two magnets,
+  from your tool. Or, leave them connected, and the 6" stretchable spring-cord
+  lanyard extends out to 36". Carabiner clips on both ends of the magnetic
+  release secure your fishing tool to your belt or waiters.&nbsp;</p>
 right_column_html: >-
-  <ul><li>Replaceable stainless steel jaw plates and Tungsten steel
-  cutters&nbsp;</li><li>Cuts mono and braided lines with ease</li><li>Aircraft
-  aluminum body</li><li>Kryptek Camo Technology</li></ul>
+  <ul><li>Quick release magnet with carabiner</li><li>Multi functional
+  uses</li><li>Stretchable spring-cord. Length 13.7&rdquo; &amp; extends to a
+  maximum length of 36&rdquo;</li></ul>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   fishing tool to be free of defects in material and workmanship for a period of
@@ -43,8 +45,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Kryptek Camo Aluminum Trout Pliers
-    image: /images/75005_Kryptek_4.5AiPliers_1160x533.jpg
+  - title: EGO Kryptek Camo Magnetic Release
+    image: /images/75010_Kryptek_MagnetRelease_1160x533.jpg
     video:
     is_video: false
 options_text:
