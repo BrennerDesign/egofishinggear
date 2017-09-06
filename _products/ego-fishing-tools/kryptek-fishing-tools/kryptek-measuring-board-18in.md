@@ -1,5 +1,5 @@
 ---
-name: EGO Kryptek Measuring Board—18in
+name: EGO Kryptek—Measuring Board-18in
 subheading: Accurate 1/4" Increments
 order_number: 70
 display_product: true
@@ -26,8 +26,8 @@ left_column_html: >-
   the vertical end of the board. The rugged EGO 18in aluminum measuring board
   features Kryptek Camo for taking the battle to the water.</p>
 right_column_html: >-
-  <ul><li>3/16" aluminum plate</li><li>Accurate measuring length
-  (1/4" increments)</li><li>Kryptek Camo
+  <ul><li>3/16" aluminum plate</li><li>Accurate measuring length (1/4"
+  increments)</li><li>Kryptek Camo
   Technology</li><li>Durable</li></ul><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
