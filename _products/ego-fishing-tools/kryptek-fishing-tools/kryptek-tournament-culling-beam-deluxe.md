@@ -1,17 +1,17 @@
 ---
-name: Tournament Culling Beam—Deluxe
+name: EGO Kryptek Tournament Culling Beam—Deluxe
 subheading: Provides Quick Fish Weight
-order_number: 11
+order_number: 110
 display_product: true
 description: >-
-  The EGO Deluxe Tournament Culling beam is designed to provide a quick fish
-  weight measure for tournament anglers. It's made of 3/16" anodized-aluminum
-  plate.
+  EGO Kryptek Camo Deluxe Tournament Culling beam is designed for quick
+  tournament fish weight measurement. Made of 3/16" aluminum plate and features
+  Kryptek Camo Technology.
 categories:
-  - ego-tools
-price: '36.99'
+  - kryptek-tools
+price: '39.99'
 price_range:
-sku: '73000'
+sku: '75000'
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -19,14 +19,15 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Deluxe tournament culling beam was designed to provide a quick fish
-  weight measure for tournament anglers while not causing damage to the fish.
-  The stainless steel clips provide for an easy method to attach the fish while
-  being corrosion resistant.​</p><ul></ul>
+  <p>The EGO Kryptek Camo Deluxe tournament culling beam was designed to provide
+  a quick fish weight measure for tournament anglers while not causing damage to
+  the fish. The stainless steel clips provide for an easy method to attach the
+  fish while being corrosion resistant. &nbsp;The Kryptek Camo helps take the
+  battle to the water.</p><ul></ul>
 right_column_html: >-
-  <p><ul><li>3/16&rdquo; anodized aluminum plate</li><li>Removable
-  handle</li><li>Engraved for longevity</li><li>Provides quick fish weight
-  measure</li></ul></p>
+  <p>&nbsp;</p><ul><li>3/16&rdquo; aluminum plate</li><li>Kryptek Camo
+  Technology</li><li>Removable handle</li><li>Engraved for
+  longevity</li><li>Provides quick fish weight measure</li></ul><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7><strong>1-Year Limited Warranty</strong></h7></p><p>Adventure Products
   warrants your EGO fishing tool to be free of defects in material and
