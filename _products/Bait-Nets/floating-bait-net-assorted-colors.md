@@ -35,13 +35,13 @@ options:
   - name: Orange Floating Bait Net
     sku: '60300'
     adjustment:
-    price: '6.00'
+    price: $6.00
   - name: Blue Floating Bait Net
     sku: '60300'
     adjustment:
-    price: '6.00'
+    price: $6.00
   - name: Green Floating Bait Net
     sku: '60300'
     adjustment:
-    price: '6.00'
+    price: $6.00
 ---
