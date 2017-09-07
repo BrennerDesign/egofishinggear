@@ -1,9 +1,9 @@
 ---
 name: EGO Fishing Tools
-link: /ego-guide-nets
+link: /ego-fishing-tools
 h2: EGO Fishing Tools
 h3: High-tech Fishing Tools for the Savvy Angler
 image: /images/net_thumb2.jpg
-order_number: 1
+order_number: 2
 display_product: true
 ---
