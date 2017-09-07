@@ -1,16 +1,16 @@
 ---
-name: EGO Lure Retriever
+name: 'EGO 8&#34; Deck Brush'
 subheading: Fits All S1 and S2 Landing Net Handles
-order_number: 10
+order_number: 50
 display_product: true
 description: >-
-  Retriever your snagged fishing lures using the Universal Lure Retriever by EGO
+  Brush Your Boat or Boat Deck with the Universal EGO 8" Deck Brush by EGO
   Fishing Gear.  Works with EGO S1 or S2 Landing Net Handles.
 categories:
   - ego-attachment-tools
-price: '42.99'
+price: '69.99'
 price_range:
-sku: 72045A
+sku: 72046A
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -18,9 +18,9 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Center line
-  guide</li><li>Removable chains</li><li>Round tip to protect
-  lures</li><li>Quick return on investment</li></ul>
+  <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Hand grip for
+  simple cleaning</li><li>Durable medium polypropylene
+  bristles</li><li>Heavy-duty brush block</li></ul>
 right_column_html:
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
@@ -40,12 +40,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Lure Retriver
-    image: /images/72045A-EGO-LureRetriver_1_1160x533.jpg
-    video:
-    is_video: false
-  - title: EGO Lure Retriver
-    image: /images/72045A-EGO-LureRetriver_2_1160x533.jpg
+  - title: EGO 8 inch Deck Brush
+    image: /images/72046A-EGO-DeckBrush_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
