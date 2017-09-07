@@ -19,7 +19,10 @@ left_column_html: >-
   <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Angular design
   reduces hook entry angle</li><li>3/8&rdquo; #316 stainless steel rod</li></ul>
 right_column_html:
-warranty_left_column_html: 
+warranty_left_column_html: >-
+  <p>2-YEAR LIMITED WARRANTY</p><p>Adventure Products warrants your EGO
+  accessory to be free of defects in material and workmanship for a period of
+  two (2) years from the date of original purchase.</p>
 warranty_right_column_html:
 slides:
   - title: EGO 3 inch Gaff Hook
