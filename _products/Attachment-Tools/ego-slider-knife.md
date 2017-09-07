@@ -39,8 +39,12 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title:
-    image:
+  - title: EGO Slider Knife
+    image: /images/72044A-EGO-Slider_Knife_1160x533.jpg
+    video:
+    is_video: false
+  - title: EGO Slider Knife
+    image: /images/72044A-EGO-SliderKnife_2_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
