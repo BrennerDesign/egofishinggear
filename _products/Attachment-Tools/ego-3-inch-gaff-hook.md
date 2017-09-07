@@ -19,7 +19,7 @@ left_column_html: >-
   <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Angular design
   reduces hook entry angle</li><li>3/8&rdquo; #316 stainless steel rod</li></ul>
 right_column_html:
-warranty_left_column_html: <p>asdasdasd</p>
+warranty_left_column_html: 
 warranty_right_column_html:
 slides:
   - title: EGO 3 inch Gaff Hook
