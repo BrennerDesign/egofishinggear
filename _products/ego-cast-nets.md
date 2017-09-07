@@ -2,7 +2,9 @@
 name: Ego Cast Nets
 subheading: Available in Multiple Sizes
 order_number: 2
-description:
+description: >-
+  Designed for the professional guide, captain and sports fisherman demanding
+  maximum performance. EGO Cast Nets make filling your bait bucket a breeze.
 categories:
 price: '149.00'
 price_range: $149.00 - 299.99
@@ -10,9 +12,9 @@ sku: '61206'
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_large
-filter_hoop: hoop_medium
-filter_mesh: mesh_measure_net
+filter_handle:
+filter_hoop:
+filter_mesh:
 options_text: Choose Net Size
 options:
   - name: 10FT 3/8
@@ -37,19 +39,20 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>EGO Cast Nets make filling your bait bucket a breeze. Clear monofilament
-  doesn't alert fish until it's too late, while the durable six-wedge panel
+  <p>Designed for the professional guide, captain and sports fisherman demanding
+  maximum performance. The EGO Cast Nets make filling your bait bucket a breeze.
+  Clear monofilament doesn't alert fish, while the durable six-wedge panel
   construction ensures many seasons of use. Heavy-duty stainless steel swivel
   connector, 25 ft. of braided hand line and high-grade nylon braille lines.
   Rapid-sink models have 25-gram weights at 1.5 lbs. per ft., while regular
   models have 25-gram weights at 1.2 lbs. per ft.</p><div
-  class="divider">&nbsp;</div><ul><li>6 panel construction</li><li>Soft, clear
-  and durable monofilament</li><li>25 FT Hand Line</li><li>25 gram lead weights
-  @ 1.2 lb/ft</li><li>25 gram lead weights @ 1.5 lb/ft &ndash; Rapid
+  class="divider">&nbsp;</div><ul><li>6-panel construction</li><li>Soft, clear
+  and durable monofilament</li><li>25 FT Hand Line</li><li>25-gram lead weights
+  @ 1.2 lb/ft</li><li>25-gram lead weights @ 1.5 lb/ft &ndash; Rapid
   Sink</li><li>High-grade nylon braille Lines</li><li>Large diameter Horn for
   easy spread</li><li>Heavy duty stainless steel swivel</li><li>High strength
-  braided rope</li><li>Mesh grid individually tied to lead line</li><li>High
-  grade monofilament</li></ul>
+  braided rope</li><li>Mesh grid individually tied to lead
+  line</li><li>High-grade monofilament</li></ul>
 right_column_html: >-
   <h7>AVAILABLE CAST NETS SIZES</h7><p><img alt="" src="/images/size_chart.png"
   /></p>
