@@ -17,22 +17,42 @@ filter_hoop:
 filter_mesh:
 options_text: Choose Net Size
 options:
-  - name: 10FT 3/8
+  - name: 10FT 3/8in Mesh
     sku: 61206
     adjustment: '0.00'
-    price: '9.99'
-  - name: 10FT rapid sink 3/8
+    price: '179.99'
+  - name: 10FT 3/8in Mesh Rapid Sink
     sku: 61206R
-    adjustment: '+5.00'
-    price: $14.99
-  - name: 12FT 3/8
-    sku: 61207
     adjustment: '+10.00'
-    price: $19.99
-  - name: 12FT rapid sink 3/8
+    price: $189.99
+  - name: 12FT 3/8in Mesh
+    sku: 61207
+    adjustment: '+40.00'
+    price: $219.99
+  - name: 12FT  3/8in Mesh Rapid Sink
     sku: 61207R
-    adjustment: '+15.00'
-    price: $24.99
+    adjustment: '+50.00'
+    price: $229.99
+  - name: 10FT 1/4in Mesh
+    sku: '71206'
+    adjustment: '+50'
+    price: $229.99
+  - name: 10FT 1/4in Mesh Rapid Sink
+    sku: 71206R
+    adjustment: '+60.00'
+    price: $239.99
+  - name: 12FT 1/4in Mesh
+    sku: '71207'
+    adjustment: '+90.00'
+    price: $269.99
+  - name: 12FT 1/4in Mesh Rapid Sink
+    sku: 71207R
+    adjustment: '+100.00'
+    price: $279.99
+  - name: 12FT 1/2in Mesh
+    sku: '81207'
+    adjustment: '+30.00'
+    price: $209.99
 slides:
   - title: Net
     image: /images/nets/EGOCastNet_IMG1_1160x533.jpg
@@ -54,8 +74,8 @@ left_column_html: >-
   braided rope</li><li>Mesh grid individually tied to lead
   line</li><li>High-grade monofilament</li></ul>
 right_column_html: >-
-  <h7>AVAILABLE CAST NETS SIZES</h7><p><img alt="" src="/images/EGOCastNetSizes.png"
-  /></p>
+  <h7>AVAILABLE CAST NETS SIZES</h7><p><img alt=""
+  src="/images/EGOCastNetSizes.png" /></p>
 warranty_left_column_html:
 warranty_right_column_html:
 ---
