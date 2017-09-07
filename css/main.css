@@ -1082,7 +1082,8 @@ h6 {
     @media (max-width: 600px) {
       .expander_info .right_column {
         width: 100%;
-        float: none; } }
+        float: none;
+        clear: both; } }
   .expander_info .other_products_slider {
     clear: both;
     border-top: 1px solid #c4c4c4;
@@ -2491,7 +2492,9 @@ header.trout_net {
     font-size: 0.857em;
     /* 12px */
     color: #949494;
-    margin: 8px 0 2px; }
+    margin: 4px 0; }
+  .product_specs.cards .review_holder_img {
+    margin-top: 10px; }
   .product_specs.cards .new_tag {
     position: static;
     display: inline-block;
