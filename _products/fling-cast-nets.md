@@ -64,8 +64,8 @@ options:
     adjustment: '+60.00'
     price: $99.99
 slides:
-  - title: Net
-    image: /images/nets/EGOCastNet_IMG1_1160x533.jpg
+  - title: Fling Cast Net
+    image: /images/nets/FlingCast_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
@@ -84,8 +84,8 @@ left_column_html: >-
   braided rope</li><li>Mesh grid individually tied to lead
   line</li><li>High-grade monofilament</li></ul>
 right_column_html: >-
-  <h7>AVAILABLE CAST NETS SIZES</h7><p><img alt="" src="/images/FlingCastNetSizes.png"
-  /></p>
+  <h7>AVAILABLE CAST NETS SIZES</h7><p><img alt=""
+  src="/images/FlingCastNetSizes.png" /></p>
 warranty_left_column_html:
 warranty_right_column_html:
 ---
