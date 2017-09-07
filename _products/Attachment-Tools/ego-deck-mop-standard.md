@@ -1,16 +1,16 @@
 ---
-name: 'EGO 8&#34; Deck Brush'
+name: EGO Deck Mop–Standard
 subheading: Fits All S1 and S2 Landing Net Handles
-order_number: 50
+order_number: 60
 display_product: true
 description: >-
-  Brush Your Boat or Boat Deck with the Universal EGO 8" Deck Brush by EGO
-  Fishing Gear.  Works with EGO S1 or S2 Landing Net Handles.
+  Mop Your Boat Deck with the Universal Standard EGO Deck Mop by EGO Fishing
+  Gear.  Works with EGO S1 or S2 Landing Net Handles.
 categories:
   - ego-attachment-tools
-price: '69.99'
+price: '54.99'
 price_range:
-sku: 72046A
+sku: 72047A
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -40,8 +40,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO 8 inch Deck Brush
-    image: /images/72046A-EGO-DeckBrush_1160x533.jpg
+  - title: EGO Deck Mop Standard
+    image: /images/72047A-EGO-DeckMopStandard_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
