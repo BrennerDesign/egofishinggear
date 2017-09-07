@@ -69,12 +69,13 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>EGO Fling Nets make filling your bait bucket a breeze. Clear monofilament
-  doesn't alert fish until it's too late, while the durable six-wedge panel
-  construction ensures many seasons of use. Heavy-duty stainless steel swivel
-  connector, 25 ft. of braided hand line and high-grade nylon braille lines.
-  Rapid-sink models have 25-gram weights at 1.5 lbs. per ft., while regular
-  models have 25-gram weights at 1.2 lbs. per ft.</p><div
+  <p>Designed for the professional guide, captain and sports fisherman demanding
+  maximum performance at a resonable price. The EGO Fling Cast Nets make filling
+  your bait bucket a breeze. Clear monofilament doesn't alert fish, while the
+  durable six-wedge panel construction ensures many seasons of use. Heavy-duty
+  stainless steel swivel connector, 25 ft. of braided hand line and high-grade
+  nylon braille lines. Rapid-sink models have 25-gram weights at 1.5 lbs. per
+  ft., while regular models have 25-gram weights at 1.2 lbs. per ft.</p><div
   class="divider">&nbsp;</div><ul><li>6-panel construction</li><li>Soft, clear
   and durable monofilament</li><li>25 FT Hand Line</li><li>25-gram lead weights
   @ 1.2 lb/ft</li><li>25-gram lead weights @ 1.5 lb/ft &ndash; Rapid
