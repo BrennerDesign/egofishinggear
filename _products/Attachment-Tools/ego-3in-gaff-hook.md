@@ -1,14 +1,14 @@
 ---
-name: EGO Boat Hook
+name: 'EGO 3&#34; Gaff Hook'
 subheading: Fits All S1 and S2 Landing Nets
-order_number: 20
+order_number: 30
 display_product: true
-description: Universal Boat Hook for The EGO S1 or S2 Landing Net Systems.
+description: Universal Gaff Hook for The EGO S1 or S2 Landing Net Systems.
 categories:
   - ego-attachment-tools
-price: '29.99'
+price: '59.99'
 price_range:
-sku: 72040A
+sku: 72041A
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -16,9 +16,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Pull/Push arcs
-  fit 1&rdquo; diameter rails or stanchions</li><li>Concave surface on hook
-  fingers for better rope control</li></ul>
+  <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Angular design
+  reduces hook entry angle</li><li>3/8&rdquo; #316 stainless steel rod</li></ul>
 right_column_html:
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
@@ -38,8 +37,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Boat Hook
-    image: /images/72040A-EGO-Boat-Hook_1160x533.jpg
+  - title: EGO 3 inch Gaff Hook
+    image: /images/72041A-EGO-3in_Gaff-Hook_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
