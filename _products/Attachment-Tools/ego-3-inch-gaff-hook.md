@@ -1,7 +1,7 @@
 ---
-name: EGO 3 Inch Gaff Hook
-subheading:
-order_number: 1
+name: 'EGO 3&#34; Gaff Hook'
+subheading: Fits All S1 and S2 Landing Nets
+order_number: 30
 display_product: true
 description:
 categories:
@@ -19,8 +19,8 @@ right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
 slides:
-  - title:
-    image:
+  - title: EGO 3 inch Gaff Hook
+    image: /images/72041A-EGO-3in_Gaff-Hook_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
