@@ -1,5 +1,5 @@
 ---
-link: /ego-guide-nets
+link: /ego-attachment-tools
 h2: EGO Laure Retriver
 h3: Landing Net Accessories
 image: /images/net_thumb3.jpg
