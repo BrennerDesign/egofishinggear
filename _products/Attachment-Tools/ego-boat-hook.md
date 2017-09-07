@@ -24,7 +24,7 @@ warranty_left_column_html:
 warranty_right_column_html:
 slides:
   - title: EGO Boat Hook
-    image:
+    image: /images/72040A-EGO-Boat-Hook_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
