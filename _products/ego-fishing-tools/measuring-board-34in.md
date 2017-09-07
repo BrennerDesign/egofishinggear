@@ -1,6 +1,6 @@
 ---
-name: EGO Measuring Board—34in
-subheading: Accurate 1/16 inch Increments
+name: 'EGO Measuring Board—34&#34;'
+subheading: 'Accurate 1/16&#34; Increments'
 order_number: 9
 display_product: true
 description: >-
