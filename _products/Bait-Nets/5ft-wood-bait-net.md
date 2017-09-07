@@ -24,7 +24,7 @@ right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
 slides:
-  - title: EGO 5ft Wooden Bait Net
+  - title: EGO 5ft Wooden Crab Net
     image: /images/61260_5ft_Wood_Bait_Net_1160x533.jpg
     video:
     is_video: false
