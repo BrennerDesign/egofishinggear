@@ -21,7 +21,7 @@ left_column_html: >-
   fingers for better rope control</li></ul>
 right_column_html:
 warranty_left_column_html: >-
-  <p>2-Year Limited Warranty</p><p>Adventure Products warrants your EGO
+  <h7>2-Year Limited Warranty</h7><p>Adventure Products warrants your EGO
   accessory to be free of defects in material<br />and workmanship for a period
   of two (2) years from the date of original purchase.</p>
 warranty_right_column_html:
