@@ -1,20 +1,24 @@
 ---
-name: Pro Bait Well Net Telescoping Handle
-subheading:
-order_number: 1
+name: Pro Bait Well Net
+subheading: Telescoping Handle
+order_number: 10
 display_product: true
 description:
 categories:
-price:
+  - bait-nets
+price: '16.99'
 price_range:
-sku:
+sku: '61250'
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle:
 filter_hoop:
 filter_mesh:
-left_column_html:
+left_column_html: >-
+  <ul><li>30&rdquo; extendable quick lock telescoping aluminum
+  handle</li><li>12&rdquo; square hoop</li><li>12&rdquo; mesh bag
+  depth</li><li>Available in 3/16&rdquo; or 1/32&rdquo; mesh size</li></ul>
 right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
