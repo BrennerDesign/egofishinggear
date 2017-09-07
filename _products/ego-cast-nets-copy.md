@@ -1,0 +1,58 @@
+---
+name: Ego Cast Nets
+subheading: Available in Multiple Sizes
+order_number: 2
+description:
+categories:
+price: '149.00'
+price_range: $149.00 - 299.99
+sku: '61206'
+show_as_crosssells: false
+tag_color:
+tag_text:
+filter_handle: handle_large
+filter_hoop: hoop_medium
+filter_mesh: mesh_measure_net
+options_text: Choose Net Size
+options:
+  - name: 10FT 3/8
+    sku: 61206
+    adjustment: '0.00'
+    price: '9.99'
+  - name: 10FT rapid sink 3/8
+    sku: 61206R
+    adjustment: '+5.00'
+    price: $14.99
+  - name: 12FT 3/8
+    sku: 61207
+    adjustment: '+10.00'
+    price: $19.99
+  - name: 12FT rapid sink 3/8
+    sku: 61207R
+    adjustment: '+15.00'
+    price: $24.99
+slides:
+  - title: Net
+    image: /images/nets/EGOCastNet_IMG1_1160x533.jpg
+    video:
+    is_video: false
+left_column_html: >-
+  <p>EGO Cast Nets make filling your bait bucket a breeze. Clear monofilament
+  doesn't alert fish until it's too late, while the durable six-wedge panel
+  construction ensures many seasons of use. Heavy-duty stainless steel swivel
+  connector, 25 ft. of braided hand line and high-grade nylon braille lines.
+  Rapid-sink models have 25-gram weights at 1.5 lbs. per ft., while regular
+  models have 25-gram weights at 1.2 lbs. per ft.</p><div
+  class="divider">&nbsp;</div><ul><li>6 panel construction</li><li>Soft, clear
+  and durable monofilament</li><li>25 FT Hand Line</li><li>25 gram lead weights
+  @ 1.2 lb/ft</li><li>25 gram lead weights @ 1.5 lb/ft &ndash; Rapid
+  Sink</li><li>High-grade nylon braille Lines</li><li>Large diameter Horn for
+  easy spread</li><li>Heavy duty stainless steel swivel</li><li>High strength
+  braided rope</li><li>Mesh grid individually tied to lead line</li><li>High
+  grade monofilament</li></ul>
+right_column_html: >-
+  <h7>AVAILABLE CAST NETS SIZES</h7><p><img alt="" src="/images/size_chart.png"
+  /></p>
+warranty_left_column_html:
+warranty_right_column_html:
+---
