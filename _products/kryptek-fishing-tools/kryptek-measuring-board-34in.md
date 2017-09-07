@@ -1,6 +1,6 @@
 ---
-name: EGO Kryptek—Measuring Board-34in
-subheading: Accurate 1/4 inch Increments
+name: 'EGO Kryptek—Measuring Board-34&#34;'
+subheading: 'Accurate 1/4&#34; Increments'
 order_number: 90
 display_product: true
 description: >-
