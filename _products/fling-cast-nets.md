@@ -31,6 +31,22 @@ options:
     sku: '31204'
     adjustment: '+25.00'
     price: $64.99
+  - name: 4FT 1/2in Mesh
+    sku: '41201'
+    adjustment: '+9.00'
+    price: '48.99'
+  - name: 5FT 1/2in Mesh
+    sku: '41202'
+    adjustment: '+15.00'
+    price: '54.99'
+  - name: 6FT 1/2in Mesh
+    sku: '41203'
+    adjustment: '+27.00'
+    price: '66.99'
+  - name: 7FT 1/2in Mesh
+    sku: '41204'
+    adjustment: '+37.00'
+    price: '76.99'
 slides:
   - title: Net
     image: /images/nets/EGOCastNet_IMG1_1160x533.jpg
