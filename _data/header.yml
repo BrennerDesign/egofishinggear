@@ -29,8 +29,10 @@ header_links:
         links:
           - name: Bait Nets
             link: /bait-nets/
-          - name: Cast Nets
+          - name: EGO Cast Nets
             link: /products/ego-cast-nets/
+          - name: Fling Cast Nets
+            link: /products/fling-cast-nets/
     bottom_link:
       name: Replacement Parts
       link: /replacement-parts/
