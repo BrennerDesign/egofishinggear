@@ -1,6 +1,6 @@
 ---
 name: EGO 5ft wood crab net
-subheading: Perfect net for capturing crab
+subheading: Perfect Net For Capturing Crab
 order_number: 50
 display_product: true
 description: >-
