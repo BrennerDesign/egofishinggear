@@ -1,14 +1,16 @@
 ---
 name: EGO Boat Hook
-subheading: Fits All S1 and S2 Landing Nets
+subheading: Fits All S1 and S2 Landing Net Handles
 order_number: 20
 display_product: true
-description: Universal Boat Hook for The EGO S1 or S2 Landing Net Systems.
+description: >-
+  Retriever your snagged fishing lures using the Universal Lure Retriever by EGO
+  Fishing Gear.  Works with EGO S1 or S2 Landing Net Handles.
 categories:
   - ego-attachment-tools
-price: '29.99'
+price: '42.99'
 price_range:
-sku: 72040A
+sku: 72045A
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -16,9 +18,9 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Pull/Push arcs
-  fit 1&rdquo; diameter rails or stanchions</li><li>Concave surface on hook
-  fingers for better rope control</li></ul>
+  <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Center line
+  guide</li><li>Removable chains</li><li>Round tip to protect
+  lures</li><li>Quick return on investment</li></ul>
 right_column_html:
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
@@ -38,8 +40,12 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Boat Hook
-    image: /images/72040A-EGO-Boat-Hook_1160x533.jpg
+  - title: EGO Lure Retriver
+    image: /images/72045A-EGO-LureRetriver_1_1160x533.jpg
+    video:
+    is_video: false
+  - title: EGO Lure Retriver
+    image: /images/72045A-EGO-LureRetriver_2_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
