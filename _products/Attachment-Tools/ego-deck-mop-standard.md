@@ -18,9 +18,9 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Hand grip for
-  simple cleaning</li><li>Durable medium polypropylene
-  bristles</li><li>Heavy-duty brush block</li></ul>
+  <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Highly
+  absorbent microfiber material</li><li>Replaceable mop head</li><li>Ring out by
+  hand</li></ul>
 right_column_html:
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
