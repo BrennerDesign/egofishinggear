@@ -1,5 +1,5 @@
 ---
-name: EGO Kryptek—4.5" Aluminum Pliers
+name: EGO Kryptek—4.5&#34; Aluminum Pliers
 subheading: Replaceable Steel Jaw Plates and Tungsten Cutters
 order_number: 16
 display_product: true
