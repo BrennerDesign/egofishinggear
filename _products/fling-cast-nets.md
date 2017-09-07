@@ -1,36 +1,36 @@
 ---
-name: Ego Cast Nets
+name: Fling Cast Nets
 subheading: Available in Multiple Sizes
 order_number: 2
 description:
 categories:
-price: '149.00'
-price_range: $149.00 - 299.99
-sku: '61206'
+price: '39.99'
+price_range: $39.99 - 99.99
+sku: CC31201
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_large
-filter_hoop: hoop_medium
-filter_mesh: mesh_measure_net
+filter_handle:
+filter_hoop:
+filter_mesh:
 options_text: Choose Net Size
 options:
-  - name: 10FT 3/8
-    sku: 61206
-    adjustment: '0.00'
-    price: '9.99'
-  - name: 10FT rapid sink 3/8
-    sku: 61206R
-    adjustment: '+5.00'
-    price: $14.99
-  - name: 12FT 3/8
-    sku: 61207
-    adjustment: '+10.00'
-    price: $19.99
-  - name: 12FT rapid sink 3/8
-    sku: 61207R
-    adjustment: '+15.00'
-    price: $24.99
+  - name: 4FT 3/8in Mesh
+    sku: 31201
+    adjustment:
+    price: $39.99
+  - name: 5FT 3/8in Mesh
+    sku: '31202'
+    adjustment: '+7.00'
+    price: $46.66
+  - name: 6FT 3/8in Mesh
+    sku: 31203
+    adjustment: '+13.00'
+    price: $52.99
+  - name: 7FT 3/8in Mesh
+    sku: '31204'
+    adjustment: '+25.00'
+    price: $64.99
 slides:
   - title: Net
     image: /images/nets/EGOCastNet_IMG1_1160x533.jpg
