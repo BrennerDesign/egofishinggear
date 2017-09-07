@@ -1,6 +1,6 @@
 ---
 name: Floating Bait Net
-subheading: Available In Assorted Colors
+subheading: Perfect for small bait wells or pails
 order_number: 20
 display_product: true
 description: >-
