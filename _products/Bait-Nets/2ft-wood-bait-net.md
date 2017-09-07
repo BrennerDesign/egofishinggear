@@ -1,6 +1,6 @@
 ---
 name: EGO 2ft wood bait net
-subheading:
+subheading: Perfect for capturing live bait
 order_number: 40
 display_product: true
 description: >-
