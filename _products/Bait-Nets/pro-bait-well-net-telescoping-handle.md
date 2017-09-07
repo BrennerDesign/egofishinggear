@@ -25,8 +25,8 @@ right_column_html: >-
 warranty_left_column_html:
 warranty_right_column_html:
 slides:
-  - title:
-    image:
+  - title: EGO Pro Bait Well Net
+    image: /images/61250_ProBaitWell_Net_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
