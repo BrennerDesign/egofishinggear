@@ -1303,6 +1303,7 @@ h6 {
 		@media (max-width: 600px) {
 			width: 100%;
 			float: none;
+			clear: both;
 		}
 	}
 	.other_products_slider {
@@ -2883,7 +2884,10 @@ header.trout_net {
 		text-transform: uppercase;
 		font-size: 0.857em; /* 12px */
 		color: $light-grey3;
-		margin: 8px 0 2px;
+		margin: 4px 0;
+	}
+	.review_holder_img {
+		margin-top: 10px;
 	}
 	.new_tag {
 		position: static;
