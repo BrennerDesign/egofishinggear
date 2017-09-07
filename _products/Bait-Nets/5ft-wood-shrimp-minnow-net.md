@@ -1,11 +1,11 @@
 ---
-name: EGO 5ft wood crab net
-subheading: Perfect Net For Capturing Crab
-order_number: 50
+name: EGO 5ft wood Shrimp or Minnow net
+subheading: Perfect Net For Capturing Shrimp or Minnows
+order_number: 60
 display_product: true
 description: >-
-  EGO 5ft wooden crab well net is the ultimate crab net. Prefect for capturing
-  crab on the weekend with the family.
+  The EGO 5ft wooden Shrimp or Minnow net is the perfect net for capturing
+  Shrimp or Minnows.
 categories:
   - bait-nets
 price: '9.99'
@@ -18,14 +18,14 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>EGO 5ft wooden crab well net is the ultimate crab net. Prefect for
-  capturing crab on the weekend with the family.</p>
+  <p>The EGO 5ft wooden Shrimp or Minnow net is the perfect net for capturing
+  Shrimp or Minnows.</p>
 right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
 slides:
-  - title: EGO 5ft Wooden Crab Net
-    image: /images/61260_5ft_Wood_Bait_Net_1160x533.jpg
+  - title: EGO 5ft Wooden Shrimp or Minnow Net
+    image: /images/61261_5ft_Wood_ShrimpMinnow_Net_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
