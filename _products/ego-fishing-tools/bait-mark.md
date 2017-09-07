@@ -1,7 +1,7 @@
 ---
 name: EGO Bait-Mark
 subheading: 20 Gallon Bait Containment System
-order_number: 13
+order_number: 80
 display_product: true
 description: >-
   Innovative EGO Bait-Mark Bait Containment System. The Bait-Mark system allows
