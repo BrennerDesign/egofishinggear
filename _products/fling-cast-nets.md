@@ -68,6 +68,14 @@ slides:
     image: /images/nets/FlingCast_1160x533.jpg
     video:
     is_video: false
+  - title:
+    image: /images/CastTech_2_1160x533.jpg
+    video:
+    is_video: false
+  - title:
+    image: /images/CastTech_3_1160x533.jpg
+    video:
+    is_video: false
 left_column_html: >-
   <p>Designed for the professional guide, captain and sports fisherman demanding
   maximum performance at a resonable price. The EGO Fling Cast Nets make filling
