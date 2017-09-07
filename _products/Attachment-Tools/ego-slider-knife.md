@@ -1,6 +1,6 @@
 ---
 name: EGO Slider Knife
-subheading:
+subheading: Cut Lures Free From Weeds or Small Roots
 order_number: 40
 display_product: true
 description: >-
