@@ -1,6 +1,6 @@
 ---
 name: EGO Boat Hook
-subheading: Works With S2 Slider or S1 Genesis Handle
+subheading: Fits All S1 and S2 Landing Nets
 order_number: 20
 display_product: true
 description: Universal Boat Hook for The EGO S1 or S2 Landing Net Systems.
