@@ -1,6 +1,6 @@
 ---
 name: EGO Measuring Board—18in
-subheading: Accurate 1/16" Increments
+subheading: Accurate 1/16 inch Increments
 order_number: 7
 display_product: true
 description: >-
