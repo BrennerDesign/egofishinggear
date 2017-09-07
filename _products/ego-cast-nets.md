@@ -59,11 +59,11 @@ slides:
     video:
     is_video: false
   - title:
-    image: /images/CastTech_2_1160x533.jpg
+    image: /images/EGOCastTech_2_1160x533.jpg
     video:
     is_video: false
   - title:
-    image: /images/CastTech_3_1160x533.jpg
+    image: /images/EGOCastTech_1_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
