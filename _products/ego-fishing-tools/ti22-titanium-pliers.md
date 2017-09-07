@@ -1,6 +1,6 @@
 ---
 name: EGO Ti22 Titanium Fishing Pliers
-subheading: Standard 7.5"
+subheading: 'Standard 7.5&#34;'
 order_number: 1
 display_product: true
 description: >-
