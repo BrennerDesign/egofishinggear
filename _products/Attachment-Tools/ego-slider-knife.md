@@ -23,9 +23,9 @@ left_column_html: >-
 right_column_html:
 warranty_left_column_html:
 warranty_right_column_html: >-
-  <p>&nbsp;</p><h7>2-Year Limited Warranty</h7><p>Adventure Products warrants
-  your EGO accessory to be free of defects in material<br />and workmanship for
-  a period of two (2) years from the date of original purchase.</p>
+  <p>2-Year Limited Warranty</p><p>Adventure Products warrants your EGO
+  accessory to be free of defects in material<br />and workmanship for a period
+  of two (2) years from the date of original purchase.</p>
 slides:
   - title:
     image:
