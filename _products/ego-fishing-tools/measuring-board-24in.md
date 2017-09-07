@@ -1,6 +1,6 @@
 ---
 name: EGO Measuring Board—24in
-subheading: Accurate 1/4" Increments
+subheading: Accurate 1/16 inch Increments
 order_number: 8
 display_product: true
 description: >-
@@ -25,7 +25,7 @@ left_column_html: >-
   the vertical end of the board. The rugged EGO 24" aluminum measuring board is
   laser etched for accurate 1/16" increment fish measurements.</p>
 right_column_html: >-
-  <ul><li>3/16" aluminum plate</li><li>Accurate measuring length (1/4"
+  <ul><li>3/16" aluminum plate</li><li>Accurate measuring length (1/16"
   increments)</li><li>Durable</li></ul>
 warranty_left_column_html: >-
   <p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
