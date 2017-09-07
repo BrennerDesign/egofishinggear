@@ -1,7 +1,7 @@
 ---
 name: EGO Measuring Board—24in
 subheading: Accurate 1/4" Increments
-order_number: 80
+order_number: 8
 display_product: true
 description: >-
   The EGO 24" long, 3/16" thick aluminum measuring board. Measures fish quickly
@@ -22,7 +22,8 @@ left_column_html: >-
   accurate way to measure fish length without having to deal with hassles of
   using a tradition tape. The angler can quickly get an accurate measuring
   length by simply setting the fish on the board and placing the nose against
-  the vertical end of the board.&nbsp;</p>
+  the vertical end of the board. The rugged EGO 24" aluminum measuring board is
+  laser etched for accurate 1/16" increment fish measurements.</p>
 right_column_html: >-
   <ul><li>3/16" aluminum plate</li><li>Accurate measuring length (1/4"
   increments)</li><li>Durable</li></ul>
