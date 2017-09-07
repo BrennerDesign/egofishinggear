@@ -58,6 +58,14 @@ slides:
     image: /images/nets/EGOCastNet_IMG1_1160x533.jpg
     video:
     is_video: false
+  - title:
+    image: /images/CastTech_2_1160x533.jpg
+    video:
+    is_video: false
+  - title:
+    image: /images/CastTech_3_1160x533.jpg
+    video:
+    is_video: false
 left_column_html: >-
   <p>Designed for the professional guide, captain and sports fisherman demanding
   maximum performance. The EGO Cast Nets make filling your bait bucket a breeze.
