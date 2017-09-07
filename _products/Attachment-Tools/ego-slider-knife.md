@@ -3,7 +3,9 @@ name: EGO Slider Knife
 subheading:
 order_number: 40
 display_product: true
-description:
+description: >-
+  Universal Knife for The EGO S1 or S2 Landing Net Systems. Cuts snagged lures
+  free from weeds/small roots.
 categories:
   - ego-attachment-tools
 price: '39.99'
