@@ -155,6 +155,7 @@ filter_meshes:
 
 tag_colors:
   new_tag: Red
+  callout_tag: Gray
 
 
 _comments:
