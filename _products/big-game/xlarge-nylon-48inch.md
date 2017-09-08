@@ -11,8 +11,8 @@ categories:
 price: 69.99
 sku: 71000
 show_as_crosssells: false
-tag_color:
-tag_text:
+tag_color: new_tag
+tag_text: FOR SALE AT SELECT RETAIL STORES
 filter_handle:
 filter_hoop:
 filter_mesh: mesh_nylon
