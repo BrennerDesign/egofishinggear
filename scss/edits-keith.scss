@@ -52,6 +52,13 @@ h7 {
     margin-top: 10px;
 }
 
+.product_specs.cards .callout_tag {
+    position: static;
+    display: inline-block;
+    margin: 16px 0 0 0;
+    padding: 4px 10px;
+}
+
 .product_specs .callout_tag {
     position: absolute;
     top: -74px;
@@ -69,9 +76,9 @@ h7 {
     @media (max-width: 680px) {
       .product_specs .new_tag {
         padding: 9px 14px;
-        top: -62px; } }
+        top: -62px; }
 
-
+}
 
 /* Product Cards Styles
 ----------------------------------------------------------------------------------------*/
