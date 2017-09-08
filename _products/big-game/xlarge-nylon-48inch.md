@@ -11,7 +11,7 @@ categories:
 price: 69.99
 sku: 71000
 show_as_crosssells: false
-tag_color: new_tag
+tag_color: callout_tag
 tag_text: Sold At Select Retail Stores
 filter_handle:
 filter_hoop:
