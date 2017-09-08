@@ -11,8 +11,8 @@ categories:
 price: 74.99
 sku: 71003
 show_as_crosssells: false
-tag_color:
-tag_text:
+tag_color: callout_tag
+tag_text: Sold At Select Retail Stores
 filter_handle:
 filter_hoop:
 filter_mesh:
