@@ -52,6 +52,26 @@ h7 {
     margin-top: 10px;
 }
 
+.product_specs .callout_tag {
+    position: absolute;
+    top: -74px;
+    background: url(../images/gray_tag.jpg) repeat-x left top, #b7b6b6;
+    background-size: auto 100%;
+    border-radius: 6px;
+    padding: 16px 22px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 600; }
+    @media (max-width: 1000px) {
+      .product_specs .new_tag {
+        padding: 13px 20px;
+        top: -70px; } }
+    @media (max-width: 680px) {
+      .product_specs .new_tag {
+        padding: 9px 14px;
+        top: -62px; } }
+
+
 
 /* Product Cards Styles
 ----------------------------------------------------------------------------------------*/
