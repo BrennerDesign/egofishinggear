@@ -1,5 +1,4 @@
 $(function() {
-    var yotpoId = 'N83yliN6EOoZygW1ADH2alJgXVII1JgZoM9nX5sq';
     Snipcart.subscribe('order.completed', function(data) {
         var orderId = data.invoiceNumber,
             amount = data.total,
@@ -18,5 +17,39 @@ $(function() {
         document.body.appendChild(script);
     });
 
+
+    function sendOrderToYotpo(orderDetails) {
+
+        var myOrderData = {
+            validate_data: true,
+            platform: 'general',
+            utoken: '', //errr
+            email: orderDetails.email,
+            customer_name: orderDetails.shippingAddress.name,
+            order_id: orderDetails.invoiceNumber,
+            products: {}
+        }
+
+        var itemLength = orderDetails.items.length;
+        for (var i = 0; i < itemLength; i++ ) {
+            var item = orderDetails.items[i];
+
+            var myProduct = {
+                url: item.url,
+                name: item.name,
+                image: item.image,
+                price: item.price
+            };
+
+            myOrderData.products[i] = myProduct;
+        }
+
+        $.postJSON('https://api.yotpo.com/apps/' + yotpoId + '/purchases', myOrderData, function(response) {
+            console.log('Response', response);
+        }, function(error) {
+            console.log('Error', error);
+        })
+
+    }
     
 });

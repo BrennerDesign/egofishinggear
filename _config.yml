@@ -7,6 +7,7 @@ baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 snipcart_key: "NTc2ZjUxZDAtYjgwMi00MjYyLWFjOGMtMGI2YWExMTYyM2U0NjM2Mjg5MTA0MTg4MzM2OTg5"
+yotpo_app_id: N83yliN6EOoZygW1ADH2alJgXVII1JgZoM9nX5sq
 tagline: "Designed for the Savvy Angler!"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -22,7 +23,6 @@ social:
     - https://www.facebook.com/egofishinggear/
 
 sale_text: 
-
 
 
 # -----
