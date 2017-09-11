@@ -38,7 +38,11 @@ warranty_right_column_html: >-
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
   - title: EGO S2 Slider 29" handle
-    image:
+    image: /images/H72005_S2_Slider_29in_Hanlde.jpg
+    video:
+    is_video: false
+  - title: EGO S2 Slider Button Close Up Image
+    image: /images/S2_Slider_Open_handle_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
