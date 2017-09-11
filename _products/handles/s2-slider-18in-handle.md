@@ -1,14 +1,14 @@
 ---
-name: 'S2 Slider 29&#34; handle'
-subheading: 'Handle Extends from 29&#34;—60&#34;'
+name: 'S2 Slider 18&#34; handle'
+subheading: 'Handle Extends from 18&#34;—36&#34;'
 order_number: 2
 display_product: true
-description: EGO Fishing Gear S2 Slider 29"—60" Extending Fishing Net Handle.
+description: EGO Fishing Gear S2 Slider 18"—36" Extending Fishing Net Handle.
 categories:
   - s2-slider-handles
-price: '49.99'
+price: '43.99'
 price_range:
-sku: H72005
+sku: H72006
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -37,8 +37,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO S2 Slider 29" handle
-    image: /images/H72005_S2_Slider_29in_Hanlde.jpg
+  - title: EGO S2 Slider 18" handle
+    image: /images/H72006_S2_Slider_18in_Hanlde.jpg
     video:
     is_video: false
   - title: EGO S2 Slider Button Close Up Image
