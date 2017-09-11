@@ -1,0 +1,44 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gutsy-birch.cloudvent.net" resolutions="1x" timestamp="1505158288679">
+  <folder name="css">
+    <file name="site_global.css" crc="131723279"/>
+    <file name="index.css" crc="82282223" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="4177022356" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="4143865194" ref="tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="tablet>index:index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="tablet>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="egologo_silver.png" crc="3957533942" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="homepage-hero-image_ego_dd1.jpg" crc="3873580434" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="tablet>index:index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4030554400" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4263057693" seo="true" mt="1505158126356" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4162524321" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3968620937" seo="true" mt="1505158144457" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4069676086" seo="true" mt="1505158106759" redirect="true"/>
+</manifest>
