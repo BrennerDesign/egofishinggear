@@ -38,8 +38,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO S2 Slider 29" handle
-    image: /images/H72005_S2_Slider_29in_Hanlde.jpg
+  - title: EGO S2 Slider 48" handle
+    image: /images/H72007_S2_Slider_48in_Hanlde.jpg
     video:
     is_video: false
   - title: EGO S2 Slider Button Close Up Image
