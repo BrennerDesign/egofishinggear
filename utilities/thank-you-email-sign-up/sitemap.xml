@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://gutsy-birch.cloudvent.net/index.html</loc>
+    <loc>http://epic-goldfish.cloudvent.net/index.html</loc>
     <lastmod>2017-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://gutsy-birch.cloudvent.net/phone/index.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://gutsy-birch.cloudvent.net/tablet/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://epic-goldfish.cloudvent.net/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://epic-goldfish.cloudvent.net/tablet/index.html"/>
     <image:image>
-      <image:loc>http://gutsy-birch.cloudvent.net/images/egologo_silver.png</image:loc>
+      <image:loc>http://epic-goldfish.cloudvent.net/images/egologo_silver.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gutsy-birch.cloudvent.net/images/homepage-hero-image_ego_dd1.jpg</image:loc>
+      <image:loc>http://epic-goldfish.cloudvent.net/images/homepage-hero-image_ego_dd1.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
