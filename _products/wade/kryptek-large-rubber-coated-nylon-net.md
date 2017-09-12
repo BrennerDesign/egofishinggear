@@ -1,7 +1,7 @@
 ---
-name: EGO WADE—LARGE RUBBER COATED NYLON NET
+name: EGO WADE KRYPTEK—LARGE RUBBER COATED NYLON NET
 subheading: Clip On Tether—19in x 21in Hoop
-order_number: 10
+order_number: 180
 display_product: true
 forsale_online: true
 description: >-
@@ -10,8 +10,8 @@ description: >-
   adjustable/removable clip on tether.
 categories:
   - wade-kayak-nets
-price: 54.99
-sku: 71155
+price: 62.99
+sku: 75155
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -19,8 +19,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 slides:
-  - title: EGO WADE Large Rubber Coated Nylon
-    image: /images/nets/71155_WADE_L_RCN_1160x533.jpg
+  - title: EGO WADE Kryptek Camo Large Rubber Coated Nylon
+    image: /images/75155_Wade_Kryptek_L_RCNylon_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
