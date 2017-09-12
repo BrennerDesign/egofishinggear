@@ -24,8 +24,8 @@ slides:
     is_video: false
 left_column_html: >-
   <ul><li>Innovative grip design</li><li>Fits all S1 Genesis and S2 Slider
-  handles</li><li>Mesh bag: Nylon</li><li>Bag depth: 24"</li><li>Hoop Size:
-  Small 14" x 16"</li><li>Minimal water drag</li><li>Weight: .04
+  handles</li><li>Mesh bag: Nylon</li><li>Bag depth: 28"</li><li>Hoop Size:
+  Small 17" x 19"</li><li>Minimal water drag</li><li>Weight: .8
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
