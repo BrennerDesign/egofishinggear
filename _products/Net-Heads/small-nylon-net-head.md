@@ -28,7 +28,7 @@ left_column_html: >-
   Small 14" x 16"</li><li>Minimal water drag</li><li>Weight: .04
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>RUBBER MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
