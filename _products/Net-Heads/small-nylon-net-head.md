@@ -10,7 +10,7 @@ description: >-
 categories:
   - small-hoop
 price: 29.99
-sku: 72070
+sku: 72070A
 show_as_crosssells: false
 tag_color:
 tag_text:
