@@ -1,15 +1,15 @@
 ---
-name: 'S1 Geneis 13&#34; handle'
+name: 'S1 Geneis 6&#34; handle'
 subheading: Fits All S1 or S2 Net Heads or Attachment Tools
-order_number: 50
+order_number: 60
 display_product: true
 forsale_online: true
-description: EGO Fishing Gear S2 Slider 18"—36" Extending Fishing Net Handle that Floats.
+description: 'EGO Fishing Gear S1 Genesis 18&#34; Fishing Net Handle that Floats.'
 categories:
   - s1-genesis-handles
-price: '14.99'
+price: '13.99'
 price_range:
-sku: H71370
+sku: H71152
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -17,8 +17,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The S1 Genesis 18" detachable handle utilizes a strong lightweight
-  hexagonal extruded aluminum design that provides economical and dependable
+  <p>The S1 Genesis 6" detachable handle utilizes a strong lightweight hexagonal
+  extruded aluminum design that provides economical and dependable
   functionality.&nbsp; With a simple twist of the wrist any EGO S1 or S2 net
   heads or attachment tools can be securely fastened and ready for use. The
   modular platform allows for component interchangeability and compact storage.
@@ -48,8 +48,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO S1 Genesis 13" handle
-    image: /images/H71370_S1_Genesis_13in_Hanlde.jpg
+  - title: EGO S1 Genesis 6" handle
+    image: /images/H71152_S1_Genesis_6in_Hanlde.jpg
     video:
     is_video: false
 options_text: Choose Net Size
