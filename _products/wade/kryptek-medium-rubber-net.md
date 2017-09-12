@@ -1,17 +1,17 @@
 ---
-name: EGO WADE—MEDIUM RUBBER NET
+name: EGO WADE Kryptek—MEDIUM RUBBER NET
 subheading: Clip On Tether—17in x 19in Hoop
-order_number: 6
+order_number: 160
 display_product: true
 forsale_online: true
 description: >-
-  Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Medium Rubber
-  fishing net FLOATS and features an 11" elastic adjustable/removable clip on
-  tether.
+  Best WADE and KAYAK fishing net on the Water. EGO WADE Kryptek Camo Kayak
+  Medium Rubber fishing net FLOATS and features an 11" elastic
+  adjustable/removable clip on tether.
 categories:
   - wade-kayak-nets
-price: 59.99
-sku: 71266
+price: 64.99
+sku: 75266
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -19,8 +19,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 slides:
-  - title: EGO WADE Medium Rubber Net
-    image: /images/nets/71266_WADE_M_RUBBER_1160x533.jpg
+  - title: EGO WADE Kryptek Camo Medium Rubber Net
+    image: /images/75266_Wade_Kryptek_M_Rubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
