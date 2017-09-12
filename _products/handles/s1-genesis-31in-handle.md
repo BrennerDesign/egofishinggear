@@ -1,7 +1,7 @@
 ---
 name: 'S1 Geneis 31&#34; handle'
 subheading: Fits All S1 or S2 Net Heads or Attachment Tools
-order_number: 70
+order_number: 80
 display_product: true
 forsale_online: true
 description: EGO Fishing Gear S1 Genesis 31" Fishing Net Handle that Floats.
