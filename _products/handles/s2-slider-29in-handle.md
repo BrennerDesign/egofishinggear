@@ -25,8 +25,7 @@ left_column_html: >-
   class="divider">&nbsp;</div><p>LOAD
   CAPACITY</p><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
-  Extension</strong>&mdash;20lbs</p><div
-  class="divider">&nbsp;</div><p>&nbsp;</p>
+  Extension</strong>&mdash;20lbs</p>
 right_column_html: >-
   <ul><li>Slider extension technology</li><li>29"&mdash;60" Extending Fishing
   Net Handle</li><li>Neoprene foam grip</li><li>Thumb release
