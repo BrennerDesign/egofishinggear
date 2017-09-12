@@ -26,12 +26,12 @@ left_column_html: >-
   CAPACITY</p><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Slider extension
-  technology</li><li>29"&mdash;60" Extending Fishing Net Handle</li><li>Neoprene
-  foam grip</li><li>Thumb release tab</li><li>6&rdquo; lock
-  intervals</li><li>Works with all S1 or S2 net heads and attachment
-  tools.</li></ul>
-right_column_html:
+  class="divider">&nbsp;</div><p>&nbsp;</p>
+right_column_html: >-
+  <ul><li>Slider extension technology</li><li>29"&mdash;60" Extending Fishing
+  Net Handle</li><li>Neoprene foam grip</li><li>Thumb release
+  tab</li><li>6&rdquo; lock intervals</li><li>Works with all S1 or S2 net heads
+  and attachment tools.</li></ul>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   accessory to be free of defects in material and workmanship for a period of
