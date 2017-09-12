@@ -24,7 +24,7 @@ layout: default
 
         </div><!-- .#product_slider -->
 
-        <div class="product_specs">
+        <div class="product_specs  {% if page.forsale_online != true %} not-for-sale {% endif %}">
 
             {% if page.tag_text and page.tag_text != blank %}
                 <div class="{{ page.tag_color }}">{{ page.tag_text }}</div>
@@ -37,15 +37,17 @@ layout: default
 
             
             <form class="product_cart {% if page.options != '' and page.options.size > 0 %} size {% endif %}">
-                {% if page.options != '' and page.options.size > 0 and page.options[0].name and page.options[0].name != blank %}
-                    <div class="size_select not_selected">
-                        <select id="option-selector">
-                            <option disabled selected>{{page.options_text}}</option>
-                            {% for option in page.options %}
-                                <option data-qa-qty="{{option.sku}}" data-sku="{{option.sku}}" data-name="{{option.name}}" data-adjustment="{{option.adjustment}}">{{option.name}} {% if option.adjustment != '0.00' %} ( {{option.price}} ) {% endif %}</option>
-                            {% endfor %}
-                        </select>
-                    </div>
+                {% if page.forsale_online and page.forsale_online == true %}
+                    {% if page.options != '' and page.options.size > 0 and page.options[0].name and page.options[0].name != blank %}
+                        <div class="size_select not_selected">
+                            <select id="option-selector">
+                                <option disabled selected>{{page.options_text}}</option>
+                                {% for option in page.options %}
+                                    <option data-qa-qty="{{option.sku}}" data-sku="{{option.sku}}" data-name="{{option.name}}" data-adjustment="{{option.adjustment}}">{{option.name}} {% if option.adjustment != '0.00' %} ( {{option.price}} ) {% endif %}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    {% endif %}
                 {% endif %}
                 <div class="top clearfix">
                     {% if page.price_range and page.price_range != blank %}
@@ -54,23 +56,25 @@ layout: default
                         <h5 class="price">${{page.price}}</h5>
                     {% endif %}
 
-                    <div class="quantity_select">
-                        <label>Qty</label>
-                        <select id="quantity-selector">
-                            <option selected data-qa-qty="1">1</option>
-                            <option data-qa-qty="2">2</option>
-                            <option data-qa-qty="3">3</option>
-                            <option data-qa-qty="4">4</option>
-                            <option data-qa-qty="5">5</option>
-                            <option data-qa-qty="6">6</option>
-                            <option data-qa-qty="7">7</option>
-                            <option data-qa-qty="8">8</option>
-                            <option data-qa-qty="9">9</option>
-                            <option data-qa-qty="10">10</option>
-                            <option data-qa-qty="11">11</option>
-                            <option data-qa-qty="12">12</option>
-                        </select>
-                    </div>
+                    {% if page.forsale_online and page.forsale_online == true %}
+                        <div class="quantity_select">
+                            <label>Qty</label>
+                            <select id="quantity-selector">
+                                <option selected data-qa-qty="1">1</option>
+                                <option data-qa-qty="2">2</option>
+                                <option data-qa-qty="3">3</option>
+                                <option data-qa-qty="4">4</option>
+                                <option data-qa-qty="5">5</option>
+                                <option data-qa-qty="6">6</option>
+                                <option data-qa-qty="7">7</option>
+                                <option data-qa-qty="8">8</option>
+                                <option data-qa-qty="9">9</option>
+                                <option data-qa-qty="10">10</option>
+                                <option data-qa-qty="11">11</option>
+                                <option data-qa-qty="12">12</option>
+                            </select>
+                        </div>
+                    {% endif %}
                 </div>
 
                 <div class="bottom clearfix">
@@ -88,7 +92,9 @@ layout: default
                         <h6>Item <span id="item-sku">#{{ page.sku }}</span></h6>
                     </div>
 
-                    {% include snipcart-button.html product=page %}
+                    {% if page.forsale_online and page.forsale_online == true %}
+                        {% include snipcart-button.html product=page %}
+                    {% endif %}
                 </div>
 
             </form><!-- .product_cart -->

@@ -862,6 +862,9 @@ h6 {
       float: left; }
     .product_specs .product_cart .bottom {
       margin-top: 20px; }
+  .product_specs.not-for-sale .product_cart .price {
+    width: 100%;
+    text-align: center; }
   .product_specs .expanders {
     clear: both;
     margin-bottom: 90px;
@@ -2468,6 +2471,10 @@ header.trout_net {
       .product_specs.cards .product_card .bottom .yotpo.bottomLine {
         padding-top: 5px;
         padding-bottom: 3px; }
+    .product_specs.cards .product_card.not-for-sale .price {
+      border-right: 1px solid #C4C4C4;
+      padding-right: 12px;
+      margin-right: 0; }
   .product_specs.cards .product_blk_titles {
     height: 106px;
     overflow: visible;

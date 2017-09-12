@@ -1040,6 +1040,18 @@ h6 {
 			margin-top: 20px;
 		}
 	}
+
+	&.not-for-sale {
+
+		.product_cart {
+			.price {
+				width:100%;
+				text-align:center;
+			}
+		}
+
+	}
+
 	.expanders {
 		clear: both;
 		margin-bottom: 90px;
@@ -2858,6 +2870,14 @@ header.trout_net {
 			.yotpo.bottomLine {
 				padding-top:5px;
 				padding-bottom:3px;
+			}
+		}
+
+		&.not-for-sale {
+			.price {
+				border-right: 1px solid #C4C4C4;
+    			padding-right: 12px;
+    			margin-right: 0;
 			}
 		}
 	}

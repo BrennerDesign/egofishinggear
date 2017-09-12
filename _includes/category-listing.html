@@ -2,7 +2,7 @@
 <div class="product_specs cards {{product_specs_class}}">
 
     {% for product in myproducts %}
-        <a class="product_card {{product.filter_handle}} {{product.filter_hoop}} {{product.filter_mesh}}" href="{{product.url}}">
+        <a class="product_card {{product.filter_handle}} {{product.filter_hoop}} {{product.filter_mesh}} {% if product.forsale_online != true %} not-for-sale {% endif %}" href="{{product.url}}">
 
             <div class="product_blk_titles">
                 <h3>{{product.name}}</h3>
@@ -22,7 +22,9 @@
                     <h5 class="price">${{product.price}}</h5>
                 {% endif %}
 
-                {% include snipcart-button.html product=product text="<div class='cart_icon'></div>" %}
+                {% if product.forsale_online %}
+                    {% include snipcart-button.html product=product text="<div class='cart_icon'></div>" %}
+                {% endif %}
 
                 <div class="specs">
                     <label>Specs</label>
