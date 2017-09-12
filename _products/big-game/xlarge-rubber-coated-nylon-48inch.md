@@ -1,7 +1,7 @@
 ---
 name: EGO BIG GAME—XLARGE RUBBER COATED NYLON NET
 subheading: 48 inch Handle—24in x 29in Hoop
-order_number: 2
+order_number: 20
 display_product: true
 forsale_online: false
 description: >-
@@ -44,7 +44,7 @@ warranty_left_column_html: >-
   product, postage paid and insured, indicating the reason(s) for the return
   to:</strong></p><p>Adventure Products<br />Product Returns<br />889 Guy Paine
   Rd.<br />Macon, GA 31206</p><p><strong>2) Submits proof of date of original
-  purchase.</strong></p><p><a class="block_btn" href="/contact-us">File Claim
+  purchase.</strong></p><p><a class="block_btn" href="/warranty">File Claim
   Online</a></p>
 warranty_right_column_html: >-
   <p>This warranty does not cover damage resulting from accident, misuse, abuse,
