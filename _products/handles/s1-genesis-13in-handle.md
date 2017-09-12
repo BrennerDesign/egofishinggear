@@ -48,8 +48,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO S1 Genesis 18" handle
-    image: /images/H72006_S2_Slider_18in_Hanlde.jpg
+  - title: EGO S1 Genesis 13" handle
+    image: /images/H71370_S1_Genesis_13in_Hanlde.jpg
     video:
     is_video: false
 options_text: Choose Net Size
