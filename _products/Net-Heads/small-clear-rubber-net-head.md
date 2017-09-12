@@ -1,25 +1,25 @@
 ---
-name: EGO SMALL—Rubber Net Head
+name: EGO SMALL—Clear Rubber Net Head
 subheading: Hoop Size—14in x 16in
-order_number: 20
+order_number: 30
 display_product: true
 forsale_online: true
 description: >-
-  EGO Small Rubber fishing net head FLOATS and fits all EGO S2 Slider handles
-  and S1 Genesis handles.
+  EGO Small Clear Rubber fishing net head FLOATS and fits all EGO S2 Slider
+  handles and S1 Genesis handles.
 categories:
   - small-hoop
 price: 39.99
-sku: 72071A
+sku: 72077A
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle: handle_small
 filter_hoop: hoop_small
-filter_mesh: mesh_rubber
+filter_mesh: mesh_clear_rubber
 slides:
-  - title: EGO Small Rubber Net Head
-    image: /images/72071A_EGO_S_Rubber_1160x533.jpg
+  - title: EGO Small Clear Rubber Net Head
+    image: /images/72077A_EGO_S_CRubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
