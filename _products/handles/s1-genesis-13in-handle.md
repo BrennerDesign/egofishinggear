@@ -23,9 +23,9 @@ left_column_html: >-
   heads or attachment tools can be securely fastened and ready for use. The
   modular platform allows for component interchangeability and compact storage.
   The handles are designed with a solid foam core body that provides floatation
-  should it be dropped overboard.</p><div class="divider">&nbsp;</div><p>Max
-  Load Capacity when attached to EGO Net Heads or attachment
-  tools:</p><p><strong>30lbs</strong></p>
+  should it be dropped overboard.</p><div class="divider">&nbsp;</div><h7>Max
+  Load Capacity when attached</br>to EGO Net Heads or attachment
+  tools:</h7><p><strong>30lbs</strong></p>
 right_column_html: >-
   <ul><li>Solid foam core body</li><li>Strong lightweight hexagonal extruded
   anodized aluminum design</li><li>30lbs&ndash;Max Load Capacity with all EGO
