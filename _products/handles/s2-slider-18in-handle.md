@@ -21,9 +21,9 @@ left_column_html: >-
   button with your thumb and pull the foam rubber handle section. When the
   handle is extended to the desired length, allow the release button to seat
   back into the pre-set slot to lock in handle length.</p><div
-  class="divider">&nbsp;</div><p>HANDLE EXTENDS</p><p>18in &mdash; 36in</p><div
-  class="divider">&nbsp;</div><p>LOAD
-  CAPACITY</p><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash; 36in</p><div
+  class="divider">&nbsp;</div></h7>LOAD
+  CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p>
 right_column_html: >-
