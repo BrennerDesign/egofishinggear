@@ -1,5 +1,5 @@
 ---
-name: EGO SMALL– NYLON Net Head
+name: EGO SMALL—NYLON Net Head
 subheading: Hoop Size—14in x 16in
 order_number: 10
 display_product: true
