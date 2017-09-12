@@ -24,11 +24,11 @@ slides:
     is_video: false
 left_column_html: >-
   <ul><li>Innovative grip design</li><li>Fits all S1 Genesis and S2 Slider
-  handles</li><li>Mesh bag: Rubber</li><li>Bag depth: 11" Flat
+  handles</li><li>Mesh bag: Clear Rubber</li><li>Bag depth: 11" Flat
   Bottom</li><li>Hoop Size: Small 14" x 16"</li><li>Minimal water
   drag</li><li>Weight: .04 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
+  <h7>CLEAR RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
