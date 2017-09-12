@@ -1,7 +1,7 @@
 ---
 name: 'S2 Slider 18&#34; handle'
 subheading: 'Handle Extends from 18&#34;—36&#34;'
-order_number: 2
+order_number: 10
 display_product: true
 forsale_online: true
 description: EGO Fishing Gear S2 Slider 18"—36" Extending Fishing Net Handle.
@@ -17,10 +17,19 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Slider extension technology</li><li>18"&mdash;36" Extending Fishing
-  Net Handle</li><li>Neoprene foam grip</li><li>Thumb release
-  tab</li><li>6&rdquo; lock intervals</li><li>30lbs&ndash;Max Load Capacity with
-  all EGO Net Heads</li><li>Works with all S1 or S2 net heads and attachment
+  <p>To extend the EGO S2 Slider 18" handle, press and hold the black release
+  button with your thumb and pull the foam rubber handle section. When the
+  handle is extended to the desired length, allow the release button to seat
+  back into the pre-set slot to lock in handle length.</p><div
+  class="divider">&nbsp;</div><p>HANDLE EXTENDS</p><p>18in &mdash; 36in</p><div
+  class="divider">&nbsp;</div><p>LOAD
+  CAPACITY</p><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
+  Extension</strong>&mdash;28lbs<br /><strong>Full
+  Extension</strong>&mdash;28lbs</p><div
+  class="divider">&nbsp;</div><ul><li>Slider extension
+  technology</li><li>18"&mdash;36" Extending Fishing Net Handle</li><li>Neoprene
+  foam grip</li><li>Thumb release tab</li><li>6&rdquo; lock
+  intervals</li><li>Works with all S1 or S2 net heads and attachment
   tools.</li></ul>
 right_column_html:
 warranty_left_column_html: >-
