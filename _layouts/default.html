@@ -25,10 +25,6 @@
 			</script>
 		{% endif %}
 
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-		{% if site.snipcart_key %}
-			<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="{{ site.snipcart_key }}"></script>
-		{% endif %}
 		<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" type="text/css" rel="stylesheet" />
 
         <script type="text/javascript">
@@ -221,6 +217,11 @@
 
 
         </div><!-- #main_content -->
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+        {% if site.snipcart_key %}
+            <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="{{ site.snipcart_key }}"></script>
+        {% endif %}
 
         <script src="/js/jquery.scrollTo.js"></script>
         <script src="/js/respond.min.js"></script>
