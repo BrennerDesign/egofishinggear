@@ -3,7 +3,7 @@ name: 'S2 Slider 29&#34; handle'
 subheading: 'Handle Extends from 29&#34;—60&#34;'
 order_number: 20
 display_product: true
-forsale_online: false
+forsale_online: true
 description: EGO Fishing Gear S2 Slider 29"—60" Extending Fishing Net Handle.
 categories:
   - s2-slider-handles
