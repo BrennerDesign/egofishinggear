@@ -17,9 +17,20 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Slider extension technology</li><li>29"&mdash;60" Extending Fishing
-  Net Handle</li><li>Neoprene foam grip</li><li>Thumb release
-  tab</li><li>6&rdquo; lock intervals</li></ul>
+  <p>To extend the EGO S2 Slider 29" handle, press and hold the black release
+  button with your thumb and pull the foam rubber handle section. When the
+  handle is extended to the desired length, allow the release button to seat
+  back into the pre-set slot to lock in handle length.</p><div
+  class="divider">&nbsp;</div><p>HANDLE EXTENDS</p><p>29"&mdash; 60"</p><div
+  class="divider">&nbsp;</div><p>LOAD
+  CAPACITY</p><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
+  Extension</strong>&mdash;24lbs<br /><strong>Full
+  Extension</strong>&mdash;20lbs</p><div
+  class="divider">&nbsp;</div><ul><li>Slider extension
+  technology</li><li>29"&mdash;60" Extending Fishing Net Handle</li><li>Neoprene
+  foam grip</li><li>Thumb release tab</li><li>6&rdquo; lock
+  intervals</li><li>Works with all S1 or S2 net heads and attachment
+  tools.</li></ul>
 right_column_html:
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
