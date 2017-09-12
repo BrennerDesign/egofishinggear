@@ -1,15 +1,15 @@
 ---
-name: 'S1 Geneis 25&#34; handle'
+name: 'S1 Geneis 31&#34; handle'
 subheading: Fits All S1 or S2 Net Heads or Attachment Tools
-order_number: 60
+order_number: 70
 display_product: true
 forsale_online: true
-description: EGO Fishing Gear S1 Genesis 24" Fishing Net Handle that Floats.
+description: EGO Fishing Gear S1 Genesis 31" Fishing Net Handle that Floats.
 categories:
   - s1-genesis-handles
-price: '16.99'
+price: '18.99'
 price_range:
-sku: H71260
+sku: H71150
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -17,7 +17,7 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The S1 Genesis 25" detachable handle utilizes a strong lightweight
+  <p>The S1 Genesis 31" detachable handle utilizes a strong lightweight
   hexagonal extruded aluminum design that provides economical and dependable
   functionality.&nbsp; With a simple twist of the wrist any EGO S1 or S2 net
   heads or attachment tools can be securely fastened and ready for use. The
@@ -48,8 +48,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO S1 Genesis 25" handle
-    image: /images/H71260_S1_Genesis_25in_Hanlde.jpg
+  - title: EGO S1 Genesis 31" handle
+    image: /images/H71150_S1_Genesis_31in_Hanlde.jpg
     video:
     is_video: false
 options_text: Choose Net Size
