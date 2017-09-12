@@ -24,7 +24,7 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO WADE Medium Rubber Coated Nylon fishing net utilizes a strong,
+  <p>The EGO WADE Large Rubber Coated Nylon fishing net utilizes a strong,
   lightweight hexagonal extruded aluminum handle, innovative grip design, an 11"
   elastic adjustable/removable clip on tether and the ability to float. What a
   perfect Kayak fishing net or Wade fishing net. &nbsp;EGO Fishing Nets are the
