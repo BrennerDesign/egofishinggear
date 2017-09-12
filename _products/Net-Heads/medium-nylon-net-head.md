@@ -1,25 +1,25 @@
 ---
-name: EGO SMALL—NYLON Net Head
-subheading: Hoop Size—14in x 16in
-order_number: 10
+name: EGO MEDIUM—NYLON Net Head
+subheading: Hoop Size—17in x 19in
+order_number: 40
 display_product: true
 forsale_online: true
 description: >-
   EGO Small Nylon fishing net FLOATS and fits all EGO S2 Slider handles and S1
   Genesis handles.
 categories:
-  - small-hoop
+  - medium-hoop
 price: 29.99
-sku: 72070A
+sku: 72060A
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle: handle_small
-filter_hoop: hoop_small
+filter_handle:
+filter_hoop: hoop_medium
 filter_mesh: mesh_nylon
 slides:
-  - title: EGO Small Nylon Net
-    image: /images/72070A_EGO_S_Nylon_1160x533.jpg
+  - title: EGO MEDIUM Nylon Net
+    image: /images/72060A_EGO_M_Nylon_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
