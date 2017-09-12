@@ -18,7 +18,9 @@ filter_mesh:
 left_column_html: >-
   <ul><li>Slider extension technology</li><li>18"&mdash;36" Extending Fishing
   Net Handle</li><li>Neoprene foam grip</li><li>Thumb release
-  tab</li><li>6&rdquo; lock intervals</li></ul>
+  tab</li><li>6&rdquo; lock intervals</li><li>30lbs&ndash;Max Load Capacity with
+  all EGO Net Heads</li><li>Works with all S1 or S2 net heads and attachment
+  tools.</li></ul>
 right_column_html:
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
