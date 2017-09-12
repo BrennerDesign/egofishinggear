@@ -2,6 +2,7 @@
 name: Ego Cast Nets
 subheading: Available in Multiple Sizes
 order_number: 2
+forsale_online: true
 description: >-
   Designed for the professional guide, captain and sports fisherman demanding
   maximum performance. EGO Cast Nets make filling your bait bucket a breeze.

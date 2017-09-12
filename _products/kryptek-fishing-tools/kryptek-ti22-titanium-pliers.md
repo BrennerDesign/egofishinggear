@@ -3,6 +3,7 @@ name: EGO Kryptek — Ti22 Titanium Fishing Pliers
 subheading: Standard 7.5in
 order_number: 19
 display_product: false
+forsale_online: true
 description: >-
   Rugged Kryptek Camo Titanium Fishing Pliers. Prefect for heavy dude salt water
   use and features replaceable tungsten steel cutters for cutting braided lines.

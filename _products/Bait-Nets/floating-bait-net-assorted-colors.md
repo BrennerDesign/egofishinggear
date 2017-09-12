@@ -3,6 +3,7 @@ name: Floating Bait Net
 subheading: Perfect for small bait wells or pails
 order_number: 20
 display_product: true
+forsale_online: true
 description: >-
   EGO Floating Bait Net is great for capturing all types of bait.  Available in
   three colors: orange, green and blue.

@@ -3,6 +3,7 @@ name: S1 GENESIS—MEDIUM RUBBER NET
 subheading: 25in Removable Handle — 17in x 19in Hoop
 order_number: 7
 display_product: true
+forsale_online: true
 description: >-
   Best medium fishing net on the planet. EGO S1 Genesis Medium Rubber fishing
   net FLOATS and features a removable handle for component interchangeability.

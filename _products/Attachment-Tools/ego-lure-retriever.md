@@ -3,6 +3,7 @@ name: EGO Lure Retriever
 subheading: Fits All S1 and S2 Landing Net Handles
 order_number: 10
 display_product: true
+forsale_online: true
 description: >-
   Retriever your snagged fishing lures using the Universal Lure Retriever by EGO
   Fishing Gear.  Works with EGO S1 or S2 Landing Net Handles.

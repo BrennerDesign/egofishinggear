@@ -3,6 +3,7 @@ name: S1 GENESIS—SMALL RUBBER NET
 subheading: 13in Removable Handle — 14in x 16in Hoop
 order_number: 2
 display_product: true
+forsale_online: true
 description: >-
   Best small fishing net on the planet. EGO S1 Genesis Small Rubber fishing net
   FLOATS and features a removable handle for component interchangeability.

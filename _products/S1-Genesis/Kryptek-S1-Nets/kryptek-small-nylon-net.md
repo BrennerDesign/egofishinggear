@@ -3,6 +3,7 @@ name: S1 GENESIS KRYPTEK—SMALL NYLON NET
 subheading: 13in Removable Handle — 14in x 16in Hoop
 order_number: 10
 display_product: true
+forsale_online: true
 description: >-
   Best fishing net on the water. EGO S1 Genesis Kryptek Small Nylon fishing net
   FLOATS and features a removable handle for component interchangeability.

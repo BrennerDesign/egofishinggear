@@ -3,6 +3,7 @@ name: EGO Chum Bag
 subheading: 10in Wide by 18in Deep
 order_number: 70
 display_product: true
+forsale_online: true
 description: >-
   Small nylon mesh Chum Bag by EGO Fishing Gear. 10in wide x 18in Deep. Simple
   but effective this chum bag is your ticket for attracting big fish.

@@ -3,6 +3,7 @@ name: EGO Tournament Weigh-In Bag
 subheading: Cold Crack & UV Protected
 order_number: 12
 display_product: true
+forsale_online: true
 description: >-
   The EGO Tournament Weigh-In Bag designed to provide tournament and
   recreational anglers with a fish safe high quality carrying bag for their

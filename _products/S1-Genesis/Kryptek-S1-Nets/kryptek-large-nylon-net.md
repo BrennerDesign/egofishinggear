@@ -3,6 +3,7 @@ name: S1 GENESIS KRYPTEK—LARGE NYLON NET
 subheading: 31in Removable Handle — 19in x 21in Hoop
 order_number: 60
 display_product: true
+forsale_online: true
 description: >-
   Best large fishing net on the planet. EGO S1 Genesis Large Nylon fishing net
   FLOATS and features a removable handle for component interchangeability.

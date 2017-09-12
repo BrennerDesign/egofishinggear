@@ -3,6 +3,7 @@ name: EGO WADE—SMALL NYLON NET
 subheading: Clip On Tether—14in x 16in Hoop
 order_number: 1
 display_product: true
+forsale_online: true
 description: >-
   Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Small Nylon
   fishing net FLOATS and features an 11" elastic adjustable/removable clip on

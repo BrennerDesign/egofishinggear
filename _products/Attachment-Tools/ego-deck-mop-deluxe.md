@@ -3,6 +3,7 @@ name: EGO Deck Mop–Deluxe
 subheading: Fits All S1 and S2 Landing Net Handles
 order_number: 70
 display_product: true
+forsale_online: true
 description: >-
   Mop Your Boat Deck with the Universal Deluxe EGO Deck Mop by EGO Fishing
   Gear.  Works with EGO S1 or S2 Landing Net Handles.

@@ -3,6 +3,7 @@ name: 'EGO 8&#34; Deck Brush'
 subheading: Fits All S1 and S2 Landing Net Handles
 order_number: 50
 display_product: true
+forsale_online: true
 description: >-
   Brush Your Boat or Boat Deck with the Universal EGO 8" Deck Brush by EGO
   Fishing Gear.  Works with EGO S1 or S2 Landing Net Handles.

@@ -3,6 +3,7 @@ name: EGO Kryptek—Ultra Grip–40lbs
 subheading: Built-in 40lbs Scale with Stainless Jaws
 order_number: 30
 display_product: true
+forsale_online: true
 description: >-
   The best Fish Gripper on the water. Featuring Kryptek Camo, BUILT-IN 40lbs
   SCALE, extra wide jaw, and magnetic release. Designed For The Savvy Angler.

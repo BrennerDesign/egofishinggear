@@ -3,6 +3,7 @@ name: EGO Kryptek—Plier Sheath
 subheading: 'Works with 6.5&#34;—7.5&#34; pliers.'
 order_number: 20
 display_product: true
+forsale_online: true
 description: >-
   The Best Trout Fishing Aluminum Pliers. EGO Kryptek 4.5” Aluminum Pliers
   Featuring Kryptek Camo, Replaceable Steel Jaw Plates, and Tungsten Cutters.

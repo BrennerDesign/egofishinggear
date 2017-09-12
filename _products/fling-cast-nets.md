@@ -2,6 +2,7 @@
 name: Fling Cast Nets
 subheading: Available in Multiple Sizes
 order_number: 2
+forsale_online: true
 description:
 categories:
 price: '39.99'

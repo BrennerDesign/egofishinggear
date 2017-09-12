@@ -3,6 +3,7 @@ name: EGO BIG GAME—XLARGE RUBBER COATED NYLON NET
 subheading: 48 inch Handle—24in x 29in Hoop
 order_number: 2
 display_product: true
+forsale_online: true
 description: >-
   Best big game large fishing net on the planet for CATFISH fishing. EGO XLarge
   Rubber Coated Nylon landing net comes with a 48-inch handle and FLOATS.

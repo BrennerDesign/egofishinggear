@@ -3,6 +3,7 @@ name: S2 SLIDER—LARGE 22in DEEP RUBBER NET
 subheading: Standard Handle—Extends 29in–60in
 order_number: 117
 display_product: true
+forsale_online: true
 description: >-
   Best fishing net on the planet. EGO S2 Slider Large 22in Deep Lightweight
   Rubber landing net features advanced handle extension technology. Extends from

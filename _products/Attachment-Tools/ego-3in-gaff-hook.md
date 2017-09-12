@@ -3,6 +3,7 @@ name: 'EGO 3&#34; Gaff Hook'
 subheading: Fits All S1 and S2 Landing Net Handles
 order_number: 30
 display_product: true
+forsale_online: true
 description: Universal Gaff Hook for The EGO S1 or S2 Landing Net Systems.
 categories:
   - ego-attachment-tools

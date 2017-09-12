@@ -3,6 +3,7 @@ name: EGO Ultra Grip—Standard
 subheading: No built-in scale
 order_number: 5
 display_product: true
+forsale_online: true
 description: >-
   The EGO Standard Ultra-Grip tool is designed to allow an angler to quickly and
   easily lip a fish and lift it into the boat.

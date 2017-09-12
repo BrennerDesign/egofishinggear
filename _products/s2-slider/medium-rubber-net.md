@@ -3,6 +3,7 @@ name: S2 SLIDER—MEDIUM RUBBER NET
 subheading: Standard Handle—Extends 29in–60in
 order_number: 108
 display_product: true
+forsale_online: true
 description: >-
   Best Bass fishing net on the planet. EGO S2 Slider Medium Lightweight Rubber
   fishing net features advanced handle extension technology. Extends from 29" to

@@ -3,6 +3,7 @@ name: 'EGO Measuring Board—24&#34;'
 subheading: 'Accurate 1/16&#34; Increments'
 order_number: 8
 display_product: true
+forsale_online: true
 description: >-
   The EGO 24" long, 3/16" thick aluminum measuring board. Measures fish quickly
   accurately.

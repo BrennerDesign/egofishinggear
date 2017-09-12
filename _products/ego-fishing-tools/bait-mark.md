@@ -3,6 +3,7 @@ name: EGO Bait-Mark
 subheading: 20 Gallon Bait Containment System
 order_number: 80
 display_product: true
+forsale_online: true
 description: >-
   Innovative EGO Bait-Mark Bait Containment System. The Bait-Mark system allows
   and angler to preserve live bait at the dock and then while fishing off shore

@@ -3,6 +3,7 @@ name: EGO REACH—PVC COATED NET
 subheading: Telescoping Handle Reaching up to 8.6 ft
 order_number: 1
 display_product: true
+forsale_online: true
 description: >-
   The Ultimate Crappie Landing Net. Featuring telescoping handle reaching up to
   8.6 ft and PVC coated mesh. THE OFFICIAL NET OF CRAPPIE USA.

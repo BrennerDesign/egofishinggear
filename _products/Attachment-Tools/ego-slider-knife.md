@@ -3,6 +3,7 @@ name: EGO Slider Knife
 subheading: Cut Lures Free From Weeds or Small Roots
 order_number: 40
 display_product: true
+forsale_online: true
 description: >-
   Universal Knife for The EGO S1 or S2 Landing Net Systems. Cuts snagged lures
   free from weeds/small roots.

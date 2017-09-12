@@ -3,6 +3,7 @@ name: EGO Kryptek—Mini Gripper
 subheading: With MagneticRelease & Kryptek Camo
 order_number: 21
 display_product: true
+forsale_online: true
 description: >-
   The Best Mini Fish Gripper Tool On The Water featuring Kryptek Camo.  Grip and
   lift your fish with the extra wide jaw and magnetic release.

@@ -3,6 +3,7 @@ name: floating bait well net
 subheading: Prefect For Smaller Bait Wells
 order_number: 30
 display_product: true
+forsale_online: true
 description: >-
   EGO Bait Well net is perfect for smaller bait wells and capturing live bait on
   coastal fishing excursions.

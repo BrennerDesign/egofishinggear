@@ -3,6 +3,7 @@ name: EGO 5ft wood crab net
 subheading: Perfect Net For Capturing Crab
 order_number: 50
 display_product: true
+forsale_online: true
 description: >-
   EGO 5ft wooden crab net is the ultimate crab net. Prefect for capturing crab
   on the weekend with the family.

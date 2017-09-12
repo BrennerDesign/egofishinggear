@@ -3,6 +3,7 @@ name: S1 GENESIS KRYPTEK—MEDIUM CLEAR RUBBER NET
 subheading: 25in Removable Handle — 17in x 19in Hoop
 order_number: 50
 display_product: true
+forsale_online: true
 description: >-
   Best fishing net on the water. EGO S1 Genesis Kryptek Medium Clear Rubber
   fishing net FLOATS and features a removable handle for component

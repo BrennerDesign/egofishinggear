@@ -3,6 +3,7 @@ name: S2 SLIDER—REACH LARGE DEEP RUBBER NET
 subheading: REACH Handle—Extends 48in–108in
 order_number: 127
 display_product: true
+forsale_online: true
 description: >-
   Best Extendable Fishing Net on the Planet. EGO S2 Slider Reach Large Deep
   Rubber fishing net advanced handle extension technology. Extends from 48" to

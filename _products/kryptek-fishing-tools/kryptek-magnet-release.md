@@ -3,6 +3,7 @@ name: EGO Kryptek—Magnetic Release
 subheading: '6in stretchable lanyard extends out to 36&#34;'
 order_number: 17
 display_product: true
+forsale_online: true
 description: >-
   The Powerful EGO Kryptek  Fishing Lanyard With Magnetic Release makes it easy
   to keep your favorite fishing tools close and secure.

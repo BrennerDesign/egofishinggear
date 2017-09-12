@@ -3,6 +3,7 @@ name: 'EGO Measuring Board—34&#34;'
 subheading: 'Accurate 1/16&#34; Increments'
 order_number: 9
 display_product: true
+forsale_online: true
 description: >-
   The EGO 34" aluminum measuring board is designed to provide a quick accurate
   measurement.  It's made of 3/16" anodized-aluminum and is laser etched for

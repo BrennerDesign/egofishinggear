@@ -3,6 +3,7 @@ name: Tournament Culling Beam—Deluxe
 subheading: Provides Quick Fish Weight
 order_number: 11
 display_product: true
+forsale_online: true
 description: >-
   The EGO Deluxe Tournament Culling beam is designed to provide a quick fish
   weight measure for tournament anglers. It's made of 3/16" anodized-aluminum

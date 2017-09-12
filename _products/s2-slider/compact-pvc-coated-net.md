@@ -3,6 +3,7 @@ name: S2 SLIDER—COMPACT PVC NET
 subheading: Compact Handle—Extends 18in—36in
 order_number: 102
 display_product: true
+forsale_online: true
 description: >-
   The best Kayak fishing net. The EGO S2 Slider Compact PVC fishing net features
   advanced handle extension technology. Extends from 18" to 36"

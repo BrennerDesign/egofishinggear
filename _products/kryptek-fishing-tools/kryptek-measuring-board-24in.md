@@ -3,6 +3,7 @@ name: 'EGO Kryptek—Measuring Board-24&#34;'
 subheading: 'Accurate 1/4&#34; Increments'
 order_number: 80
 display_product: true
+forsale_online: true
 description: >-
   The EGO Kryptek 24" long, 3/16" thick aluminum measuring board features
   Kryptek Camo technology to help fight the battle on the water. Measures fish

@@ -3,6 +3,7 @@ name: 'S1 Geneis 13&#34; handle'
 subheading: Fits All S1 or S2 Net Heads or Attachment Tools
 order_number: 50
 display_product: true
+forsale_online: true
 description: EGO Fishing Gear S2 Slider 18"—36" Extending Fishing Net Handle that Floats.
 categories:
   - s1-genesis-handles

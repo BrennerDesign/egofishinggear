@@ -3,6 +3,7 @@ name: EGO TROUT NET LARGE
 subheading: Measure Net technology
 order_number: 3
 display_product: true
+forsale_online: true
 description: >-
   Measure your fish with the EGO Blackwater Fly Fishing Net.  Featuring Measure
   Net technology / Hands-free fish measurement, Retractable Quick-Draw
