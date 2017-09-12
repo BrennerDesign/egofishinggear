@@ -2465,6 +2465,9 @@ header.trout_net {
       border-top: 1px solid #C4C4C4;
       width: 100%;
       min-height: 35px; }
+      .product_specs.cards .product_card .bottom .yotpo.bottomLine {
+        padding-top: 3px;
+        padding-bottom: 3px; }
   .product_specs.cards .product_blk_titles {
     height: 106px;
     overflow: visible;
