@@ -3,6 +3,7 @@ name:
 subheading:
 order_number: 1
 display_product: true
+forsale_online: true
 description:
 categories:
 price:
