@@ -18,8 +18,8 @@ filter_handle: handle_small
 filter_hoop: hoop_small
 filter_mesh: mesh_rubber
 slides:
-  - title: EGO Small Nylon Net
-    image: /images/72070A_EGO_S_Nylon_1160x533.jpg
+  - title: EGO Small Rubber Net Head
+    image: /images/72071A_EGO_S_Rubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
