@@ -5,12 +5,13 @@ order_number: 1
 display_product: true
 description:
 categories:
+  - replacement-parts
 price:
 sku:
 tag_color:
 tag_text:
-replacement_type:
-filter_mesh:
+replacement_type: bags
+filter_mesh: mesh_clear_rubber
 slides:
   - title:
     image: /images/test-images/Samples_1.jpg
