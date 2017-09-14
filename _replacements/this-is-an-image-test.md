@@ -13,7 +13,7 @@ replacement_type:
 filter_mesh:
 slides:
   - title:
-    image:
+    image: /images/test-images/Samples_1.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
