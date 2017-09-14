@@ -36,7 +36,7 @@ left_column_html: >-
   17"&nbsp;</li><li>Hoop Size: Medium 17" x 19"</li><li>Weight: 1.4
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>GUIDE MEASURE NET</h7><p><img alt="" src="/images/ClearRubber_400x150.jpg"
+  <h7>GUIDE MEASURE NET</h7><p><img alt="" src="/images/MeasureNet_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
