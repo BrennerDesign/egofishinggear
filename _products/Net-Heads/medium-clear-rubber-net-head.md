@@ -1,6 +1,6 @@
 ---
 name: EGO MEDIUM—Clear RUBBER Net Head
-subheading: Hoop Size—17in x 19in
+subheading: 'Hoop Size—17&#34;x 19&#34;'
 order_number: 70
 display_product: true
 forsale_online: true
