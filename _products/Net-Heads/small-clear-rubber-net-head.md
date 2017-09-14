@@ -5,8 +5,8 @@ order_number: 30
 display_product: true
 forsale_online: true
 description: >-
-  EGO Small Clear Rubber fishing net head FLOATS and fits all EGO S2 Slider
-  handles and S1 Genesis handles.
+  EGO Small Clear Rubber fishing net head fits all EGO S2 Slider handles and S1
+  Genesis handles.
 categories:
   - small-hoop
 price: 39.99
