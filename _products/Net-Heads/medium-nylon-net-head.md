@@ -5,8 +5,8 @@ order_number: 40
 display_product: true
 forsale_online: true
 description: >-
-  EGO Small Nylon fishing net head fits all EGO S2 Slider handles and S1 Genesis
-  handles.
+  EGO Medium Nylon fishing net head fits all EGO S2 Slider handles and S1
+  Genesis handles.
 categories:
   - medium-hoop
 price: 29.99
