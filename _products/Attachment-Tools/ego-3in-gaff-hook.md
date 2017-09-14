@@ -11,8 +11,8 @@ price: '59.99'
 price_range:
 sku: 72041A
 show_as_crosssells: false
-tag_color: new_tag
-tag_text: new
+tag_color:
+tag_text:
 filter_handle:
 filter_hoop:
 filter_mesh:
