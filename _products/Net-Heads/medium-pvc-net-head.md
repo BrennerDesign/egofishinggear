@@ -1,34 +1,34 @@
 ---
-name: EGO MEDIUM—NYLON Net Head
+name: EGO MEDIUM—PVC Coated Net Head
 subheading: Hoop Size—17in x 19in
 order_number: 40
 display_product: true
 forsale_online: true
 description: >-
-  EGO Small Nylon fishing net head fits all EGO S2 Slider handles and S1 Genesis
-  handles.
+  EGO Medium PVC Coated fishing net head fits all EGO S2 Slider handles and S1
+  Genesis handles.
 categories:
   - medium-hoop
-price: 29.99
-sku: 72060A
+price: 48.99
+sku: 72063A
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle:
 filter_hoop: hoop_medium
-filter_mesh: mesh_nylon
+filter_mesh: mesh_pvc_coated_nylon
 slides:
-  - title: EGO MEDIUM Nylon Net
-    image: /images/72060A_EGO_M_Nylon_1160x533.jpg
+  - title: EGO MEDIUM PVC Coated Net
+    image: /images/72063A_EGO_M_PVC_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
   <ul><li>Innovative grip design</li><li>Fits all S1 Genesis and S2 Slider
-  handles</li><li>Mesh bag: Nylon</li><li>Bag depth: 28"</li><li>Hoop Size:
-  Small 17" x 19"</li><li>Minimal water drag</li><li>Weight: .8
-  lbs</li></ul><div>&nbsp;</div>
+  handles</li><li>Mesh bag: PVC Coated</li><li>Bag depth: 16" Flat
+  Bottom</li><li>Hoop Size: Small 17" x 19"</li><li>Minimal water
+  drag</li><li>Weight: 1.4 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>PVC COATED MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
