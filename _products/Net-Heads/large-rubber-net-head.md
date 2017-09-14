@@ -1,6 +1,6 @@
 ---
 name: EGO Large—RUBBER Net Head
-subheading: Hoop Size—19in x 21in
+subheading: 'Hoop Size—19&#34;x 21&#34;'
 order_number: 120
 display_product: true
 forsale_online: true
