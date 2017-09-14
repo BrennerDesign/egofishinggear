@@ -13,8 +13,8 @@ price: '27.99'
 price_range:
 sku: '75008'
 show_as_crosssells: false
-tag_color: new_tag
-tag_text: NEW
+tag_color:
+tag_text:
 filter_handle:
 filter_hoop:
 filter_mesh:
