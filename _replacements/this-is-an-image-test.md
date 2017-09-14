@@ -17,6 +17,10 @@ slides:
     image: /images/test-images/Samples_1.jpg
     video:
     is_video: false
+  - title:
+    image: /images/test-images/Samples_1.jpg
+    video:
+    is_video: false
 repalcement_text: Replacement Instructions
 replacement_link:
 replacement_video:
