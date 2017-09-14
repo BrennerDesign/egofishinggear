@@ -1,31 +1,31 @@
 ---
-name: EGO MEDIUM—RUBBER Net Head
-subheading: Hoop Size—17in x 19in
-order_number: 60
+name: EGO Large—RUBBER Net Head
+subheading: Hoop Size—19in x 21in
+order_number: 120
 display_product: true
 forsale_online: true
 description: >-
-  EGO Medium Rubber fishing net head fits all EGO S2 Slider handles and S1
+  EGO Large Rubber fishing net head fits all EGO S2 Slider handles and S1
   Genesis handles.
 categories:
-  - medium-hoop
-price: 49.99
-sku: 72061A
+  - large-hoop
+price: 56.99
+sku: 72051A
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle:
-filter_hoop: hoop_medium
+filter_hoop: hoop_large
 filter_mesh: mesh_rubber
 slides:
-  - title: EGO MEDIUM Rubber Net
-    image: /images/72061A_EGO_M_Rubber_1160x533.jpg
+  - title: EGO Large Rubber Net
+    image: /images/72051A_EGO_L_Rubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
   <ul><li>Innovative grip design</li><li>Fits all S1 Genesis and S2 Slider
   handles</li><li>Mesh bag: Rubber</li><li>Bag depth: 15" Flat
-  Bottom</li><li>Hoop Size: Medium 17" x 19"</li><li>Weight: 1.2
+  Bottom</li><li>Hoop Size: Medium 19" x 21"</li><li>Weight: 1.3
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
