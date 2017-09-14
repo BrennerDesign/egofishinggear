@@ -5,8 +5,8 @@ order_number: 10
 display_product: true
 forsale_online: true
 description: >-
-  EGO Small Nylon fishing net FLOATS and fits all EGO S2 Slider handles and S1
-  Genesis handles.
+  EGO Small Nylon fishing net fits all EGO S2 Slider handles and S1 Genesis
+  handles.
 categories:
   - small-hoop
 price: 29.99
