@@ -1,34 +1,34 @@
 ---
-name: EGO MEDIUM—RUBBER Net Head
+name: EGO MEDIUM—Clear RUBBER Net Head
 subheading: Hoop Size—17in x 19in
-order_number: 60
+order_number: 70
 display_product: true
 forsale_online: true
 description: >-
-  EGO Small Rubber fishing net head fits all EGO S2 Slider handles and S1
+  EGO Medium Clear Rubber fishing net head fits all EGO S2 Slider handles and S1
   Genesis handles.
 categories:
   - medium-hoop
 price: 49.99
-sku: 72061A
+sku: 72067A
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle:
 filter_hoop: hoop_medium
-filter_mesh: mesh_rubber
+filter_mesh: mesh_clear_rubber
 slides:
-  - title: EGO MEDIUM Rubber Net
-    image: /images/72061A_EGO_M_Rubber_1160x533.jpg
+  - title: EGO MEDIUM Clear Rubber Net
+    image: /images/72067A_EGO_M_CRubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
   <ul><li>Innovative grip design</li><li>Fits all S1 Genesis and S2 Slider
-  handles</li><li>Mesh bag: Rubber</li><li>Bag depth: 15" Flat
+  handles</li><li>Mesh bag: Clear Rubber</li><li>Bag depth: 15" Flat
   Bottom</li><li>Hoop Size: Small 17" x 19"</li><li>Weight: 1.2
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>CLEAR RUBBER MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
