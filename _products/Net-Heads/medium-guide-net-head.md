@@ -1,25 +1,25 @@
 ---
-name: EGO MEDIUM—Clear RUBBER Net Head
+name: EGO MEDIUM—Clear Guide Net Head
 subheading: Hoop Size—17in x 19in
-order_number: 70
+order_number: 80
 display_product: true
 forsale_online: true
 description: >-
-  EGO Medium Clear Rubber fishing net head fits all EGO S2 Slider handles and S1
-  Genesis handles.
+  EGO Medium Guide Measure Net fishing net head fits all EGO S2 Slider handles
+  and S1 Genesis handles.
 categories:
   - medium-hoop
-price: 49.99
-sku: 72067A
+price: 59.99
+sku: 72014A
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle:
 filter_hoop: hoop_medium
-filter_mesh: mesh_clear_rubber
+filter_mesh: mesh_measure_net
 slides:
-  - title: EGO MEDIUM Clear Rubber Net
-    image: /images/72067A_EGO_M_CRubber_1160x533.jpg
+  - title: EGO MEDIUM Guide Measure Net
+    image:
     video:
     is_video: false
 left_column_html: >-
