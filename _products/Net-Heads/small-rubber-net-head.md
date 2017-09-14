@@ -25,8 +25,8 @@ slides:
 left_column_html: >-
   <ul><li>Innovative grip design</li><li>Fits all S1 Genesis and S2 Slider
   handles</li><li>Mesh bag: Rubber</li><li>Bag depth: 11" Flat
-  Bottom</li><li>Hoop Size: Small 14" x 16"</li><li>Minimal water
-  drag</li><li>Weight: .6 lbs</li></ul><div>&nbsp;</div>
+  Bottom</li><li>Hoop Size: Small 14" x 16"</li><li>Weight: .6
+  lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
   /></p><p>&nbsp;</p>
