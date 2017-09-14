@@ -73,7 +73,7 @@ header_links:
     subnav:
       - column: Column 1
         links:
-          - name: Hoops
+          - name: Net Heads
             link: '#'
             link_class: filter_title
           - name: Small
