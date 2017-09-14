@@ -80,6 +80,11 @@ h7 {
         top: -62px; }
 
 }
+.product_specs.not-for-sale .product_cart .price {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 10px;
+}
 
 
 
@@ -119,6 +124,24 @@ h7 {
     z-index: 10;
     position: relative;
 }
+
+
+
+
+/* Replacement product Cards
+----------------------------------------------------------------------------------------*/
+
+
+
+.flexslider {
+    position: relative;
+    zoom: 1;
+    width: 100%;
+    height: 100%;
+    min-height: 240px;
+    margin-top: 15px;
+}
+
 
 /* Yotpo Review Widget Products Product Page
 ----------------------------------------------------------------------------------------*/
