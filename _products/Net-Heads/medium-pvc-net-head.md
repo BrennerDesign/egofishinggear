@@ -25,7 +25,7 @@ slides:
 left_column_html: >-
   <ul><li>Innovative grip design</li><li>Fits all S1 Genesis and S2 Slider
   handles</li><li>Mesh bag: PVC Coated</li><li>Bag depth: 16" Flat
-  Bottom</li><li>Hoop Size: Small 17" x 19"</li><li>Minimal water
+  Bottom</li><li>Hoop Size: Medium 17" x 19"</li><li>Minimal water
   drag</li><li>Weight: 1.4 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>PVC COATED MESH</h7><p><img alt="" src="/images/PVC_400x150.jpg"
