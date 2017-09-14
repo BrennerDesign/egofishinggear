@@ -1,5 +1,5 @@
 ---
-name: EGO MEDIUM—Clear Guide Net Head
+name: EGO MEDIUM—Guide Net Head
 subheading: Hoop Size—17in x 19in
 order_number: 80
 display_product: true
@@ -19,16 +19,24 @@ filter_hoop: hoop_medium
 filter_mesh: mesh_measure_net
 slides:
   - title: EGO MEDIUM Guide Measure Net
-    image:
+    image: /images/72014A_EGO_M_Guide_1160x533.jpg
+    video:
+    is_video: false
+  - title: EGO MEDIUM Guide Measure Net
+    image: /images/nets/72014_S2_Compact_Guide_IMG2_1160x533.jpg
+    video:
+    is_video: false
+  - title: EGO MEDIUM Guide Measure Net
+    image: /images/nets/72014_S2_Compact_Guide_IMG3_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
   <ul><li>Innovative grip design</li><li>Fits all S1 Genesis and S2 Slider
-  handles</li><li>Mesh bag: Clear Rubber</li><li>Bag depth: 15" Flat
-  Bottom</li><li>Hoop Size: Small 17" x 19"</li><li>Weight: 1.2
+  handles</li><li>Mesh bag: Measure Net</li><li>Bag depth:
+  17"&nbsp;</li><li>Hoop Size: Medium 17" x 19"</li><li>Weight: 1.4
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>CLEAR RUBBER MESH</h7><p><img alt="" src="/images/ClearRubber_400x150.jpg"
+  <h7>GUIDE MEASURE NET</h7><p><img alt="" src="/images/ClearRubber_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
