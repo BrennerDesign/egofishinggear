@@ -3,6 +3,7 @@ name: EGO Small Nylon Mesh Bag
 subheading: Fits All Small EGO Net Heads
 order_number: 10
 display_product: true
+forsale_online: true
 description: Replace your EGO Small Nylon Fishing Net Mesh. DIY Instructions provided.
 categories:
   - replacement-parts
