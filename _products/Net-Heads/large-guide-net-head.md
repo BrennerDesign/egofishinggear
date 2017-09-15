@@ -1,22 +1,22 @@
 ---
-name: EGO LARGE—NYLON Net Head
+name: EGO LARGE—Guide Net Head
 subheading: 'Hoop Size—19&#34; x 21&#34;'
-order_number: 90
+order_number: 220
 display_product: true
 forsale_online: true
 description: >-
-  EGO LARGE Nylon fishing net head fits all EGO S2 Slider handles and S1 Genesis
-  handles.
+  EGO LARGE Guide Measure fishing net head fits all EGO S2 Slider handles and S1
+  Genesis handles.
 categories:
   - large-hoop
-price: 34.99
-sku: 72050A
+price: 79.99
+sku: 72059A
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle:
 filter_hoop: hoop_large
-filter_mesh: mesh_nylon
+filter_mesh: mesh_measure_net
 slides:
   - title: EGO LARGE Guide Net
     image: /images/72059A_EGO_L_Guide_1160x533.jpg
