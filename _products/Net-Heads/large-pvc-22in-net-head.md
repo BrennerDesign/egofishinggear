@@ -1,31 +1,31 @@
 ---
-name: EGO LARGE—PVC Coated Net Head
+name: 'EGO LARGE—PVC 22&#34; Coated Net Head'
 subheading: 'Hoop Size—19&#34; x 21&#34;'
-order_number: 100
+order_number: 150
 display_product: true
 forsale_online: true
 description: >-
-  EGO Large PVC Coated fishing net head fits all EGO S2 Slider handles and S1
-  Genesis handles.
+  EGO Large PVC 22" Coated fishing net head fits all EGO S2 Slider handles and
+  S1 Genesis handles.
 categories:
   - large-hoop
-price: 49.99
-sku: 72053A
+price: 56.99
+sku: 72056A
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle:
-filter_hoop: hoop_large
+filter_hoop: hoop_large22
 filter_mesh: mesh_pvc_coated_nylon
 slides:
-  - title: EGO LARGE Nylon Net
-    image: /images/72050A_EGO_L_NYLON_1160x533.jpg
+  - title: EGO LARGE 22in Nylon Net
+    image: /images/72056A_EGO_L_22_PVC_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
   <ul><li>Innovative grip design</li><li>Fits all S1 Genesis and S2 Slider
   handles</li><li>Mesh bag: PVC Coated</li><li>Bag depth: 20" Flat
-  Bottom</li><li>Hoop Size: Large19" x 21"</li><li>Weight: 1.1
+  Bottom</li><li>Hoop Size: Large 22" x 23"</li><li>Weight: 1.1
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>PVC COATED MESH</h7><p><img alt="" src="/images/PVC_400x150.jpg"
