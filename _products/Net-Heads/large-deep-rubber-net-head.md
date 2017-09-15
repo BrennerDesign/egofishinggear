@@ -1,31 +1,31 @@
 ---
-name: EGO Large—RUBBER Net Head
+name: EGO Large—Deep RUBBER Net Head
 subheading: 'Hoop Size—19&#34;x 21&#34;'
-order_number: 120
+order_number: 140
 display_product: true
 forsale_online: true
 description: >-
-  EGO Large Rubber fishing net head fits all EGO S2 Slider handles and S1
+  EGO Large Deep Rubber fishing net head fits all EGO S2 Slider handles and S1
   Genesis handles.
 categories:
   - large-hoop
-price: 56.99
-sku: 72051A
+price: 69.99
+sku: 72035A
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle:
 filter_hoop: hoop_large
-filter_mesh: mesh_rubber
+filter_mesh: mesh_deep_rubber
 slides:
-  - title: EGO Large Rubber Net
-    image: /images/72051A_EGO_L_Rubber_1160x533.jpg
+  - title: EGO Large Deep Rubber Net
+    image: /images/72035A_EGO_L_DeepRubber_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
   <ul><li>Innovative grip design</li><li>Fits all S1 Genesis and S2 Slider
-  handles</li><li>Mesh bag: Rubber</li><li>Bag depth: 15" Flat
-  Bottom</li><li>Hoop Size: Medium 19" x 21"</li><li>Weight: 1.3
+  handles</li><li>Mesh bag: Deep Rubber</li><li>Bag depth: 24" Flat
+  Bottom</li><li>Hoop Size: Medium 19" x 21"</li><li>Weight: 1.8
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
