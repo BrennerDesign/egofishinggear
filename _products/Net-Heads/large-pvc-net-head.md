@@ -28,7 +28,7 @@ left_column_html: >-
   Bottom</li><li>Hoop Size: Large19" x 21"</li><li>Weight: 1.1
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>PVC COATED MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>PVC COATED MESH</h7><p><img alt="" src="/images/PVC_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
