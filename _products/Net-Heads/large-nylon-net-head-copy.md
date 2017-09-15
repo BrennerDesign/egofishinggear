@@ -18,17 +18,24 @@ filter_handle:
 filter_hoop: hoop_large
 filter_mesh: mesh_nylon
 slides:
-  - title: EGO LARGE Nylon Net
-    image: /images/72050A_EGO_L_NYLON_1160x533.jpg
+  - title: EGO LARGE Guide Net
+    image: /images/72059A_EGO_L_Guide_1160x533.jpg
+    video:
+    is_video: false
+  - title: EGO LARGE Guide Net Top View
+    image: /images/nets/72059_S2_Large_Guide_IMG2_1160x533.jpg
+    video:
+    is_video: false
+  - title: EGO LARGE Guide Net Zipper
+    image: /images/nets/72059_S2_Large_Guide_IMG3_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
   <ul><li>Innovative grip design</li><li>Fits all S1 Genesis and S2 Slider
-  handles</li><li>Mesh bag: Nylon</li><li>Bag depth: 31"</li><li>Hoop Size:
-  Large19" x 21"</li><li>Minimal water drag</li><li>Weight: .9
-  lbs</li></ul><div>&nbsp;</div>
+  handles</li><li>Mesh bag: Measure Net</li><li>Bag depth: 20"</li><li>Hoop
+  Size: Large 19" x 21"</li><li>Weight: 1.55 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>MEASURE NET</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
   /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
