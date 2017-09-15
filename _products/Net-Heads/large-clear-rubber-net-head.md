@@ -5,7 +5,7 @@ order_number: 130
 display_product: true
 forsale_online: true
 description: >-
-  EGO Large Rubber fishing net head fits all EGO S2 Slider handles and S1
+  EGO Large Clear Rubber fishing net head fits all EGO S2 Slider handles and S1
   Genesis handles.
 categories:
   - large-hoop
