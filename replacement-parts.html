@@ -107,7 +107,7 @@ custom_header_html: '<header class="replacement_parts shorter">
         <div class="product_specs cards replacement">
 
             {% for product in myproducts %}
-                <div class="product_card bags {{product.filter_mesh}}">
+                <div class="product_card bags {{product.filter_mesh}}  {% if product.forsale_online != true %} not-for-sale {% endif %}">
                     <h3>{{product.name}}</h3>
                     <h4>{{product.subheading}}</h4>
 
@@ -135,7 +135,9 @@ custom_header_html: '<header class="replacement_parts shorter">
                     <div class="top clearfix">
                         <h5 class="price">${{product.price}}</h5>
 
-                        {% include snipcart-button.html product=product text="<div class='cart_icon'></div>" %}
+                        {% if product.forsale_online %}
+                            {% include snipcart-button.html product=product text="<div class='cart_icon'></div>" %}
+                        {% endif %}
 
                         <a class="specs {% if product.replacement_video and product.replacement_video != blank %} play_btn {% endif %}" 
                             {% if product.replacement_video and product.replacement_video != blank %} href="{{product.replacement_video}}" {% else %}
