@@ -8,7 +8,7 @@ description: >-
   EGO Large PVC 22" Coated fishing net head fits all EGO S2 Slider handles and
   S1 Genesis handles.
 categories:
-  - large-hoop
+  - large22-hoop
 price: 56.99
 sku: 72056A
 show_as_crosssells: false
