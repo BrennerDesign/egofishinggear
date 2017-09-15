@@ -1,35 +1,35 @@
 ---
-name: EGO LARGE—NYLON Net Head
+name: EGO LARGE—Rubber Coated NYLON Net Head
 subheading: 'Hoop Size—19&#34; x 21&#34;'
-order_number: 90
+order_number: 110
 display_product: true
 forsale_online: true
 description: >-
-  EGO LARGE Nylon fishing net head fits all EGO S2 Slider handles and S1 Genesis
-  handles.
+  EGO LARGE Rubber Coated Nylon fishing net head fits all EGO S2 Slider handles
+  and S1 Genesis handles.
 categories:
   - large-hoop
-price: 34.99
-sku: 72050A
+price: 46.99
+sku: 72055A
 show_as_crosssells: false
 tag_color:
 tag_text:
 filter_handle:
 filter_hoop: hoop_large
-filter_mesh: mesh_nylon
+filter_mesh: mesh_ruber_coated_nylon
 slides:
-  - title: EGO LARGE Nylon Net
-    image: /images/72050A_EGO_L_NYLON_1160x533.jpg
+  - title: EGO LARGE Rubber Coated Nylon Net
+    image: /images/72055A_EGO_L_RCN_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
   <ul><li>Innovative grip design</li><li>Fits all S1 Genesis and S2 Slider
-  handles</li><li>Mesh bag: Nylon</li><li>Bag depth: 31"</li><li>Hoop Size:
-  Large19" x 21"</li><li>Minimal water drag</li><li>Weight: .9
-  lbs</li></ul><div>&nbsp;</div>
+  handles</li><li>Mesh bag: Rubber Coated Nylon</li><li>Bag depth:
+  31"</li><li>Hoop Size: Large19" x 21"</li><li>Minimal water
+  drag</li><li>Weight: .9 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
-  /></p><p>&nbsp;</p>
+  <h7>RUBBER COATED NYLON MESH</h7><p><img alt=""
+  src="/images/Nylon_400x150.jpg" /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   accessory to be free of defects in material and workmanship for a period of
