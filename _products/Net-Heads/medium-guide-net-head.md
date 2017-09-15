@@ -8,7 +8,7 @@ description: >-
   EGO Medium Guide Measure Net fishing net head fits all EGO S2 Slider handles
   and S1 Genesis handles.
 categories:
-  - medium-hoop
+  - measure-net
 price: 59.99
 sku: 72014A
 show_as_crosssells: false
