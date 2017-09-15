@@ -9,6 +9,7 @@ description: >-
   Genesis handles.
 categories:
   - large-hoop
+  - measure-net
 price: 79.99
 sku: 72059A
 show_as_crosssells: false
