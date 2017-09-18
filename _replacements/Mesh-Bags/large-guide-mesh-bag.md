@@ -1,27 +1,27 @@
 ---
-name: EGO Medium Guide Measure Net Mesh Bag
-subheading: Fits All Medium EGO Net Heads
-order_number: 90
+name: EGO Large Guide Measure Net Mesh Bag
+subheading: Fits All Large EGO Net Heads
+order_number: 170
 display_product: true
 forsale_online: true
 description: >-
-  Replace your EGO Medium Guide Measure Net Fishing Net Mesh. DIY Instructions
+  Replace your EGO Large Guide Measure Net Fishing Net Mesh. DIY Instructions
   provided.
 categories:
   - replacement-parts
-price: '29.99'
-sku: RM72014
+price: '39.99'
+sku: RM72059
 tag_color:
 tag_text:
 replacement_type: bags
 filter_mesh: mesh_measure_net
 slides:
-  - title: EGO Medium Guide Measure Net Mesh Bag
+  - title: EGO Large Guide Measure Net Mesh Bag
     image: /images/RM72014_M_Guide_Mesh_Bag.jpg
     video:
     is_video: false
-  - title:
-    image: /images/nets/72014_S2_Compact_Guide_IMG3_1160x533.jpg
+  - title: EGO Large Guide Measure Net Mesh Bag Zipper
+    image: /images/nets/72059_S2_Large_Guide_IMG3_1160x533.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
