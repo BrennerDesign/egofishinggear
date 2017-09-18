@@ -1,7 +1,7 @@
 ---
 name: EGO Medium PVC Mesh Bag
 subheading: Fits All Medium EGO Net Heads
-order_number: 50
+order_number: 70
 display_product: true
 forsale_online: true
 description: Replace your EGO Medium PVC Fishing Net Mesh. DIY Instructions provided.
