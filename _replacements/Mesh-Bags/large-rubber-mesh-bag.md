@@ -1,6 +1,6 @@
 ---
 name: EGO Large Rubber Mesh Bag
-subheading: 'Fits All Large 19&#34; EGO Net Heads'
+subheading: 'Fits All Large 19&#34; and 22&#34;  EGO Net Heads'
 order_number: 10
 display_product: true
 forsale_online: true
