@@ -7,23 +7,15 @@ forsale_online: true
 description: Replace your EGO Small Nylon Fishing Net Mesh. DIY Instructions provided.
 categories:
   - replacement-parts
-price: '9.99'
+price: '5.99'
 sku: M71370
 tag_color: new_tag
 tag_text: New
 replacement_type: bags
-filter_mesh: mesh_clear_rubber
+filter_mesh: mesh_nylon
 slides:
-  - title:
+  - title: EGO Small Nylon Mesh Bag
     image: /images/M71370_S_Nylon_Mesh_Bag_1160x533.jpg
-    video:
-    is_video: false
-  - title:
-    image: /images/M71370_S_Nylon_Mesh_Bag2_1160x533.jpg
-    video:
-    is_video: false
-  - title:
-    image: /images/test-images/Samples_1.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
