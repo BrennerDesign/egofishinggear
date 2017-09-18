@@ -1,23 +1,23 @@
 ---
-name: EGO Large Rubber Mesh Bag
+name: EGO Large Deep Rubber Mesh Bag
 subheading: 'Fits All Large 19&#34; and 22&#34;  EGO Net Heads'
-order_number: 140
+order_number: 160
 display_product: true
 forsale_online: true
 description: >-
-  Replace your EGO Large Lightweight Rubber Fishing Net Mesh. DIY Instructions
+  Replace your EGO Large Deep Rubber Fishing Net Mesh. DIY Instructions
   provided.
 categories:
   - replacement-parts
-price: '24.99'
-sku: RM71151
+price: '26.99'
+sku: RM71351
 tag_color:
 tag_text:
 replacement_type: bags
-filter_mesh: mesh_rubber
+filter_mesh: mesh_deep_rubber
 slides:
-  - title:
-    image: /images/RM71261_L_Rubber_Mesh_Bag_1160x533.jpg
+  - title: EGO Large Deep Rubber Mesh Bag
+    image: /images/RM71351_L_DEEPRubber_Mesh_Bag_.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
