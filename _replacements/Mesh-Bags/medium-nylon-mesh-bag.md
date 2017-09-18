@@ -14,7 +14,7 @@ tag_text:
 replacement_type: bags
 filter_mesh: mesh_nylon
 slides:
-  - title: EGO Small Medium Mesh Bag
+  - title: EGO Medium Nylon Mesh Bag
     image: /images/M71260_M_Nylon_Mesh_Bag.jpg
     video:
     is_video: false
