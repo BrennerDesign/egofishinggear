@@ -1,7 +1,7 @@
 ---
 name: EGO Small Rubber Mesh Bag
 subheading: Fits All Small EGO Net Heads
-order_number: 20
+order_number: 30
 display_product: true
 forsale_online: true
 description: Replace your EGO Small Rubber Fishing Net Mesh. DIY Instructions provided.
