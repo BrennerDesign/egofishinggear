@@ -17,7 +17,7 @@ replacement_type: bags
 filter_mesh: mesh_clear_rubber
 slides:
   - title: EGO Small Clear Rubber Mesh Bag
-    image: /images/RM71372_S_CRubber_Mesh_Bag.jpg
+    image: /images/test-images/Samples_1.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
