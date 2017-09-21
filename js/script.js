@@ -58,7 +58,7 @@ function setTheFilters(isInitial)
 		}
 	});
 
-	var filterClassTypes = ['length', 'size', 'type'],
+	var filterClassTypes = ['length', 'size', 'type', 'bags'],
 		filterClassTypesLength = filterClassTypes.length;
 
 	var foundFilters = getParameterByName('filters');
@@ -84,10 +84,12 @@ function setTheFilters(isInitial)
 
 				for (var x = 0; x < filterClassTypesLength; x++) {
 					var classType = filterClassTypes[x];
-					if (currentClasses.indexOf(classType) !== -1) {
-						$('.filter_title.' + classType + ' .selected_box').addClass('selected');
-					} else {
-						$('.filter_title.' + classType + ' .selected_box.selected').removeClass('selected');
+					if (currentClasses) {
+						if (currentClasses.indexOf(classType) !== -1) {
+							$('.filter_title.' + classType + ' .selected_box').addClass('selected');
+						} else {
+							$('.filter_title.' + classType + ' .selected_box.selected').removeClass('selected');
+						}
 					}
 				}
 				
