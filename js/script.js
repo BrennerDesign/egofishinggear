@@ -61,7 +61,7 @@ function setTheFilters(isInitial)
 
 	var foundFilters = getParameterByName('filters');
 	if (foundFilters == null) {
-
+		$('.product_specs.cards .product_card').fadeIn();
 	} else {
 		$('.product_specs.cards .product_card').fadeOut();
 
