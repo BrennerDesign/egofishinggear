@@ -63,7 +63,7 @@ header_links:
         class: tools
       - name: Ego Fishing Tools
         link: /ego-fishing-tools/
-        image: /images/tools_nav_1.jpg
+        image: /images/EGO_NaveImage_1.jpg
         class: tools
   - name: Accessories
     link: /accessories/
