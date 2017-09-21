@@ -224,6 +224,8 @@ $(document).ready(function() {
 			})
 			$('.filter_expand input[type=checkbox]').prop('checked', false); // Unchecks it
 			$('.product_specs.cards .product_card').fadeIn(); // fade all cards back in
+			selectedFilters = [];
+			pushTheFilters();
 
 			$('.filter_expand.length').slideDown(200, function() {
 		      	$(this).addClass("expanded");
@@ -254,6 +256,8 @@ $(document).ready(function() {
 			})
 			$('.filter_expand input[type=checkbox]').prop('checked', false); // Unchecks it
 			$('.product_specs.cards .product_card').fadeIn(); // fade all cards back in
+			selectedFilters = [];
+			pushTheFilters();
 
 			$('.filter_expand.size').slideDown(200, function() {
 		      	$(this).addClass("expanded");
@@ -283,6 +287,8 @@ $(document).ready(function() {
 			})
 			$('.filter_expand input[type=checkbox]').prop('checked', false); // Unchecks it
 			$('.product_specs.cards .product_card').fadeIn(); // fade all cards back in
+			selectedFilters = [];
+			pushTheFilters();
 
 			$('.filter_expand.type').slideDown(200, function() {
 		      	$(this).addClass("expanded");
@@ -316,6 +322,8 @@ $(document).ready(function() {
 		} else {
 			$('.product_specs.cards .product_card.hoop, .product_specs.cards .product_card.bags').fadeOut();
         	$('.product_specs.cards .product_card.parts').fadeIn();
+        	selectedFilters = [];
+			pushTheFilters();
 			$('.filter_expand.expanded').slideUp(200, function() {
 			    $(this).removeClass("expanded");
 			})
