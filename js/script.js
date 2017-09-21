@@ -58,6 +58,8 @@ function setTheFilters(isInitial)
 		}
 	});
 
+	var filterClassTypes = ['length', 'size', 'type'],
+		filterClassTypesLength = filterClassTypes.length;
 
 	var foundFilters = getParameterByName('filters');
 	if (foundFilters == null) {
@@ -65,16 +67,30 @@ function setTheFilters(isInitial)
 	} else {
 		$('.product_specs.cards .product_card').fadeOut();
 
+		//need to find what section they belong to and expand those.
 		var foundSelectedFilters = foundFilters.split(',');
 		if (foundSelectedFilters.length > 0) {
 			for (var i = 0; i < foundSelectedFilters.length; i++) {
 				var name = foundSelectedFilters[i];
 				$('.filter_expand input#' + name).prop('checked', true); //.trigger('click');
-				console.log('show', name);
 				showHideProducts($('.filter_expand input#' + name), false);
-				// $('.filter_expand input#' + name).trigger('click', ['fromSetTheFilter']);
 
-				// $('.product_specs.cards .product_card.' + name).fadeIn();
+				// sets the classes for the selected filter
+				$('.filter_expand.expanded').removeClass('expanded');
+				var parentFilters = $('input#' + name).closest('.filter_expand'),
+					currentClasses = parentFilters.attr('class');
+
+				parentFilters.addClass('expanded');
+
+				for (var x = 0; x < filterClassTypesLength; x++) {
+					var classType = filterClassTypes[x];
+					if (currentClasses.indexOf(classType) !== -1) {
+						$('.filter_title.' + classType + ' .selected_box').addClass('selected');
+					} else {
+						$('.filter_title.' + classType + ' .selected_box.selected').removeClass('selected');
+					}
+				}
+				
 			}
 		}
 	}
