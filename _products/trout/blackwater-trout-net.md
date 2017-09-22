@@ -1,7 +1,7 @@
 ---
 name: EGO TROUT NET LARGE
 subheading: Measure Net technology
-order_number: 10
+order_number: 110
 display_product: true
 forsale_online: true
 description: >-
