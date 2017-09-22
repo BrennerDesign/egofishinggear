@@ -76,20 +76,21 @@ function setTheFilters(isInitial)
 				showHideProducts($('.filter_expand input#' + name), false);
 
 				// sets the classes for the selected filter
-				$('.filter_expand.expanded').removeClass('expanded');
+				$('.filter_expand.expanded').removeClass('expanded').css('display', 'none');
 				var parentFilters = $('input#' + name).closest('.filter_expand'),
 					currentClasses = parentFilters.attr('class');
 
-				parentFilters.addClass('expanded');
+				parentFilters.addClass('expanded').css('display', 'block');
 
 				for (var x = 0; x < filterClassTypesLength; x++) {
 					var classType = filterClassTypes[x];
 					if (currentClasses) {
 						if (currentClasses.indexOf(classType) !== -1) {
-							$('.filter_title.' + classType + ' .selected_box').addClass('selected');
+							$('.filter_title.' + classType + ' .selected_box').addClass('selected').css('display', 'block');
 						} else {
-							$('.filter_title.' + classType + ' .selected_box.selected').removeClass('selected');
+							$('.filter_title.' + classType + ' .selected_box.selected').removeClass('selected').css('display', 'none');
 						}
+					} else {
 					}
 				}
 				
