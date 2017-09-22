@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—REACH LARGE DEEP RUBBER NET
-subheading: REACH Handle—Extends 48in–108in
+subheading: 'REACH Handle—Extends 48&#34;–108&#34;'
 order_number: 127
 display_product: true
 forsale_online: true
@@ -29,21 +29,21 @@ slides:
     is_video: true
 left_column_html: >-
   <p>The EGO S2 Slider Reach Large Deep Rubber Net comes with the revolutionary
-  S2 Slider extendable fishing net handle technology. With a simple pull or push
-  of the S2 Slider handle grip, it gives the savvy angler real time control of
-  the handle extension length throughout the fish capturing process. The
-  innovative fishing net modular platform also allows the handle to detach,
-  providing interchangeability of attachment tools and compact storage.</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>48in &mdash;
-  108in</p><div class="divider">&nbsp;</div><h7>LOAD
+  S2 slider extension handle technology and extra long reach. With a simple pull
+  or push of the S2 Slider handle grip, it gives the savvy angler real-time
+  control of the handle extension length throughout the fish capturing process.
+  The innovative modular platform also allows the handle to detach, providing
+  interchangeability of attachment tools and compact storage.</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>48" &mdash; 108"</p><div
+  class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;20lbs<br /><strong>Full
   Extension</strong>&mdash;12lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>48" Slider
-  Handle Extends To 108"</li><li>Unique Scoop Design</li><li>Non-Tangle
-  Lightweight Deep Rubber Mesh</li><li>Flat Bottom / 24" Bag Depth<br
-  />(Stretches up to 1.5X with load)</li><li>Large Hoop Size 19" x
-  21"</li></ul><div>&nbsp;</div>
+  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
+  handle - 48" extends to 108"</li><li>Mesh bag: Lightweight non-tangle deep
+  rubber mesh</li><li>Bag depth:&nbsp; 24&rdquo; with flat bottom (Stretches up
+  to 1.5X with load)</li><li>Hoop size: Large 19&rdquo; x
+  21&rdquo;</li><li>Weight: 4.2 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <p>DEEP RUBBER MESH</p><p><img alt="" src="/images/PVC_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
