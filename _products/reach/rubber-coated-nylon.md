@@ -6,7 +6,7 @@ display_product: true
 forsale_online: true
 description: >-
   The Ultimate Crappie Landing Net. Featuring telescoping handle reaching up to
-  8.6 ft and PVC coated mesh. THE OFFICIAL NET OF CRAPPIE USA.
+  8.5ft and PVC coated mesh. THE OFFICIAL NET OF CRAPPIE USA.
 categories:
   - reach-nets
 price: 46.99
@@ -24,7 +24,7 @@ slides:
     is_video: false
 left_column_html: >-
   <p>The EGO REACH, the ultimate crappie landing net features a telescoping
-  handle reaching up to 8 feet 6inchs. The official fishing net of Crappie
+  handle reaching up to 8.5ft. The official fishing net of Crappie
   USA.&nbsp;</p><div class="divider">&nbsp;</div><ul><li>Hoop: 14&rdquo; x
   18&rdquo;</li><li>Bag Depth: 15&rdquo;&nbsp;</li><li>Reaches up to
   8.5ft&nbsp;</li><li>Unique Scoop Design</li><li>Non-Tangle/Hook-Free PVC
