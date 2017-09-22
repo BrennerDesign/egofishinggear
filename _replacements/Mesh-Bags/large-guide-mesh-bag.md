@@ -24,7 +24,7 @@ slides:
     image: /images/nets/72059_S2_Large_Guide_IMG3_1160x533.jpg
     video:
     is_video: false
-repalcement_text: Replacement Instructions
-replacement_link: /instructions/Mesh Bag And Grip Replacement Instructions 1.0.pdf
+repalcement_text:
+replacement_link:
 replacement_video:
 ---
