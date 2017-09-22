@@ -9,7 +9,6 @@ description: >-
   fishing net advanced handle extension technology. Extends from 48" to 108"
 categories:
   - s2-nets
-  - reach-nets
 price: 124.99
 sku: 72082
 show_as_crosssells: false
