@@ -16,9 +16,9 @@ sku: 75268
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle:
-filter_hoop:
-filter_mesh:
+filter_handle: handle_wade
+filter_hoop: hoop_medium
+filter_mesh: mesh_clear_rubber
 slides:
   - title: EGO WADE Kryptek Camo Medium Clear Rubber Net
     image: /images/75268_Wade_Kryptek_M_CRubber_1160x533.jpg
