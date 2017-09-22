@@ -21,9 +21,9 @@ left_column_html: >-
   button with your thumb and pull the foam rubber handle section. When the
   handle is extended to the desired length, allow the release button to seat
   back into the pre-set slot to lock in handle length.</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash; 36in</p><div
-  class="divider">&nbsp;</div></h7>LOAD
-  CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
+  36in</p><div class="divider">&nbsp;</div><p>LOAD
+  CAPACITY</p><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p>
 right_column_html: >-
@@ -32,9 +32,9 @@ right_column_html: >-
   tab</li><li>6&rdquo; lock intervals</li><li>Works with all S1 or S2 net heads
   and attachment tools.</li></ul>
 warranty_left_column_html: >-
-  <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
-  accessory to be free of defects in material and workmanship for a period of
-  two (2) years from the date of original purchase.</p><div
+  <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
+  warrants your EGO accessory to be free of defects in material and workmanship
+  for a period of two (2) years from the date of original purchase.</p><div
   class="divider">&nbsp;</div><p><strong>If your EGO fishing accessory exhibits
   such a defect, Adventure Products will, at its option, replace or repair it
   without charge, provided the customer:</strong></p><p><strong>1) Returns the
@@ -42,7 +42,7 @@ warranty_left_column_html: >-
   return to:</strong></p><p>Adventure Products<br />Product Returns<br />889 Guy
   Paine Rd.<br />Macon, GA 31206</p><p><strong>2) Submits proof of date of
   original purchase.</strong></p><p>&nbsp;</p><p><a class="block_btn"
-  href="/warranty">File Claim Online</a></p>
+  href="/warranty">File Claim Online</a></p><p>&nbsp;</p>
 warranty_right_column_html: >-
   <p>This warranty does not cover damage resulting from accident, misuse, abuse,
   tampering, unreasonable use or normal wear.</p><p>ADVENTURE PRODUCTS, INC.
