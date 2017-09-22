@@ -1,7 +1,7 @@
 ---
 name: 'EGO Kryptek—Measuring Board-18&#34;'
 subheading: 'Accurate 1/4&#34; Increments'
-order_number: 100
+order_number: 80
 display_product: true
 forsale_online: true
 description: >-
