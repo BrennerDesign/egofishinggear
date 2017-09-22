@@ -1,6 +1,6 @@
 ---
 name: EGO REACH—PVC COATED NET
-subheading: Telescoping Handle Reaches up to 8.6 ft
+subheading: Telescoping Handle Reaches up to 8.5ft
 order_number: 1
 display_product: true
 forsale_online: true
