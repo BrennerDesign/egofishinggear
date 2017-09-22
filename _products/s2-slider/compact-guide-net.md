@@ -43,19 +43,20 @@ slides:
 left_column_html: >-
   <p>The EGO S2 Slider Compact PVC Coated Guide Landing Net comes with both the
   revolutionary S2 Slider extension handle and Measure Net technology. These two
-  great features provide for a maximum reach with the shortest possible handle
-  and the advantage of hands-free fish measurement up to 36 inches.</p><p>The S2
-  Slider modular fishing net platform also features a detachable handle,
-  providing interchangeability of attachment tools, easy storage on kayaks and
-  boats with limited space.&nbsp;</p><div class="divider">&nbsp;</div><h7>HANDLE
+  great features provide for maximum reach with the shortest possible handle and
+  the advantage of hands-free fish measurement up to 36 inches.</p><p>The S2
+  Slider modular platform also features a detachable handle, providing
+  interchangeability of attachment tools and easy storage on kayaks and boats
+  with limited space.&nbsp;</p><div class="divider">&nbsp;</div><h7>HANDLE
   EXTENDS</h7><p>18in &mdash; 36in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;28lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Medium Hoop Size 17" x 19"</li><li>17" Bag
-  Depth</li><li>Ergonomic handle grip</li><li>Zip on/off replaceable mesh
-  bag</li><li>Lightweight with minimal water drag</li><li>Measure fish up to 36
-  inches</li></ul><div>&nbsp;</div>
+  class="divider">&nbsp;</div><ul><li>Innovative grip design</li><li>S2 Slider
+  handle &ndash; 18&rdquo; extends to 36"</li><li>Zip on/off replaceable mesh
+  bag</li><li>Bag depth: 17&rdquo;</li><li>Hoop size: Medium 17" x
+  19"</li><li>Measure fish up to 36 inches</li><li>Weight: 2.55
+  lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>PVC COATED MEASURE NET</h7><p><img alt=""
   src="/uploads/MeasureNet_400x150.jpg" /></p><div
