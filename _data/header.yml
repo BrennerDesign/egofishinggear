@@ -115,7 +115,7 @@ header_links:
           - name: Attachment Tools
             link: '#'
             link_class: filter_title
-          - name: S1 & S2 Landing Nets
+          - name: S1 & S2 Handle Tools
             link: /ego-attachment-tools/
             link_class: filter_selector landing
     bottom_link:
