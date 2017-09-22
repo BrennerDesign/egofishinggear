@@ -38,10 +38,11 @@ left_column_html: >-
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;28lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>18" Slider
-  Handle Extends To 36"</li><li>Non-Tangle Lightweight Rubber Mesh</li><li>Flat
-  Bottom / 15" Bag Depth<br />(Stretches up to 1.5X with load)</li><li>Medium
-  Hoop Size 17" x 19"</li></ul><div>&nbsp;</div>
+  class="divider">&nbsp;</div><ul><li>Innovative grip design</li><li>S2 Slider
+  handle &ndash; 18&rdquo; extends To 36"</li><li>Mesh Bag: Lightweight
+  non-tangle rubber mesh</li><li>Bag depth: 15&rdquo; with flat bottom
+  (Stretches up to 1.5X with load)</li><li>Hoop size: Medium 17" x
+  19"</li><li>&nbsp;Weight: 2.15 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <p>LIGHTWEIGHT RUBBER MESH</p><p><img alt="" src="/images/Rubber_400x150.jpg"
   /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp;
