@@ -1,7 +1,7 @@
 ---
 name: S1 GENESIS KRYPTEK—MEDIUM RUBBER NET
 subheading: 25in Removable Handle — 17in x 19in Hoop
-order_number: 40
+order_number: 240
 display_product: true
 forsale_online: true
 description: >-
