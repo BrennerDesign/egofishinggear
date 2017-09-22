@@ -1,7 +1,7 @@
 ---
 name: EGO TROUT NET LARGE
 subheading: Nylon Mesh
-order_number: 2
+order_number: 120
 display_product: true
 forsale_online: true
 description: >-
