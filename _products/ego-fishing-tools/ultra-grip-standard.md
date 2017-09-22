@@ -1,7 +1,7 @@
 ---
 name: EGO Ultra Grip—Standard
 subheading: No built-in scale
-order_number: 5
+order_number: 50
 display_product: true
 forsale_online: true
 description: >-
