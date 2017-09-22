@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—COMPACT GUIDE NET
-subheading: Compact Handle—Extends 18in—36in
+subheading: 'Compact Handle—Extends 18&#34;—36&#34;'
 order_number: 105
 display_product: true
 forsale_online: true
@@ -48,7 +48,7 @@ left_column_html: >-
   Slider modular platform also features a detachable handle, providing
   interchangeability of attachment tools and easy storage on kayaks and boats
   with limited space.&nbsp;</p><div class="divider">&nbsp;</div><h7>HANDLE
-  EXTENDS</h7><p>18in &mdash; 36in</p><div class="divider">&nbsp;</div><h7>LOAD
+  EXTENDS</h7><p>18" &mdash; 36"</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;28lbs</p><div
