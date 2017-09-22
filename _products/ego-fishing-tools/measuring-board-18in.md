@@ -1,7 +1,7 @@
 ---
 name: 'EGO Measuring Board—18&#34;'
 subheading: 'Accurate 1/16&#34; Increments'
-order_number: 7
+order_number: 70
 display_product: true
 forsale_online: true
 description: >-
