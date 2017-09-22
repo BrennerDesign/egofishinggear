@@ -10,6 +10,7 @@ description: >-
   adjustable/removable clip on tether.
 categories:
   - wade-kayak-nets
+  - s1-genesis-kryptek-nets
 price: 64.99
 sku: 75268
 show_as_crosssells: false
