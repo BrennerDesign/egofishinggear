@@ -1,12 +1,12 @@
 ---
-name: S2 SLIDER—LARGE PVC NET
-subheading: Standard Handle—Extends 29in–60in
+name: S2 SLIDER—LARGE PVC COATED NET
+subheading: 'Standard Handle—Extends 29&#34;–60&#34;'
 order_number: 110
 display_product: true
 forsale_online: true
 description: >-
-  Best fishing net on the planet. EGO S2 Slider Large PVC Coated landing net
-  features advanced handle extension technology. Extends from 29" to 60"
+  Best fishing net on the planet. EGO S2 Slider Large PVC Coated mesh landing
+  net features advanced handle extension technology. Extends from 29" to 60"
 categories:
   - s2-nets
 price: 109.99
@@ -29,19 +29,19 @@ slides:
 left_column_html: >-
   <p>The EGO S2 Slider Large PVC Coated Landing Net comes with the revolutionary
   S2 slider extension handle technology. With a simple pull or push of the S2
-  Slider handle grip, it gives the savvy angler real time control of the handle
-  extension length throughout the fish capturing process. The innovative fishing
-  net modular platform also allows the handle to detach, providing
-  interchangeability of attachment tools and compact storage.</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in &mdash;
-  60in</p><div class="divider">&nbsp;</div><h7>LOAD
+  Slider handle grip, it gives the savvy angler real-time control of the handle
+  extension length throughout the fish capturing process. The innovative modular
+  platform also allows the handle to detach, providing interchangeability of
+  attachment tools and compact storage.</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29" &mdash; 60"</p><div
+  class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
-  Design</li><li>29" Slider Handle Extends To 60"</li><li>Unique Scoop
-  Design</li><li>Non-Tangle PVC Coated Mesh</li><li>Flat Bottom / 20" Bag
-  Depth</li><li>Large Hoop Size 19" x 21"</li></ul><div>&nbsp;</div>
+  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
+  handle - 29" extends to 60"</li><li>Mesh bag: PVC coated mesh</li><li>Bag
+  depth: 20&rdquo; with flat bottom</li><li>Hoop size: Large 19&rdquo; x
+  21&rdquo;</li><li>Weight: 2.65 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>PVC COATED MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
   /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp;
