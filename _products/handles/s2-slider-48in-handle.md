@@ -1,7 +1,7 @@
 ---
 name: 'S2 Slider 48&#34; handle'
 subheading: 'Handle Extends from 48&#34;—108&#34;'
-order_number: 2
+order_number: 90
 display_product: true
 forsale_online: true
 description: EGO Fishing Gear S2 Slider 48"—108" Extending Fishing Net Handle.
