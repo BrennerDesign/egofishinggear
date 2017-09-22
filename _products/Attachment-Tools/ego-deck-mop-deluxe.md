@@ -24,9 +24,9 @@ left_column_html: >-
   out by hand</li></ul>
 right_column_html:
 warranty_left_column_html: >-
-  <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
-  accessory to be free of defects in material and workmanship for a period of
-  two (2) years from the date of original purchase.</p><div
+  <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
+  warrants your EGO accessory to be free of defects in material and workmanship
+  for a period of two (2) years from the date of original purchase.</p><div
   class="divider">&nbsp;</div><p><strong>If your EGO fishing accessory exhibits
   such a defect, Adventure Products will, at its option, replace or repair it
   without charge, provided the customer:</strong></p><p><strong>1) Returns the
@@ -34,7 +34,7 @@ warranty_left_column_html: >-
   return to:</strong></p><p>Adventure Products<br />Product Returns<br />889 Guy
   Paine Rd.<br />Macon, GA 31206</p><p><strong>2) Submits proof of date of
   original purchase.</strong></p><p>&nbsp;</p><p><a class="block_btn"
-  href="/contact-us">File Claim Online</a></p>
+  href="/warranty">File Claim Online</a></p><p>&nbsp;</p>
 warranty_right_column_html: >-
   <p>This warranty does not cover damage resulting from accident, misuse, abuse,
   tampering, unreasonable use or normal wear.</p><p>ADVENTURE PRODUCTS, INC.
