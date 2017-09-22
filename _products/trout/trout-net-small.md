@@ -1,7 +1,7 @@
 ---
 name: EGO TROUT NET SMALL
 subheading: Small Nylon Mesh
-order_number: 1
+order_number: 120
 display_product: true
 forsale_online: true
 description: >-
