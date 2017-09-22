@@ -1040,18 +1040,6 @@ h6 {
 			margin-top: 20px;
 		}
 	}
-
-	&.not-for-sale {
-
-		.product_cart {
-			.price {
-				width:100%;
-				text-align:center;
-			}
-		}
-
-	}
-
 	.expanders {
 		clear: both;
 		margin-bottom: 90px;
@@ -1315,7 +1303,6 @@ h6 {
 		@media (max-width: 600px) {
 			width: 100%;
 			float: none;
-			clear: both;
 		}
 	}
 	.other_products_slider {
@@ -2865,20 +2852,6 @@ header.trout_net {
 		.bottom {
 			border-top: 1px solid $light-grey2;
 			width: 100%;
-			min-height:45px;
-
-			.yotpo.bottomLine {
-				padding-top:5px;
-				padding-bottom:3px;
-			}
-		}
-
-		&.not-for-sale {
-			.price {
-				border-right: 1px solid #C4C4C4;
-    			padding-right: 12px;
-    			margin-right: 0;
-			}
 		}
 	}
 	.product_blk_titles {
@@ -2910,10 +2883,7 @@ header.trout_net {
 		text-transform: uppercase;
 		font-size: 0.857em; /* 12px */
 		color: $light-grey3;
-		margin: 4px 0;
-	}
-	.review_holder_img {
-		margin-top: 10px;
+		margin: 8px 0 2px;
 	}
 	.new_tag {
 		position: static;
