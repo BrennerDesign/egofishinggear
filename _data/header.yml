@@ -101,15 +101,15 @@ header_links:
           - name: Handles
             link: '#'
             link_class: filter_title
-          - name: S1 Genesis
-            link: /s1-genesis-handles/
-            link_class: filter_selector s1_gen
-          - name: S1 Genesis Kryptek
-            link: /s1-genesis-kryptek-handles/
-            link_class: filter_selector s1_gen_krypyt
           - name: S2 Slider
             link: /s2-slider-handles/
             link_class: filter_selector s2_slider
+          - name: S1 Genesis Kryptek
+            link: /s1-genesis-kryptek-handles/
+            link_class: filter_selector s1_gen_krypyt
+          - name: S1 Genesis
+            link: /s1-genesis-handles/
+            link_class: filter_selector s1_gen
       - column: Column 4
         links:
           - name: Attachment Tools
