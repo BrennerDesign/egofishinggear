@@ -16,9 +16,9 @@ sku: 75262
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle:
-filter_hoop:
-filter_mesh:
+filter_handle: handle_wade
+filter_hoop: hoop_medium
+filter_mesh: mesh_nylon
 slides:
   - title: EGO WADE Kryptek Medium Nylon
     image: /images/75262_Wade_Kryptek_M_Nylon_1160x533.jpg
