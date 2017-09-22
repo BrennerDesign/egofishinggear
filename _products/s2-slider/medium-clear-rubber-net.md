@@ -40,8 +40,8 @@ left_column_html: >-
   Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
   handle - 29" extends to 60"</li><li>Mesh bag: Lightweight non-tangle clear
-  rubber mesh</li><li>Bag depth: 15&rdquo; with flat bottom</li><li>(Stretches
-  up to 1.5X with load)</li><li>Hoop size: Medium 17" x 19"</li><li>Weight: 2.75
+  rubber mesh</li><li>Bag depth: 15&rdquo; with flat bottom (Stretches up to
+  1.5X with load)</li><li>Hoop size: Medium 17" x 19"</li><li>Weight: 2.75
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <p>LIGHTWEIGHT CLEAR RUBBER MESH</p><p><img alt=""
