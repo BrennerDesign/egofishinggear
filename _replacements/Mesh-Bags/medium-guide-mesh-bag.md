@@ -21,7 +21,7 @@ slides:
     video:
     is_video: false
   - title:
-    image: /images/nets/72014_S2_Compact_Guide_IMG3_1160x533.jpg
+    image: /images/GuideMesh_Bag_Medium.jpg
     video:
     is_video: false
 repalcement_text:
