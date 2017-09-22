@@ -29,7 +29,7 @@ right_column_html: >-
   wide jaw opening</li><li>Ergonomic foam grip</li><li>Comfortable palm
   design</li><li>Compact &amp; lightweight</li></ul>
 warranty_left_column_html: >-
-  <p><h7></h7></p><p><h7></h7></p><p><h7>1-Year Limited
+  <p><h7></h7></p><p><h7></h7></p><p><h7></h7></p><p><h7>1-Year Limited
   Warranty</h7></p><p>Adventure Products warrants your EGO fishing tool to be
   free of defects in material and workmanship for a period of one (1) years from
   the date of original purchase.</p><div
@@ -40,7 +40,7 @@ warranty_left_column_html: >-
   to:</strong></p><p>Adventure Products<br />Product Returns<br />889 Guy Paine
   Rd.<br />Macon, GA 31206</p><p><strong>2) Submits proof of date of original
   purchase.</strong></p><p>&nbsp;</p><p><a class="block_btn"
-  href="/warranty">File Claim Online</a></p>
+  href="/warranty">File Claim Online</a></p><p>&nbsp;</p>
 warranty_right_column_html: >-
   <p>This warranty does not cover damage resulting from accident, misuse, abuse,
   tampering, unreasonable use or normal wear.</p><p>ADVENTURE PRODUCTS, INC.
