@@ -16,9 +16,9 @@ sku: 75155
 show_as_crosssells: false
 tag_color:
 tag_text:
-filter_handle:
-filter_hoop:
-filter_mesh:
+filter_handle: handle_wade
+filter_hoop: hoop_large
+filter_mesh: mesh_ruber_coated_nylon
 slides:
   - title: EGO WADE Kryptek Camo Large Rubber Coated Nylon
     image: /images/75155_Wade_Kryptek_L_RCNylon_1160x533.jpg
