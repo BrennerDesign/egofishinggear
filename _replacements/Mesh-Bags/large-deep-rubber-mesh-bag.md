@@ -21,6 +21,6 @@ slides:
     video:
     is_video: false
 repalcement_text: Replacement Instructions
-replacement_link: /instructions/Mesh Bag And Grip Replacement Instructions.pdf
+replacement_link: /instructions/Mesh Bag And Grip Replacement Instructions 1.0.pdf
 replacement_video:
 ---
