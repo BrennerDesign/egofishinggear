@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—XLARGE RUBBER COATED NYLON NET
-subheading: Standard Handle—Extends 29in–60in
+subheading: 'Standard Handle—Extends 29&#34;–60&#34;'
 order_number: 119
 display_product: true
 forsale_online: true
@@ -30,19 +30,20 @@ slides:
 left_column_html: >-
   <p>The EGO S2 Slider XLarge Rubber Coated Nylon Landing Net comes with the
   revolutionary S2 slider extension handle technology. With a simple pull or
-  push of the S2 Slider handle grip, it gives the savvy angler real time control
+  push of the S2 Slider handle grip, it gives the savvy angler real-time control
   of the handle extension length throughout the fish capturing process. The
-  innovative fishing net modular platform also allows the handle to detach,
-  providing interchangeability of attachment tools and compact storage.</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29in &mdash;
-  60in</p><div class="divider">&nbsp;</div><h7>LOAD
+  innovative modular platform also allows the handle to detach, providing
+  interchangeability of attachment tools and compact storage.</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29" &mdash; 60"</p><div
+  class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>29" Slider
-  Handle Extends To 60"</li><li>Unique Scoop Design</li><li>non-tangle rubber
-  coated nylon mesh</li><li>38" Bag Depth</li><li>XLarge Hoop Size 24" x
-  27"</li></ul><div>&nbsp;</div>
+  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
+  handle - 29" extends to 60"</li><li>Mesh bag: Rubber coated nylon
+  mesh</li><li>Bag depth: 38&rdquo;</li><li>Minimal water drag</li><li>Hoop
+  size: XLarge 24&rdquo; x 27&rdquo;</li><li>Weight: 2.65
+  lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>PVC COATED MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
   /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp;
