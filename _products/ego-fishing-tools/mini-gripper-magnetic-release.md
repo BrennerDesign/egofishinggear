@@ -1,7 +1,7 @@
 ---
 name: EGO Mini Gripper
 subheading: With Magnetic Release
-order_number: 2
+order_number: 20
 display_product: true
 forsale_online: true
 description: >-
