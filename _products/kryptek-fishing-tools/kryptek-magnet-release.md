@@ -1,7 +1,7 @@
 ---
 name: EGO Kryptek—Magnetic Release
 subheading: '6in stretchable lanyard extends out to 36&#34;'
-order_number: 170
+order_number: 70
 display_product: true
 forsale_online: true
 description: >-
