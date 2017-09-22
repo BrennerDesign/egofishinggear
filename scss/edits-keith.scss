@@ -62,7 +62,14 @@ header.featured_prod h1 {
 
 
 
+/* S1 Genesis Product Page
+----------------------------------------------------------------------------------------*/
 
+.product_ads .ad_block.top_ad.s1 h3 {
+    width: 41%;
+    line-height: 1.2em;
+    margin-bottom: 18px;
+}
 
 
 /* Product Page Styles
@@ -127,6 +134,7 @@ header.featured_prod h1 {
 .product_specs .product_cart .email_submit {
     width: 75px;
 }
+
 
 /* Product Cards Styles
 ----------------------------------------------------------------------------------------*/
