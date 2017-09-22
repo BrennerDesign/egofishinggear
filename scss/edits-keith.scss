@@ -29,6 +29,29 @@ h7 {
 
 
 
+/* Outline Button Style
+----------------------------------------------------------------------------------------*/
+
+
+.block_btn {
+    border: 2px solid #666;
+    color: #666;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 6px;
+    padding: 6px 12px;
+    font-size: .875em;
+    padding: 6px 0;
+    display: inline-block;
+    width: 160px;
+    font-weight: bold;
+}
+
+
+
+
+
+
 /* Product Page Styles
 ----------------------------------------------------------------------------------------*/
 
@@ -108,7 +131,7 @@ h7 {
 .product_specs.cards .new_tag {
     position: static;
     display: inline-block;
-    margin: 16px 0 0 0;
+    margin: 16px 0 15px 0;
     padding: 4px 10px;
 }
 
@@ -130,6 +153,8 @@ h7 {
 
 /* Replacement product Cards
 ----------------------------------------------------------------------------------------*/
+
+
 
 
 
