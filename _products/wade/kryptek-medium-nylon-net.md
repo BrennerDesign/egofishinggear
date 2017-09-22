@@ -10,6 +10,7 @@ description: >-
   on tether.
 categories:
   - wade-kayak-nets
+  - s1-genesis-kryptek-nets
 price: 49.99
 sku: 75262
 show_as_crosssells: false
