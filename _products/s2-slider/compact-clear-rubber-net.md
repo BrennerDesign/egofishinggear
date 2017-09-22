@@ -29,19 +29,19 @@ slides:
 left_column_html: >-
   <p>The EGO S2 Slider Compact Clear Rubber Landing Net comes with the
   revolutionary S2 Slider extension handle technology, providing maximum reach
-  with the shortest possible handle. The S2 Slider modular fishing net platform
-  also allows the handle to detach, providing interchangeability of attachment
-  tools, easy storage on kayaks and boats with limited space.&nbsp;</p><div
+  with the shortest possible handle. The S2 Slider modular platform also allows
+  the handle to detach, providing interchangeability of attachment tools, easy
+  storage on kayaks and boats with limited space.&nbsp;</p><div
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
   36in</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;28lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>18" Slider
-  Handle Extends To 36"</li><li>Unique Scoop Design</li><li>Non-Tangle
-  Lightweight Clear Rubber Mesh</li><li>Flat Bottom / 15" Bag Depth<br
-  />(Stretches up to 1.5X with load)</li><li>Medium Hoop Size 17" x
-  19"</li></ul><div>&nbsp;</div>
+  class="divider">&nbsp;</div><ul><li>Innovative grip design</li><li>S2 Slider
+  handle &ndash; 18&rdquo; extends to 36"</li><li>Mesh bag: Lightweight
+  non-tangle clear rubber mesh</li><li>Bag depth: 15&rdquo; with flat
+  bottom</li><li>(Stretches up to 1.5X with load)</li><li>Hoop size: Medium 17"
+  x 19"</li><li>Weight: 2.15 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <p>LIGHTWEIGHT CLEAR RUBBER MESH</p><p><img alt=""
   src="/images/ClearRubber_400x150.jpg" /></p><div
