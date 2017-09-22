@@ -28,16 +28,22 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>2-Year Limited Warranty</p><p>EGO Fishing Gear warrants your EGO landing
-  net to be free of defects in material and workmanship(excluding net mesh) for
-  a period of two (2) years from the date of original
-  purchase.</p><p>&nbsp;</p><p>If your EGO fishing net exhibits such a defect,
-  Adventure Products will, at its option, replace or repair it without charge,
-  provided the customer:</p><p>1) Returns the defective product, postage paid
-  and insured, indicating the reason(s) for the return to:</p><p>Adventure
-  Products<br />Product Returns<br />889 Guy Paine Rd.<br />Macon, GA
-  31206</p><p>2) Submits proof of date of original
-  purchase.</p><p>&nbsp;</p><p>File Claim Online</p><div>&nbsp;</div>
+  <p>The EGO S2 Slider Large Rubber Coated Nylon Landing Net comes with the
+  revolutionary S2 slider extension handle technology. With a simple pull or
+  push of the S2 Slider handle grip, it gives the savvy angler real-time control
+  of the handle extension length throughout the fish capturing process. The
+  innovative modular platform also allows the handle to detach, providing
+  interchangeability of attachment tools and compact storage.</p><div
+  class="divider">&nbsp;</div><p>HANDLE EXTENDS</p><p>29" &mdash; 60"</p><div
+  class="divider">&nbsp;</div><p>LOAD
+  CAPACITY</p><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
+  Extension</strong>&mdash;24lbs<br /><strong>Full
+  Extension</strong>&mdash;20lbs</p><div
+  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
+  handle - 29" extends to 60"</li><li>Mesh bag: Rubber coated nylon
+  mesh</li><li>Bag depth: 31&rdquo;</li><li>Hoop size: Large 19&rdquo; x
+  21&rdquo;</li><li>Minimal water drag</li><li>Weight: 2.45
+  lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>RUBBER COATED NYLON MESH</h7><p><img alt=""
   src="/images/Nylon_400x150.jpg" /></p><div
