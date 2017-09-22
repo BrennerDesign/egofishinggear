@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—LARGE RUBBER COATED NYLON NET
-subheading: Standard Handle—Extends 29in–60in
+subheading: 'Standard Handle—Extends 29&#34;–60&#34;'
 order_number: 111
 display_product: true
 forsale_online: true
