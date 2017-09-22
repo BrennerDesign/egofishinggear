@@ -10,7 +10,6 @@ description: >-
   108"
 categories:
   - s2-nets
-  - reach-nets
 price: 124.99
 sku: 72087
 show_as_crosssells: false
