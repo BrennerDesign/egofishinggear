@@ -1,21 +1,21 @@
 ---
-name: EGO XLarge PVC Mesh Bag
-subheading: Fits All XLarge EGO Net Heads
-order_number: 190
+name: EGO REACH PVC Coated Mesh Bag
+subheading: Fits all standard Reach nets
+order_number: 200
 display_product: true
 forsale_online: true
-description: Replace your EGO XLarge PVC Fishing Net Mesh. DIY Instructions provided.
+description: Replace your EGO Reach PVC Fishing Net Mesh. DIY Instructions provided.
 categories:
   - replacement-parts
-price: '28.99'
-sku: RM72156
+price: '8.99'
+sku: RM71001
 tag_color:
 tag_text:
 replacement_type: bags
 filter_mesh: mesh_pvc_coated_nylon
 slides:
-  - title: XLarge PVC Mesh Bag
-    image: /images/M72156_XL_PVC_Mesh_Bag.jpg
+  - title: EGO Reach PVC Mesh Bag
+    image: /images/RM71001_Reach_PVC_Mesh_Bag.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
