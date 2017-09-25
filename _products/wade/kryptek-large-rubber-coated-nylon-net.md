@@ -25,7 +25,7 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO Kryptek WADE Large Rubber Coated Nylon fishing net feature a
+  <p>The EGO Kryptek WADE Large Rubber Coated Nylon fishing net features a
   lightweight and durable hexagonal extruded aluminum handle, innovative grip
   design and an 11" elastic adjustable/removable tether. Add in the fact that
   the nets float, wade, and kayak fisherman have the ultimate net for a
