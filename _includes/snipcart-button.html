@@ -18,6 +18,7 @@
 <button class="email_submit add-to-cart-trigger-btn snipcart-add-item {% if include.class %} {{include.class}} {% endif %}"
     data-item-name="{{ include.product.name }}"
     data-item-id="{{ include.product.sku }}"
+    data-item-weight="{{ include.product.shipping_weight }}"
     data-item-image="{{ include.product.slides.first.image }}"
     data-item-description="{{ include.product.subheading }}"
     {% if include.product.options and include.product.options.size > 0 and include.product.options[0].name and include.product.options[0].name != blank %}

@@ -4,6 +4,7 @@ subheading: Available in Multiple Sizes
 order_number: 2
 forsale_online: true
 description:
+shipping_weight: 22
 categories:
 price: '39.99'
 price_range: $39.99 - 99.99
