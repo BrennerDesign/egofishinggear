@@ -24,11 +24,11 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO WADE Large Lightweight Clear Rubber fishing net utilizes a strong,
-  lightweight hexagonal extruded aluminum handle, innovative grip design, an 11"
-  elastic adjustable/removable clip on tether and the ability to float. What a
-  perfect Kayak fishing net or Wade fishing net. &nbsp;EGO Fishing Nets are the
-  first choice for the Savvy angler. &nbsp;</p><div
+  <p>The EGO WADE &amp; Kayak Large Clear Rubber lading net features a
+  lightweight and durable hexagonal extruded aluminum handle, innovative grip
+  design and an 11" elastic adjustable/removable tether. Add in the fact that
+  the nets float, wade, and kayak fisherman have the ultimate net for a
+  successful day on the water!</p><p>&nbsp;</p><div
   class="divider">&nbsp;</div><p>MAX LOAD
   CAPACITY</p><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
