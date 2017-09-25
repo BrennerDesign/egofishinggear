@@ -27,7 +27,7 @@ left_column_html: >-
   strong lightweight hexagonal extruded aluminum handle design that provides
   economical and dependable functionality.&nbsp; With a simple twist of the
   wrist, any EGO net head or attachment tool can be securely fastened and ready
-  to use. The modular platform allows or easy transport, compact storage, and
+  to use. The modular platform allows for easy transport, compact storage, and
   maximum angler customization. &nbsp;</p><div
   class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
