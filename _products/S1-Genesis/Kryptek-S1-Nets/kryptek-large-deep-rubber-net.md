@@ -29,7 +29,7 @@ left_column_html: >-
   aluminum handle design. With a simple twist of the wrist, the modular platform
   allows for component interchangeability and compact storage. EGO Fishing Nets
   are the first choice for the Savvy angler requiring high quality and
-  dependable functionality</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  dependable functionality.</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>Removable handle &ndash; 31"</li><li>Kryptek Camo
