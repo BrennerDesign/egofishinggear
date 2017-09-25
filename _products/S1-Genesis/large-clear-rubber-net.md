@@ -24,11 +24,11 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Large Clear Rubber Net series utilizes a
+  <p>The innovative EGO S1 Genesis Large Clear Rubber net series utilizes a
   strong lightweight hexagonal extruded aluminum handle design that provides
   economical and dependable functionality.&nbsp; With a simple twist of the
   wrist, any EGO net head or attachment tool can be securely fastened and ready
-  to use. The modular platform allows or easy transport, compact storage, and
+  to use. The modular platform allows for easy transport, compact storage, and
   maximum angler customization.</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
