@@ -45,7 +45,7 @@ left_column_html: >-
   to 1.5X with load)</li><li>Hoop size: Large 19&rdquo; x
   21&rdquo;</li><li>Weight: 4.2 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <p>DEEP RUBBER MESH</p><p><img alt="" src="/images/PVC_400x150.jpg" /></p><div
+  <h7>DEEP RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
