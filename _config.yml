@@ -159,9 +159,9 @@ tag_colors:
 
 
 _comments:
-  shipping_width: input measurements in inches
-  shipping_length: input measurements in inches
-  shipping_height: input measurements in inches
+  shipping_width: Input measurements in inches — IF LEFT BLANK CARRIER WILL NOT USE FOR CALCULATION
+  shipping_length: Input measurements in inches — IF LEFT BLANK CARRIER WILL NOT USE FOR CALCULATION
+  shipping_height: Input measurements in inches — IF LEFT BLANK CARRIER WILL NOT USE FOR CALCULATION
   highlight: Emphasis the text
   color: The background color used in the plan name and call to action.
   shipping_weight: Provided product weight in grams for estimate shipping cost.  
