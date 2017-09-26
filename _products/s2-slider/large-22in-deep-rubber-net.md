@@ -45,7 +45,7 @@ left_column_html: >-
   1.5X with load)</li><li>Hoop size: Large 22&rdquo; x 23&rdquo;</li><li>Weight:
   3.55 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
+  <h7>LIGHTWEIGHT RUBBER MESH</h7><p><img alt="" src="/images/RubberMesh_400x150.jpg"
   /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp;
   ACKNOWLEDGMENTS</h7><p><img alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
