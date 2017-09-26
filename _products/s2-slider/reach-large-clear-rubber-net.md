@@ -45,7 +45,7 @@ left_column_html: >-
   1.5X with load)</li><li>Hoop size: Large 19&rdquo; x 21&rdquo;</li><li>Weight:
   3.5 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <p>CLEAR LIGHTWEIGHT RUBBER MESH</p><p><img alt=""
+  <h7>CLEAR LIGHTWEIGHT RUBBER MESH</h7><p><img alt=""
   src="/images/ClearRubber_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
