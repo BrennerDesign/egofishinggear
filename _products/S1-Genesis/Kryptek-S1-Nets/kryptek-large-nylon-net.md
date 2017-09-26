@@ -8,6 +8,9 @@ description: >-
   Best large fishing net on the planet. EGO S1 Genesis Large Nylon fishing net
   FLOATS and features a removable handle for component interchangeability.
 shipping_weight: 839.1459
+shipping_width: 24
+shipping_length: 46
+shipping_height: 4
 categories:
   - s1-genesis-kryptek-nets
 price: 59.99
