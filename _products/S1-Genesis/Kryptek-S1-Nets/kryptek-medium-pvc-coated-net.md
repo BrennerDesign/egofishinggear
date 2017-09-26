@@ -8,7 +8,7 @@ description: >-
   Best fishing net on the water. EGO S1 Genesis Kryptek Medium PVC coated
   fishing net FLOATS and features a removable handle for component
   interchangeability.
-shipping_weight: 2267.962
+shipping_weight: 816.4663
 categories:
   - s1-genesis-kryptek-nets
 price: 66.99
