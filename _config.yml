@@ -161,7 +161,7 @@ tag_colors:
 _comments:
   highlight: Emphasis the text
   color: The background color used in the plan name and call to action.
-  shipping_weight: Provided grams to estimate shipping cost.  
+  shipping_weight: Provided product weight in grams for estimate shipping cost.  
   new_window: Open link in new window
   description: This is used for facebook shares of the page and google indexing
   adjustment: "Price adjustment. Examples:  +10.00 and -5.00"
