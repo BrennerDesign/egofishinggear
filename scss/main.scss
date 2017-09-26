@@ -1586,6 +1586,8 @@ header.replacement_parts {
 	z-index: 2;
 	position: relative;
 	width: 100%;
+	top: -4px;
+	margin-bottom: -4px;
 	background: -moz-linear-gradient(left, $dark-red, $bright-red, $dark-red), $red;
 	background: -ms-linear-gradient(left, $dark-red, $bright-red, $dark-red);
 	background: -webkit-gradient(linear, 0 100%, 100% 100%, from($dark-red), to($bright-red), to($dark-red)), $red;
@@ -2536,7 +2538,7 @@ header.trout_net {
 }
 .filter_block.replacement {
 	background: $grey;
-	border-top: 20px solid white;
+	top: -4px;
 	.options {
 		padding: 12px 0 24px;
 		width: 380px;
@@ -3561,6 +3563,7 @@ img.mfp-img {
 	height: 100%;
 	position: relative;
 	min-height: 240px;
+	width: 100%;
 }
 .flexslider .slides img {
 	width: 100%; 
