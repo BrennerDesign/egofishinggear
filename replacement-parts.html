@@ -107,13 +107,16 @@ custom_header_html: '<header class="replacement_parts shorter">
         <div class="product_specs cards replacement">
 
             {% for product in myproducts %}
-                <div class="product_card bags {{product.filter_mesh}}  {% if product.forsale_online != true %} not-for-sale {% endif %}">
-                    <h3>{{product.name}}</h3>
-                    <h4>{{product.subheading}}</h4>
 
-                    {% if product.tag_text and product.tag_text != blank %}
-                        <div class="{{ product.tag_color }}">{{ product.tag_text }}</div>
-                    {% endif %}
+                <div class="product_card bags {{product.filter_mesh}}  {% if product.forsale_online != true %} not-for-sale {% endif %}">
+                    <div class="product_blk_titles">
+                        <h3>{{product.name}}</h3>
+                        <h4>{{product.subheading}}</h4>
+
+                        {% if product.tag_text and product.tag_text != blank %}
+                            <div class="{{ product.tag_color }}">{{ product.tag_text }}</div>
+                        {% endif %}
+                    </div>
 
                     <div class="replacement_slider flexslider clearfix" id="replacement_slider_{{forloop.index}}">
 

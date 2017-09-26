@@ -65,6 +65,32 @@
                                     <div class="sub-menu-cont">
                                         <div class="sub-menu {%if column.class %} {{column.class}} {% endif %}">
                                             <ul class="sub_menu">
+                                                {% if column.image_links %}
+                                                    {% for il in column.image_links %}
+                                                        <li class="image_link {% if il.class %} {{il.class}} {% endif %}">
+                                                            <a href="{{il.link}}">
+                                                                <div class="titles">
+                                                                    <h3>{{il.name}}</h3>
+                                                                    {% if il.subtitle and il.subtitle != blank %}
+                                                                        <h4>{{il.subtitle}}
+                                                                    {% endif %}
+                                                                </div>
+                                                                <img src="{{il.image}}" alt="{{il.name}}" />
+                                                            </a>
+                                                        </li>
+                                                    {% endfor %}
+                                                {% endif %}
+
+                                                {% if column.ad and column.ad.line_1 != blank and column.ad.location == 'left' %}
+                                                    <div class="subnav_ad">
+                                                        <div class="ad_wrapper">
+                                                            <h3>{{column.ad.line_1}}</h3>
+                                                            <h3>{{column.ad.line_2}}</h3>
+                                                            <span>{{column.ad.line_3}}</span>
+                                                        </div>
+                                                    </div>
+                                                {% endif %}
+
                                                 {% for subnav in column.subnav %}
                                                     <span class="sub-menu-div {% if forloop.last == true %} last {% endif %}">
                                                         {% for link in subnav.links %}
@@ -75,7 +101,7 @@
                                                     </span>
                                                 {% endfor %}
 
-                                                {% if column.ad and column.ad.line_1 != blank %}
+                                                {% if column.ad and column.ad.line_1 != blank and column.ad.location == 'right' %}
                                                     <div class="subnav_ad">
                                                         <div class="ad_wrapper">
                                                             <h3>{{column.ad.line_1}}</h3>
@@ -83,17 +109,6 @@
                                                             <span>{{column.ad.line_3}}</span>
                                                         </div>
                                                     </div>
-                                                {% endif %}
-
-                                                {% if column.image_links %}
-                                                    {% for il in column.image_links %}
-                                                        <li class="image_link {% if il.class %} {{il.class}} {% endif %}">
-                                                            <a href="{{il.link}}">
-                                                                <h3>{{il.name}}</h3>
-                                                                <img src="{{il.image}}" alt="{{il.name}}" />
-                                                            </a>
-                                                        </li>
-                                                    {% endfor %}
                                                 {% endif %}
 
                                                 {% if column.bottom_link and column.bottom_link.name != blank %}
@@ -227,7 +242,7 @@
         <script src="/js/jquery-ui-1.10.3.js"></script>
         <script src="/js/jquery.flexslider.js"></script>
         <script src="/js/jquery.magnific-popup.min.js"></script>
-        <script src="/js/jquery.magnific-popup.js"></script>
+        <script src="/js/jquery.hoverIntent.min.js"></script>
         <script src="/js/script.js?v=0.1"></script>
         <script src="/js/responsive-img.min.js"></script>
         <script src="/js/snipcart.js"></script>
