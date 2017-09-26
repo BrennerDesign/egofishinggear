@@ -1,20 +1,20 @@
 ---
-name: EGO Small Hoop Assembly
-subheading: Replacement Hoop for all S1 or S2 net heads
+name: EGO Replacement Plier Cutter Set
+subheading: Works with all EGO Pliers
 order_number: 1
 display_product: true
-description: EGO Small Replacement Hoop Assembly
+description: EGO Replacement Plier Cutter Blades
 categories:
   - replacement-parts
-price: '10.99'
-sku: F71370A
+price: '25.99'
+sku: 73014B
 tag_color:
 tag_text:
-replacement_type: hoop
+replacement_type: other
 filter_mesh:
 slides:
-  - title: EGO Small Replacement Hoop Assembly
-    image: /images/test-images/Samples_1.jpg
+  - title: EGO Replacement Plier Cutter Set
+    image: /images/replacement_thumb4.jpg
     video:
     is_video: false
 repalcement_text:
