@@ -9,6 +9,9 @@ description: >-
   fishing net FLOATS and features a removable handle for component
   interchangeability.
 shipping_weight: 975.2236
+shipping_width: 24
+shipping_length: 46
+shipping_height: 4
 categories:
   - s1-genesis-kryptek-nets
 price: 69.99
