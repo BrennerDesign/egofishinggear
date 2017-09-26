@@ -44,7 +44,7 @@ left_column_html: >-
   load)</li><li>Hoop size: Large 19&rdquo; x 21&rdquo;</li><li>Weight: 3.35
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><div
+  <h7>NYLON MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
