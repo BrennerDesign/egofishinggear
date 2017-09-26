@@ -5,6 +5,7 @@ order_number: 30
 display_product: true
 forsale_online: true
 description: Universal Gaff Hook for The EGO S1 or S2 Landing Net Systems.
+shipping_weight: 2267.962
 categories:
   - ego-attachment-tools
 price: '59.99'

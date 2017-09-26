@@ -23,13 +23,13 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Large Deep Rubber net utilizes a strong
-  lightweight hexagonal extruded aluminum handle design that provides economical
-  and dependable functionality.&nbsp; With a simple twist of the wrist, any EGO
-  accessories hoop head or attachment tool can be securely fastened and ready
-  for use. The modular platform allows for component interchangeability and
-  compact storage. EGO Fishing Nets are the first choice for the Savvy angler.
-  &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  <p>The innovative EGO S1 Genesis Large Deep Rubber fishing net series utilizes
+  a strong lightweight hexagonal extruded aluminum handle design that provides
+  economical and dependable functionality.&nbsp; With a simple twist of the
+  wrist, any EGO net head or attachment tool can be securely fastened and ready
+  to use. The modular platform allows for easy transport, compact storage, and
+  maximum angler customization. &nbsp;</p><div
+  class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>Removable handle &ndash; 31"</li><li>Mesh bag: Lightweight

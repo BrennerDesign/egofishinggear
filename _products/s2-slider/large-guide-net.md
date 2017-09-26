@@ -37,12 +37,12 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider LARGE PVC Coated Guide Landing Net comes with both the
-  revolutionary S2 Slider extension handle and Measure Net technology. These two
-  great features provide for a maximum reach with the shortest possible handle
-  and the advantage of hands-free fish measurement up to 40 inches.</p><p>The S2
-  Slider modular platform also features a detachable handle, providing
-  interchangeability of attachment tools and compact storage.</p><div
+  <p>The EGO S2 Slider Guide Large Landing Net features both the revolutionary
+  S2 Slider extension handle and Measure Net technology. The S2 Slider handle
+  provides maximum reach with the shortest possible handle. The measure net
+  provides the advantage of hands-free measurement for fish up to 36 inches in
+  length. The modular fishing net platform also features a detachable handle for
+  compact storage on kayaks and boats with limited space.&nbsp;</p><div
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29"&mdash; 60"</p><div
   class="divider">&nbsp;</div><h7>Load
   Capacity<strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial

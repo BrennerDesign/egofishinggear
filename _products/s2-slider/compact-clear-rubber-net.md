@@ -31,7 +31,7 @@ left_column_html: >-
   revolutionary S2 Slider extension handle technology, providing maximum reach
   with the shortest possible handle. The S2 Slider modular platform also allows
   the handle to detach, providing interchangeability of attachment tools, easy
-  storage on kayaks and boats with limited space.&nbsp;</p><div
+  storage on kayaks and boats with limited space.&nbsp;&nbsp;</p><div
   class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18" &mdash; 36"</p><div
   class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial

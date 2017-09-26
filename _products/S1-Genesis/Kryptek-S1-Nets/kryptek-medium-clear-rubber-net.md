@@ -8,6 +8,7 @@ description: >-
   Best fishing net on the water. EGO S1 Genesis Kryptek Medium Clear Rubber
   fishing net FLOATS and features a removable handle for component
   interchangeability.
+shipping_weight: 975.2236
 categories:
   - s1-genesis-kryptek-nets
 price: 69.99
@@ -24,13 +25,12 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The innovative EGO S1 Genesis Medium Lightweight Clear Rubber net utilizes
-  a strong lightweight hexagonal extruded aluminum handle design that provides
-  economical and dependable functionality.&nbsp; With a simple twist of the
-  wrist, any EGO accessories hoop head or attachment tool can be securely
-  fastened and ready for use. The modular platform allows for component
-  interchangeability and compact storage. EGO Fishing Nets are the first choice
-  for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  <p>The innovative EGO Kryptek S1 Genesis Medium Clear Rubber net features the
+  Kryptek camo technology and utilizes a strong lightweight hexagonal extruded
+  aluminum handle design. With a simple twist of the wrist, the modular platform
+  allows for component interchangeability and compact storage. EGO Fishing Nets
+  are the first choice for the Savvy angler requiring high quality and
+  dependable functionality.</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>Removable handle &ndash; 25"</li><li>Kryptek Camo

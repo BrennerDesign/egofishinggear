@@ -28,14 +28,14 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Reach Large 22&rdquo; PVC Net comes with the
-  revolutionary S2 slider extension handle technology and extra long reach. With
-  a simple pull or push of the S2 Slider handle grip, it gives the savvy angler
-  real time control of the handle extension length throughout the fish capturing
-  process. The innovative modular platform also allows the handle to detach,
-  providing interchangeability of attachment tools and compact storage.</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>48" &mdash; 108"</p><div
-  class="divider">&nbsp;</div><h7>LOAD
+  <p>The EGO S2 Slider Reach Large 22" PVC Coated fishing net comes with the
+  revolutionary S2 slider extendable fishing net handle technology. With a
+  simple pull or push of the S2 Slider handle grip, it gives the savvy angler
+  real-time control of the handle extension length throughout the fish capturing
+  process. The innovative fishing net modular platform also allows the handle to
+  detach, providing interchangeability of attachment tools and compact
+  storage.</p><div class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>48"
+  &mdash; 108"</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;20lbs<br /><strong>Full
   Extension</strong>&mdash;12lbs</p><div
