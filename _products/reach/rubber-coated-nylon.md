@@ -29,11 +29,11 @@ left_column_html: >-
   18&rdquo;</li><li>Bag Depth: 15&rdquo;&nbsp;</li><li>Reaches up to
   8.5ft&nbsp;</li><li>Unique Scoop Design</li><li>Non-Tangle/Hook-Free PVC
   Coated Mesh</li><li>Telescoping Quick Twist-Lock Handle</li><li>Product
-  Weight: 1.8 lbs</li></ul>
+  Weight: 1.8 lbs</li></ul><div class="divider">&nbsp;</div><h7>official fishing net of Crappie
+  USA</h7><p><img alt="" src="/images/spec2.jpg" /></p>
 right_column_html: >-
   <h7><p>PVC COATED MESH</p></h7><p><img alt=""
-  src="/images/PVC_Small_400x150.jpg" /></p><div class="divider">&nbsp;</div><h7>official fishing net of Crappie
-  USA</h7><p><img alt="" src="/images/spec2.jpg" /></p>
+  src="/images/PVC_Small_400x150.jpg" /></p>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO accessory to be free of defects in material and workmanship
