@@ -18,7 +18,18 @@
 <button class="email_submit add-to-cart-trigger-btn snipcart-add-item {% if include.class %} {{include.class}} {% endif %}"
     data-item-name="{{ include.product.name }}"
     data-item-id="{{ include.product.sku }}"
-    data-item-weight="{{ include.product.shipping_weight }}"
+    {% if include.product.shipping_weight and include.product.shipping_weight != blank and include.product.shipping_weight != 0 %}
+        data-item-weight="{{ include.product.shipping_weight }}"
+    {% endif %}
+    {% if include.product.shipping_height and include.product.shipping_height != blank and include.product.shipping_height != 0 %}
+        data-item-height="{{ include.product.shipping_height }}"
+    {% endif %}
+    {% if include.product.shipping_width and include.product.shipping_width != blank and include.product.shipping_width != 0 %}
+        data-item-width="{{ include.product.shipping_width }}"
+    {% endif %}
+    {% if include.product.shipping_length and include.product.shipping_length != blank and include.product.shipping_length != 0 %}
+        data-item-length="{{ include.product.shipping_length }}"
+    {% endif %}
     data-item-image="{{ include.product.slides.first.image }}"
     data-item-description="{{ include.product.subheading }}"
     {% if include.product.options and include.product.options.size > 0 and include.product.options[0].name and include.product.options[0].name != blank %}

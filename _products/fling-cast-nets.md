@@ -5,6 +5,9 @@ order_number: 2
 forsale_online: true
 description:
 shipping_weight: 22
+shipping_width: 0
+shipping_length: 0
+shipping_height: 0
 categories:
 price: '39.99'
 price_range: $39.99 - 99.99

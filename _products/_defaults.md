@@ -6,6 +6,9 @@ display_product: true
 forsale_online: true
 description:
 shipping_weight: 0
+shipping_width: 0
+shipping_length: 0
+shipping_height: 0
 categories:
 price:
 price_range:
