@@ -1,5 +1,5 @@
 
-<div class="product_specs cards {{product_specs_class}}">
+<div class="product_specs cards {{include.product_specs_class}}">
 
     {% for product in myproducts %}
         <a class="product_card {{product.filter_handle}} {{product.filter_hoop}} {{product.filter_mesh}} {% if product.forsale_online != true %} not-for-sale {% endif %}" href="{{product.url}}">
