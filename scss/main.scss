@@ -1585,9 +1585,9 @@ header.replacement_parts {
 	clear: both;
 	z-index: 2;
 	position: relative;
-	width: 100%;
+	width: 1160px;
 	top: -4px;
-	margin-bottom: -4px;
+	margin: 0 auto -4px;
 	background: -moz-linear-gradient(left, $dark-red, $bright-red, $dark-red), $red;
 	background: -ms-linear-gradient(left, $dark-red, $bright-red, $dark-red);
 	background: -webkit-gradient(linear, 0 100%, 100% 100%, from($dark-red), to($bright-red), to($dark-red)), $red;
@@ -1752,6 +1752,11 @@ header.trout_net {
 		max-width: 90%;
 		margin: 0 auto;
 		padding-top: 30px;
+	}
+}
+header.trout_net.kyrptek {
+	h2 {
+		color: $blue;
 	}
 }
 .product_ads.kryptek.home {
@@ -2538,7 +2543,7 @@ header.trout_net {
 }
 .filter_block.replacement {
 	background: $grey;
-	top: -4px;
+	top: 0px;
 	.options {
 		padding: 12px 0 24px;
 		width: 380px;
@@ -2909,7 +2914,7 @@ form {
 		}
 	}
 	.product_blk_titles {
-		height: 106px;
+		height: 96px;
 		overflow: visible;
 		z-index: 10;
 		position: relative;
@@ -2945,7 +2950,7 @@ form {
 	.new_tag {
 		position: static;
 		display: inline-block;
-		margin: 16px 0;
+		margin: 14px 0;
 		padding: 4px 10px;
 	}
 	.specs {
@@ -3098,14 +3103,14 @@ footer {
 		font-size: 1.1em; /* 15px */
 	}
 	.email_info {
-		margin: 16px 14px;
+		margin: 14px 14px 0;
 	}
 	.email_signup {
 		border: 1px solid $light-grey2;
 		border-radius: 6px;
 		display: inline-block;
 		overflow: hidden;
-		margin-top: 12px;
+		margin-top: 30px;
 		input {
 			background: black;
 			border: none;
