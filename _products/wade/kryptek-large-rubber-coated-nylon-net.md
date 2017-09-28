@@ -1,5 +1,5 @@
 ---
-name: EGO WADE KRYPTEK—LARGE RUBBER COATED NYLON NET
+name: WADE KRYPTEK—LARGE RUBBER COATED NYLON NET
 subheading: Clip On Tether—19in x 21in Hoop
 order_number: 180
 display_product: true
