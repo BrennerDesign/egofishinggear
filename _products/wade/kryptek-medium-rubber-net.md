@@ -1,5 +1,5 @@
 ---
-name: EGO WADE Kryptek—MEDIUM RUBBER NET
+name: WADE Kryptek—MEDIUM RUBBER NET
 subheading: Clip On Tether—17in x 19in Hoop
 order_number: 160
 display_product: true
