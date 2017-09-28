@@ -1588,6 +1588,7 @@ header.replacement_parts {
 	width: 1160px;
 	top: -4px;
 	margin: 0 auto -4px;
+	max-width: 90%;
 	background: -moz-linear-gradient(left, $dark-red, $bright-red, $dark-red), $red;
 	background: -ms-linear-gradient(left, $dark-red, $bright-red, $dark-red);
 	background: -webkit-gradient(linear, 0 100%, 100% 100%, from($dark-red), to($bright-red), to($dark-red)), $red;
@@ -2664,7 +2665,7 @@ form {
   	.options {
   		width: 400px;
   		margin: 0 auto;
-		padding: 24px 0;
+		padding: 48px 0 24px;
 		max-width: 85%;
   	}
   	.option {
@@ -2914,7 +2915,7 @@ form {
 		}
 	}
 	.product_blk_titles {
-		height: 96px;
+		height: 96px!important;
 		overflow: visible;
 		z-index: 10;
 		position: relative;
