@@ -14,8 +14,8 @@ tag_text:
 replacement_type: bags
 filter_mesh: mesh_pvc_coated_nylon
 slides:
-  - title: EGO Large PVC Mesh Bag
-    image: /images/RM71253_L_22_PVC_Mesh_Bag_.jpg
+  - title: EGO Large 22in PVC Mesh Bag
+    image: /images/RM71353_L_PVC_Mesh_Bag_.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
