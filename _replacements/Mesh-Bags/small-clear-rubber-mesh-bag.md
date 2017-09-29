@@ -11,8 +11,8 @@ categories:
   - replacement-parts
 price: '15.99'
 sku: RM71371
-tag_color: new_tag
-tag_text: NEW1
+tag_color:
+tag_text:
 replacement_type: bags
 filter_mesh: mesh_clear_rubber
 slides:
