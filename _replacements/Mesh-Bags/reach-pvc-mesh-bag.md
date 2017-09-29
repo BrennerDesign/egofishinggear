@@ -15,7 +15,7 @@ replacement_type: bags
 filter_mesh: mesh_pvc_coated_nylon
 slides:
   - title: EGO Reach PVC Mesh Bag
-    image: /images/ReplacementParts_ReachPVC.jpg
+    image: /images/RM71001_Reach_PVC_Mesh_Bag.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
