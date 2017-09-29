@@ -9,8 +9,8 @@ categories:
   - replacement-parts
 price: '5.99'
 sku: M71370
-tag_color: new_tag
-tag_text: New
+tag_color:
+tag_text:
 replacement_type: bags
 filter_mesh: mesh_nylon
 slides:
