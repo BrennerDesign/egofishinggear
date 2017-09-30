@@ -5,6 +5,7 @@ order_number: 1
 display_product: true
 forsale_online: true
 description:
+billable_weight: 918
 shipping_weight: 0
 shipping_width: 0
 shipping_length: 0

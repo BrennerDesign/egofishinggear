@@ -4,6 +4,7 @@ subheading: Available in Multiple Sizes
 order_number: 2
 forsale_online: true
 description:
+billable_weight: 918
 shipping_weight: 22
 shipping_width: 0
 shipping_length: 0
