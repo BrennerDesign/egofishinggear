@@ -159,6 +159,7 @@ tag_colors:
 
 
 _comments:
+  billable_weight: product_value from the _data/billable_weights.yml file
   shipping_width: Input measurements in inches — IF LEFT BLANK CARRIER WILL NOT USE FOR CALCULATION
   shipping_length: Input measurements in inches — IF LEFT BLANK CARRIER WILL NOT USE FOR CALCULATION
   shipping_height: Input measurements in inches — IF LEFT BLANK CARRIER WILL NOT USE FOR CALCULATION
