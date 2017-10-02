@@ -8,6 +8,7 @@ description: >-
   The EGO Standard Tournament Culling beam is designed to provide a quick fish
   weight measure for tournament anglers. It's made of 3/16" anodized-aluminum
   plate.
+billable_weight: 6
 categories:
   - ego-tools
 price: '26.99'
@@ -20,7 +21,7 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>​The EGO Standard tournament culling beam was designed to provide a quick
+  <p>The EGO Standard tournament culling beam was designed to provide a quick
   fish weight measure for tournament anglers while not causing damage to the
   fish. The stainless steel clips provide for an easy method to attach the fish
   while being corrosion resistant.</p>
