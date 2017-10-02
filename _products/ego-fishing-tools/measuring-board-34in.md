@@ -8,6 +8,7 @@ description: >-
   The EGO 34" aluminum measuring board is designed to provide a quick accurate
   measurement.  It's made of 3/16" anodized-aluminum and is laser etched for
   longevity and durability.
+billable_weight: 4
 categories:
   - ego-tools
 price: '34.99'
