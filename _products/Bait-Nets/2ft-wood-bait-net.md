@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   EGO 2ft wooden bait well net is perfect for capturing live bait on coastal
   fishing excursions.
+billable_weight: 4
 categories:
   - bait-nets
 price: '6.99'
