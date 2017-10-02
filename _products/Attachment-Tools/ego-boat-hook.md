@@ -5,6 +5,7 @@ order_number: 20
 display_product: true
 forsale_online: true
 description: Universal Boat Hook for The EGO S1 or S2 Landing Net Systems.
+billable_weight: 6
 categories:
   - ego-attachment-tools
 price: '29.99'
