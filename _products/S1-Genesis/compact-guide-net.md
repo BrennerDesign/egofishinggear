@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Best medium fishing net on the planet. EGO S1 Genesis Compact Guide fishing
   net FLOATS and features a removable handle for component interchangeability.
+billable_weight: 17
 categories:
   - s1-nets
   - ego-guide-nets
