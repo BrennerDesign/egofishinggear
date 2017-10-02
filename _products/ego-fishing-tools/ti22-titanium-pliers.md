@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Rugged Titanium Pliers for all your heavy dude fishing needs.  Prefect for
   salt water use and comes with replaceable tungsten steel cutters.
+billable_weight: 6
 categories:
   - ego-tools
 price: '240.00'
