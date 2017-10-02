@@ -8,6 +8,7 @@ description: >-
   EGO Kryptek Camo Deluxe Tournament Culling beam is designed for quick
   tournament fish weight measurement. Made of 3/16" aluminum plate and features
   Kryptek Camo Technology.
+billable_weight: 6
 categories:
   - kryptek-tools
 price: '39.99'
