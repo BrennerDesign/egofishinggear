@@ -5,6 +5,7 @@ order_number: 10
 display_product: true
 forsale_online: true
 description: EGO Fishing Gear S2 Slider 18"—36" Extending Fishing Net Handle.
+billable_weight: 4
 categories:
   - s2-slider-handles
 price: '43.99'
