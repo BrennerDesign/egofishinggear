@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Small nylon mesh Chum Bag by EGO Fishing Gear. 10in wide x 18in Deep. Simple
   but effective this chum bag is your ticket for attracting big fish.
+billable_weight: 2
 categories:
   - bait-nets
 price: '4.99'
