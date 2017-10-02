@@ -8,6 +8,7 @@ description: >-
   The EGO Tournament Weigh-In Bag designed to provide tournament and
   recreational anglers with a fish safe high quality carrying bag for their
   weigh-in fish.
+billable_weight: 6
 categories:
   - ego-tools
 price: '29.99'
