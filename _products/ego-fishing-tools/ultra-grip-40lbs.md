@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   The best Fish Gripper on the water.  With a BUILT-IN 40lbs SCALE, the EGO
   Ultra Grip 40lbs model is a savvy anglers top choice.
+billable_weight: 6
 categories:
   - ego-tools
 price: '69.99'
