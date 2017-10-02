@@ -1,31 +1,31 @@
 weights:
-- product_value: 2 lbs
+- product_value: 2
   billable_weight: 907.184
-- product_value: 3 lbs
+- product_value: 3
   billable_weight: 1360.776
-- product_value: 4 lbs
+- product_value: 4
   billable_weight: 1814.368
-- product_value: 5 lbs
+- product_value: 5
   billable_weight: 2267.96
-- product_value: 6 lbs
+- product_value: 6
   billable_weight: 2721.552
-- product_value: 7 lbs
+- product_value: 7
   billable_weight: 175.144
-- product_value: 8 lbs
+- product_value: 8
   billable_weight: 3628.736
-- product_value: 10 lbs
+- product_value: 10
   billable_weight: 4535.92
-- product_value: 17 lbs
+- product_value: 17
   billable_weight: 7711.064
-- product_value: 21 lbs
+- product_value: 21
   billable_weight: 9525.432
-- product_value: 23 lbs
+- product_value: 23
   billable_weight: 10432.616
-- product_value: 31 lbs
+- product_value: 31
   billable_weight: 14061.352
-- product_value: 37 lbs
+- product_value: 37
   billable_weight: 16782.904
-- product_value: 40 lbs
+- product_value: 40
   billable_weight: 18143.68
-- product_value: 90 lbs
+- product_value: 90
   billable_weight: 40823.28
