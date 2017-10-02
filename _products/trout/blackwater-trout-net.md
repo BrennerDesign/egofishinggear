@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Measure your fish with the EGO Blackwater Fly Fishing Net.  Featuring Measure
   Net technology / Hands-free fish measurement, Retractable Quick-Draw
+billable_weight: 23
 categories:
   - ego-trout-nets
 price: 49.99
