@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Mop Your Boat Deck with the Universal Deluxe EGO Deck Mop by EGO Fishing
   Gear.  Works with EGO S1 or S2 Landing Net Handles.
+billable_weight: 6
 categories:
   - ego-attachment-tools
 price: '59.99'
