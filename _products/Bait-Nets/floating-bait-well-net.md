@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   EGO Bait Well net is perfect for smaller bait wells and capturing live bait on
   coastal fishing excursions.
+billable_weight: 4
 categories:
   - bait-nets
 price: '6.99'
