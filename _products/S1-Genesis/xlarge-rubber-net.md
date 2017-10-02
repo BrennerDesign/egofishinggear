@@ -19,7 +19,7 @@ filter_handle: handle_large
 filter_hoop: hoop_xlarge
 filter_mesh: mesh_rubber
 slides:
-  - title: EGO S1 Genesis Large  Withe XL Rubber Net
+  - title: EGO S1 Genesis Large  With XL Rubber Net
     image: /images/nets/71251_S1_XL_Rubber_1160x533.jpg
     video:
     is_video: false
