@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   EGO 5ft wooden crab net is the ultimate crab net. Prefect for capturing crab
   on the weekend with the family.
+billable_weight: 5
 categories:
   - bait-nets
 price: '9.99'
