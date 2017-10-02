@@ -177,7 +177,7 @@ $(document).ready(function() {
 
 
 	// main nav hover
-	$('.sub_nav_link').hover(function() {
+	$('.sub_nav_link').hoverIntent(function() {
 		if ($(this).hasClass('active')) {
 		} else {
 			if (doc_width > 980) {
@@ -185,7 +185,7 @@ $(document).ready(function() {
 				$(this).find('.hover_bar').css('background-color', '#CC1015');
 				$(this).find('.sub-menu').animate({
 					top: 0
-				}, 250);
+				}, 400);
 			} else {
 
 			}
@@ -197,7 +197,7 @@ $(document).ready(function() {
 				$(this).find('.hover_bar').css('background-color', 'transparent');
 				$(this).find('.sub-menu').animate({
 					top: -300
-				}, 250, function() {
+				}, 400, function() {
 					$(this).parent().css('display', 'none');
 				});
 			} else {
@@ -524,7 +524,7 @@ $(document).ready(function() {
 
 
 	// mobile nav click
-	$('.mobile_nav').bind("click touchstart", function(e) {
+	$('.mobile_nav').click(function(e) {
 		e.preventDefault();
 		// close if already active
 		if ($('.mobile_nav').hasClass('active')) {
@@ -551,7 +551,7 @@ $(document).ready(function() {
 		});
 	}
 
-	$('.top_nav_bar ul').bind("click touchstart", function() {
+	$('.top_nav_bar ul').click(function(e) {
 		if (doc_width > 980) {
 			hideList();
 		} else {
@@ -559,7 +559,7 @@ $(document).ready(function() {
 		}
    });
 
-	$('.menu-top_nav-container a').bind("click touchstart", function(e) {
+	$('.menu-top_nav-container a').click(function(e) {
 		e.stopPropagation();
 	});
 
