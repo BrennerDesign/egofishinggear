@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   The EGO 5ft wooden Shrimp or Minnow net is the perfect net for capturing
   Shrimp or Minnows.
+billable_weight: 37
 categories:
   - bait-nets
 price: '9.99'
