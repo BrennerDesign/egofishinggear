@@ -8,6 +8,7 @@ description: >-
   Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Medium PVC Coated
   fishing net FLOATS and features an 11" elastic adjustable/removable clip on
   tether.
+billable_weight: 17
 categories:
   - wade-kayak-nets
 price: 54.99
