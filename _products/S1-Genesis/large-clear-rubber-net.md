@@ -8,6 +8,7 @@ description: >-
   Best large fishing net on the planet. EGO S1 Genesis Large Clear Rubber
   fishing net FLOATS and features a removable handle for component
   interchangeability.
+billable_weight: 17
 categories:
   - s1-nets
 price: 69.99
