@@ -7,7 +7,8 @@ forsale_online: true
 description: >-
   Best WADE and KAYAK fishing net on the Water. EGO WADE Kayak Large with XLarge
   Rubber fishing net FLOATS and features an 11" elastic adjustable/removable
-  clip on tether.
+  clip on tether
+  billable_weight: 17
 categories:
   - wade-kayak-nets
 price: 69.99
