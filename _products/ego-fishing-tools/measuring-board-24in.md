@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   The EGO 24" long, 3/16" thick aluminum measuring board. Measures fish quickly
   accurately.
+billable_weight: 3
 categories:
   - ego-tools
 price: '24.99'
