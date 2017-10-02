@@ -904,7 +904,6 @@ h6 {
 		margin: 6px 0;
 		@media (max-width: 680px) {
 			margin-bottom: 0;
-			padding-bottom: 22px;
 		}
 	}
 	h5 {
@@ -1163,10 +1162,10 @@ h6 {
 	}
 	.left_column {
 		float: left;
-		width: 46%;
+		width: 49.5%;
 		margin-bottom: 56px;
 		line-height: 1.4em;
-		@media (max-width: 800px) {
+		@media (max-width: 700px) {
 			width: 100%;
 			float: none;
 			margin-bottom: 0;
@@ -1177,32 +1176,32 @@ h6 {
 		width: 46%;
 		margin-bottom: 56px;
 		line-height: 1.4em;
-		@media (max-width: 800px) {
+		@media (max-width: 700px) {
 			width: 100%;
 			float: none;
+			text-align: center
 		}
 	}
 	.left_column.contact {
 		text-align: center;
 		border-right: 1px solid $light-grey2;
 		min-height: 280px;
-		@media (max-width: 800px) {
-			text-align: left;
+		@media (max-width: 700px) {
 			border-right: none;
 			min-height: auto;
 		}
 		h2 {
 			margin: 56px auto 36px;
-			width: 300px;
-			@media (max-width: 800px) {
-				margin: 56px 0 36px;
+			width: 280px;
+			@media (max-width: 700px) {
+				margin: 0 auto 36px;
 			}
 		}
 	}
 	.right_column.contact {
 		padding-top: 18px;
-		width: 38%;
-		@media (max-width: 800px) {
+		width: 40%;
+		@media (max-width: 700px) {
 			width: 100%;
 		}
 		p {
@@ -1259,7 +1258,7 @@ h6 {
 	}
 	.right_column {
 		float: right;
-		width: 46%;
+		width: 40%;
 		margin-bottom: 56px;
 		@media (max-width: 800px) {
 			width: 100%;
@@ -1489,7 +1488,7 @@ img.header_bgd_img {
 	height: auto;
 	top: 0;
 	left: 0;
-	z-index: 0;
+	z-index: 2;
 	@media (max-width: 2000px) {
 		height: 532px;
 		width: auto;
@@ -1548,9 +1547,9 @@ header.featured_prod.home {
 header.replacement_parts.about {
 	background: transparent;
 	h2 {
-		padding: 130px 24px 10px;
+		padding: 122px 24px 10px;
 		@media (max-width: 680px) {
-			padding-top: 90px;
+			padding-top: 106px;
 		}
 	}
 	h3 {
@@ -1586,8 +1585,9 @@ header.replacement_parts {
 	clear: both;
 	z-index: 2;
 	position: relative;
+	top: -6px;
 	width: 1160px;
-	margin: 0 auto -4px;
+	margin: 0 auto -6px;
 	max-width: 100%;
 	background: -moz-linear-gradient(left, $dark-red, $bright-red, $dark-red), $red;
 	background: -ms-linear-gradient(left, $dark-red, $bright-red, $dark-red);
@@ -1899,8 +1899,8 @@ header.trout_net.kyrptek {
 		@media (max-width: 820px) {
 			bottom: 52px;
 		}
-		@media (max-width: 780px) {
-			bottom: 52px;
+		@media (max-width: 680px) {
+			bottom: 0;
 		}
 	}
 	.ad_block.top_ad {
@@ -2151,7 +2151,7 @@ header.trout_net.kyrptek {
 		.block_wrapper {
 			padding: 14% 10% 12%;
 			@media (max-width: 680px) {
-				padding: 10% 8% 14%;
+				padding: 10% 8% 9%;
 			}
 		}
 	}
@@ -2172,7 +2172,7 @@ header.trout_net.kyrptek {
 		.block_wrapper {
 			padding: 14.6% 12% 10.5%;
 			@media (max-width: 820px) {
-				padding: 12% 8% 0;
+				padding: 7% 8% 5%;
 			}
 			@media (max-width: 680px) {
 				padding: 10% 8% 14%;
@@ -2254,7 +2254,7 @@ header.trout_net.kyrptek {
 		h2 {
 			position: absolute;
 			top: 9%;
-			right: 30px;
+			left: 21%;
 			width: 58%;
 			text-align: center;
 			line-height: 1.1em;
@@ -2278,7 +2278,7 @@ header.trout_net.kyrptek {
 			height: 40%;
 			text-align: center;
 			top: 34%;
-			right: 30px;
+			left: 21%;
 			img {
 				max-height: 100%;
 				width: auto;
@@ -2462,7 +2462,7 @@ header.trout_net.kyrptek {
     		}
     		@media (max-width: 680px) {
     			font-size: 1.25em; /* 16px */
-    			width: 80%;
+    			width: 84%;
     		}
 		}
 		.logo_img {
@@ -2565,6 +2565,9 @@ header.trout_net.kyrptek {
 	.options {
 		padding: 12px 0 24px;
 		width: 380px;
+	}
+	form {
+	topop: 0;
 	}
 }
 form {
@@ -2682,7 +2685,7 @@ form {
   	.options {
   		width: 400px;
   		margin: 0 auto;
-		padding: 48px 0 24px;
+		padding: 26px 0 24px;
 		max-width: 85%;
   	}
   	.option {
@@ -2899,6 +2902,9 @@ form {
 			&:focus {
 			outline:0;
 		}
+	}
+	.product_card:nth-of-type(odd) {
+		clear: both;
 	}
 	.product_card {
 		width: 43.95%;
