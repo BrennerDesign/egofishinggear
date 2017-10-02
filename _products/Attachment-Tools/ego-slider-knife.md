@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Universal Knife for The EGO S1 or S2 Landing Net Systems. Cuts snagged lures
   free from weeds/small roots.
+billable_weight: 6
 categories:
   - ego-attachment-tools
 price: '39.99'
