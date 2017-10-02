@@ -8,6 +8,7 @@ description: >-
   EGO Kryptek Camo Standard Tournament Culling beam is designed for quick
   tournament fish weight measurement. Made of 3/16" aluminum plate and features
   Kryptek Camo Technology.
+billable_weight: 6
 categories:
   - kryptek-tools
 price: 34.99.99
@@ -20,7 +21,7 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>​The EGO Kryptek Standard tournament culling beam was designed to provide a
+  <p>The EGO Kryptek Standard tournament culling beam was designed to provide a
   quick fish weight measure for tournament anglers while not causing damage to
   the fish. The stainless steel clips provide for an easy method to attach the
   fish while being corrosion resistant. The Kryptek Camo helps take the battle
