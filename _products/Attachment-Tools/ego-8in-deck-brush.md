@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Brush Your Boat or Boat Deck with the Universal EGO 8" Deck Brush by EGO
   Fishing Gear.  Works with EGO S1 or S2 Landing Net Handles.
+billable_weight: 31
 categories:
   - ego-attachment-tools
 price: '69.99'
