@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   The Best Mini Fish Gripper Tool On The Water.  Grip and lift your fish with
   the extra wide jaw and magnetic release.
+billable_weight: 6
 categories:
   - ego-tools
 price: '19.99'
