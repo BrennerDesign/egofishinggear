@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Great Nylon Trout Net at a great price.  EGO Large Trout Net by Ego Fishing
   Gear.
+billable_weight: 23
 categories:
   - ego-trout-nets
 price: 11.99
