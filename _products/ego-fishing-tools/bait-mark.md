@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Innovative EGO Bait-Mark Bait Containment System. The Bait-Mark system allows
   and angler to preserve live bait at the dock and then while fishing off shore
+billable_weight: 21
 categories:
   - ego-tools
   - bait-nets
