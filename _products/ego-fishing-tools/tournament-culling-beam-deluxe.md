@@ -8,6 +8,7 @@ description: >-
   The EGO Deluxe Tournament Culling beam is designed to provide a quick fish
   weight measure for tournament anglers. It's made of 3/16" anodized-aluminum
   plate.
+billable_weight: 6
 categories:
   - ego-tools
 price: '36.99'
@@ -23,7 +24,7 @@ left_column_html: >-
   <p>The EGO Deluxe tournament culling beam was designed to provide a quick fish
   weight measure for tournament anglers while not causing damage to the fish.
   The stainless steel clips provide for an easy method to attach the fish while
-  being corrosion resistant.​</p><ul></ul>
+  being corrosion resistant.</p><ul></ul>
 right_column_html: >-
   <p>&nbsp;</p><ul><li>3/16&rdquo; anodized aluminum plate</li><li>Removable
   handle</li><li>Engraved for longevity</li><li>Provides quick fish weight
