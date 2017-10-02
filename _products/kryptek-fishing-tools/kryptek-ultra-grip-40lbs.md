@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   The best Fish Gripper on the water. Featuring Kryptek Camo, BUILT-IN 40lbs
   SCALE, extra wide jaw, and magnetic release. Designed For The Savvy Angler.
+billable_weight: 6
 categories:
   - kryptek-tools
 price: '54.99'
