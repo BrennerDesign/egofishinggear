@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   EGO Floating Bait Net is great for capturing all types of bait.  Available in
   three colors: orange, green and blue.
+billable_weight: 4
 categories:
   - bait-nets
 price: '6.00'
