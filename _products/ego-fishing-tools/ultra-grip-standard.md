@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   The EGO Standard Ultra-Grip tool is designed to allow an angler to quickly and
   easily lip a fish and lift it into the boat.
+billable_weight: 6
 categories:
   - ego-tools
 price: '39.99'
