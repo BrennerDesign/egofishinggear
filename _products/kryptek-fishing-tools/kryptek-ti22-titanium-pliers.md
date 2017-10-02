@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Rugged Kryptek Camo Titanium Fishing Pliers. Prefect for heavy dude salt water
   use and features replaceable tungsten steel cutters for cutting braided lines.
+billable_weight: 6
 categories:
   - kryptek-tools
 price: '319.00'
