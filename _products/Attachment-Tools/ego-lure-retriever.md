@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Retriever your snagged fishing lures using the Universal Lure Retriever by EGO
   Fishing Gear.  Works with EGO S1 or S2 Landing Net Handles.
+billable_weight: 6
 categories:
   - ego-attachment-tools
 price: '42.99'
