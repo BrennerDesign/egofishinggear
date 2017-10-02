@@ -159,7 +159,7 @@ tag_colors:
 
 
 _comments:
-  billable_weight: Imput weights as 1 lbs, 2 lbs... Weights are pulled from _data/billable_weights.yml file
+  billable_weight: Imput billable weights as lbs— 1, 2, 3... Weights are pulled from _data/billable_weights.yml file
   shipping_width: Input measurements in inches — IF LEFT BLANK CARRIER WILL NOT USE FOR CALCULATION
   shipping_length: Input measurements in inches — IF LEFT BLANK CARRIER WILL NOT USE FOR CALCULATION
   shipping_height: Input measurements in inches — IF LEFT BLANK CARRIER WILL NOT USE FOR CALCULATION
