@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   EGO LARGE Nylon fishing net head fits all EGO S2 Slider handles and S1 Genesis
   handles.
+billable_weight: 17
 categories:
   - large-hoop
 price: 34.99
