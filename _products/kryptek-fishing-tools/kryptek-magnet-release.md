@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   The Powerful EGO Kryptek  Fishing Lanyard With Magnetic Release makes it easy
   to keep your favorite fishing tools close and secure.
+billable_weight: 2
 categories:
   - kryptek-tools
 price: '12.99'
