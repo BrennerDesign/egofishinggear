@@ -1,7 +1,7 @@
 ---
 name: EGO Replacement Plier Cutter Set
 subheading: Works with all EGO Pliers
-order_number: 1
+order_number: 50
 display_product: true
 description: EGO Replacement Plier Cutter Blades
 categories:
