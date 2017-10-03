@@ -774,7 +774,9 @@ h6 {
     @media (max-width: 680px) {
       .product_specs header {
         float: none;
-        width: 100%; } }
+        width: 100%; }
+        .product_specs header h3 {
+          padding-bottom: 24px; } }
   .product_specs .product_cart {
     float: right;
     width: 280px;
