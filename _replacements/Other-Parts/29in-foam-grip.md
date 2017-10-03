@@ -1,6 +1,6 @@
 ---
 name: '29&#34; S2 Slider handle Replacement Foam Grip'
-subheading:
+subheading: Fits All S2 Slider Handles
 order_number: 20
 display_product: true
 description: Replace your 29" EGO S2 Slider Replacement Foam Grip.
