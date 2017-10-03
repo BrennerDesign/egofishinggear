@@ -5,6 +5,7 @@ order_number: 50
 display_product: true
 forsale_online: true
 description: Replace your EGO Medium Nylon Fishing Net Mesh. DIY Instructions provided.
+billable_weight: 2
 categories:
   - replacement-parts
 price: '8.99'
