@@ -8,6 +8,7 @@ description: >-
   Best Bass fishing net on the planet. EGO S2 Slider Medium Lightweight Rubber
   fishing net features advanced handle extension technology. Extends from 29" to
   60"
+billable_weight: 17
 categories:
   - s2-nets
 price: 99.99
