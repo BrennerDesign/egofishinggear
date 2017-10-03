@@ -1,6 +1,6 @@
 ---
-name: '18&#34; S2 Slider handle Replacement Foam Grip'
-subheading:
+name: '18&#34; S2 Slider handle Foam Grip'
+subheading: Simply Replace Your Old S2 Slider Handle Gip
 order_number: 10
 display_product: true
 description: Replace your 18" EGO S2 Slider Replacement Foam Grip.
