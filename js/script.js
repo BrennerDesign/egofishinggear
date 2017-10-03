@@ -501,11 +501,8 @@ $(document).ready(function() {
 			$(this).removeClass('expanded');
 			$(this).next().slideUp();
 		} else {
-			$('.product_expander').removeClass('expanded');
-			$('.expander_info').slideUp();
 			$(this).addClass('expanded');
 			$(this).next().slideDown();
-			setTimeout(scrollPos, 400);
 		}
 	});
 
