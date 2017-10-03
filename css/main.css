@@ -1331,6 +1331,9 @@ header.replacement_parts {
   background: -webkit-linear-gradient(left, #6e0308, #f30000, #6e0308), #cc1015;
   background: -o-linear-gradient(left, #6e0308, #f30000, #6e0308), #cc1015;
   background: linear-gradient(left, #6e0308, #f30000, #6e0308), #cc1015; }
+  @media (max-width: 1160px) {
+    header.replacement_parts {
+      top: 0; } }
   header.replacement_parts h2 {
     text-align: center;
     color: white;
