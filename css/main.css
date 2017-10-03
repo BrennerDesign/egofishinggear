@@ -2120,7 +2120,7 @@ header.trout_net.kyrptek h2 {
       .product_ads .ad_block.top_ad.s1 h3 {
         font-size: 1.25em;
         /* 16px */
-        width: 84%; } }
+        width: 84% !important; } }
   .product_ads .ad_block.top_ad.s1 .logo_img {
     width: 290px;
     position: absolute;
