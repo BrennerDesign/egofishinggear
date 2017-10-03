@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   EGO Small Nylon fishing net fits all EGO S2 Slider handles and S1 Genesis
   handles.
+billable_weight: 17
 categories:
   - small-hoop
 price: 29.99
