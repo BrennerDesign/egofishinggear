@@ -1433,12 +1433,6 @@ header.featured_prod.s1 h1 {
     header.featured_prod.s1 h1 {
       text-align: center;
       margin: 30px auto; } }
-  @media (max-width: 580px) {
-    header.featured_prod.s1 h1 {
-      position: absolute;
-      bottom: 6px;
-      margin-left: -130px;
-      left: 50%; } }
 header.featured_prod.s1 .logo_img {
   width: 230px;
   margin: 180px 0 0 6%; }
