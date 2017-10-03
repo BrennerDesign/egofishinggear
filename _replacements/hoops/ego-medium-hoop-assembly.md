@@ -4,6 +4,7 @@ subheading: Replacement Hoop for all S1 or S2 medium net heads
 order_number: 20
 display_product: true
 description: EGO Medium Replacement Hoop Assembly
+billable_weight: 17
 categories:
   - replacement-parts
 price: '11.99'
