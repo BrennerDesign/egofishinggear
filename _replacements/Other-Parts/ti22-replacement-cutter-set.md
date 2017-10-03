@@ -15,6 +15,10 @@ replacement_type: other
 filter_mesh:
 slides:
   - title: Ti22 Replacement Cutter Set
+    image: /images/replacement_thumb4.jpg
+    video:
+    is_video: false
+  - title: Ti22 Replacement Cutter Set
     image: /images/73014B_Ti22_Cutters.jpg
     video:
     is_video: false
