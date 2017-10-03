@@ -8,6 +8,7 @@ description: >-
   The best Kayak fishing net. The EGO S2 Slider Compact Guide fishing net
   features advanced handle extension technology and a measure net. Extends 18"
   to 36"
+billable_weight: 17
 categories:
   - s2-nets
   - ego-guide-nets
