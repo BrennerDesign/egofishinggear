@@ -4,6 +4,7 @@ subheading: Fits Ti22 Pliers Only
 order_number: 70
 display_product: true
 description: Ti22 Replacement Cutter Set
+billable_weight: 2
 categories:
   - replacement-parts
 price: '25.99'
