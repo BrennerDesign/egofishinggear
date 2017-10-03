@@ -1,19 +1,20 @@
 ---
 name: EGO Reach Standard Black Yoke
-subheading:
-order_number: 1
+subheading: Replacement Yoke for Standard Reach Nets
+order_number: 60
 display_product: true
-description:
+description: Replacement Yoke for Standard EGO Reach Nets
 categories:
-price:
-sku:
+  - replacement-parts
+price: '4.25'
+sku: YL50301
 tag_color:
 tag_text:
-replacement_type:
+replacement_type: other
 filter_mesh:
 slides:
-  - title:
-    image:
+  - title: Replacement Yoke for Standard EGO Reach Nets
+    image: /images/YL50301A_Reach-Black-Yoke.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
