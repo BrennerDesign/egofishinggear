@@ -8,6 +8,7 @@ description: >-
   Best Extendable Fishing Net on the Planet. EGO S2 Slider Reach Large Deep
   Rubber fishing net advanced handle extension technology. Extends from 48" to
   108"
+billable_weight: 40
 categories:
   - s2-nets
 price: 129.99
