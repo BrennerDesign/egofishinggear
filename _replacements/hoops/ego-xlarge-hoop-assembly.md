@@ -4,6 +4,7 @@ subheading: Replacement Hoop for all S1 or S2 XLarge net heads
 order_number: 50
 display_product: true
 description: EGO XLarge Replacement Hoop Assembly
+billable_weight: 17
 categories:
   - replacement-parts
 price: '22.99'
