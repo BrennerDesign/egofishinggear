@@ -4,6 +4,7 @@ subheading: Replacement Hoop for all S1 or S2 small net heads
 order_number: 10
 display_product: true
 description: Replacement Hoop for all S1 or S2 small net heads
+billable_weight: 17
 categories:
   - replacement-parts
 price: '10.99'
