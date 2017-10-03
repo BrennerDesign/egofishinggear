@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Replace your EGO Large Deep Rubber Fishing Net Mesh. DIY Instructions
   provided.
+billable_weight: 2
 categories:
   - replacement-parts
 price: '26.99'
