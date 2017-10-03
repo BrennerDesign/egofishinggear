@@ -6,7 +6,7 @@ forsale_online: true
 description: >-
   Designed for the professional guide, captain and sports fisherman demanding
   maximum performance. EGO Cast Nets make filling your bait bucket a breeze.
-billable_weight: 
+billable_weight: 23
 categories:
 price: '149.00'
 price_range: $149.00 - 299.99
@@ -20,17 +20,14 @@ filter_mesh:
 options_text: Choose Net Size
 options:
   - name: 10FT 3/8in Mesh
-    billable_weight: 17
     sku: 61206
     adjustment: '0.00'
     price: '179.99'
   - name: 10FT 3/8in Mesh Rapid Sink
-    billable_weight: 37
     sku: 61206R
     adjustment: '+10.00'
     price: $189.99
   - name: 12FT 3/8in Mesh
-    billable_weight: 2
     sku: 61207
     adjustment: '+40.00'
     price: $219.99
@@ -38,32 +35,26 @@ options:
     sku: 61207R
     adjustment: '+50.00'
     price: $229.99
-    billable_weight: 23
   - name: 10FT 1/4in Mesh
     sku: '71206'
     adjustment: '+50'
     price: $229.99
-    billable_weight: 17
   - name: 10FT 1/4in Mesh Rapid Sink
     sku: 71206R
     adjustment: '+60.00'
     price: $239.99
-    billable_weight: 17
   - name: 12FT 1/4in Mesh
     sku: '71207'
     adjustment: '+90.00'
     price: $269.99
-    billable_weight: 17
   - name: 12FT 1/4in Mesh Rapid Sink
     sku: 71207R
     adjustment: '+100.00'
     price: $279.99
-    billable_weight: 17
   - name: 12FT 1/2in Mesh
     sku: '81207'
     adjustment: '+30.00'
     price: $209.99
-    billable_weight: 17
 slides:
   - title: Net
     image: /images/nets/EGOCastNet_IMG1_1160x533.jpg
