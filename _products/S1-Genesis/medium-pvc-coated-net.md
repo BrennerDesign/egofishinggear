@@ -8,6 +8,7 @@ description: >-
   Best medium fishing net on the planet. EGO S1 Genesis Medium PVC Coated
   fishing net FLOATS and features a removable handle for component
   interchangeability.
+billable_weight: 17
 categories:
   - s1-nets
 price: 58.99
