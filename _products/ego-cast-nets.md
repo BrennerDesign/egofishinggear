@@ -28,12 +28,12 @@ options:
     sku: 61206R
     adjustment: '+10.00'
     price: $189.99
-    billable_weight: 21
+    billable_weight: 37
   - name: 12FT 3/8in Mesh
     sku: 61207
     adjustment: '+40.00'
     price: $219.99
-    billable_weight: 10
+    billable_weight: 2
   - name: 12FT  3/8in Mesh Rapid Sink
     sku: 61207R
     adjustment: '+50.00'
