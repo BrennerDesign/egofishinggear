@@ -2215,13 +2215,14 @@ header.trout_net.kyrptek h2 {
   .filter_block.replacement .options {
     padding: 12px 0 24px;
     width: 380px; }
-  .filter_block.replacement form {
-    top: 0; }
 
 form {
   position: relative;
   top: -24px;
   z-index: 1; }
+
+.filter_block.replacement + form {
+  top: 0; }
 
 .filter_block {
   width: 100%;
