@@ -1,5 +1,5 @@
 ---
-name: '29&#34; S2 Slider handle Replacement Foam Grip'
+name: '29&#34; S2 Slider handle Foam Grip'
 subheading: Fits All S2 Slider Handles
 order_number: 20
 display_product: true
