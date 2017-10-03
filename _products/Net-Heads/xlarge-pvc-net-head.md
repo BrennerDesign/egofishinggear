@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   EGO XLARGE PVC Coated fishing net head fits all EGO S2 Slider handles and S1
   Genesis handles.
+billable_weight: 40
 categories:
   - xlarge-hoop
 price: 69.99
