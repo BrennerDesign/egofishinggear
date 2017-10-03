@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Replace your EGO Small RUBBER COATED NYLON Fishing Net Mesh. DIY Instructions
   provided.
+billable_weight: 2
 categories:
   - replacement-parts
 price: '9.99'
