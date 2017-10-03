@@ -4,6 +4,7 @@ subheading: Fits All S2 Slider Handles
 order_number: 10
 display_product: true
 description: Replace your 18" EGO S2 Slider Replacement Foam Grip.
+billable_weight: 2
 categories:
   - replacement-parts
 price: '4.99'
