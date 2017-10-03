@@ -708,7 +708,8 @@ h6 {
   max-width: 100%;
   margin: 0 auto;
   background: white;
-  position: relative; }
+  position: relative;
+  z-index: 10; }
 
 .content_wrapper.home {
   background: transparent; }
