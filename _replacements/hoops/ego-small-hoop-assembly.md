@@ -1,7 +1,7 @@
 ---
 name: EGO Small Hoop Assembly
 subheading: Replacement Hoop for all S1 or S2 net heads
-order_number: 1
+order_number: 10
 display_product: true
 description: EGO Small Replacement Hoop Assembly
 categories:
@@ -14,7 +14,7 @@ replacement_type: hoop
 filter_mesh:
 slides:
   - title: EGO Small Replacement Hoop Assembly
-    image: /images/test-images/Samples_1.jpg
+    image: /images/F71370A_small_14x16-Hoop.jpg
     video:
     is_video: false
 repalcement_text:
