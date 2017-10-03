@@ -1,20 +1,20 @@
 ---
-name: '18&#34; S2 Slider handle Replacement Foam Grip'
+name: '29&#34; S2 Slider handle Replacement Foam Grip'
 subheading:
-order_number: 10
+order_number: 20
 display_product: true
-description: Replace your 18" EGO S2 Slider Replacement Foam Grip.
+description: Replace your 29" EGO S2 Slider Replacement Foam Grip.
 categories:
   - replacement-parts
-price: '4.99'
-sku: SG72016
+price: '5.99'
+sku: SG72015
 tag_color:
 tag_text:
 replacement_type: other
 filter_mesh:
 slides:
-  - title: 18in S2 Slider Handle Replacement Foam Grip
-    image: /images/SG72016_18in-foam-grip1.jpg
+  - title: 29in S2 Slider Handle Replacement Foam Grip
+    image: /images/SG72015_29in-foam-grip1.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
