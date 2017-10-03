@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   3ft durable aluminum handle EGO Kryptek Camo gaff hook. Features Comfortable
   hand grip, Kryptek Camo technology and a 3in stainless steel hook.
+billable_weight: 7
 categories:
   - kryptek-tools
 price: '39.99'
