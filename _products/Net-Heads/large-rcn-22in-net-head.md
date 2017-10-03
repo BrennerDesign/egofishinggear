@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   EGO LARGE 22" Rubber Coated Nylon fishing net head fits all EGO S2 Slider
   handles and S1 Genesis handles.
+billable_weight: 21
 categories:
   - large22-hoop
 price: 46.99
