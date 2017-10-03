@@ -1,19 +1,20 @@
 ---
-name: S2 Slider Die Cast Alloy Threaded Tip
-subheading:
-order_number: 1
+name: Die Cast Alloy Threaded Tip
+subheading: Fits both S2 and S1 Landing Net handles
+order_number: 40
 display_product: true
-description:
+description: EGO S2 and S1 landing Net handle Die Cast Alloy Threaded Tip
 categories:
-price:
-sku:
+  - replacement-parts
+price: '5.25'
+sku: TP72002
 tag_color:
 tag_text:
-replacement_type:
+replacement_type: other
 filter_mesh:
 slides:
-  - title:
-    image:
+  - title: EGO S2 and S1 landing Net handle Die Cast Alloy Threaded Tip
+    image: /images/TP72002_ThreadedTip_2.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
