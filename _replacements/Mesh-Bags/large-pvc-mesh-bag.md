@@ -5,6 +5,7 @@ order_number: 120
 display_product: true
 forsale_online: true
 description: Replace your EGO Large PVC Fishing Net Mesh. DIY Instructions provided.
+billable_weight: 2
 categories:
   - replacement-parts
 price: '16.99'
