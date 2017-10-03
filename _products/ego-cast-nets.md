@@ -23,6 +23,7 @@ options:
     sku: 61206
     adjustment: '0.00'
     price: '179.99'
+    billable_weight: 17
   - name: 10FT 3/8in Mesh Rapid Sink
     sku: 61206R
     adjustment: '+10.00'
