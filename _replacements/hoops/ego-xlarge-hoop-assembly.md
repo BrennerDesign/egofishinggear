@@ -1,9 +1,9 @@
 ---
-name: 'EGO Large 22&#34; Hoop Assembly'
-subheading: 'Replacement Hoop for all S1 or S2 Large 22&#34; net heads'
+name: EGO XLarge Hoop Assembly
+subheading: Replacement Hoop for all S1 or S2 XLarge net heads
 order_number: 30
 display_product: true
-description: EGO Large 22" Replacement Hoop Assembly
+description: EGO XLarge Replacement Hoop Assembly
 categories:
   - replacement-parts
 price: '17.99'
@@ -13,8 +13,8 @@ tag_text:
 replacement_type: hoop
 filter_mesh:
 slides:
-  - title: EGO Large 22" Replacement Hoop Assembly
-    image: /images/F71253A_large22_22x23_Hoop.jpg
+  - title: EGO XLarge Replacement Hoop Assembly
+    image: /images/F71254A_XL_24x27_Hoop.jpg
     video:
     is_video: false
 repalcement_text:
