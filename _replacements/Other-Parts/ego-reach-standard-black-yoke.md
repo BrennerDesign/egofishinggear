@@ -4,6 +4,7 @@ subheading: Replacement Yoke for Standard Reach Nets
 order_number: 60
 display_product: true
 description: Replacement Yoke for Standard EGO Reach Nets
+billable_weight: 2
 categories:
   - replacement-parts
 price: '4.25'
