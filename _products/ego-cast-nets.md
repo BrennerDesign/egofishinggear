@@ -28,34 +28,42 @@ options:
     sku: 61206R
     adjustment: '+10.00'
     price: $189.99
+    billable_weight: 17
   - name: 12FT 3/8in Mesh
     sku: 61207
     adjustment: '+40.00'
     price: $219.99
+    billable_weight: 17
   - name: 12FT  3/8in Mesh Rapid Sink
     sku: 61207R
     adjustment: '+50.00'
     price: $229.99
+    billable_weight: 17
   - name: 10FT 1/4in Mesh
     sku: '71206'
     adjustment: '+50'
     price: $229.99
+    billable_weight: 17
   - name: 10FT 1/4in Mesh Rapid Sink
     sku: 71206R
     adjustment: '+60.00'
     price: $239.99
+    billable_weight: 17
   - name: 12FT 1/4in Mesh
     sku: '71207'
     adjustment: '+90.00'
     price: $269.99
+    billable_weight: 17
   - name: 12FT 1/4in Mesh Rapid Sink
     sku: 71207R
     adjustment: '+100.00'
     price: $279.99
+    billable_weight: 17
   - name: 12FT 1/2in Mesh
     sku: '81207'
     adjustment: '+30.00'
     price: $209.99
+    billable_weight: 17
 slides:
   - title: Net
     image: /images/nets/EGOCastNet_IMG1_1160x533.jpg
