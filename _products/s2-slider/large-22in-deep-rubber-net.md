@@ -8,6 +8,7 @@ description: >-
   Best fishing net on the planet. EGO S2 Slider Large 22in Deep Lightweight
   Rubber landing net features advanced handle extension technology. Extends from
   29" to 60"
+billable_weight: 21
 categories:
   - s2-nets
 price: 119.99
