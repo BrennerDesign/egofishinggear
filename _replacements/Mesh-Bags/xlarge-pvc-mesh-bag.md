@@ -5,6 +5,7 @@ order_number: 190
 display_product: true
 forsale_online: true
 description: Replace your EGO XLarge PVC Fishing Net Mesh. DIY Instructions provided.
+billable_weight: 2
 categories:
   - replacement-parts
 price: '28.99'
