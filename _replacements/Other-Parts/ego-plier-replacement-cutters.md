@@ -4,6 +4,7 @@ subheading: Works with all EGO Pliers
 order_number: 50
 display_product: true
 description: EGO Replacement Plier Cutter Blades
+billable_weight: 2
 categories:
   - replacement-parts
 price: '25.99'
