@@ -2031,6 +2031,9 @@ header.trout_net.kyrptek h2 {
   .product_ads .ad_block.top_ad.s1.partners .titles {
     text-align: center;
     right: 40px; }
+    @media (max-width: 480px) {
+      .product_ads .ad_block.top_ad.s1.partners .titles {
+        margin-top: 26%; } }
   .product_ads .ad_block.top_ad.s1.partners h3 {
     margin-left: auto;
     margin-right: auto;
