@@ -6,7 +6,7 @@ forsale_online: true
 description: >-
   Designed for the professional guide, captain and sports fisherman demanding
   maximum performance. EGO Cast Nets make filling your bait bucket a breeze.
-billable_weight: 17
+billable_weight: 2
 categories:
 price: '149.00'
 price_range: $149.00 - 299.99
