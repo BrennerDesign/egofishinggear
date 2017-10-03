@@ -5,6 +5,7 @@ order_number: 180
 display_product: true
 forsale_online: true
 description: Replace your EGO XLarge Nylon Fishing Net Mesh. DIY Instructions provided.
+billable_weight: 2
 categories:
   - replacement-parts
 price: '13.99'
