@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Replace your EGO Medium Guide Measure Net Fishing Net Mesh. DIY Instructions
   provided.
+billable_weight: 2
 categories:
   - replacement-parts
 price: '29.99'
