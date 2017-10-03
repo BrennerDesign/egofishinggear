@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   Best fishing net on the planet. EGO S2 Slider XLarge PVC Coated landing net
   features advanced handle extension technology. Extends from 29" to 60"
+billable_weight: 40
 categories:
   - s2-nets
 price: 119.99
