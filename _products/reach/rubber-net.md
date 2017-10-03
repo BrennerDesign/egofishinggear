@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   The Ultimate Crappie Landing Net. Featuring telescoping handle reaching up to
   8.5ft and rubber mesh. THE OFFICIAL NET OF CRAPPIE USA.
+billable_weight: 37
 categories:
   - reach-nets
 price: 49.99
