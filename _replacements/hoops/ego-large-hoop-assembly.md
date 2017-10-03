@@ -4,6 +4,7 @@ subheading: Replacement Hoop for all S1 or S2 Large net heads
 order_number: 30
 display_product: true
 description: EGO Large Replacement Hoop Assembly
+billable_weight: 17
 categories:
   - replacement-parts
 price: '14.99'
