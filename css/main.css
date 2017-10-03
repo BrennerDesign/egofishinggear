@@ -1232,7 +1232,7 @@ img.header_bgd_img {
   height: auto;
   top: 0;
   left: 0;
-  z-index: 2; }
+  z-index: 12; }
   @media (max-width: 2000px) {
     img.header_bgd_img {
       height: 532px;
@@ -1314,7 +1314,7 @@ header.replacement_parts.shorter .title_wrap {
 
 header.replacement_parts {
   clear: both;
-  z-index: 2;
+  z-index: 12;
   position: relative;
   top: -6px;
   width: 1160px;
