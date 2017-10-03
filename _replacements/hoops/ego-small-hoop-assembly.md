@@ -1,9 +1,9 @@
 ---
 name: EGO Small Hoop Assembly
-subheading: Replacement Hoop for all S1 or S2 net heads
+subheading: Replacement Hoop for all S1 or S2 small net heads
 order_number: 10
 display_product: true
-description: EGO Small Replacement Hoop Assembly
+description: Replacement Hoop for all S1 or S2 small net heads
 categories:
   - replacement-parts
 price: '10.99'
