@@ -1221,10 +1221,12 @@ h6 {
 
 /* Trout Net and Featured Product Page Styles
 ----------------------------------------------------------------------------------------*/
-@media (max-width: 2000px) {
-  img.header_bgd_img.about {
-    height: 300px;
-    width: auto; } }
+img.header_bgd_img.about {
+  z-index: 12; }
+  @media (max-width: 2000px) {
+    img.header_bgd_img.about {
+      height: 300px;
+      width: auto; } }
 
 img.header_bgd_img {
   position: absolute;
@@ -1232,7 +1234,7 @@ img.header_bgd_img {
   height: auto;
   top: 0;
   left: 0;
-  z-index: 12; }
+  z-index: 2; }
   @media (max-width: 2000px) {
     img.header_bgd_img {
       height: 532px;
@@ -1281,6 +1283,7 @@ header.featured_prod.home .block_btn {
   margin: 0 12px 12px; }
 
 header.replacement_parts.about {
+  z-index: 12;
   background: transparent; }
   header.replacement_parts.about h2 {
     padding: 122px 24px 10px; }
@@ -1314,7 +1317,7 @@ header.replacement_parts.shorter .title_wrap {
 
 header.replacement_parts {
   clear: both;
-  z-index: 12;
+  z-index: 2;
   position: relative;
   top: -6px;
   width: 1160px;
