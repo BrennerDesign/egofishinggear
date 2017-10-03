@@ -7,6 +7,7 @@ forsale_online: true
 description: >-
   The best Kayak fishing net. The EGO S2 Slider Compact Nylon fishing net
   features advanced handle extension technology. Extends from 18" to 36"
+billable_weight: 17
 categories:
   - s2-nets
 price: 79.99
