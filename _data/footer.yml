@@ -1,31 +1,30 @@
 footer_links:
-- title: Left Links
-  links:
-    - name: Customer Service
-      link: /customer-service/
-      highlight: true
-    - name: Contact Us
-      link: /contact-us/
-    - name: FAQS
-      link: /faq/
-    - name: Replacement Parts
-      link: /replacement-parts/
-    - name: Warranty Center
-      link: /warranty/
-- title: Right Links
-  links:
-    - name: Ego Fishing Gear
-      link: /ego-fishing-gear/
-      highlight: true
-    - name: About Us
-      link: /about-us/
-    - name: News
-      link: /news/
-    - name: Media Library
-      link: /media-library/
-    - name: Privacy Policy
-      link: /privacy-policy/
-
-footer_ad_line_1: Flat $15.00 Shipping
+  - title: Left Links
+    links:
+      - name: Customer Service
+        link: /customer-service/
+        highlight: true
+      - name: Contact Us
+        link: /contact-us/
+      - name: FAQS
+        link: /faq/
+      - name: Replacement Parts
+        link: /replacement-parts/
+      - name: Warranty Center
+        link: /warranty/
+  - title: Right Links
+    links:
+      - name: Ego Fishing Gear
+        link: /ego-fishing-gear/
+        highlight: true
+      - name: About Us
+        link: /about-us/
+      - name: News
+        link: /news/
+      - name: Media Library
+        link: /media-library/
+      - name: Privacy Policy
+        link: /privacy-policy/
+footer_ad_line_1: FREE SHIPPING ON ORDERS OVER $119.00
 footer_ad_line_2: on U.S. Orders
 footer_ad_subheading: Hawaii & Alaska Excluded
