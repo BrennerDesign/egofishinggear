@@ -144,8 +144,8 @@ header_links:
     has_hover_bar: true
 mobile_area:
   ad:
-    line_1: Flat $15.00 Shipping
-    line_2: on U.S. Orders
+    line_1: FREE GROUND SHIPPING ON
+    line_2: U.S. Orders OVER $119.00
     line_3: Hawaii & Alaska Exclude
   link_text: Replacement Parts
   link: /replacement-parts

@@ -774,7 +774,9 @@ h6 {
     @media (max-width: 680px) {
       .product_specs header {
         float: none;
-        width: 100%; } }
+        width: 100%; }
+        .product_specs header h3 {
+          padding-bottom: 24px; } }
   .product_specs .product_cart {
     float: right;
     width: 280px;
@@ -1329,6 +1331,9 @@ header.replacement_parts {
   background: -webkit-linear-gradient(left, #6e0308, #f30000, #6e0308), #cc1015;
   background: -o-linear-gradient(left, #6e0308, #f30000, #6e0308), #cc1015;
   background: linear-gradient(left, #6e0308, #f30000, #6e0308), #cc1015; }
+  @media (max-width: 1160px) {
+    header.replacement_parts {
+      top: 0; } }
   header.replacement_parts h2 {
     text-align: center;
     color: white;
@@ -1431,12 +1436,6 @@ header.featured_prod.s1 h1 {
     header.featured_prod.s1 h1 {
       text-align: center;
       margin: 30px auto; } }
-  @media (max-width: 580px) {
-    header.featured_prod.s1 h1 {
-      position: absolute;
-      bottom: 6px;
-      margin-left: -130px;
-      left: 50%; } }
 header.featured_prod.s1 .logo_img {
   width: 230px;
   margin: 180px 0 0 6%; }
@@ -2032,6 +2031,9 @@ header.trout_net.kyrptek h2 {
   .product_ads .ad_block.top_ad.s1.partners .titles {
     text-align: center;
     right: 40px; }
+    @media (max-width: 480px) {
+      .product_ads .ad_block.top_ad.s1.partners .titles {
+        margin-top: 23%; } }
   .product_ads .ad_block.top_ad.s1.partners h3 {
     margin-left: auto;
     margin-right: auto;
@@ -2124,7 +2126,7 @@ header.trout_net.kyrptek h2 {
       .product_ads .ad_block.top_ad.s1 h3 {
         font-size: 1.25em;
         /* 16px */
-        width: 84%; } }
+        width: 84% !important; } }
   .product_ads .ad_block.top_ad.s1 .logo_img {
     width: 290px;
     position: absolute;
@@ -2215,13 +2217,14 @@ header.trout_net.kyrptek h2 {
   .filter_block.replacement .options {
     padding: 12px 0 24px;
     width: 380px; }
-  .filter_block.replacement form {
-    top: 0; }
 
 form {
   position: relative;
   top: -24px;
   z-index: 1; }
+
+.filter_block.replacement + form {
+  top: 0; }
 
 .filter_block {
   width: 100%;
@@ -2503,8 +2506,6 @@ form {
     cursor: pointer; }
     .product_specs.cards .add-to-cart-trigger-btn:hover, .product_specs.cards .add-to-cart-trigger-btn:active, .product_specs.cards .add-to-cart-trigger-btn:focus {
       outline: 0; }
-  .product_specs.cards .product_card:nth-of-type(odd) {
-    clear: both; }
   .product_specs.cards .product_card {
     width: 43.95%;
     float: left;

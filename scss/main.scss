@@ -860,6 +860,7 @@ h6 {
 	margin: 0 auto;
 	background: white;
 	position: relative;
+	z-index: 10;
 }
 .content_wrapper.home {
 	background: transparent;
@@ -937,6 +938,9 @@ h6 {
 		@media (max-width: 680px) {
 			float: none;
 			width: 100%;
+			h3 {
+				padding-bottom: 24px;
+			}
 		}
 	}
 	.product_cart {
@@ -1477,6 +1481,7 @@ h6 {
 /* Trout Net and Featured Product Page Styles
 ----------------------------------------------------------------------------------------*/
 img.header_bgd_img.about {
+	z-index: 12;
 	@media (max-width: 2000px) {
 		height: 300px;
 		width: auto;
@@ -1545,6 +1550,7 @@ header.featured_prod.home {
 	}
 }
 header.replacement_parts.about {
+	z-index: 12;
 	background: transparent;
 	h2 {
 		padding: 122px 24px 10px;
@@ -1595,6 +1601,9 @@ header.replacement_parts {
 	background: -webkit-linear-gradient(left, $dark-red, $bright-red, $dark-red), $red;
 	background: -o-linear-gradient(left, $dark-red, $bright-red, $dark-red), $red;
 	background: linear-gradient(left, $dark-red, $bright-red, $dark-red), $red;
+	@media (max-width: 1160px) {
+		top: 0;
+	}
 	h2 {
 		text-align: center;
 		color: white;
@@ -1620,10 +1629,10 @@ header.featured_prod {
 		margin: 76px auto 138px;
 		line-height: 1.0em;
 		@media (max-width: 580px) {
-			margin: 42px auto 64px;
 			font-size: 2.1428em; /* 30px */
-			line-height: 1.1em;
-			max-width: 80%;
+			line-height: 1.1em!important;
+			max-width: 80%!important;
+			margin: 42px auto 64px!important;
 		}
 	}
 	.title_wrap {
@@ -1705,12 +1714,6 @@ header.featured_prod.s1 {
 		@media (max-width: 680px) {
 			text-align: center;
 			margin: 30px auto;
-		}
-		@media (max-width: 580px) {
-			position: absolute;
-			bottom: 6px;
-			margin-left: -130px;
-			left: 50%;
 		}
 	}
 	.logo_img {
@@ -2359,6 +2362,9 @@ header.trout_net.kyrptek {
 		.titles {
 			 text-align: center;
 			 right: 40px;
+			 @media (max-width: 480px) {
+			 	margin-top: 23%;
+			}
 		}
 		h3 {
 			margin-left: auto;
@@ -2462,7 +2468,7 @@ header.trout_net.kyrptek {
     		}
     		@media (max-width: 680px) {
     			font-size: 1.25em; /* 16px */
-    			width: 84%;
+    			width: 84%!important;
     		}
 		}
 		.logo_img {
@@ -2566,14 +2572,14 @@ header.trout_net.kyrptek {
 		padding: 12px 0 24px;
 		width: 380px;
 	}
-	form {
-	topop: 0;
-	}
 }
 form {
 	position: relative;
 	top: -24px;
 	z-index: 1;
+}
+.filter_block.replacement + form {
+	top: 0;
 }
 .filter_block {
 	width: 100%;
@@ -2902,9 +2908,6 @@ form {
 			&:focus {
 			outline:0;
 		}
-	}
-	.product_card:nth-of-type(odd) {
-		clear: both;
 	}
 	.product_card {
 		width: 43.95%;

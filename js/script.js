@@ -530,21 +530,41 @@ $(document).ready(function() {
 
 
 
+	// determine dragging on mobile nav
+	var dragging = 0;
+
+	$('.mobile_nav').mousedown(function() {
+	    $(document).mousemove(function(){
+	       dragging = 1;
+	    });
+	});
+
+	$(document).mouseup(function(){
+	    dragging = 0;
+	    $(document).unbind('mousemove');
+	});
+
+
+	
+
 	// mobile nav click
 	$('.mobile_nav').click(function(e) {
 		e.preventDefault();
-		// close if already active
-		if ($('.mobile_nav').hasClass('active')) {
-			hideList();
-		} else {
-			// open if not active
-			$('.mobile_nav').addClass('active');
-			$('.top_nav_bar ul.sub_menu').animate({
-				right: "0"
-			}, 200);
-			$('.top_nav_bar ul.main_menu').animate({
-				right: "-5.5%"
-			}, 200);
+		// if clicking and not dragging/scrolling on mobile nav
+		if (dragging == 0) {
+			// close if already active
+			if ($('.mobile_nav').hasClass('active')) {
+				hideList();
+			} else {
+				// open if not active
+				$('.mobile_nav').addClass('active');
+				$('.top_nav_bar ul.sub_menu').animate({
+					right: "0"
+				}, 200);
+				$('.top_nav_bar ul.main_menu').animate({
+					right: "-5.5%"
+				}, 200);
+			}
 		}
    });
 
@@ -558,7 +578,7 @@ $(document).ready(function() {
 		});
 	}
 
-	$('.top_nav_bar ul').click(function(e) {
+	$('.top_nav_bar ul').bind("click touchstart", function() {
 		if (doc_width > 980) {
 			hideList();
 		} else {
@@ -566,7 +586,7 @@ $(document).ready(function() {
 		}
    });
 
-	$('.menu-top_nav-container a').click(function(e) {
+	$('.menu-top_nav-container a').bind("click touchstart", function(e) {
 		e.stopPropagation();
 	});
 
