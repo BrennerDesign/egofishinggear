@@ -1224,23 +1224,16 @@ h6 {
 /* Trout Net and Featured Product Page Styles
 ----------------------------------------------------------------------------------------*/
 img.header_bgd_img.about {
-  z-index: 12; }
-  @media (max-width: 2000px) {
-    img.header_bgd_img.about {
-      height: 300px;
-      width: auto; } }
+  height: 300px;
+  width: auto; }
 
 img.header_bgd_img {
   position: absolute;
-  width: 100%;
-  height: auto;
   top: 0;
   left: 0;
-  z-index: 2; }
-  @media (max-width: 2000px) {
-    img.header_bgd_img {
-      height: 532px;
-      width: auto; } }
+  z-index: 2;
+  height: 532px;
+  width: auto; }
   @media (max-width: 480px) {
     img.header_bgd_img {
       display: none; } }
