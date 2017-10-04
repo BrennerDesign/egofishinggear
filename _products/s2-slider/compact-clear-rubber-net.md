@@ -10,6 +10,7 @@ description: >-
 billable_weight: 17
 categories:
   - s2-nets
+  - wade-kayak-nets
 price: 89.99
 sku: 72013
 show_as_crosssells: false
