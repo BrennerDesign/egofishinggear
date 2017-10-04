@@ -118,6 +118,9 @@ header_links:
           - name: Handle Accessories
             link: /ego-attachment-tools/
             link_class: filter_selector landing
+          - name: EGO Kryptek Cap
+            link:
+            link_class: filter_selector landing
     bottom_link:
       name: Replacement Parts
       link: /replacement-parts/
