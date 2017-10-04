@@ -115,15 +115,9 @@ header_links:
             link_class: filter_selector s1_gen
       - column: Column 4
         links:
-          - name: Handle
-            link: '#'
-            link_class: filter_title
-          - name: Accessories
+          - name: Handle Accessories
             link: /ego-attachment-tools/
             link_class: filter_selector landing
-          - name: Apparel
-            link: '#'
-            link_class: filter_title
           - name: EGO Kryptek Cap
             link:
             link_class: filter_selector landing
