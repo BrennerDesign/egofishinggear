@@ -521,7 +521,7 @@ $(document).ready(function() {
 
 
 	// mobile nav click
-	$('.mobile_nav').click(function(e) {
+	$('.mobile_nav').bind("click touchstart", function(e) {
 		e.preventDefault();
 		// close if already active
 		if ($('.mobile_nav').hasClass('active')) {
@@ -548,7 +548,7 @@ $(document).ready(function() {
 		});
 	}
 
-	$('.top_nav_bar ul').click(function(e) {
+	$('.top_nav_bar ul').bind("click touchstart", function() {
 		if (doc_width > 980) {
 			hideList();
 		} else {
@@ -556,7 +556,7 @@ $(document).ready(function() {
 		}
    });
 
-	$('.menu-top_nav-container a').click(function(e) {
+	$('.menu-top_nav-container a').bind("click touchstart", function(e) {
 		e.stopPropagation();
 	});
 
