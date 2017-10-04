@@ -1183,7 +1183,6 @@ h6 {
 		@media (max-width: 700px) {
 			width: 100%;
 			float: none;
-			text-align: center
 		}
 	}
 	.left_column.contact {
@@ -1207,6 +1206,7 @@ h6 {
 		width: 40%;
 		@media (max-width: 700px) {
 			width: 100%;
+			text-align: center
 		}
 		p {
 		    margin: 8px 0 24px;
@@ -1481,23 +1481,16 @@ h6 {
 /* Trout Net and Featured Product Page Styles
 ----------------------------------------------------------------------------------------*/
 img.header_bgd_img.about {
-	z-index: 12;
-	@media (max-width: 2000px) {
-		height: 300px;
-		width: auto;
-	}
+	height: 300px;
+	width: auto;
 }
 img.header_bgd_img {
 	position: absolute;
-	width: 100%;
-	height: auto;
 	top: 0;
 	left: 0;
 	z-index: 2;
-	@media (max-width: 2000px) {
-		height: 532px;
-		width: auto;
-	}
+	height: 532px;
+	width: auto;
 	@media (max-width: 480px) {
 		display: none;
 	}
