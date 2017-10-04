@@ -14,15 +14,11 @@ footer_links:
         link: /warranty/
   - title: Right Links
     links:
-      - name: Ego Fishing Gear
-        link: /ego-fishing-gear/
+      - name: Ego Fishing
+        link: /ego-fishing/
         highlight: true
       - name: About Us
         link: /about-us/
-      - name: News
-        link: /news/
-      - name: Media Library
-        link: /media-library/
       - name: Privacy Policy
         link: /privacy-policy/
 footer_ad_line_1: FREE GROUND SHIPPING ON
