@@ -12,6 +12,7 @@ billable_weight: 17
 categories:
   - s2-nets
   - ego-guide-nets
+  - wade-kayak-nets
 price: 109.99
 sku: 72014
 show_as_crosssells: false
