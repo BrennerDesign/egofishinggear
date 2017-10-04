@@ -321,6 +321,7 @@ h6 {
 	color: white;
 	position: relative;
 	transition: all 200ms ease-in-out;
+	z-index: 100;
 	@media (max-width: 980px) {
 		height: 70px;
 		a.has_sub_menu {
