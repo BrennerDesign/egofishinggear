@@ -1,5 +1,6 @@
 var selectedFilters = [],
-	insideSetTheFilters = false;
+	insideSetTheFilters = false,
+	replacementTab = 'bags';
 
 function showHideProducts(jqEl, fromHandler) {
 	var scopedItem = jqEl.attr('id');
@@ -103,7 +104,13 @@ function setTheFilters(isInitial)
 }
 
 window.addEventListener('popstate', function(e) {
-	setTheFilters();
+
+	if ($('.filter_block.replacement').length > 0) {
+		$('.filter_title.' + replacementTab).trigger('click');
+	} else {
+		setTheFilters();
+	}
+	
 });
 
 $(document).ready(function() {
@@ -321,6 +328,7 @@ $(document).ready(function() {
 
 	$('.filter_title.hoop').click(function(e) {
 		e.preventDefault();
+		replacementTab = 'hoop';
 		if ($(this).find('.selected_box').hasClass("selected")) {
 
 		} else {
@@ -336,6 +344,7 @@ $(document).ready(function() {
 
 	$('.filter_title.parts').click(function(e) {
 		e.preventDefault();
+		replacementTab = 'parts';
 		if ($(this).find('.selected_box').hasClass("selected")) {
 
 		} else {
@@ -353,6 +362,7 @@ $(document).ready(function() {
 
 	$('.filter_title.bags').click(function(e) {
 		e.preventDefault();
+		replacementTab = 'bags';
 		if ($(this).find('.selected_box').hasClass("selected")) {
 
 		} else {
