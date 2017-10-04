@@ -235,7 +235,8 @@ h6 {
   height: 90px;
   color: white;
   position: relative;
-  transition: all 200ms ease-in-out; }
+  transition: all 200ms ease-in-out;
+  z-index: 100; }
   @media (max-width: 980px) {
     .top_nav_bar {
       height: 70px; }
