@@ -976,8 +976,7 @@ h6 {
     @media (max-width: 700px) {
       .product_specs.warranty .right_column {
         width: 100%;
-        float: none;
-        text-align: center; } }
+        float: none; } }
   .product_specs.warranty .left_column.contact {
     text-align: center;
     border-right: 1px solid #c4c4c4;
@@ -997,7 +996,8 @@ h6 {
     width: 40%; }
     @media (max-width: 700px) {
       .product_specs.warranty .right_column.contact {
-        width: 100%; } }
+        width: 100%;
+        text-align: center; } }
     .product_specs.warranty .right_column.contact p {
       margin: 8px 0 24px; }
   .product_specs.warranty .left_column:nth-of-type(3) p {
