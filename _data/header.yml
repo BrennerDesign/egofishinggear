@@ -115,9 +115,6 @@ header_links:
             link_class: filter_selector s1_gen
       - column: Column 4
         links:
-          - name: Attachment Tools
-            link: '#'
-            link_class: filter_title
           - name: Handle Accessories
             link: /ego-attachment-tools/
             link_class: filter_selector landing
