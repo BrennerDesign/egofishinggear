@@ -15,7 +15,7 @@ footer_links:
   - title: Right Links
     links:
       - name: Ego Fishing
-        link: /ego-fishing/
+        link: '#'
         highlight: true
       - name: About Us
         link: /about-us/
