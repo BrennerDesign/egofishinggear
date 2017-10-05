@@ -1231,10 +1231,6 @@ h6 {
 img.header_bgd_img.about {
   height: 300px;
   width: auto; }
-  @media (max-width: 2000px) {
-    img.header_bgd_img.about {
-      width: 100%;
-      height: auto; } }
 
 img.header_bgd_img {
   position: absolute;
