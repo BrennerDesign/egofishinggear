@@ -1119,7 +1119,10 @@ h6 {
   .expander_info .other_product .block_btn {
     background-color: white;
     border: 1px solid #666666;
-    font-weight: 500; }
+    font-weight: 500;
+    cursor: pointer; }
+    .expander_info .other_product .block_btn:hover {
+      color: black; }
   .expander_info .other_product img {
     width: 74%; }
   .expander_info .other_product .titles {
