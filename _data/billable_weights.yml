@@ -1,20 +1,28 @@
 weights:
+- product_value: 1
+  billable_weight: 453.59
 - product_value: 2
-  billable_weight: 907.184
+  billable_weight: 907.18
 - product_value: 3
-  billable_weight: 1360.776
+  billable_weight: 1360.78
 - product_value: 4
-  billable_weight: 1814.368
+  billable_weight: 1814.37
 - product_value: 5
   billable_weight: 2267.96
 - product_value: 6
-  billable_weight: 2721.552
+  billable_weight: 2721.55
 - product_value: 7
-  billable_weight: 175.144
+  billable_weight: 3175.15
 - product_value: 8
-  billable_weight: 3628.736
+  billable_weight: 3628.74
+- product_value: 9
+  billable_weight: 4082.33
 - product_value: 10
   billable_weight: 4535.92
+- product_value: 11
+  billable_weight: 4989.52
+- product_value: 12
+  billable_weight: 5443.11
 - product_value: 17
   billable_weight: 7711.064
 - product_value: 21
