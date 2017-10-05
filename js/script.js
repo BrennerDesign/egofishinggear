@@ -592,9 +592,8 @@ $(document).ready(function() {
 
 
 
-
-
-
+	var initial_size = $(window).width(),
+		previous_size = initial_size;
 
 
 	// when browser is resized
@@ -700,13 +699,17 @@ $(document).ready(function() {
 			$('.top_nav_bar a.has_sub_menu').removeClass('expanded');
 			$('.top_nav_bar a.has_sub_menu').next().css('display', 'block');
 		} else {
-			$('.sub-menu').css('top', '0');
-			$('.top_nav_bar a.has_sub_menu').next().css('display', 'none');
-			$('.top_nav_bar .sub_nav_link').css('display', 'block').css('border-bottom', '2px solid #c4c4c4');
+			if (doc_width != previous_size) {
+				$('.sub-menu').css('top', '0');
+				$('.top_nav_bar a.has_sub_menu').next().css('display', 'none');
+				$('.top_nav_bar .sub_nav_link').css('display', 'block').css('border-bottom', '2px solid #c4c4c4');
+			} else {
+				//debugging code here
+			}
 		}
 		
 
-
+		previous_size = doc_width;
 	});
   
 });
