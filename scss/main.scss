@@ -1356,6 +1356,10 @@ h6 {
 			background-color: white;
 			border: 1px solid $grey;
 			font-weight: 500;
+			cursor: pointer;
+			&:hover {
+				color: black;
+			}
 		}
 		img {
 			width: 74%;
