@@ -8,7 +8,10 @@ description: >-
   Best WADE and KAYAK fishing net on the Water. EGO WADE Kryptek Camo Kayak
   Medium Rubber fishing net FLOATS and features an 11" elastic
   adjustable/removable clip on tether.
-billable_weight: 17
+billable_weight: 3
+shipping_width: 21
+shipping_length: 36
+shipping_height: 3
 categories:
   - wade-kayak-nets
   - s1-genesis-kryptek-nets
