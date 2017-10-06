@@ -432,10 +432,14 @@ $(document).ready(function() {
 	// trout net page header image margin
 	if (doc_width < 2000) {
 		var troutHeaderMarg = ((2000 - doc_width) / 2) * -1;
-		var aboutHeaderMarg = ((2000 - doc_width) / 2) * -1;
 		$('img.header_bgd_img').css('left', troutHeaderMarg);
-		$('img.header_bgd_img.about').css('left', aboutHeaderMarg);
+	} else {
+		$('img.header_bgd_img').css('left', '0');
 	}
+
+	// about headers
+		$('img.header_bgd_img.about').parent().css('width', '1160px').css('max-width', '100%').css('margin', '0 auto').css('overflow', 'hidden');
+		$('img.header_bgd_img.about').css('left', '50%').css('margin-left', '-1000px');
 
 	// featured product page header image margin
 	var prodHeaderMarg = ((1400 - doc_width) / 2) * -1;
@@ -637,6 +641,12 @@ $(document).ready(function() {
 		} else {
 			$('img.header_bgd_img').css('left', '0');
 		}
+
+
+		// about headers
+		$('img.header_bgd_img.about').parent().css('width', '1160px').css('max-width', '100%').css('margin', '0 auto').css('overflow', 'hidden');
+		$('img.header_bgd_img.about').css('left', '50%').css('margin-left', '-1000px');
+		
 
 		// featured product page header image margin
 		if (doc_width < 1400) {
