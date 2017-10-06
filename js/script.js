@@ -435,9 +435,6 @@ $(document).ready(function() {
 		var aboutHeaderMarg = ((2000 - doc_width) / 2) * -1;
 		$('img.header_bgd_img').css('left', troutHeaderMarg);
 		$('img.header_bgd_img.about').css('left', aboutHeaderMarg);
-	} else {
-		$('img.header_bgd_img').css('left', '0');
-		$('img.header_bgd_img.about').css('left', '0');
 	}
 
 	// featured product page header image margin
@@ -636,12 +633,9 @@ $(document).ready(function() {
 		// trout net page header image margin
 		if (doc_width < 2000) {
 			var troutHeaderMarg = ((2000 - doc_width) / 2) * -1;
-			var aboutHeaderMarg = ((2000 - doc_width) / 2) * -1;
 			$('img.header_bgd_img').css('left', troutHeaderMarg);
-			$('img.header_bgd_img.about').css('left', aboutHeaderMarg);
 		} else {
 			$('img.header_bgd_img').css('left', '0');
-			$('img.header_bgd_img.about').css('left', '0');
 		}
 
 		// featured product page header image margin
