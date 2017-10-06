@@ -15,7 +15,7 @@ replacement_type: other
 filter_mesh:
 slides:
   - title: Replacement Yoke for Standard EGO Reach Nets
-    image: /images/YL50301A_Reach-Black-Yoke.jpg
+    image: /images/YL50301A_Reach-Black-Yoke2.jpg
     video:
     is_video: false
 repalcement_text:
