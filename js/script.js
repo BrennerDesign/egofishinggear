@@ -438,7 +438,7 @@ $(document).ready(function() {
 	}
 
 	// about headers
-		$('img.header_bgd_img.about').parent().css('width', '1160px').css('max-width', '100%').css('margin', '0 auto').css('overflow', 'hidden');
+		$('img.header_bgd_img.about').parent().css('width', '1160px').css('max-width', '100%').css('margin', '0 auto').css('overflow', 'hidden').css('top', '-6px');
 		$('img.header_bgd_img.about').css('left', '50%').css('margin-left', '-1000px');
 
 	// featured product page header image margin
@@ -644,9 +644,9 @@ $(document).ready(function() {
 
 
 		// about headers
-		$('img.header_bgd_img.about').parent().css('width', '1160px').css('max-width', '100%').css('margin', '0 auto').css('overflow', 'hidden');
+		$('img.header_bgd_img.about').parent().css('width', '1160px').css('max-width', '100%').css('margin', '0 auto').css('overflow', 'hidden').css('top', '-6px');
 		$('img.header_bgd_img.about').css('left', '50%').css('margin-left', '-1000px');
-		
+
 
 		// featured product page header image margin
 		if (doc_width < 1400) {
