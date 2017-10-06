@@ -18,7 +18,7 @@ slides:
     image: /images/SG72016_18in-foam-grip1.jpg
     video:
     is_video: false
-repalcement_text: Replacement Instructions
+repalcement_text:
 replacement_link:
 replacement_video:
 ---
