@@ -1,21 +1,21 @@
 ---
-name: '18&#34; S2 Slider handle Foam Grip'
-subheading: Fits All S2 Slider Handles
+name: EGO Grip – Black
+subheading: Fits all large EGO S1 and S2 landing nets
 order_number: 10
 display_product: true
-description: Replace your 18" EGO S2 Slider Replacement Foam Grip.
+description: Replace your Black EGO Grip. Fits all large EGO S1 and S2 Landing Nets
 billable_weight: 2
 categories:
   - replacement-parts
 price: '4.99'
-sku: SG72016
+sku: EG72050
 tag_color:
 tag_text:
 replacement_type: other
 filter_mesh:
 slides:
-  - title: 18in S2 Slider Handle Replacement Foam Grip
-    image: /images/SG72016_18in-foam-grip1.jpg
+  - title: EGO Black Grip Fits All S1 and S2 landing nets
+    image: /images/EG72050_EGO-Grip-Black.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
