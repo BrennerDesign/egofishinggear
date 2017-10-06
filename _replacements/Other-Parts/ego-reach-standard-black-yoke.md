@@ -18,7 +18,7 @@ slides:
     image: /images/YL50301A_Reach-Black-Yoke.jpg
     video:
     is_video: false
-repalcement_text: Replacement Instructions
+repalcement_text:
 replacement_link:
 replacement_video:
 ---
