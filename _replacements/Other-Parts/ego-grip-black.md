@@ -1,7 +1,7 @@
 ---
 name: EGO Grip – Black
 subheading: 'Fits all large S1 and S2 landing nets, screws Included'
-order_number: 80
+order_number: 70
 display_product: true
 description: Replace your Black EGO Grip. Fits all large EGO S1 and S2 Landing Nets
 billable_weight: 2
