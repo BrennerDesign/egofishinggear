@@ -22,7 +22,7 @@ slides:
     image: /images/73014B_Ti22_Cutters.jpg
     video:
     is_video: false
-repalcement_text: Replacement Instructions
+repalcement_text:
 replacement_link:
 replacement_video:
 ---
