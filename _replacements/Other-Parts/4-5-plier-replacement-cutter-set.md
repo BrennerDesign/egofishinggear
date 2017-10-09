@@ -1,6 +1,6 @@
 ---
 name: '4.5&#34; Replacement Plier Cutter Set'
-subheading: 'Fits All 4.5&#34;  Pliers Only'
+subheading: 'Fits All 4.5&#34;  Pliers'
 order_number: 100
 display_product: true
 description: 4.5" Replacement Plier Cutter Set Fits all ego 4.5" Pliers
