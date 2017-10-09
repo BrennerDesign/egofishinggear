@@ -1,7 +1,7 @@
 ---
 name: Ti22 Replacement Cutter Set
 subheading: Fits Ti22 Pliers Only
-order_number: 70
+order_number: 80
 display_product: true
 description: Ti22 Replacement Cutter Set
 billable_weight: 2
