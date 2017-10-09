@@ -1,7 +1,7 @@
 ---
 name: Aluminum Section With Threaded Insert
 subheading: Works with all EGO S1 and S2 Net Hoops
-order_number: 80
+order_number: 60
 display_product: true
 description: >-
   Replacement Aluminum Section With Threaded Insert. Works with all EGO S1 and
