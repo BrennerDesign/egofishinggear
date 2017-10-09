@@ -1,7 +1,7 @@
 ---
 name: EGO Reach Standard Black Yoke
 subheading: Replacement Yoke for Standard Reach Nets
-order_number: 60
+order_number: 50
 display_product: true
 description: Fits All Standard EGO Reach Nets
 billable_weight: 2
