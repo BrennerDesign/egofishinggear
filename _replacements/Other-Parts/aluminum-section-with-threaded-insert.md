@@ -20,7 +20,7 @@ slides:
     image: /images/H72000_AluminumWithThreadedInsert.jpg
     video:
     is_video: false
-repalcement_text: Replacement Instructions
+repalcement_text:
 replacement_link:
 replacement_video:
 ---
