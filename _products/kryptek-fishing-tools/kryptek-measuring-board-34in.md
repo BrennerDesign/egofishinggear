@@ -9,9 +9,9 @@ description: >-
   Kryptek Camo technology to help fight the battle on the water. Measures fish
   quickly accurately.
 billable_weight: 2
-shipping_width: 4
-shipping_length: 36
-shipping_height: 4
+shipping_width: 10.16
+shipping_length: 91.44
+shipping_height: 10.16
 categories:
   - kryptek-tools
 price: '42.99'
