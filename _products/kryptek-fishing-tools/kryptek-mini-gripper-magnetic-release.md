@@ -8,9 +8,9 @@ description: >-
   The Best Mini Fish Gripper Tool On The Water featuring Kryptek Camo.  Grip and
   lift your fish with the extra wide jaw and magnetic release.
 billable_weight: 1
-shipping_width: 27.94
-shipping_length: 45.72
-shipping_height: 12.7
+shipping_width: 28
+shipping_length: 46
+shipping_height: 13
 categories:
   - kryptek-tools
 price: '26.99'
