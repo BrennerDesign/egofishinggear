@@ -8,10 +8,7 @@ description: >-
   The EGO Kryptek 36" long, 3/16" thick aluminum measuring board features
   Kryptek Camo technology to help fight the battle on the water. Measures fish
   quickly accurately.
-billable_weight: 2
-shipping_width: 10
-shipping_length: 91
-shipping_height: 10
+billable_weight: 4
 categories:
   - kryptek-tools
 price: '42.99'
