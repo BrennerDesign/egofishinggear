@@ -433,6 +433,7 @@ $(document).ready(function() {
 	if (doc_width < 2000) {
 		var troutHeaderMarg = ((2000 - doc_width) / 2) * -1;
 		$('img.header_bgd_img').css('left', troutHeaderMarg);
+		$('img.header_bgd_img.about').css('left', '0');
 	} else {
 		$('img.header_bgd_img').css('left', '0');
 	}
@@ -637,6 +638,7 @@ $(document).ready(function() {
 		if (doc_width < 2000) {
 			var troutHeaderMarg = ((2000 - doc_width) / 2) * -1;
 			$('img.header_bgd_img').css('left', troutHeaderMarg);
+			$('img.header_bgd_img.about').css('left', '0');
 		} else {
 			$('img.header_bgd_img').css('left', '0');
 		}
