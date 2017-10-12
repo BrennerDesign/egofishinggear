@@ -7,10 +7,7 @@ forsale_online: true
 description: >-
   Best fishing net on the water. EGO S1 Genesis Kryptek Large Rubber fishing net
   FLOATS and features a removable handle for component interchangeability.
-billable_weight: 4
-shipping_width: 53
-shipping_length: 91
-shipping_height: 7
+billable_weight: 17
 categories:
   - s1-genesis-kryptek-nets
 price: 69.99
