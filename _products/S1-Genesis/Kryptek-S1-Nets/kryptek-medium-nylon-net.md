@@ -7,10 +7,7 @@ forsale_online: true
 description: >-
   Best medium fishing net on the planet. EGO S1 Genesis Medium Nylon fishing net
   FLOATS and features a removable handle for component interchangeability.
-billable_weight: 3
-shipping_width: 21
-shipping_length: 36
-shipping_height: 3
+billable_weight: 17
 categories:
   - s1-genesis-kryptek-nets
 price: 58.99
