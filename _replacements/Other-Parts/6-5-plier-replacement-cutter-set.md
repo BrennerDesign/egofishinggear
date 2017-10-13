@@ -4,7 +4,7 @@ subheading: 'Fits All 6.5&#34;  Pliers'
 order_number: 90
 display_product: true
 description: Ti22 Replacement Cutter Set
-billable_weight: 2
+billable_weight: 0
 categories:
   - replacement-parts
 price: '10.99'
