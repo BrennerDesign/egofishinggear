@@ -177,13 +177,30 @@ header.featured_prod h1 {
 
 
 
+/* Header Images
+----------------------------------------------------------------------------------------*/
+
+
+img.header_bgd_img_tablet {
+	display: none;
+	position: absolute;
+	width: 100%;
+	height: auto;
+	top: 0;
+	left: 0;
+	z-index: 0;
+	@media (max-width: 7687px) {
+		display: block;
+	}
+}
+
 
 /* Replacement Parts 
 ----------------------------------------------------------------------------------------*/
 
 
 header.replacement_parts.about h2 {
-    padding: 100px 2px 5px;
+    padding: 100px 24px 5px;
 }
 
 
