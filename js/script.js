@@ -180,9 +180,7 @@ $(document).ready(function() {
 
 
 
-	// slider imaged height adjustment
-	var imgSlideWidth = $('.product_specs.cards.replacement img.thb_img').width();
-	$('.product_specs.cards.replacement img.thb_img').css('width', imgSlideWidth);
+
 	
 
 	
@@ -613,11 +611,6 @@ $(document).ready(function() {
 		doc_height = $(window).height();
 
 		total_doc_height = $(document).height();
-
-
-		// slider imaged height adjustment
-		var imgSlideWidth = $('.product_specs.cards.replacement img.thb_img').width();
-		$('.product_specs.cards.replacement img.thb_img').css('width', imgSlideWidth);
 
 
 
