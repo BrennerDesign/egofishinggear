@@ -6,7 +6,7 @@ layout: default
 
     <div class="content_wrapper clearfix">
 
-        <div id="product_slider" class="flexslider">
+        <div id="product_slider" class="flexslider {% if page.slides.size == 1 %} one-slide {% endif %}">
 
             <ul class="slides">
                 {% for slide in page.slides %}
