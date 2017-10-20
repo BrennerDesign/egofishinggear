@@ -8,10 +8,6 @@ description: >-
   EGO Fishing Kryptek Pontus Ball Cap Take the battle to the water with EGO
   Fishing Apparel
 billable_weight: 2
-shipping_weight: 0
-shipping_width: 0
-shipping_length: 0
-shipping_height: 0
 categories:
 price:
 price_range:
