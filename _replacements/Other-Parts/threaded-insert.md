@@ -1,25 +1,21 @@
 ---
-name: Ti22 Replacement Cutter Set
-subheading: Fits Ti22 Pliers Only
-order_number: 80
+name: Threaded Insert
+subheading: Works With All EGO Grips
+order_number: 61
 display_product: true
 description: Ti22 Replacement Cutter Set
-billable_weight: 0
+billable_weight: 2
 categories:
   - replacement-parts
-price: '25.99'
-sku: 73014B
+price: '1.99'
+sku: I72000
 tag_color:
 tag_text:
 replacement_type: other
 filter_mesh:
 slides:
-  - title: Ti22 Replacement Cutter Set
-    image: /images/replacement_thumb4.jpg
-    video:
-    is_video: false
-  - title: Ti22 Replacement Cutter Set
-    image: /images/73014B_Ti22_Cutters.jpg
+  - title: Threaded Insert For EGO Grip
+    image: /images/I72000_Threaded-Insert_EGOGrip.jpg
     video:
     is_video: false
 repalcement_text:
