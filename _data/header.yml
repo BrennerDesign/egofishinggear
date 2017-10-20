@@ -118,7 +118,7 @@ header_links:
           - name: Handle Accessories
             link: /ego-attachment-tools/
             link_class: filter_selector landing
-          - name: EGO Kryptek Pontus Hat
+          - name: EGO Kryptek Hat
             link: apparel/ego-kryptek-pontus-hat/
             link_class: filter_selector landing
     bottom_link:
