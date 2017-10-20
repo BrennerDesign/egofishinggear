@@ -3567,6 +3567,9 @@ img.mfp-img {
 
 /* FlexSlider Necessary Styles
 *********************************/ 
+.flexslider#product_slider {
+	top: -4px;
+}
 .flexslider {
 	margin: 0;
 	padding: 0;
@@ -3765,11 +3768,5 @@ html[xmlns] .slides {display: block;}
 .flex-control-thumbs .flex-active {opacity: 1; cursor: default;}
 
 
-.flexslider {
-	&.one-slide {
-		.flex-direction-nav {
-			display:none !important;
-		}
-	}
-}
+
 
