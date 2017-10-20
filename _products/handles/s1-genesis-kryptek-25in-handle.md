@@ -1,16 +1,16 @@
 ---
-name: 'S1 Geneis Kryptek 13&#34; handle'
+name: 'S1 Geneis Kryptek 25&#34; handle'
 subheading: Fits All S1 or S2 Net Heads or Attachment Tools
-order_number: 20
+order_number: 30
 display_product: true
 forsale_online: true
-description: 'EGO Fishing Gear S1 Genesis 13&#34; Kryptek Fishing Net Handle that Floats.'
-billable_weight: 4
+description: 'EGO Fishing Gear S1 Genesis 25&#34; Kryptek Fishing Net Handle that Floats.'
+billable_weight: 5
 categories:
   - s1-genesis-kryptek-handles
-price: '14.99'
+price: '16.99'
 price_range:
-sku: HS75370
+sku: HS75260
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -18,7 +18,7 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The Kryptek S1 Genesis 13" detachable handle utilizes a strong lightweight
+  <p>The Kryptek S1 Genesis 25" detachable handle utilizes a strong lightweight
   hexagonal extruded aluminum design that provides economical and dependable
   functionality.&nbsp; It also features Kryptek camo technology. With a simple
   twist of the wrist any EGO S1 or S2 net heads or attachment tools can be
@@ -51,8 +51,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO Kryptek S1 Genesis 13" handle
-    image: /images/HS75370_Small_Handle_Kryptek_13in_1160x533.jpg
+  - title: EGO Kryptek S1 Genesis 25" handle
+    image: /images/HS75260_Medium_Handle_Kryptek_25in_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
