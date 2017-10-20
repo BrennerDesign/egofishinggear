@@ -21,10 +21,6 @@ slides:
     image: /images/RM72014_M_Guide_Mesh_Bag.jpg
     video:
     is_video: false
-  - title: EGO Large Guide Measure Net Mesh Bag Zipper
-    image: /images/GuideMesh_Bag_Large.jpg
-    video:
-    is_video: false
 repalcement_text:
 replacement_link:
 replacement_video:
