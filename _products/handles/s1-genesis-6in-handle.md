@@ -4,7 +4,7 @@ subheading: Fits All S1 or S2 Net Heads or Attachment Tools
 order_number: 50
 display_product: true
 forsale_online: true
-description: EGO Fishing Gear S1 Genesis 18&#34; Fishing Net Handle that Floats.
+description: 'EGO Fishing Gear S1 Genesis 18&#34; Fishing Net Handle that Floats.'
 billable_weight: 4
 categories:
   - s1-genesis-handles
@@ -27,9 +27,10 @@ left_column_html: >-
   should it be dropped overboard.</p><div
   class="divider">&nbsp;</div><h7>30lbs&ndash;Max Load Capacity</h7>
 right_column_html: >-
-  <ul><li>Solid foam core body</li><li>Strong lightweight hexagonal extruded
-  anodized aluminum design</li><li>30lbs&ndash;Max Load Capacity with all EGO
-  Net Heads</li><li>Works with all S1 or S2 net heads and attachment
+  <ul><li>Solid foam core, floats when attached to any net head</li><li>Strong
+  lightweight hexagonal extruded anodized aluminum
+  design</li><li>30lbs&ndash;Max Load Capacity with all EGO Net
+  Heads</li><li>Works with all S1 or S2 net heads and attachment
   tools.</li></ul>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
