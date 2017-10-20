@@ -1,16 +1,16 @@
 ---
-name: 'S1 Geneis 6&#34; handle'
+name: 'S1 Geneis Kryptek 6&#34; handle'
 subheading: Fits All S1 or S2 Net Heads or Attachment Tools
 order_number: 50
 display_product: true
 forsale_online: true
-description: 'EGO Fishing Gear S1 Genesis 18&#34; Fishing Net Handle that Floats.'
-billable_weight: 4
+description: 'EGO Fishing Gear S1 Genesis 18&#34; Kryptek Fishing Net Handle that Floats.'
+billable_weight: 10
 categories:
-  - s1-genesis-handles
+  - s1-genesis-kyptek-handles
 price: '13.99'
 price_range:
-sku: H71152
+sku: HS75152
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -18,18 +18,19 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The S1 Genesis 6" detachable handle utilizes a strong lightweight hexagonal
-  extruded aluminum design that provides economical and dependable
-  functionality.&nbsp; With a simple twist of the wrist any EGO S1 or S2 net
-  heads or attachment tools can be securely fastened and ready for use. The
-  modular platform allows for component interchangeability and compact storage.
-  The handles are designed with a solid foam core body that provides floatation
-  should it be dropped overboard.</p><div
-  class="divider">&nbsp;</div><h7>30lbs&ndash;Max Load Capacity</h7>
+  <p>The Kryptek S1 Genesis 6" detachable handle utilizes a strong lightweight
+  hexagonal extruded aluminum design that provides economical and dependable
+  functionality.&nbsp; It also features Kryptek camo technology. With a simple
+  twist of the wrist any EGO S1 or S2 net heads or attachment tools can be
+  securely fastened and ready for use. The modular platform allows for component
+  interchangeability and compact storage. The handles are designed with a solid
+  foam core body that provides floatation should it be dropped
+  overboard.</p><div class="divider">&nbsp;</div><h7>30lbs&ndash;Max Load
+  Capacity</h7>
 right_column_html: >-
   <ul><li>Solid foam core, floats when attached to any net head</li><li>Strong
-  lightweight hexagonal extruded anodized aluminum
-  design</li><li>30lbs&ndash;Max Load Capacity with all EGO Net
+  lightweight hexagonal extruded anodized aluminum design</li><li>Kryptek Camo
+  Technology</li><li>30lbs&ndash;Max Load Capacity with all EGO Net
   Heads</li><li>Works with all S1 or S2 net heads and attachment
   tools.</li></ul>
 warranty_left_column_html: >-
@@ -50,8 +51,8 @@ warranty_right_column_html: >-
   MAKES NO OTHER WARRANTY EXPRESS OR IMPLIED INCLUDING THE IMPLIED WARRANTIES OF
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
-  - title: EGO S1 Genesis 6" handle
-    image: /images/H71152_S1_Genesis_6in_Hanlde.jpg
+  - title: EGO Kryptek S1 Genesis 6" handle
+    image: /images/HS75152_Wade_Handle_Kryptek_6in_1160x533.jpg
     video:
     is_video: false
 options_text: Choose Net Size
