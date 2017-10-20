@@ -1,6 +1,7 @@
 var selectedFilters = [],
 	insideSetTheFilters = false,
-	replacementTab = 'bags';
+	replacementTab = 'bags',
+	replacementSlider;
 
 function showHideProducts(jqEl, fromHandler) {
 	var scopedItem = jqEl.attr('id');
@@ -149,13 +150,14 @@ $(document).ready(function() {
 
 
 	// flex slider - replacement parts sliders
-	$('.replacement_slider').flexslider({
+	replacementSlider = $('.replacement_slider').flexslider({
 		animation: "slide",
 		animationLoop: true,
 		controlNav: false,
 		directionNav: true,
 		slideshow: false,
-		animationSpeed: 800
+		animationSpeed: 800,
+		allowOneSlide: true
 	});
 
 
@@ -343,6 +345,7 @@ $(document).ready(function() {
 			})
 			$('.selected_box.selected').removeClass("selected");
 			$(this).find('.selected_box').delay(10).addClass("selected");
+			replacementSlider.resize();
 		}
 	});
 
@@ -361,6 +364,7 @@ $(document).ready(function() {
 			})
 			$('.selected_box.selected').removeClass("selected");
 			$(this).find('.selected_box').delay(10).addClass("selected");
+			replacementSlider.resize();
 		}
 	});
 
@@ -377,10 +381,14 @@ $(document).ready(function() {
 			})
 			$('.selected_box.selected').removeClass("selected");
 			$(this).find('.selected_box').delay(10).addClass("selected");
+			replacementSlider.resize();
 		}
 	});
 
-	$('.product_specs.cards .product_card.hoop, .product_specs.cards .product_card.parts').fadeOut();
+	setTimeout(function() {
+		$('.product_specs.cards .product_card.hoop, .product_specs.cards .product_card.parts').fadeOut();
+	}, 2000);
+	
 
 
 
