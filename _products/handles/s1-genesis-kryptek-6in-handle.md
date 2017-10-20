@@ -7,7 +7,7 @@ forsale_online: true
 description: 'EGO Fishing Gear S1 Genesis 6&#34; Kryptek Fishing Net Handle that Floats.'
 billable_weight: 4
 categories:
-  - s1-genesis-kyptek-handles
+  - s1-genesis-kryptek-handles
 price: '13.99'
 price_range:
 sku: HS75152
