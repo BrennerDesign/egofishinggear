@@ -1,7 +1,7 @@
 ---
 name: EGO Kryptek Pontus Hat
 subheading: One Size Fits All
-order_number: 1
+order_number: 300
 display_product: true
 forsale_online: true
 description: >-
@@ -10,6 +10,7 @@ description: >-
 billable_weight: 2
 categories:
   - ego-apparel
+  - kryptek-tools
 price: '26.99'
 price_range:
 sku: '75115'
