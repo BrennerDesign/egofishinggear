@@ -1,11 +1,11 @@
 ---
 name: 'S1 Geneis Kryptek 6&#34; handle'
 subheading: Fits All S1 or S2 Net Heads or Attachment Tools
-order_number: 50
+order_number: 10
 display_product: true
 forsale_online: true
-description: 'EGO Fishing Gear S1 Genesis 18&#34; Kryptek Fishing Net Handle that Floats.'
-billable_weight: 10
+description: 'EGO Fishing Gear S1 Genesis 6&#34; Kryptek Fishing Net Handle that Floats.'
+billable_weight: 4
 categories:
   - s1-genesis-kyptek-handles
 price: '13.99'
