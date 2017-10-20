@@ -9,10 +9,11 @@ description: >-
   Fishing Apparel
 billable_weight: 2
 categories:
-price:
+  - ego-apparel
+price: '26.99'
 price_range:
-sku:
-show_as_crosssells: false
+sku: '75115'
+show_as_crosssells: true
 tag_color:
 tag_text:
 filter_handle:
@@ -23,7 +24,7 @@ right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
 slides:
-  - title:
+  - title: Front View EGO Kryptek Pontus Ball Cap
     image:
     video:
     is_video: false
