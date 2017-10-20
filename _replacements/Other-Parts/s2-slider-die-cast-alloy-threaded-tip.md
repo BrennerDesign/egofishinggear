@@ -15,11 +15,11 @@ replacement_type: other
 filter_mesh:
 slides:
   - title: EGO S2 and S1 landing Net handle Die Cast Alloy Threaded Tip
-    image: /images/TP72002_ThreadedTip_1.jpg
+    image: /images/TP72002_ThreadedTip_2.jpg
     video:
     is_video: false
   - title: EGO S2 and S1 landing Net handle Die Cast Alloy Threaded Tip
-    image: /images/TP72002_ThreadedTip_2.jpg
+    image: /images/TP72002_ThreadedTip_1.jpg
     video:
     is_video: false
 repalcement_text:
