@@ -15,7 +15,11 @@ replacement_type: other
 filter_mesh:
 slides:
   - title: 4.5" Replacement Plier Cutter Set
-    image: /images/75006B_05B_Pliers-Cutters-4.5-_6.5.jpg
+    image: /images/75005B_4.5_PlierCutters_1.jpg
+    video:
+    is_video: false
+  - title: 4.5" Replacement Plier Cutter Set
+    image: /images/75005B_4.5_PlierCutters_2.jpg
     video:
     is_video: false
 repalcement_text:
