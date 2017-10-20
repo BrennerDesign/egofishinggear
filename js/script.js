@@ -179,10 +179,6 @@ $(document).ready(function() {
 		    srcAction: 'iframe_src',
 		}
 	});
-
-
-
-
 	
 
 	
