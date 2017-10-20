@@ -119,7 +119,7 @@ header_links:
             link: /ego-attachment-tools/
             link_class: filter_selector landing
           - name: EGO Kryptek Hat
-            link: /apparel/ego-kryptek-pontus-hat/
+            link: /products/apparel/ego-kryptek-pontus-hat/
             link_class: filter_selector landing
     bottom_link:
       name: Replacement Parts
