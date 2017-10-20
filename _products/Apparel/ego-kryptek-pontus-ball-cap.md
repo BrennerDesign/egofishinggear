@@ -1,11 +1,13 @@
 ---
 name: EGO Kryptek Pontus Ball Cap
-subheading:
+subheading: One Size Fits All
 order_number: 1
 display_product: true
 forsale_online: true
-description:
-billable_weight: 918
+description: >-
+  EGO Fishing Kryptek Pontus Ball Cap Take the battle to the water with EGO
+  Fishing Apparel
+billable_weight: 2
 shipping_weight: 0
 shipping_width: 0
 shipping_length: 0
