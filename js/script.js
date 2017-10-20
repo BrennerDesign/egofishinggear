@@ -155,7 +155,8 @@ $(document).ready(function() {
 		controlNav: false,
 		directionNav: true,
 		slideshow: false,
-		animationSpeed: 800
+		animationSpeed: 800,
+		allowOneSlide: true
 	});
 
 
@@ -177,10 +178,6 @@ $(document).ready(function() {
 		    srcAction: 'iframe_src',
 		}
 	});
-
-
-
-
 	
 
 	
