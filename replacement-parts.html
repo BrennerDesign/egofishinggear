@@ -118,7 +118,7 @@ custom_header_html: '<header class="replacement_parts shorter">
                         {% endif %}
                     </div>
 
-                    <div class="replacement_slider flexslider clearfix" id="replacement_slider_{{forloop.index}}">
+                    <div class="replacement_slider flexslider {% if product.slides.size == 1 %} one-slide {% endif %} clearfix" id="replacement_slider_{{forloop.index}}">
 
                         <ul class="slides">
 
@@ -167,7 +167,7 @@ custom_header_html: '<header class="replacement_parts shorter">
                         {% endif %}
                     </div>
 
-                    <div class="replacement_slider flexslider clearfix" id="replacement_slider_{{forloop.index}}">
+                    <div class="replacement_slider flexslider {% if product.slides.size == 1 %} one-slide {% endif %} clearfix" id="replacement_slider_{{forloop.index}}">
 
                         <ul class="slides">
 
@@ -214,7 +214,7 @@ custom_header_html: '<header class="replacement_parts shorter">
                         {% endif %}
                     </div>
 
-                    <div class="replacement_slider flexslider clearfix" id="replacement_slider_{{forloop.index}}">
+                    <div class="replacement_slider flexslider {% if product.slides.size == 1 %} one-slide {% endif %} clearfix" id="replacement_slider_{{forloop.index}}">
 
                         <ul class="slides">
 
