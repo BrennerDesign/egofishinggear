@@ -3767,6 +3767,12 @@ html[xmlns] .slides {display: block;}
 }
 .flex-control-thumbs .flex-active {opacity: 1; cursor: default;}
 
-
+.flexslider {
+	&.one-slide {
+		.flex-direction-nav {
+			display:none !important;
+		}
+	}
+}
 
 
