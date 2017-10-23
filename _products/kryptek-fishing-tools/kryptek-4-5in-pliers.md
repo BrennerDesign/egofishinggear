@@ -1,6 +1,6 @@
 ---
 name: 'EGO Kryptek—4.5&#34; Aluminum Pliers'
-subheading: Replaceable Tungsten Cutters and Includes Plier Sheath
+subheading: Plier Sheath Included and features Replaceable Tungsten Cutters
 order_number: 20
 display_product: true
 forsale_online: true
