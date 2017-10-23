@@ -1,6 +1,6 @@
 ---
 name: 'EGO Kryptek—4.5&#34; Aluminum Pliers'
-subheading: Replaceable Steel Jaw Plates and Tungsten Cutters
+subheading: Replaceable Tungsten Cutters and Includes Plier Sheath
 order_number: 20
 display_product: true
 forsale_online: true
@@ -22,11 +22,14 @@ filter_mesh:
 left_column_html: >-
   <p>The EGO Kryptek 4.5&rdquo; aluminum fishing pliers featuring Kryptek Camo,
   Replaceable Steel Jaw Plates, and Tungsten Cutters. Lightweight and Durable,
-  these trout pliers are a savvy anglers top pick for fly fishing pliers.</p>
+  these trout pliers are a savvy anglers top pick for fly fishing pliers. Plier
+  Sheath included and comes with belt loop and quick clip lanyard.</p>
 right_column_html: >-
   <ul><li>Replaceable stainless steel jaw plates and Tungsten steel
   cutters&nbsp;</li><li>Cuts mono and braided lines with ease</li><li>Aircraft
-  aluminum body</li><li>Kryptek Camo Technology</li></ul>
+  aluminum body</li><li>Kryptek Camo Technology</li><li>Plier Sheath
+  included</li><li>Belt loops for securing to your shorts or pants</li><li>Quick
+  clip lanyard</li></ul>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO fishing tool to be free of defects in material and
