@@ -24,7 +24,7 @@ left_column_html: >-
   aluminum resulting in an ultra lightweight set of fishing pliers.
   &nbsp;Equipped with, split-ring tool, crimping slots, and replaceable braided
   line tungsten steel cutters. &nbsp;Featuring Kryptek Camo, the Ego Kryptek
-  Aluminum fishing pliers are for a savvy anglers fishing arsenal.</p>
+  Aluminum fishing pliers are for a savvy angler's fishing arsenal.</p>
 right_column_html: >-
   <ul><li>Contoured handles for comfortable grip</li><li>Thumb
   posts</li><li>Precisely engineered replaceable tungsten steel
