@@ -46,6 +46,10 @@ warranty_right_column_html: >-
   MERCHANTABILITY AND FITNESS FOR PARTICULAR USE.</p>
 slides:
   - title: EGO Kryptek Camo Aluminum Trout Pliers
+    image: /images/75005_EGOKryptek_4_5inPliers_6_1160x533.jpg
+    video:
+    is_video: false
+  - title: EGO Kryptek Camo Aluminum Trout Pliers
     image: /images/75005_EGOKryptek_4_5inPliers_4_1160x533.jpg
     video:
     is_video: false
@@ -53,11 +57,11 @@ slides:
     image: /images/75005_EGOKryptek_4_5inPliers_3_1160x533.jpg
     video:
     is_video: false
-  - title:
+  - title: EGO Kryptek Camo Aluminum Trout Pliers
     image: /images/75005_EGOKryptek_4_5inPliers_2_1160x533.jpg
     video:
     is_video: false
-  - title:
+  - title: EGO Kryptek Camo Aluminum Trout Pliers
     image: /images/75005_EGOKryptek_4_5inPliers_5_1160x533.jpg
     video:
     is_video: false
