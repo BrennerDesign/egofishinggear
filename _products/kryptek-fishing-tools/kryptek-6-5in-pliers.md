@@ -1,6 +1,6 @@
 ---
 name: 'EGO Kryptek—6.5&#34; Aluminum Pliers'
-subheading: Replaceable Steel Jaw Plates and Tungsten Cutters
+subheading: Features Replaceable Tungsten Cutters
 order_number: 10
 display_product: true
 forsale_online: true
@@ -29,8 +29,8 @@ left_column_html: >-
 right_column_html: >-
   <ul><li>Contoured handles for comfortable grip</li><li>Thumb
   posts</li><li>Precisely engineered replaceable tungsten steel
-  cutters</li><li>Aircraft aluminum body</li><li>Replaceable stainless steel jaw
-  plates</li><li>Kryptek Camo Technology</li></ul>
+  cutters</li><li>Aircraft aluminum body</li><li>Kryptek Camo
+  Technology</li></ul>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO fishing tool to be free of defects in material and
