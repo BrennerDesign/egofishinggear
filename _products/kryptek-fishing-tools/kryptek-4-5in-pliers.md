@@ -6,7 +6,7 @@ display_product: true
 forsale_online: true
 description: >-
   The Best Trout Fishing Aluminum Pliers. EGO Kryptek 4.5” Aluminum Pliers
-  Featuring Kryptek Camo, Replaceable Steel Jaw Plates, and Tungsten Cutters.
+  Featuring Kryptek Camo, Replaceable Tungsten Cutters.
 billable_weight: 6
 categories:
   - kryptek-tools
@@ -21,9 +21,9 @@ filter_hoop:
 filter_mesh:
 left_column_html: >-
   <p>The EGO Kryptek 4.5&rdquo; aluminum fishing pliers featuring Kryptek Camo,
-  Replaceable Steel Jaw Plates, and Tungsten Cutters. Lightweight and Durable,
-  these trout pliers are a savvy anglers top pick for fly fishing pliers. Plier
-  Sheath included and comes with belt loop and quick clip lanyard.</p>
+  Features replaceable tungsten cutters and comes with a plier sheath.
+  Lightweight and Durable, these trout pliers are a savvy anglers top pick for
+  fly fishing pliers.&nbsp;</p>
 right_column_html: >-
   <ul><li>Replaceable stainless steel jaw plates and Tungsten steel
   cutters&nbsp;</li><li>Cuts mono and braided lines with ease</li><li>Aircraft
