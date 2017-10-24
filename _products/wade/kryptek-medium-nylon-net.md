@@ -35,7 +35,7 @@ left_column_html: >-
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
   Clip</li><li>Unique Hoop Scoop Design</li><li>Mesh bag: Nylon
-  Mesh</li><li>Handle Lenght: 6"</li><li>Kryptek Camo Technology</li><li>Bag
+  Mesh</li><li>Handle Length: 6"</li><li>Kryptek Camo Technology</li><li>Bag
   depth: 28&rdquo;</li><li>Hoop size: Medium 17" x 19"</li><li>Product Weight:
   1.25 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
