@@ -1,6 +1,6 @@
 ---
 name: 'EGO Kryptek—4.5&#34; Aluminum Pliers'
-subheading: Features Replaceable Tungsten Cutters
+subheading: Features Replaceable Stainless Steel Cutters
 order_number: 20
 display_product: true
 forsale_online: true
@@ -25,9 +25,9 @@ left_column_html: >-
   Lightweight and Durable, these trout pliers are a savvy anglers top pick for
   fly fishing pliers.&nbsp;</p>
 right_column_html: >-
-  <ul><li>Stainless steel jaw plates&nbsp;</li><li>Replaceable Stainless steel
+  <ul><li>Stainless steel jaw plates&nbsp;</li><li>Replaceable stainless steel
   cutters</li><li>Cuts mono and braided lines with ease</li><li>Aircraft
-  aluminum body</li><li>Kryptek Camo Technology</li><li>Plier Sheath
+  aluminum body</li><li>Kryptek Camo Technology</li><li>Plier sheath
   included</li><li>Belt loops for securing to your shorts or pants</li><li>Quick
   clip lanyard</li></ul>
 warranty_left_column_html: >-
