@@ -29,8 +29,8 @@ left_column_html: >-
 right_column_html: >-
   <ul><li>Contoured handles for comfortable grip</li><li>Thumb
   posts</li><li>Stainless steel jaw plates&nbsp;</li><li>Replaceable stainless
-  steel cutters</li><li>Aircraft aluminum body</li><li>Kryptek Camo
-  Technology</li></ul>
+  steel cutters</li><li>Aircraft aluminum body</li><li>Kryptek camo
+  technology</li></ul>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO fishing tool to be free of defects in material and
