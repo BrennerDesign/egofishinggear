@@ -34,7 +34,7 @@ left_column_html: >-
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
   Clip</li><li>Unique Hoop Scoop Design</li><li>Bag depth: 15" Flat Bottom
-  (Stretches up to 1.5X with load)</li><li>Handle Lenght: 6"</li><li>Mesh bag:
+  (Stretches up to 1.5X with load)</li><li>Handle Length: 6"</li><li>Mesh bag:
   Lightweight non-tangle rubber mesh</li><li>Hoop size: Large 19" x
   21"</li><li>Product Weight: 1.4 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
