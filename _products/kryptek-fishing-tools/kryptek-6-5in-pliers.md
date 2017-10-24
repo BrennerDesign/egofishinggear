@@ -1,6 +1,6 @@
 ---
 name: 'EGO Kryptek—6.5&#34; Aluminum Pliers'
-subheading: Features Replaceable Tungsten Cutters
+subheading: Features Replaceable Stainless Steel Cutters
 order_number: 10
 display_product: true
 forsale_online: true
