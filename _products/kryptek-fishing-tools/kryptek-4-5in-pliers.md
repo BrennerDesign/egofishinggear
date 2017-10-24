@@ -6,7 +6,7 @@ display_product: true
 forsale_online: true
 description: >-
   The Best Trout Fishing Aluminum Pliers. EGO Kryptek 4.5” Aluminum Pliers
-  Featuring Kryptek Camo, Replaceable Tungsten Cutters.
+  Featuring Kryptek Camo, Replaceable Stainless Steel Cutters.
 billable_weight: 6
 categories:
   - kryptek-tools
