@@ -1,10 +1,10 @@
 ---
 name: 'S2 Slider 18&#34; handle'
-subheading: 'Handle Extends from 18&#34;—36&#34;'
+subheading: 'Handle Extends from 18&#34; to 36&#34;'
 order_number: 10
 display_product: true
 forsale_online: true
-description: EGO Fishing Gear S2 Slider 18"—36" Extending Fishing Net Handle.
+description: EGO Fishing Gear S2 Slider 18" to 36" Extending Fishing Net Handle.
 billable_weight: 4
 categories:
   - s2-slider-handles
@@ -22,16 +22,16 @@ left_column_html: >-
   button with your thumb and pull the foam rubber handle section. When the
   handle is extended to the desired length, allow the release button to seat
   back into the pre-set slot to lock in handle length.</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18in &mdash;
-  36in</p><div class="divider">&nbsp;</div><p>LOAD
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18" to 36"</p><div
+  class="divider">&nbsp;</div><p>LOAD
   CAPACITY</p><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p>
 right_column_html: >-
-  <ul><li>Slider extension technology</li><li>18"&mdash;36" Extending Fishing
-  Net Handle</li><li>Neoprene foam grip</li><li>Thumb release
-  tab</li><li>6&rdquo; lock intervals</li><li>Works with all S1 or S2 net heads
-  and attachment tools.</li></ul>
+  <ul><li>Slider extension technology</li><li>18" to 36" Extending Fishing Net
+  Handle</li><li>Neoprene foam grip</li><li>Thumb release tab</li><li>6&rdquo;
+  lock intervals</li><li>Works with all S1 or S2 net heads and attachment
+  tools.</li></ul>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO accessory to be free of defects in material and workmanship
