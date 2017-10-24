@@ -1,6 +1,6 @@
 ---
 name: EGO Kryptek—Mini Gripper
-subheading: With MagneticRelease & Kryptek Camo
+subheading: With Magnetic Release & Kryptek Camo
 order_number: 50
 display_product: true
 forsale_online: true
