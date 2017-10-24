@@ -1,12 +1,12 @@
 ---
-name: EGO Kryptek—3 foot Gaff Hook
+name: 'EGO Kryptek—3&#34; Gaff Hook'
 subheading: Stainless Steel Hook & Aluminum Handle
 order_number: 130
 display_product: true
 forsale_online: true
 description: >-
-  3ft durable aluminum handle EGO Kryptek Camo gaff hook. Features Comfortable
-  hand grip, Kryptek Camo technology and a 3in stainless steel hook.
+  3 inch durable aluminum handle EGO Kryptek Camo gaff hook. Features
+  Comfortable hand grip, Kryptek Camo technology and a 3in stainless steel hook.
 billable_weight: 7
 categories:
   - kryptek-tools
