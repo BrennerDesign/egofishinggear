@@ -1,5 +1,5 @@
 ---
-name: 'S1 Geneis 13&#34; handle'
+name: 'S1 Genesis 13&#34; handle'
 subheading: Fits All S1 or S2 Net Heads or Attachment Tools
 order_number: 60
 display_product: true
@@ -10,7 +10,7 @@ categories:
   - s1-genesis-handles
 price: '14.99'
 price_range:
-sku: H71370
+sku: HS71370
 show_as_crosssells: false
 tag_color:
 tag_text:
