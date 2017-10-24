@@ -27,7 +27,7 @@ left_column_html: >-
 right_column_html: >-
   <ul><li>Stainless steel jaw plates&nbsp;</li><li>Replaceable stainless steel
   cutters</li><li>Cuts mono and braided lines with ease</li><li>Aircraft
-  aluminum body</li><li>Kryptek Camo Technology</li><li>Plier sheath
+  aluminum body</li><li>Kryptek camo technology</li><li>Plier sheath
   included</li><li>Belt loops for securing to your shorts or pants</li><li>Quick
   clip lanyard</li></ul>
 warranty_left_column_html: >-
