@@ -26,8 +26,8 @@ left_column_html: >-
   The handles are designed with a solid foam core body that provides floatation
   should it be dropped overboard.</p>
 right_column_html: >-
-  <divclass="divider">&nbsp;</div><h7>30lbs&ndash;Max Load Capacity</h7><divclass="divider">&nbsp;</div>
-  <ul><li>Solid foam core body</li><li>Strong lightweight hexagonal extruded
+  <div class="divider">&nbsp;</div><h7>30lbs&ndash;Max Load Capacity</h7><div
+  class="divider">&nbsp;</div><ul><ul><li>Solid foam core body</li><li>Strong lightweight hexagonal extruded
   anodized aluminum design</li><li>30lbs&ndash;Max Load Capacity with all EGO
   Net Heads</li><li>Works with all S1 or S2 net heads and attachment
   tools.</li></ul>
