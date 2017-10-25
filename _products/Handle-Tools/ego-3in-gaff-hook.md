@@ -1,6 +1,6 @@
 ---
 name: 'EGO 3&#34; Gaff Hook'
-subheading: Fits All S1 and S2 Landing Net Handles
+subheading: 'Fits All S1 &#38; S2 Landing Net Handles'
 order_number: 30
 display_product: true
 forsale_online: true
@@ -18,8 +18,9 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handles</li><li>Angular design
-  reduces hook entry angle</li><li>3/8&rdquo; #316 stainless steel rod</li></ul>
+  <ul><li>Attaches to any S2 Slider &amp; S1 Genesis handles</li><li>Angular
+  design reduces hook entry angle</li><li>3/8&rdquo; #316 stainless steel
+  rod</li></ul>
 right_column_html:
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
