@@ -24,12 +24,12 @@ left_column_html: >-
   from heavy-duty materials providing many years of trustworthy use on the
   water.&nbsp; It features a coiled lanyard, and a hardened pocket, which will
   protect your plier from damage or self-injury.&nbsp; Finally, the Ego Kryptek
-  Plier Sheath is finished with Kryptek Camo for taking the battle to the
+  Plier Sheath is finished with Kryptek camo for taking the battle to the
   water.</p>
 right_column_html: >-
   <ul><li>Easy plier access</li><li>Durable material construction</li><li>Quick
-  clip lanyard</li><li>Designed for both wet and dry use</li><li>Kryptek Camo
-  Technology</li><li>Belt loops for securing to your shorts or pants</li></ul>
+  clip lanyard</li><li>Designed for both wet and dry use</li><li>Kryptek camo
+  technology</li><li>Belt loops for securing to your shorts or pants</li></ul>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO fishing tool to be free of defects in material and
