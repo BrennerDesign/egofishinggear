@@ -1,6 +1,6 @@
 ---
 name: EGO Large Hoop Assembly
-subheading: Fits all Large Net Heads
+subheading: Fits All Large Net Heads
 order_number: 30
 display_product: true
 description: EGO Large Replacement Hoop Assembly
