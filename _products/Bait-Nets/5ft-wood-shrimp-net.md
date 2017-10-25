@@ -19,8 +19,9 @@ filter_hoop:
 filter_mesh:
 left_column_html: >-
   <p>The 5Ft Wood Shrimp Net is perfect for dipping shrimp and
-  minnows.</p><ul><li>12&rdquo; square steel hoop</li><li>High-grade knotless
-  pine handle</li><li>1/32&rdquo; mesh grid</li></ul>
+  minnows.</p><p>&nbsp;</p><ul><li>12&rdquo; square steel
+  hoop</li><li>High-grade knotless pine handle</li><li>1/32&rdquo; mesh
+  grid</li></ul>
 right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
