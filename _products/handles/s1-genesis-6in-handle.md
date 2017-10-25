@@ -1,6 +1,6 @@
 ---
-name: 'S1 Geneis 6&#34; handle'
-subheading: Fits All S1 or S2 Net Heads or Attachment Tools
+name: 'S1 Genesis 6&#34; handle'
+subheading: Fits All S1 or S2 Net Heads or Handle Tools
 order_number: 50
 display_product: true
 forsale_online: true
@@ -29,9 +29,8 @@ left_column_html: >-
 right_column_html: >-
   <ul><li>Solid foam core, floats when attached to any net head</li><li>Strong
   lightweight hexagonal extruded anodized aluminum
-  design</li><li>30lbs&ndash;Max Load Capacity with all EGO Net
-  Heads</li><li>Works with all S1 or S2 net heads and attachment
-  tools.</li></ul>
+  design</li><li>30lbs&ndash;Max load capacity with all EGO net
+  heads</li><li>Works with all S1 or S2 net heads and handle tools.</li></ul>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO accessory to be free of defects in material and workmanship
