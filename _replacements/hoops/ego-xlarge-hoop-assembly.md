@@ -1,6 +1,6 @@
 ---
 name: EGO XLarge Hoop Assembly
-subheading: Replacement Hoop for all S1 or S2 XLarge net heads
+subheading: Fits All XLarge Net Heads
 order_number: 50
 display_product: true
 description: EGO XLarge Replacement Hoop Assembly
