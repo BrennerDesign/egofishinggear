@@ -1,6 +1,6 @@
 ---
 name: 'EGO LARGE 22&#34—Rubber Coated NYLON Net Head'
-subheading: 'Hoop Size—19&#34; x 21&#34;'
+subheading: 'Hoop Size—22&#34; x 23&#34;'
 order_number: 160
 display_product: true
 forsale_online: true
