@@ -19,8 +19,8 @@ filter_hoop:
 filter_mesh:
 left_column_html: >-
   <p>The 5FT Wood Crab Net is designed for capturing crab while visiting the
-  beach.</p><ul><li>12&rdquo; square steel hoop</li><li>High-grade knotless pine
-  handle</li><li>3/16&rdquo; mesh grid</li></ul>
+  beach.</p><p>&nbsp;</p><ul><li>12&rdquo; square steel hoop</li><li>High-grade
+  knotless pine handle</li><li>3/16&rdquo; mesh grid</li></ul>
 right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
