@@ -1,6 +1,6 @@
 ---
 name: 'S1 Genesis 31&#34; handle'
-subheading: Fits All S1 or S2 Net Heads or Attachment Tools
+subheading: Fits All S1 or S2 Net Heads or Handle Tools
 order_number: 80
 display_product: true
 forsale_online: true
