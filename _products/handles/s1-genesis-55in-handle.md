@@ -24,15 +24,15 @@ left_column_html: >-
   heads or attachment tools can be securely fastened and ready for use. The
   modular platform allows for component interchangeability and compact storage.
   The handles are designed with a solid foam core body that provides floatation
-  should it be dropped overboard.</p><div
-  class="divider">&nbsp;</div><h7>30lbs&ndash;Max Load Capacity</h7>
+  should it be dropped overboard.</p>
 right_column_html: >-
+  <divclass="divider">&nbsp;</div><h7>30lbs&ndash;Max Load Capacity</h7><divclass="divider">&nbsp;</div>
   <ul><li>Solid foam core body</li><li>Strong lightweight hexagonal extruded
   anodized aluminum design</li><li>30lbs&ndash;Max Load Capacity with all EGO
   Net Heads</li><li>Works with all S1 or S2 net heads and attachment
   tools.</li></ul>
 warranty_left_column_html: >-
-  <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
+  <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO accessory to be free of defects in material and workmanship
   for a period of two (2) years from the date of original purchase.</p><div
   class="divider">&nbsp;</div><p><strong>If your EGO fishing accessory exhibits
