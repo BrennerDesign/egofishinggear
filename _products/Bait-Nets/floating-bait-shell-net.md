@@ -5,7 +5,7 @@ order_number: 20
 display_product: true
 forsale_online: true
 description: >-
-  The Floating Bait Net is great for capturing all types of bait.  Available in
+  Floating Bait Net is great for capturing all types of bait.  Available in
   three colors: orange, green and blue.
 billable_weight: 4
 categories:
@@ -20,8 +20,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The Floating Bait Net is great for capturing live bait along the beach or
-  in small bait wells and pails.&nbsp;</p><p>&nbsp;</p><ul><li>18&rdquo; high
+  <p>Floating Bait Net is great for capturing live bait along the beach or in
+  small bait wells and pails.&nbsp;</p><p>&nbsp;</p><ul><li>18&rdquo; high
   strength polypro handle</li></ul>
 right_column_html:
 warranty_left_column_html:
