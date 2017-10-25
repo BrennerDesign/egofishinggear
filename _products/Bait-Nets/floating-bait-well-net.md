@@ -21,8 +21,8 @@ filter_hoop:
 filter_mesh:
 left_column_html: >-
   <p>EGO Bait Well net is perfect for smaller bait wells and capturing live bait
-  on coastal fishing excursions.</p><ul><li>10&rdquo; high strength polypro
-  handle</li><li>8&rdquo; square hoop</li><li>8&rdquo; mesh bag
+  on coastal fishing excursions.</p><p>&nbsp;</p><ul><li>10&rdquo; high strength
+  polypro handle</li><li>8&rdquo; square hoop</li><li>8&rdquo; mesh bag
   depth</li><li>Available in 3/16&rdquo; mesh size</li><li>Floats</li></ul>
 right_column_html:
 warranty_left_column_html:
