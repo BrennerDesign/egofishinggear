@@ -25,10 +25,10 @@ left_column_html: >-
   securely fastened and ready for use. The modular platform allows for component
   interchangeability and compact storage. The handles are designed with a solid
   foam core body that provides floatation should it be dropped
-  overboard.</p><div class="divider">&nbsp;</div><h7>30lbs&ndash;Max Load
-  Capacity</h7>
+  overboard.</p>
 right_column_html: >-
-  <ul><li>Solid foam core, floats when attached to any net head</li><li>Strong
+  <div class="divider">&nbsp;</div><h7>30lbs&ndash;Max Load
+  Capacity</h7><div class="divider">&nbsp;</div><ul><li>Solid foam core, floats when attached to any net head</li><li>Strong
   lightweight hexagonal extruded anodized aluminum design</li><li>Kryptek Camo
   Technology</li><li>30lbs&ndash;Max Load Capacity with all EGO Net
   Heads</li><li>Works with all S1 or S2 net heads and attachment
