@@ -107,7 +107,7 @@ header_links:
           - name: S2 Slider
             link: /s2-slider-handles/
             link_class: filter_selector s2_slider
-          - name: Kryptek S1 Genesis
+          - name: Kryptek S1 Genesis Handles
             link: /kryptek-s1-genesis-handles/
             link_class: filter_selector s1_gen_krypyt
           - name: S1 Genesis
