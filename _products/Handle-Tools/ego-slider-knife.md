@@ -20,7 +20,7 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Cuts snagged
+  <ul><li>Attaches to any S2 Slider or S1 Genesis handles</li><li>Cuts snagged
   lures free from weeds/small roots</li><li>Cuts weeds away from trolling
   motor</li><li>Replaceable stainless steel razor blade</li><li>(Replacement
   blades are available from EGO)</li><li>Line cutter</li></ul>
