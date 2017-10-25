@@ -21,7 +21,7 @@ options_text: Choose Net Size
 options:
   - name: 10FT 3/8in Mesh
     sku: 61206
-    adjustment: '0.00'
+    adjustment:
     price: '179.99'
     billable_weight: 2
   - name: 10FT 3/8in Mesh Rapid Sink
