@@ -1,11 +1,11 @@
 ---
-name: EGO Slider Knife
+name: EGO Release Knife
 subheading: Cut Lures Free From Weeds or Small Roots
 order_number: 40
 display_product: true
 forsale_online: true
 description: >-
-  Universal Knife for The EGO S1 or S2 Landing Net Systems. Cuts snagged lures
+  Universal Knife for The EGO S1 & S2 Landing Net Systems. Cuts snagged lures
   free from weeds/small roots.
 billable_weight: 6
 categories:
@@ -20,10 +20,11 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handles</li><li>Cuts snagged
-  lures free from weeds/small roots</li><li>Cuts weeds away from trolling
-  motor</li><li>Replaceable stainless steel razor blade</li><li>(Replacement
-  blades are available from EGO)</li><li>Line cutter</li></ul>
+  <ul><li>Attaches to any S2 Slider &amp;#38; S1 Genesis handles</li><li>Cuts
+  snagged lures free from weeds/small roots</li><li>Cuts weeds away from
+  trolling motor</li><li>Replaceable stainless steel razor
+  blade</li><li>(Replacement blades are available from EGO)</li><li>Line
+  cutter</li></ul>
 right_column_html:
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
