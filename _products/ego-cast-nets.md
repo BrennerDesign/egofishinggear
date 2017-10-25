@@ -79,19 +79,19 @@ slides:
     is_video: false
 left_column_html: >-
   <p>Designed for the professional guide, captain and sports fisherman demanding
-  maximum performance. The EGO Cast Nets make filling your bait bucket a breeze.
+  maximum performance the EGO Cast Net makes filling your bait bucket a breeze.
   Clear monofilament doesn't alert fish, while the durable six-wedge panel
-  construction ensures many seasons of use. Heavy-duty stainless steel swivel
-  connector, 25 ft. of braided hand line and high-grade nylon braille lines.
-  Rapid-sink models have 25-gram weights at 1.5 lbs. per ft., while regular
-  models have 25-gram weights at 1.2 lbs. per ft.</p><div
-  class="divider">&nbsp;</div><ul><li>6-panel construction</li><li>Soft, clear
-  and durable monofilament</li><li>25 FT Hand Line</li><li>25-gram lead weights
-  @ 1.2 lb/ft</li><li>25-gram lead weights @ 1.5 lb/ft &ndash; Rapid
-  Sink</li><li>High-grade nylon braille Lines</li><li>Large diameter Horn for
-  easy spread</li><li>Heavy duty stainless steel swivel</li><li>High strength
-  braided rope</li><li>Mesh grid individually tied to lead
-  line</li><li>High-grade monofilament</li></ul>
+  construction ensures many seasons of use. Each net is constructed with
+  heavy-duty stainless-steel swivel connector, 25 ft.&nbsp; braided hand line
+  and high-grade nylon braille lines. The Rapid-Sink models have 25-gram weights
+  at 1.5 lbs. per ft., while regular models have 25-gram weights at 1.2 lbs. per
+  ft.</p><div class="divider">&nbsp;</div><ul><li>6-panel
+  construction</li><li>Soft, clear and durable monofilament</li><li>25 FT Hand
+  Line</li><li>25-gram lead weights @ 1.2 lb/ft</li><li>25-gram lead weights @
+  1.5 lb/ft &ndash; Rapid Sink</li><li>High-grade nylon braille
+  Lines</li><li>Large diameter Horn for easy spread</li><li>Heavy duty stainless
+  steel swivel</li><li>High strength braided rope</li><li>Mesh grid individually
+  tied to lead line</li><li>High-grade monofilament</li></ul>
 right_column_html: >-
   <h7>AVAILABLE CAST NETS SIZES</h7><p><img alt=""
   src="/images/EGOCastNetSizes.png" /></p>
