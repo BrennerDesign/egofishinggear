@@ -1,5 +1,5 @@
 ---
-name: EGO 5Ft Wood Shrimp Net
+name: 5Ft Wood Shrimp Net
 subheading: Perfect Net For Capturing Shrimp or Minnows
 order_number: 60
 display_product: true
