@@ -8,8 +8,8 @@ description: >-
   maximum performance. EGO Cast Nets make filling your bait bucket a breeze.
 billable_weight: 2
 categories:
-price: '149.00'
-price_range: $149.00 - 299.99
+price: '179.00'
+price_range: $179.00 - 299.99
 sku: '61206'
 show_as_crosssells: false
 tag_color:
