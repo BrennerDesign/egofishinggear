@@ -15,7 +15,7 @@ sku: RM71261
 tag_color:
 tag_text:
 replacement_type: bags
-filter_mesh: mesh_rubber
+filter_mesh: mesh_clear_rubber
 slides:
   - title: EGO Medium Clear Rubber Mesh Bag
     image: /images/RM71262_M_CRubber_Mesh_Bag.jpg
