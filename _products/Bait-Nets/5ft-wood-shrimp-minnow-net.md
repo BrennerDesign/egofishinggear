@@ -1,12 +1,10 @@
 ---
-name: EGO 5ft wood Shrimp or Minnow net
+name: EGO 5Ft Wood Shrimp Net
 subheading: Perfect Net For Capturing Shrimp or Minnows
 order_number: 60
 display_product: true
 forsale_online: true
-description: >-
-  The EGO 5ft wooden Shrimp or Minnow net is the perfect net for capturing
-  Shrimp or Minnows.
+description: The 5Ft Wood Shrimp Net is perfect for dipping shrimp and minnows
 billable_weight: 37
 categories:
   - bait-nets
@@ -20,8 +18,9 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO 5ft wooden Shrimp or Minnow net is the perfect net for capturing
-  Shrimp or Minnows.</p>
+  <p>The 5Ft Wood Shrimp Net is perfect for dipping shrimp and
+  minnows.</p><ul><li>12&rdquo; square steel hoop</li><li>High-grade knotless
+  pine handle</li><li>1/32&rdquo; mesh grid</li></ul>
 right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
