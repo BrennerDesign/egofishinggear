@@ -13,7 +13,7 @@ sku: RM71371
 tag_color:
 tag_text:
 replacement_type: bags
-filter_mesh: mesh_pvc_coated_nylon
+filter_mesh: mesh_rubber
 slides:
   - title: EGO Reach Rubber Mesh Bag
     image: /images/RM71371_RubberReach_Mesh_Bag.jpg
