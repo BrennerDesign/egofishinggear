@@ -18,7 +18,7 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Pull/Push arcs
+  <ul><li>Attaches to any S2 Slider or S1 Genesis handles</li><li>Pull/Push arcs
   fit 1&rdquo; diameter rails or stanchions</li><li>Concave surface on hook
   fingers for better rope control</li></ul>
 right_column_html:
