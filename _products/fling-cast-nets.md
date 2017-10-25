@@ -94,7 +94,7 @@ left_column_html: >-
   <p>Designed for the recreational fisherman demanding dependable performance at
   an economical price, the FLING Cast Nets make filling your bait bucket an
   efficient process. The clear monofilament doesn't alert fish and the soft
-  material reduce damage to the bait.</p><div
+  material reduce damage to the live bait.</p><div
   class="divider">&nbsp;</div><ul><li>3-panel circular construction</li><li>15FT
   hand line</li><li>25 gram lead weights @ 1.0 lb/ft</li><li>High-grade nylon
   braille lines</li><li>Mesh grid individually tied to lead
