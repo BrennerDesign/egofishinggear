@@ -1,6 +1,6 @@
 ---
 name: 'EGO Large 22&#34; Hoop Assembly'
-subheading: 'Fits all Large 22&#34; Net Heads'
+subheading: 'Fits All Large 22&#34; Net Heads'
 order_number: 40
 display_product: true
 description: EGO Large 22" Replacement Hoop Assembly
