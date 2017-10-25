@@ -1,12 +1,12 @@
 ---
-name: EGO 2ft wood bait net
+name: EGO 2Ft Wood Net
 subheading: Perfect For Capturing Live Bait
 order_number: 40
 display_product: true
 forsale_online: true
 description: >-
-  EGO 2ft wooden bait well net is perfect for capturing live bait on coastal
-  fishing excursions.
+  The 2Ft Wood Bait Net is perfect for capturing live bait on coastal fishing
+  excursions.
 billable_weight: 4
 categories:
   - bait-nets
@@ -20,8 +20,10 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO 2ft wooden bait well net &nbsp;is simple but perfect for capturing
-  live bait on coastal fishing excursions.</p>
+  <p>The 2Ft Wood Bait Net is perfect for capturing live bait on coastal fishing
+  excursions.</p><ul><li>8&rdquo; square steel hoop</li><li>8&rdquo; mesh bag
+  depth</li><li>High-grade knotless pine handle</li><li>3/16&rdquo; mesh
+  grid</li></ul>
 right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
