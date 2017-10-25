@@ -1,6 +1,6 @@
 ---
 name: EGO Large Hoop Assembly
-subheading: Replacement Hoop for all S1 or S2 Large net heads
+subheading: Fits all S1 or S2 Large Net Heads
 order_number: 30
 display_product: true
 description: EGO Large Replacement Hoop Assembly
