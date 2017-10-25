@@ -11,7 +11,7 @@ billable_weight: 2
 categories:
   - replacement-parts
 price: '15.99'
-sku: RM71371
+sku: RM71372
 tag_color:
 tag_text:
 replacement_type: bags
