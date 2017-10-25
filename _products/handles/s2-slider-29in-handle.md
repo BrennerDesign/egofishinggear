@@ -1,10 +1,10 @@
 ---
 name: 'S2 Slider 29&#34; handle'
-subheading: 'Handle Extends from 29&#34;—60&#34;'
+subheading: 'Handle Extends from 29&#34; to 60&#34;'
 order_number: 20
 display_product: true
 forsale_online: true
-description: EGO Fishing Gear S2 Slider 29"—60" Extending Fishing Net Handle.
+description: EGO Fishing Gear S2 Slider 29" to 60" Extending Fishing Net Handle.
 billable_weight: 5
 categories:
   - s2-slider-handles
@@ -28,10 +28,10 @@ left_column_html: >-
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p>
 right_column_html: >-
-  <ul><li>Slider extension technology</li><li>29"&mdash;60" Extending Fishing
-  Net Handle</li><li>Neoprene foam grip</li><li>Thumb release
-  tab</li><li>6&rdquo; lock intervals</li><li>Works with all S1 or S2 net heads
-  and attachment tools.</li></ul>
+  <ul><li>Slider extension technology</li><li>29" to 60" Extending Fishing Net
+  Handle</li><li>Neoprene foam grip</li><li>Thumb release tab</li><li>6&rdquo;
+  lock intervals</li><li>Works with all S1 or S2 net heads and attachment
+  tools.</li></ul>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO accessory to be free of defects in material and workmanship
