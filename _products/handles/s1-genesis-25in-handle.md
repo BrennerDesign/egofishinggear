@@ -10,7 +10,7 @@ categories:
   - s1-genesis-handles
 price: '16.99'
 price_range:
-sku: H71260
+sku: HS71260
 show_as_crosssells: false
 tag_color:
 tag_text:
@@ -27,14 +27,15 @@ left_column_html: >-
   should it be dropped overboard.</p>
 right_column_html: >-
   <div class="divider">&nbsp;</div><h7>30lbs&ndash;Max Load Capacity</h7><div
-  class="divider">&nbsp;</div><ul><li>Solid foam core body</li><li>Strong lightweight hexagonal extruded
-  anodized aluminum design</li><li>30lbs&ndash;Max load capacity with all EGO
-  net heads</li><li>Works with all S1 or S2 net heads and attachment
+  class="divider">&nbsp;</div><ul><li>Solid foam core body</li><li>Strong
+  lightweight hexagonal extruded anodized aluminum
+  design</li><li>30lbs&ndash;Max load capacity with all EGO net
+  heads</li><li>Works with all S1 or S2 net heads and attachment
   tools.</li></ul>
 warranty_left_column_html: >-
-  <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
-  warrants your EGO accessory to be free of defects in material and workmanship
-  for a period of two (2) years from the date of original purchase.</p><div
+  <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
+  accessory to be free of defects in material and workmanship for a period of
+  two (2) years from the date of original purchase.</p><div
   class="divider">&nbsp;</div><p><strong>If your EGO fishing accessory exhibits
   such a defect, Adventure Products will, at its option, replace or repair it
   without charge, provided the customer:</strong></p><p><strong>1) Returns the
