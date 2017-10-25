@@ -1,6 +1,6 @@
 ---
 name: EGO BIG GAME—XXLARGE NYLON NET
-subheading: 66 inch Handle—27in x 33in Hoop
+subheading: '66 inch Handle—27&#34; x 33&#34; Hoop'
 order_number: 50
 display_product: true
 forsale_online: false
