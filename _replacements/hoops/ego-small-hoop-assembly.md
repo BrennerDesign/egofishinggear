@@ -1,6 +1,6 @@
 ---
 name: EGO Small Hoop Assembly
-subheading: Fits All Small Net Heads
+subheading: Fits all Small Net Heads
 order_number: 10
 display_product: true
 description: Replacement Hoop for all S1 or S2 small net heads
