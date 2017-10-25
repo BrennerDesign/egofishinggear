@@ -1,5 +1,5 @@
 ---
-name: 'S1 Genesis Kryptek 25&#34; handle'
+name: ' Kryptek S1 Genesis 25&#34; handle'
 subheading: Fits All S1 or S2 Net Heads or Handle Tools
 order_number: 30
 display_product: true
