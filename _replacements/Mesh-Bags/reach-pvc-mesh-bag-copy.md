@@ -1,22 +1,22 @@
 ---
-name: EGO REACH PVC Coated Mesh Bag
+name: EGO REACH Rubber Mesh Bag
 subheading: Fits all standard Reach nets
-order_number: 200
+order_number: 210
 display_product: true
 forsale_online: true
-description: Replace your EGO Reach PVC Fishing Net Mesh. DIY Instructions provided.
+description: Replace your EGO Reach Rubber Fishing Net Mesh. DIY Instructions provided.
 billable_weight: 2
 categories:
   - replacement-parts
-price: '8.99'
-sku: RM71001
+price: '15.99'
+sku: RM71371
 tag_color:
 tag_text:
 replacement_type: bags
 filter_mesh: mesh_pvc_coated_nylon
 slides:
-  - title: EGO Reach PVC Mesh Bag
-    image: /images/RM71001_Reach_PVC_Mesh_Bag.jpg
+  - title: EGO Reach Rubber Mesh Bag
+    image: /images/RM71371_RubberReach_Mesh_Bag.jpg
     video:
     is_video: false
 repalcement_text: Replacement Instructions
