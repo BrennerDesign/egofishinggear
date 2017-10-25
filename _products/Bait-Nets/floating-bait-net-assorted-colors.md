@@ -1,6 +1,6 @@
 ---
-name: Floating Bait Net
-subheading: Perfect for small bait wells or pails
+name: 'Floating Bait &#38; Shell Net'
+subheading: Perfect For Small Bait Wells or Pails
 order_number: 20
 display_product: true
 forsale_online: true
@@ -21,9 +21,9 @@ filter_hoop:
 filter_mesh:
 left_column_html: >-
   <p>The EGO Floating Bait Nets are great for capturing live bait in small bait
-  wells or pails.&nbsp;</p><ul><li>6&rdquo; high strength polypro
-  handle</li><li>8&rdquo; square hoop</li><li>8&rdquo; mesh bag
-  depth</li><li>Available in 3/16&rdquo; mesh size</li><li>Floats</li></ul>
+  wells or pails.&nbsp;</p><ul><li>The EGO Floating Bait Net is great for
+  capturing live bait along the beach or in small bait wells and
+  pails.</li><li>18&rdquo; high strength polypro handle</li></ul>
 right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
