@@ -1,6 +1,6 @@
 ---
 name: EGO WADE—MEDIUM NYLON NET
-subheading: Clip On Tether—17in x 19in Hoop
+subheading: 'Clip On Tether—17&#34; x 19&#34; Hoop'
 order_number: 230
 display_product: true
 forsale_online: true
