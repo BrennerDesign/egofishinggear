@@ -5,8 +5,8 @@ order_number: 70
 display_product: true
 forsale_online: true
 description: >-
-  The EGO Chum Bag is designed utilizing a 3/16” mesh grid polyester woven
-  fabric. The bag size is perfect for holding chum and attracting game fish.
+  Chum Bag is designed utilizing a 3/16” mesh grid polyester woven fabric. The
+  bag size is perfect for holding chum and attracting game fish.
 billable_weight: 2
 categories:
   - bait-nets
