@@ -31,11 +31,11 @@ left_column_html: >-
   wade, and kayak fisherman have the ultimate net for a successful day on the
   water!&nbsp; &nbsp;</p><div class="divider">&nbsp;</div><p>MAX LOAD
   CAPACITY</p><p><strong>30lbs</strong></p><div
-  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
-  Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
-  Clip</li><li>Unique Hoop Scoop Design</li><li>Mesh bag: Nylon
-  Mesh</li><li>Handle Length: 11"</li><li>Bag depth: 28&rdquo;</li><li>Hoop
-  size: Medium 17" x 19"</li><li>Product Weight: 1.25
+  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
+  design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
+  clip</li><li>Unique hoop scoop design</li><li>Mesh Bag: Nylon
+  mesh</li><li>Handle Length: 11"</li><li>Bag Depth: 28&rdquo;</li><li>Hoop
+  Size: Medium 17" x 19"</li><li>Product Weight: 1.25
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
