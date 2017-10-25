@@ -27,7 +27,7 @@ left_column_html: >-
   should it be dropped overboard.</p>
 right_column_html: >-
   <div class="divider">&nbsp;</div><h7>30lbs&ndash;Max Load Capacity</h7><div
-  class="divider">&nbsp;</div><ul>><li>Solid foam core, floats when attached to any net head</li><li>Strong
+  class="divider">&nbsp;</div><ul><li>Solid foam core, floats when attached to any net head</li><li>Strong
   lightweight hexagonal extruded anodized aluminum
   design</li><li>30lbs&ndash;Max load capacity with all EGO net
   heads</li><li>Works with all S1 or S2 net heads and handle tools.</li></ul>
