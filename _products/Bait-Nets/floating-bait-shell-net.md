@@ -45,4 +45,12 @@ options:
     sku: '60300'
     adjustment:
     price: $6.00
+  - name: Pink Floating Bait Net
+    sku: '60300'
+    adjustment:
+    price: $6.00
+  - name: Purple Floating Bait Net
+    sku: '60300'
+    adjustment:
+    price: $6.00
 ---
