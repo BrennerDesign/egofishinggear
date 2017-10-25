@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—COMPACT NYLON NET
-subheading: 'Compact Handle—Extends 18&#34;—36&#34;'
+subheading: 'Compact Handle—Extends 18&#34; to 36&#34;'
 order_number: 101
 display_product: true
 forsale_online: true
@@ -34,18 +34,18 @@ left_column_html: >-
   possible handle. The S2 Slider modular platform also allows the handle to
   detach, providing interchangeability of attachment tools and easy storage on
   kayaks and boats with limited space.&nbsp;</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18" &mdash; 36i"</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18" to 36"</p><div
   class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
-  Extension</strong>&mdash;28lbs</p><div
+  Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative grip design</li><li>S2 Slider
   handle &ndash; 18&rdquo; extends to 36"</li><li>Mesh bag: Nylon</li><li>Bag
   depth: 28"</li><li>Hoop Size: Medium 17" x 19"</li><li>Minimal water
   drag</li><li>Weight: 1.75 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><div
-  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
+  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGEMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7></h7></p><p><h7></h7></p><p><h7>2-Year Limited
