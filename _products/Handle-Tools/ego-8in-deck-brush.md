@@ -1,6 +1,6 @@
 ---
 name: 'EGO 8&#34; Deck Brush'
-subheading: Fits All S1 and S2 Landing Net Handles
+subheading: 'Fits All S1 &#38; S2 Landing Net Handles'
 order_number: 50
 display_product: true
 forsale_online: true
@@ -20,8 +20,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handles</li><li>Hand grip for
-  simple cleaning</li><li>Durable medium polypropylene
+  <ul><li>Attaches to any S2 Slider &amp; S1 Genesis handles</li><li>Hand grip
+  for simple cleaning</li><li>Durable medium polypropylene
   bristles</li><li>Heavy-duty brush block</li></ul>
 right_column_html:
 warranty_left_column_html: >-
