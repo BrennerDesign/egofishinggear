@@ -1,6 +1,6 @@
 ---
 name: 'EGO Large 22&#34;—Deep RUBBER Net Head'
-subheading: 'Hoop Size—19&#34;x 21&#34;'
+subheading: 'Hoop Size—22&#34;x 23&#34;'
 order_number: 200
 display_product: true
 forsale_online: true
