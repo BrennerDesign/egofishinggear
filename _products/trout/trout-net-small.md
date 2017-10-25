@@ -1,6 +1,6 @@
 ---
 name: EGO TROUT NET SMALL
-subheading: Small Nylon Mesh
+subheading: Polyester Woven Mesh
 order_number: 120
 display_product: true
 forsale_online: true
@@ -29,8 +29,8 @@ left_column_html: >-
   angler who needs a great net at a reasonable price.</p><div
   class="divider">&nbsp;</div><ul><li>Product Weight: 0.5 lbs</li><li>Hoop:
   12&rdquo; x 15&rdquo;</li><li>Bag Depth:
-  12&rdquo;&nbsp;</li><li>Non-Tangle/Hook-Free</li><li>Rubber Coated Nylon
-  Mesh</li><li>Waistband Clip-On</li><li>Retractable Quick-Draw</li></ul>
+  12&rdquo;&nbsp;</li><li>Non-Tangle/Hook-Free</li><li>Polyester woven
+  mesh</li><li>Waistband Clip-On</li><li>Retractable Quick-Draw</li></ul>
 right_column_html: >-
   <h7>SMALL NYLON MESH</h7><p><img alt="" src="/images/Small_Nylon_400x150.jpg"
   /></p><p>&nbsp;</p>
