@@ -29,8 +29,8 @@ left_column_html: >-
   features Kryptek Camo for taking the battle to the water.</p>
 right_column_html: >-
   <ul><li>3/16" aluminum plate</li><li>Accurate measuring length (1/4"
-  increments)</li><li>Kryptek Camo
-  Technology</li><li>Durable</li></ul><p>&nbsp;</p>
+  increments)</li><li>Kryptek camo
+  technology</li><li>Durable</li></ul><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO fishing tool to be free of defects in material and
