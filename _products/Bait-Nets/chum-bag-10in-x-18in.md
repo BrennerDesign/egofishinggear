@@ -1,5 +1,5 @@
 ---
-name: EGO Chum Bag
+name: Chum Bag
 subheading: '10&#34; Wide x 18&#34; Deep'
 order_number: 70
 display_product: true
