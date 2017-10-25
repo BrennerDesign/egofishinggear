@@ -18,7 +18,7 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Angular design
+  <ul><li>Attaches to any S2 Slider or S1 Genesis handles</li><li>Angular design
   reduces hook entry angle</li><li>3/8&rdquo; #316 stainless steel rod</li></ul>
 right_column_html:
 warranty_left_column_html: >-
