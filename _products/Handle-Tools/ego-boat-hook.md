@@ -1,10 +1,10 @@
 ---
 name: EGO Boat Hook
-subheading: Fits All S1 and S2 Landing Net Handles
+subheading: 'Fits All S1 &#38; S2 Landing Net Handles'
 order_number: 20
 display_product: true
 forsale_online: true
-description: Universal Boat Hook for The EGO S1 or S2 Landing Net Systems.
+description: Universal Boat Hook for The EGO S1 & S2 Landing Net Systems.
 billable_weight: 6
 categories:
   - ego-attachment-tools
@@ -18,8 +18,8 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handles</li><li>Pull/Push arcs
-  fit 1&rdquo; diameter rails or stanchions</li><li>Concave surface on hook
+  <ul><li>Attaches to any S2 Slider &amp; S1 Genesis handles</li><li>Pull/Push
+  arcs fit 1&rdquo; diameter rails or stanchions</li><li>Concave surface on hook
   fingers for better rope control</li></ul>
 right_column_html:
 warranty_left_column_html: >-
