@@ -34,8 +34,9 @@ left_column_html: >-
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
   Clip</li><li>Unique Hoop Scoop Design</li><li>Mesh bag: Nylon
-  Mesh</li><li>Handle Length: 6"</li><li>Bag depth: 28&rdquo;</li><li>Hoop size:
-  Medium 17" x 19"</li><li>Product Weight: 1.25 lbs</li></ul><div>&nbsp;</div>
+  Mesh</li><li>Handle Length: 11"</li><li>Bag depth: 28&rdquo;</li><li>Hoop
+  size: Medium 17" x 19"</li><li>Product Weight: 1.25
+  lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
   /></p><p>&nbsp;</p>
