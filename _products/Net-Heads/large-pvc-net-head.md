@@ -19,8 +19,8 @@ filter_handle:
 filter_hoop: hoop_large
 filter_mesh: mesh_pvc_coated_nylon
 slides:
-  - title: EGO LARGE Nylon Net
-    image: /images/72050A_EGO_L_NYLON_1160x533.jpg
+  - title: EGO LARGE PVC Net
+    image: /images/72053A_EGO_L_PVC_1160x533.jpg
     video:
     is_video: false
 left_column_html: >-
