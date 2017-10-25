@@ -1,6 +1,6 @@
 ---
 name: EGO Medium Hoop Assembly
-subheading: Fits All Medium Net Heads
+subheading: Fits all Medium Net Heads
 order_number: 20
 display_product: true
 description: EGO Medium Replacement Hoop Assembly
