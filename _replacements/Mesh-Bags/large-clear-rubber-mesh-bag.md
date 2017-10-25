@@ -1,6 +1,6 @@
 ---
 name: EGO Large Clear Rubber Mesh Bag
-subheading: Fits All Large and Medium EGO Net Heads
+subheading: Fits all Large EGO Net Heads
 order_number: 150
 display_product: true
 forsale_online: true
