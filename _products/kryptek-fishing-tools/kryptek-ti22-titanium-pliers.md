@@ -22,14 +22,14 @@ filter_mesh:
 left_column_html: >-
   <p>The EGO Kryptek Ti22 Titanium Fishing Pliers are constructed of
   lightweight, strong and corrosion proof titanium. &nbsp;They feature Kryptek
-  Camo technology, replaceable tungsten steel cutters for quickly cutting
+  cCamo technology, replaceable tungsten steel cutters for quickly cutting
   through braided and Mono fishing line. These fishing pliers come with a light
   weight and durable sheath and tether lanyard, so you will never have to worry
   about loosing them overboard. Limited lifetime
   warranty.</p><p>&nbsp;</p><ul><li>100% Rust proof titanium body</li><li>Ultra
   strong teeth for maximum grip</li><li>Precisely engineered replaceable
   tungsten steel cutters</li><li>Contoured handles for comfort
-  grip</li><li>Kryptek Camo Technology</li><li>Thumb posts for extra control and
+  grip</li><li>Kryptek camo technology</li><li>Thumb posts for extra control and
   support</li><li>Lanyard fastening loop</li><li>Limited lifetime
   warranty</li></ul>
 right_column_html: >-
