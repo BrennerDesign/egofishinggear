@@ -22,9 +22,9 @@ filter_mesh:
 left_column_html: >-
   <p>The EGO Chum Bag is designed utilizing a 3/16&rdquo; mesh grid polyester
   woven fabric. The bag size is perfect for holding chum and attracting game
-  fish.</p><ul><li>10&rdquo; x 18&rdquo; draw string bag</li><li>Clip on
-  hook</li><li>Available in black or white mesh</li><li>3/16&rdquo; mesh
-  grid</li></ul>
+  fish.</p><p>&nbsp;</p><ul><li>10&rdquo; x 18&rdquo; draw string
+  bag</li><li>Clip on hook</li><li>Available in black or white
+  mesh</li><li>3/16&rdquo; mesh grid</li></ul>
 right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
