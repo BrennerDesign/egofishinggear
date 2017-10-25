@@ -9,7 +9,7 @@ billable_weight: 2
 categories:
   - replacement-parts
 price: '13.99'
-sku: RM71000
+sku: M71000
 tag_color:
 tag_text:
 replacement_type: bags
