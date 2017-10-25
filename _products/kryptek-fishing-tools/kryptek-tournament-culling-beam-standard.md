@@ -27,8 +27,8 @@ left_column_html: >-
   fish while being corrosion resistant. The Kryptek Camo helps take the battle
   to the water.</p>
 right_column_html: >-
-  <ul><li>3/16&rdquo; luminum plate</li><li>Kryptek Camo
-  Technology</li><li>Removable handle</li><li>Engraved for
+  <ul><li>3/16&rdquo; aluminum plate</li><li>Kryptek camo
+  technology</li><li>Removable handle</li><li>Engraved for
   longevity</li><li>Provides quick fish weight measure</li></ul>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products
