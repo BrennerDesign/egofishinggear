@@ -5,7 +5,7 @@ order_number: 2
 display_product: true
 forsale_online: true
 description: >-
-  The Ultimate Crappie Landing Net. Featuring telescoping handle reaching up to
+  The Ultimate Crappie Landing Net. Featuring telescoping handle extends to
   8.5ft and rubber mesh. THE OFFICIAL NET OF CRAPPIE USA.
 billable_weight: 37
 categories:
