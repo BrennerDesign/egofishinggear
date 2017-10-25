@@ -20,7 +20,7 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handles</li><li>Center line
+  <ul><li>Attaches to any S2 Slider or S1 Genesis handles</li><li>Centerline
   guide</li><li>Removable chains</li><li>Round tip to protect
   lures</li><li>Quick return on investment</li></ul>
 right_column_html:
