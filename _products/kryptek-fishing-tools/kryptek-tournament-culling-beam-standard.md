@@ -11,7 +11,7 @@ description: >-
 billable_weight: 6
 categories:
   - kryptek-tools
-price: 34.99.99
+price: '34.99'
 price_range:
 sku: '75009'
 show_as_crosssells: false
