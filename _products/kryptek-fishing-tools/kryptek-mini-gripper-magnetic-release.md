@@ -5,7 +5,7 @@ order_number: 50
 display_product: true
 forsale_online: true
 description: >-
-  The Best Mini Fish Gripper Tool On The Water featuring Kryptek Camo.  Grip and
+  The Best Mini Fish Gripper Tool On The Water featuring Kryptek camo.  Grip and
   lift your fish with the extra wide jaw and magnetic release.
 billable_weight: 6
 categories:
@@ -28,7 +28,7 @@ left_column_html: >-
   Kryptek Camo technology, and jaw trigger.</p>
 right_column_html: >-
   <ul><li>Magnetic Release</li><li>Aluminum body and jaw trigger</li><li>Kryptek
-  Camo Technology</li><li>Extra wide jaw opening</li><li>Ergonomic foam
+  camo technology</li><li>Extra wide jaw opening</li><li>Ergonomic foam
   grip</li><li>Comfortable palm design</li><li>Compact &amp;
   lightweight</li></ul>
 warranty_left_column_html: >-
