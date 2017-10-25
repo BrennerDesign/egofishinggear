@@ -33,7 +33,7 @@ right_column_html: >-
   lock intervals</li><li>Works with all S1 or S2 net heads and attachment
   tools.</li></ul>
 warranty_left_column_html: >-
-  <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
+  <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO accessory to be free of defects in material and workmanship
   for a period of two (2) years from the date of original purchase.</p><div
   class="divider">&nbsp;</div><p><strong>If your EGO fishing accessory exhibits
