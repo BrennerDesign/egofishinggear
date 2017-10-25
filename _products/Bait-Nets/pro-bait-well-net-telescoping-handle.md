@@ -4,7 +4,7 @@ subheading: Telescoping Handle
 order_number: 10
 display_product: true
 forsale_online: true
-description: EGO Pro Bait Well Net comes with a Telescoping Handle.
+description: Pro Bait Well Net comes with a Telescoping Handle.
 billable_weight: 7
 categories:
   - bait-nets
