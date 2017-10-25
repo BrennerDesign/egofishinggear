@@ -115,7 +115,7 @@ header_links:
             link_class: filter_selector s1_gen_krypyt
       - column: Column 4
         links:
-          - name: Handle Tools
+          - name: EGO Handle Tools
             link: /ego-attachment-tools/
             link_class: filter_selector landing
           - name: EGO Kryptek Hat
