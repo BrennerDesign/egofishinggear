@@ -1,6 +1,6 @@
 ---
 name: EGO REACH—RUBBER NET
-subheading: Telescoping Handle Reaching up to 8.5ft
+subheading: Telescoping Handle Extends to 8.5ft
 order_number: 2
 display_product: true
 forsale_online: true
@@ -30,8 +30,8 @@ left_column_html: >-
   18&rdquo;</li><li>Bag Depth: 15&rdquo;&nbsp;</li><li>Reaches up to
   8.5ft</li><li>Unique Scoop Design</li><li>Non-Tangle/Hook-Free Rubber
   Mesh</li><li>Telescoping Quick Twist-Lock Handle</li><li>Product Weight: 2.0
-  lbs</li></ul><div class="divider">&nbsp;</div><h7>official fishing net of Crappie
-  USA</h7><p><img alt="" src="/images/crappieUSA.jpg" /></p>
+  lbs</li></ul><div class="divider">&nbsp;</div><h7>official fishing net of
+  Crappie USA</h7><p><img alt="" src="/images/crappieUSA.jpg" /></p>
 right_column_html: >-
   <h7><p>RUBBER MESH</p></h7><p><img alt="" src="/images/Rubber_400x150.jpg"
   /></p><p>&nbsp;</p>
