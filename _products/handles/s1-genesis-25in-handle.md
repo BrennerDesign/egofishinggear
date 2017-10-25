@@ -1,5 +1,5 @@
 ---
-name: 'S1 Geneis 25&#34; handle'
+name: 'S1 Genesis 25&#34; handle'
 subheading: Fits All S1 or S2 Net Heads or Attachment Tools
 order_number: 70
 display_product: true
