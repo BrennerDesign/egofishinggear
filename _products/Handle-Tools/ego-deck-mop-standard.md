@@ -20,7 +20,7 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <ul><li>Attaches to any S2 Slider or S1 Genesis handle</li><li>Highly
+  <ul><li>Attaches to any S2 Slider or S1 Genesis handles</li><li>Highly
   absorbent microfiber material</li><li>Replaceable mop head</li><li>Ring out by
   hand</li></ul>
 right_column_html:
