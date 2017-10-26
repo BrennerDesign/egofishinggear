@@ -22,7 +22,8 @@ filter_mesh:
 left_column_html: >-
   <p>Floating Bait Net is great for capturing live bait along the beach or in
   small bait wells and pails.&nbsp;</p><p>&nbsp;</p><ul><li>18&rdquo; high
-  strength polypro handle</li></ul>
+  strength polypro handle</li><li>8&rdquo; square hoop</li><li>8&rdquo; mesh bag
+  depth</li><li>Available in 3/16&rdquo; mesh size</li><li>Floats</li></ul>
 right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
