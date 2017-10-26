@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—LARGE RUBBER COATED NYLON NET
-subheading: 'Standard Handle—Extends 29&#34;–60&#34;'
+subheading: 'Standard Handle—Extends 29&#34; to 60&#34;'
 order_number: 111
 display_product: true
 forsale_online: true
@@ -35,20 +35,20 @@ left_column_html: >-
   of the handle extension length throughout the fish capturing process. The
   innovative modular platform also allows the handle to detach, providing
   interchangeability of attachment tools and compact storage.</p><div
-  class="divider">&nbsp;</div><p>HANDLE EXTENDS</p><p>29" &mdash; 60"</p><div
+  class="divider">&nbsp;</div><p>HANDLE EXTENDS</p><p>29" to 60"</p><div
   class="divider">&nbsp;</div><p>LOAD
   CAPACITY</p><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
-  handle - 29" extends to 60"</li><li>Mesh bag: Rubber coated nylon
-  mesh</li><li>Bag depth: 31&rdquo;</li><li>Hoop size: Large 19&rdquo; x
+  handle - 29" extends to 60"</li><li>Mesh Bag: Rubber coated nylon
+  mesh</li><li>Bag Depth: 31&rdquo;</li><li>Hoop Size: Large 19&rdquo; x
   21&rdquo;</li><li>Minimal water drag</li><li>Weight: 2.45
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>RUBBER COATED NYLON MESH</h7><p><img alt=""
   src="/images/Nylon_400x150.jpg" /></p><div
-  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
+  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGEMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>EGO Fishing Gear warrants your EGO
