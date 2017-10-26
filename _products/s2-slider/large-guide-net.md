@@ -47,7 +47,7 @@ left_column_html: >-
   EXTENDS</h7><p>29" to&nbsp; 60"</p><div class="divider">&nbsp;</div><h7>Load
   Capacity</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
-  Extension</strong>&mdash;20lbs<p>&nbsp;</p><div
+  Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
   handle - 29" extends to 60"</li><li>Mesh Bag: Measure Net bag / hands-free
   fish measurement</li><li>Bag Depth: 20&rdquo;</li><li>Zip on/off replaceable
