@@ -1,6 +1,6 @@
 ---
 name: 'S2 SLIDER—LARGE 22&#34; PVC NET'
-subheading: 'Standard Handle—Extends 29&#34;–60&#34;'
+subheading: 'Standard Handle—Extends 29&#34; to 60&#34;'
 order_number: 115
 display_product: true
 forsale_online: true
@@ -34,14 +34,14 @@ left_column_html: >-
   of the handle extension length throughout the fish capturing process. The
   innovative modular platform also allows the handle to detach, providing
   interchangeability of attachment tools and compact storage.</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29" &mdash; 60"</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29" to 60"</p><div
   class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
-  handle - 29" extends to 60"</li><li>Mesh bag: PVC coated mesh</li><li>Bag
-  depth: 20&rdquo; with flat bottom</li><li>Hoop size: Large 22&rdquo; x
+  handle - 29" extends to 60"</li><li>Mesh Bag: PVC coated mesh</li><li>Bag
+  Depth: 20&rdquo; with flat bottom</li><li>Hoop Size: Large 22&rdquo; x
   23&rdquo;</li><li>Weight: 2.65 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>PVC COATED MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
