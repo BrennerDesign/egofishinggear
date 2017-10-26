@@ -48,11 +48,11 @@ left_column_html: >-
   Capacity</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
+  class="divider">&nbsp;</div><ul><li>Innovative grip design</li><li>S2 Slider
   handle - 29" extends to 60"</li><li>Mesh Bag: Measure Net bag / hands-free
   fish measurement</li><li>Bag Depth: 20&rdquo;</li><li>Zip on/off replaceable
   mesh bag</li><li>Measure fish up to 40 inches</li><li>Hoop Size: Large
-  19&rdquo; x 21&rdquo;</li><li>Weight: 3.15 lbs</li></ul><div>&nbsp;</div></h7>
+  19&rdquo; x 21&rdquo;</li><li>Weight: 3.15 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>PVC COATED MEASURE NET</h7><p><img alt=""
   src="/uploads/MeasureNet_400x150.jpg" /></p><div
