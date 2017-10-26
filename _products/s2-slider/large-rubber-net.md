@@ -39,7 +39,7 @@ left_column_html: >-
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
+  class="divider">&nbsp;</div><ul><li>Innovative grip design</li><li>S2 Slider
   handle - 29" extends to 60"</li><li>Mesh Bag: Lightweight non-tangle rubber
   mesh</li><li>Bag Depth: 15&rdquo; with flat bottom (Stretches up to 1.5X with
   load)</li><li>Hoop Size: Large 19&rdquo; x 21&rdquo;</li><li>Weight: 3.35
