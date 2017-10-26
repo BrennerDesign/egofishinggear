@@ -151,7 +151,7 @@ $(document).ready(function() {
 
 	// flex slider - replacement parts sliders
 	replacementSlider = $('.replacement_slider').flexslider({
-		animation: "slide",
+		animation: "fade",
 		animationLoop: true,
 		controlNav: false,
 		directionNav: true,
