@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—COMPACT PVC NET
-subheading: 'Compact Handle—Extends 18&#34;—36&#34;'
+subheading: 'Compact Handle—Extends 18&#34; to 36&#34;'
 order_number: 102
 display_product: true
 forsale_online: true
@@ -31,18 +31,18 @@ slides:
 left_column_html: >-
   <p>The EGO S2 Slider Compact PVC Coated Landing Net comes with the
   revolutionary S2 Slider extension handle technology, providing maximum reach
-  with the shortest possible handle. The S2 Slider modular fishing net platform
-  also allows the handle to detach, providing interchangeability of attachment
-  tools, easy storage on kayaks and boats with limited space.&nbsp;</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18" &mdash; 36"</p><div
+  with the shortest possible handle. The S2 Slider modular platform also allows
+  the handle to detach, providing interchangeability of attachment tools and
+  easy storage on kayaks and boats with limited space.&nbsp;&nbsp;</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18" to 36"</p><div
   class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
-  Extension</strong>&mdash;28lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
-  Design</li><li>18" Slider Handle Extends To 36"</li><li>Non-Tangle PVC Coated
-  Mesh</li><li>Flat Bottom / 16" Bag Depth</li><li>Medium Hoop Size 17" x
-  19"</li></ul><div>&nbsp;</div>
+  Extension</strong>&mdash;20lbs</p><div
+  class="divider">&nbsp;</div><ul><li>Innovative grip design</li><li>S2 Slider
+  handle &ndash; 18&rdquo; extends To 36"</li><li>Mesh Bag: PVC coated
+  mesh</li><li>Bag Depth: 16&rdquo; with flat bottom</li><li>Hoop Size: Medium
+  17" x 19"</li><li>Weight: 1.95 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <p>PVC COATED MESH</p><p><img alt="" src="/images/PVC_400x150.jpg" /></p><div
   class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
