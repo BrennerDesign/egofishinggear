@@ -46,7 +46,7 @@ left_column_html: >-
 right_column_html: >-
   <h7>PVC COATED MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
   /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp;
-  ACKNOWLEDGMENTS</h7><p><img alt="" src="/images/spec2.jpg" /></p>
+  ACKNOWLEDGEMENTS</h7><p><img alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>EGO Fishing Gear
   warrants your EGO landing net to be free of defects in material and
