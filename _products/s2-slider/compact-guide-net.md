@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—COMPACT GUIDE NET
-subheading: 'Compact Handle—Extends 18&#34;—36&#34;'
+subheading: 'Compact Handle—Extends 18&#34; to 36&#34;'
 order_number: 105
 display_product: true
 forsale_online: true
@@ -43,20 +43,20 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Compact Guide Landing Net features both the revolutionary
-  S2 Slider extension handle and Measure Net technology. The S2 Slider handle
-  provides maximum reach with the shortest possible handle. The measure net
-  provides the advantage of hands-free measurement for fish up to 36 inches in
-  length. The modular fishing net platform also features a detachable handle for
-  compact storage on kayaks and boats with limited
-  space.&nbsp;</p><p>&nbsp;</p><div class="divider">&nbsp;</div><h7>HANDLE
-  EXTENDS</h7><p>18" &mdash; 36"</p><div class="divider">&nbsp;</div><h7>LOAD
+  <p>The EGO S2 Slider Compact Guide Landing Net features the revolutionary S2
+  Slider extension handle and Measure Net technology. The Measure Net provides
+  the advantage of hands-free measurement for fish up to 36 inches in length and
+  the handle offers easy extension and retraction. The modular fishing net
+  platform also features a detachable handle for compact storage on kayaks and
+  boats with limited space.&nbsp;</p><p>&nbsp;</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18" to 36"</p><div
+  class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
-  Extension</strong>&mdash;28lbs</p><div
+  Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative grip design</li><li>S2 Slider
   handle &ndash; 18&rdquo; extends to 36"</li><li>Zip on/off replaceable mesh
-  bag</li><li>Bag depth: 17&rdquo;</li><li>Hoop size: Medium 17" x
+  bag</li><li>Bag Depth: 17&rdquo;</li><li>Hoop Size: Medium 17" x
   19"</li><li>Measure fish up to 36 inches</li><li>Weight: 2.55
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
