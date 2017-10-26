@@ -34,7 +34,7 @@ left_column_html: >-
   extension length throughout the fish capturing process. The innovative modular
   platform also allows the handle to detach, providing interchangeability of
   attachment tools and compact storage.</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29" &mdash; 60"</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29" to 60"</p><div
   class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
