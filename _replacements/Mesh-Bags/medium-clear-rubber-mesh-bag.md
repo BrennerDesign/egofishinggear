@@ -11,7 +11,7 @@ billable_weight: 2
 categories:
   - replacement-parts
 price: '17.99'
-sku: RM71261
+sku: RM71262
 tag_color:
 tag_text:
 replacement_type: bags
