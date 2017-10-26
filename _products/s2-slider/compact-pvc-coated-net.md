@@ -45,7 +45,7 @@ left_column_html: >-
   17" x 19"</li><li>Weight: 1.95 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <p>PVC COATED MESH</p><p><img alt="" src="/images/PVC_400x150.jpg" /></p><div
-  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
+  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGEMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>EGO Fishing Gear
