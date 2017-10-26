@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—MEDIUM PVC NET
-subheading: 'Standard Handle—Extends 29&#34;–60&#34;'
+subheading: 'Standard Handle—Extends 29&#34; to 60&#34;'
 order_number: 107
 display_product: true
 forsale_online: true
@@ -34,18 +34,18 @@ left_column_html: >-
   of the handle extension length throughout the fish capturing process. The
   innovative modular platform also allows the handle to detach, providing
   interchangeability of attachment tools and compact storage.</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29" &mdash; 60"</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29" to 60"</p><div
   class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
-  handle - 29" extends to 60"</li><li>Mesh bag: PVC coated mesh</li><li>Bag
-  depth: 16&rdquo; with flat bottom</li><li>Hoop size: Medium 17" x
+  handle - 29" extends to 60"</li><li>Mesh Bag: PVC coated mesh</li><li>Bag
+  Depth: 16&rdquo; with flat bottom</li><li>Hoop Size: Medium 17" x
   19"</li><li>Weight: 2.55 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <p>PVC COATED MESH</p><p><img alt="" src="/images/PVC_400x150.jpg" /></p><div
-  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
+  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGEMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>EGO Fishing Gear warrants your EGO
