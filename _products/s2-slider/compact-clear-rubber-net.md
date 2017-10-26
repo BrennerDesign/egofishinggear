@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—COMPACT CLEAR RUBBER NET
-subheading: 'Compact Handle—Extends 18&#34;—36&#34;'
+subheading: 'Compact Handle—Extends 18&#34; to 36&#34;'
 order_number: 104
 display_product: true
 forsale_online: true
@@ -34,15 +34,15 @@ left_column_html: >-
   with the shortest possible handle. The S2 Slider modular platform also allows
   the handle to detach, providing interchangeability of attachment tools, easy
   storage on kayaks and boats with limited space.&nbsp;&nbsp;</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18" &mdash; 36"</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>18" to 36"</p><div
   class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;28lbs<br /><strong>Full
-  Extension</strong>&mdash;28lbs</p><div
+  Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative grip design</li><li>S2 Slider
-  handle &ndash; 18&rdquo; extends to 36"</li><li>Mesh bag: Lightweight
-  non-tangle clear rubber mesh</li><li>Bag depth: 15&rdquo; with flat bottom
-  (Stretches up to 1.5X with load)</li><li>Hoop size: Medium 17" x
+  handle &ndash; 18&rdquo; extends to 36"</li><li>Mesh Bag: Lightweight
+  non-tangle clear rubber mesh</li><li>Bag Depth: 15&rdquo; with flat bottom
+  (Stretches up to 1.5X with load)</li><li>Hoop Size: Medium 17" x
   19"</li><li>Weight: 2.15 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <p>LIGHTWEIGHT CLEAR RUBBER MESH</p><p><img alt=""
