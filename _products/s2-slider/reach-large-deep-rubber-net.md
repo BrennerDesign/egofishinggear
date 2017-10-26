@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—REACH LARGE DEEP RUBBER NET
-subheading: 'REACH Handle—Extends 48&#34;–108&#34;'
+subheading: 'REACH Handle—Extends 48&#34; to 108&#34;'
 order_number: 127
 display_product: true
 forsale_online: true
@@ -35,20 +35,20 @@ left_column_html: >-
   real-time control of the handle extension length throughout the fish capturing
   process. The innovative fishing net modular platform also allows the handle to
   detach, providing interchangeability of attachment tools and compact
-  storage.</p><div class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>48"
-  &mdash; 108"</p><div class="divider">&nbsp;</div><h7>LOAD
+  storage.</p><div class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>48" to
+  108"</p><div class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;20lbs<br /><strong>Full
   Extension</strong>&mdash;12lbs</p><div
-  class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
-  handle - 48" extends to 108"</li><li>Mesh bag: Lightweight non-tangle deep
-  rubber mesh</li><li>Bag depth:&nbsp; 24&rdquo; with flat bottom (Stretches up
-  to 1.5X with load)</li><li>Hoop size: Large 19&rdquo; x
+  class="divider">&nbsp;</div><ul><li>Innovative grip design</li><li>S2 Slider
+  handle - 48" extends to 108"</li><li>Mesh Bag: Lightweight non-tangle deep
+  rubber mesh</li><li>Bag Depth:&nbsp; 24&rdquo; with flat bottom (Stretches up
+  to 1.5X with load)</li><li>Hoop Size: Large 19&rdquo; x
   21&rdquo;</li><li>Weight: 4.2 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7>DEEP RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg" /></p><div
-  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
-  alt="" src="/images/spec2.jpg" /></p>
+  <h7>DEEP RUBBER MESH</h7><p><img alt="" src="/images/Rubber_400x150.jpg"
+  /></p><div class="divider">&nbsp;</div><h7>AWARDS &amp;
+  ACKNOWLEDGEMENTS</h7><p><img alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>EGO Fishing Gear warrants your EGO
   landing net to be free of defects in material and workmanship(excluding net
