@@ -40,8 +40,8 @@ left_column_html: >-
   Extension</strong>&mdash;28lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative grip design</li><li>S2 Slider
-  handle &ndash; 18&rdquo; extends to 36"</li><li>Mesh bag: Nylon</li><li>Bag
-  depth: 28"</li><li>Hoop Size: Medium 17" x 19"</li><li>Minimal water
+  handle &ndash; 18&rdquo; extends to 36"</li><li>Mesh Bag: Nylon</li><li>Bag
+  Depth: 28"</li><li>Hoop Size: Medium 17" x 19"</li><li>Minimal water
   drag</li><li>Weight: 1.75 lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p><div
