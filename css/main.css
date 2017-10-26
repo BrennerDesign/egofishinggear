@@ -3219,8 +3219,7 @@ html[xmlns] .slides {
 .flexslider .slides {
   zoom: 1;
   height: 100%;
-  min-height: 240px;
-  padding-left: 0; }
+  min-height: 240px; }
 
 /* Direction Nav */
 .flex-direction-nav {
