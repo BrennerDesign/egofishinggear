@@ -61,7 +61,7 @@ left_column_html: >-
 right_column_html: >-
   <h7>PVC COATED MEASURE NET</h7><p><img alt=""
   src="/uploads/MeasureNet_400x150.jpg" /></p><div
-  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGMENTS</h7><p><img
+  class="divider">&nbsp;</div><h7>AWARDS &amp; ACKNOWLEDGEMENTS</h7><p><img
   alt="" src="/images/spec2.jpg" /></p>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>2-Year Limited Warranty</h7></p><p>EGO Fishing Gear
