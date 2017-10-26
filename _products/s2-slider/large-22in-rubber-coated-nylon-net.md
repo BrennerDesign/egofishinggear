@@ -1,6 +1,6 @@
 ---
 name: 'S2 SLIDER—LARGE 22&#34; RUBBER COATED NYLON NET'
-subheading: 'Standard Handle—Extends 29&#34;–60&#34;'
+subheading: 'Standard Handle—Extends 29&#34; to 60&#34;'
 order_number: 116
 display_product: true
 forsale_online: true
@@ -35,14 +35,14 @@ left_column_html: >-
   control of the handle extension length throughout the fish capturing process.
   The innovative modular platform also allows the handle to detach, providing
   interchangeability of attachment tools and compact storage.</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29" &mdash; 60"</p><div
+  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29" to 60"</p><div
   class="divider">&nbsp;</div><h7>LOAD
   CAPACITY</h7><p><strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs</p><div
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
-  handle - 29" extends to 60"</li><li>Mesh bag: Rubber coated nylon
-  mesh</li><li>Bag depth: 31&rdquo;</li><li>Hoop size: Large 22&rdquo; x
+  handle - 29" extends to 60"</li><li>Mesh Bag: Rubber coated nylon
+  mesh</li><li>Bag Depth: 31&rdquo;</li><li>Hoop Size: Large 22&rdquo; x
   23&rdquo;</li><li>Minimal water drag</li><li>Weight: 2.45
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
