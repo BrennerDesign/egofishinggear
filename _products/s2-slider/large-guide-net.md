@@ -1,6 +1,6 @@
 ---
 name: S2 SLIDER—LARGE GUIDE NET
-subheading: 'Standard Handle—Extends 29&#34;–60&#34;'
+subheading: 'Standard Handle—Extends 29&#34; to 60&#34;'
 order_number: 115
 display_product: true
 forsale_online: true
@@ -38,21 +38,20 @@ slides:
     video: 'https://www.youtube.com/embed/b8Bd7PJ7KoU'
     is_video: true
 left_column_html: >-
-  <p>The EGO S2 Slider Guide Large Landing Net features both the revolutionary
-  S2 Slider extension handle and Measure Net technology. The S2 Slider handle
-  provides maximum reach with the shortest possible handle. The measure net
-  provides the advantage of hands-free measurement for fish up to 36 inches in
-  length. The modular fishing net platform also features a detachable handle for
-  compact storage on kayaks and boats with limited space.&nbsp;</p><div
-  class="divider">&nbsp;</div><h7>HANDLE EXTENDS</h7><p>29"&mdash; 60"</p><div
-  class="divider">&nbsp;</div><h7>Load
+  <p>The EGO S2 Slider Large Guide Landing Net features the revolutionary S2
+  Slider extension handle and Measure Net technology. The Measure Net provides
+  the advantage of hands-free measurement for fish up to 40 inches in length and
+  the handle offers easy extension and retraction. The modular fishing net
+  platform also features a detachable handle for compact storage on kayaks and
+  boats with limited space.</p><div class="divider">&nbsp;</div><h7>HANDLE
+  EXTENDS</h7><p>29" to&nbsp; 60"</p><div class="divider">&nbsp;</div><h7>Load
   Capacity<strong>Retracted</strong>&mdash;30lbs<br /><strong>Partial
   Extension</strong>&mdash;24lbs<br /><strong>Full
   Extension</strong>&mdash;20lbs<p>&nbsp;</p><div
   class="divider">&nbsp;</div><ul><li>Innovative Grip Design</li><li>S2 Slider
-  handle - 29" extends to 60"</li><li>Mesh bag: Measure Net bag / hands-free
-  fish measurement</li><li>Bag depth: 20&rdquo;</li><li>Zip on/off replaceable
-  mesh bag</li><li>Measure fish up to 40 inches</li><li>Hoop size: Large
+  handle - 29" extends to 60"</li><li>Mesh Bag: Measure Net bag / hands-free
+  fish measurement</li><li>Bag Depth: 20&rdquo;</li><li>Zip on/off replaceable
+  mesh bag</li><li>Measure fish up to 40 inches</li><li>Hoop Size: Large
   19&rdquo; x 21&rdquo;</li><li>Weight: 3.15 lbs</li></ul><div>&nbsp;</div></h7>
 right_column_html: >-
   <h7>PVC COATED MEASURE NET</h7><p><img alt=""
