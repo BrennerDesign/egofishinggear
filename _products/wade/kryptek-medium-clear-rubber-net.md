@@ -26,12 +26,12 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO Kryptek WADE Medium Clear Rubber fishing net features a lightweight
-  and durable hexagonal extruded aluminum handle, innovative grip design and an
-  11" elastic adjustable/removable tether. Add in the fact that the nets float,
-  wade, and kayak fisherman have the ultimate net for a successful day on the
-  water! &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
-  CAPACITY</h7><p><strong>30lbs</strong></p><div
+  <p>The EGO WADE- Kryptek Medium Clear Rubber fishing net features a
+  lightweight and durable hexagonal extruded aluminum handle, innovative grip
+  design and an 11" elastic adjustable/removable tether. Include the fact that
+  this net floats and you have the ultimate landing net designed for the demands
+  of wade and kayak fisherman!&nbsp;</p><div class="divider">&nbsp;</div><h7>MAX
+  LOAD CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
   clip</li><li>Unique hoop scoop design</li><li>Handle Length:
