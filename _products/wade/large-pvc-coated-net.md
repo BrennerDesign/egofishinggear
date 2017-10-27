@@ -29,12 +29,12 @@ left_column_html: >-
   lightweight and durable hexagonal extruded aluminum handle, innovative grip
   design and an 11" elastic adjustable/removable tether. Add in the fact that
   the nets float, wade, and kayak fisherman have the ultimate net for a
-  successful day on the water!</p><div class="divider">&nbsp;</div><p>MAX LOAD
-  CAPACITY</p><p><strong>30lbs</strong></p><div
+  successful day on the water!</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
   Clip</li><li>Unique Hoop Scoop Design</li><li>Mesh bag: PVC coated
-  mesh</li><li>Handle Length: 6"</li><li>Bag depth: 20&rdquo; Flat
+  mesh</li><li>Handle Length: 11"</li><li>Bag depth: 20&rdquo; Flat
   Bottom</li><li>Hoop size: Large 19" x 21"</li><li>Product Weight: 1.1
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
