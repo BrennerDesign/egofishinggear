@@ -29,11 +29,11 @@ left_column_html: >-
   extruded aluminum handle, innovative grip design, an 11" elastic
   adjustable/removable clip on tether and the ability to float. What a perfect
   Kayak fishing net or Wade fishing net. &nbsp;EGO Fishing Nets are the first
-  choice for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><p>MAX
-  LOAD CAPACITY</p><p><strong>30lbs</strong></p><div
+  choice for the Savvy angler. &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX
+  LOAD CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
   Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
-  Clip</li><li>Unique Hoop Scoop Design</li><li>Handle Length: 6"</li><li>Mesh
+  Clip</li><li>Unique Hoop Scoop Design</li><li>Handle Length: 11"</li><li>Mesh
   bag: Lightweight non-tangle rubber mesh</li><li>Bag depth: 15" Flat Bottom
   (Stretches up to 1.5X with load)</li><li>Hoop size: Medium 17" x
   19"</li><li>Product Weight: 2.3 lbs</li></ul><div>&nbsp;</div>
