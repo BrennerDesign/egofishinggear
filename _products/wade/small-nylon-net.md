@@ -1,6 +1,6 @@
 ---
 name: EGO WADE—SMALL NYLON NET
-subheading: Clip On Tether—14in x 16in Hoop
+subheading: 'Clip On Tether—14&#34; x 16&#34; Hoop'
 order_number: 210
 display_product: true
 forsale_online: true
@@ -25,17 +25,17 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO WADE &amp; Kayak Medium Rubber fishing net features a lightweight
-  and durable hexagonal extruded aluminum handle, innovative grip design and an
-  11" elastic adjustable/removable tether. Add in the fact that the nets float,
-  wade, and kayak fisherman have the ultimate net for a successful day on the
-  water!&nbsp; &nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  <p>The EGO WADE-Small Nylon fishing net features a lightweight and durable
+  hexagonal extruded aluminum handle, innovative grip design and an 11" elastic
+  adjustable/removable tether. Include the fact that this net floats and you
+  have the ultimate landing net designed for the demands of wade and kayak
+  fisherman!&nbsp;</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
-  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
-  Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
-  Clip</li><li>Non-Tangle/Hook-Free Nylon Mesh</li><li>Unique Hoop Scoop
-  Design</li><li>Handle Length: 11"</li><li>Bag depth: 20&rdquo;</li><li>Hoop
-  size: Medium 14" x 16"</li><li>Product Weight: 0.65
+  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
+  design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
+  clip</li><li>Non-Tangle/hook-free nylon mesh</li><li>Unique hoop scoop
+  design</li><li>Handle Length: 11"</li><li>Bag Depth: 20&rdquo;</li><li>Hoop
+  Size: Medium 14" x 16"</li><li>Product Weight: 0.65
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
