@@ -1,6 +1,6 @@
 ---
 name: EGO WADE—MEDIUM RUBBER NET
-subheading: 'Clip On Tether—17 &#34; x 19 &#34; Hoop'
+subheading: 'Clip On Tether—17&#34; x 19&#34; Hoop'
 order_number: 260
 display_product: true
 forsale_online: true
