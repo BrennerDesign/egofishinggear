@@ -1,6 +1,6 @@
 ---
 name: EGO WADE—LARGE RUBBER COATED NYLON NET
-subheading: Clip On Tether—19in x 21in Hoop
+subheading: 'Clip On Tether—19&#34; x 21&#34; Hoop'
 order_number: 300
 display_product: true
 forsale_online: true
@@ -25,17 +25,17 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO WADE &amp; Kayak Large Rubber Coated Nylon fishing net features a
-  lightweight and durable hexagonal extruded aluminum handle, innovative grip
-  design and an 11" elastic adjustable/removable tether. Add in the fact that
-  the nets float, wade, and kayak fisherman have the ultimate net for a
-  successful day on the water!</p><div class="divider">&nbsp;</div><p>MAX LOAD
+  <p>The EGO WADE-Large Rubber Coated Nylon fishing net features a lightweight
+  and durable hexagonal extruded aluminum handle, innovative grip design and an
+  11" elastic adjustable/removable tether. Include the fact that this net floats
+  and you have the ultimate landing net designed for the demands of wade and
+  kayak fisherman!&nbsp;</p><div class="divider">&nbsp;</div><p>MAX LOAD
   CAPACITY</p><p><strong>30lbs</strong></p><div
-  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative Grip
-  Design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
-  Clip</li><li>Unique Hoop Scoop Design</li><li>Mesh bag: Rubber Coated
-  Nylon</li><li>Handle Length: 6"</li><li>Bag depth: 31&rdquo;</li><li>Hoop
-  size: Large 19" x 21"</li><li>Product Weight: 1.0
+  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
+  design</li><li>11" Elastic adjustable &amp; removable tether</li><li>Aluminum
+  clip</li><li>Unique Hoop scoop Design</li><li>Mesh Bag: Rubber coated
+  nylon</li><li>Handle Length: 11"</li><li>Bag Depth: 31&rdquo;</li><li>Hoop
+  Size: Large 19" x 21"</li><li>Product Weight: 1.0
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
   <h7>RUBBER COATED NYLON MESH</h7><p><img alt=""
