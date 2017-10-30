@@ -7,13 +7,23 @@ function showHideProducts(jqEl, fromHandler) {
 	var scopedItem = jqEl.attr('id');
 	if (jqEl.is(':checked')) {
 		$('.product_specs.cards .product_card.' + scopedItem).fadeIn();
+
+		if ($('.filter_block.replacement').length > 0) {
+			$('.product_specs.cards .product_card:not(.' + scopedItem + ')').fadeOut();
+		}
 	} else {
 
 		if ($('.filter_expand input[type=checkbox]').is(':checked')) {
 			$('.product_specs.cards .product_card.' + scopedItem).fadeOut();
 		} else {
-			jqEl.closest('.filter_expand').removeClass('checked');
-			$('.product_specs.cards .product_card').fadeIn();
+
+			if ($('.filter_block.replacement').length > 0) {
+				$('.product_specs.cards .product_card.bags').fadeIn();
+				$('.product_specs.cards .product_card.hoop, .product_specs.cards .product_card.parts').fadeOut();
+			} else {
+				jqEl.closest('.filter_expand').removeClass('checked');
+				$('.product_specs.cards .product_card').fadeIn();
+			}
 		}
 	}
 }
