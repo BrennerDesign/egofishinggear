@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS—LARGE GUIDE NET
-subheading: 31in Removable Handle — 19in x 21in Hoop
+subheading: '31inch Removable Handle — 19&#34; x 21&#34; Hoop'
 order_number: 170
 display_product: true
 forsale_online: true
@@ -34,15 +34,15 @@ slides:
     is_video: false
 left_column_html: >-
   <p>The EGO S1 Genesis Large Guide fishing nets feature Measure Net technology
-  and a strong lightweight hexagonal extruded aluminum handle design that
-  provides dependable functionality. With a simple twist of the wrist, any EGO
-  net head or attachment tool can be securely fastened and ready to use. The
+  for hands-free fish measurement on fish up to 40&rdquo; long. The lightweight
+  detachable hexagonal aluminum handle provides dependable functionality while
+  giving the angler the ability to change net heads or add attachment tools. The
   modular platform allows for component interchangeability and compact
   storage.</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>Removable handle &ndash; 31"</li><li>Zip on/off replaceable
-  mesh bag</li><li>Bag depth: 20&rdquo;</li><li>Hoop size: Medium 19" x
+  mesh bag</li><li>Bag Depth: 20&rdquo;</li><li>Hoop Size: Medium 19" x
   21"</li><li>Measure fish up to 40 inches</li><li>Weight: 1.85
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
