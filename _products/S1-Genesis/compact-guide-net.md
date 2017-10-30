@@ -50,7 +50,7 @@ left_column_html: >-
   19"</li><li>Measure fish up to 36 inches</li><li>Weight: 1.45
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
-  <h7></h7><p>PVC COATED MEASURE NET<img alt=""
+  <p><h7>PVC COATED MEASURE NET></h7<img alt=""
   src="/images/MeasureNet_400x150.jpg" /></p><p>&nbsp;</p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
