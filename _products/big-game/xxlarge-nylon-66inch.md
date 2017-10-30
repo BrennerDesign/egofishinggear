@@ -1,6 +1,6 @@
 ---
 name: EGO BIG GAME—XXLARGE NYLON NET
-subheading: '66 inch Handle—27&#34; x 33&#34; Hoop'
+subheading: '66inch Handle—27&#34; x 33&#34; Hoop'
 order_number: 50
 display_product: true
 forsale_online: false
@@ -23,15 +23,17 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO XXLarge Nylon Big Game landing net with a 66" handle makes fishing
-  easy for Salmon, Striper, and other large fish. Designed to float for easy
-  recovery if dropped or blown overboard. &nbsp;Designed with a functional grip
-  that aids in net control, eliminates bulky yoke assemblies and protects mono
-  line from being frayed or cut. &nbsp;EGO Large Fishing Nets are the first
-  choice for the Savvy angler.</p><div
-  class="divider">&nbsp;</div><ul><li>Floats</li><li>Product Weight:&nbsp; 3.0
-  lbs</li><li>Hoop: 27&rdquo; x 33&rdquo;</li><li>Handle: 66&rdquo; Anodized
-  Octagonal Aluminum</li><li>Bag Depth: 38&rdquo;&nbsp;</li></ul>
+  <p>The EGO XXLarge Nylon Big Game landing net with a 66" handle was developed
+  to provide the angler with better control when landing Salmon, Muskie,
+  Catfish, Striper, and other large fish. The functional grip aids in net
+  control, eliminates bulky yoke assemblies and protects mono line from being
+  frayed or cut. All EGO Big Game fishing nets float for easy recovery if
+  dropped or blown overboard. &nbsp;EGO Fishing Nets are the first choice for
+  the savvy anglers worldwide.</p><div
+  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
+  design</li><li>Handle: 66&rdquo; anodized octagonal aluminum</li><li>Mesh Bag:
+  Nylon</li><li>Bag Depth: 38"</li><li>Hoop: XXlarge 27&rdquo; x
+  33&rdquo;</li><li>Weight: 3.4 lbs</li></ul>
 right_column_html: <h7>NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg" /></p>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
