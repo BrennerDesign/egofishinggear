@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS—SMALL NYLON NET
-subheading: 13in Removable Handle — 14in x 16in Hoop
+subheading: '13inch Removable Handle — 14&#34; x 16&#34; Hoop'
 order_number: 10
 display_product: true
 forsale_online: true
@@ -27,14 +27,14 @@ left_column_html: >-
   <p>The innovative EGO S1 Genesis Small Nylon fishing net series utilizes a
   strong lightweight hexagonal extruded aluminum handle design that provides
   economical and dependable functionality.&nbsp; With a simple twist of the
-  wrist, any EGO net head or attachment tool can be securely fastened and ready
-  to use. The modular platform allows for easy transport, compact storage, and
-  maximum angler customization. &nbsp;&nbsp; &nbsp;</p><div
+  wrist, any EGO net head or attachment tool can be quickly secured and ready to
+  use. The modular platform allows for easy transport, compact storage, and
+  maximum angler customization.&nbsp;</p><div
   class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 13"</li><li>Mesh bag:
-  Nylon</li><li>Bag depth: 20"</li><li>Hoop Size: Small 14" x
+  design</li><li>Removable handle &ndash; 13"</li><li>Mesh Bag:
+  Nylon</li><li>Bag Depth: 20"</li><li>Hoop Size: Small 14" x
   16"</li><li>Minimal water drag</li><li>Weight: .95
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
