@@ -37,16 +37,16 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO S1 Genesis PVC Coated Compact Guide fishing nets feature Measure
-  Net technology and a strong lightweight hexagonal extruded aluminum handle
-  design that provides dependable functionality. With a simple twist of the
-  wrist, any EGO net head or attachment tool can be securely fastened and ready
-  to use. The modular platform allows for component interchangeability and
-  compact storage.</p><div class="divider">&nbsp;</div><h7>MAX LOAD
+  <p>The EGO S1 Genesis Compact Guide fishing nets feature Measure Net
+  technology for hands-free fish measurement on fish up to 36&rdquo; long. The
+  lightweight detachable hexagonal aluminum handle provides dependable
+  functionality while giving the angler the ability to change net heads or add
+  attachment tools. The modular platform allows for component interchangeability
+  and compact storage.</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
   design</li><li>Removable handle &ndash; 13"</li><li>Zip on/off replaceable
-  mesh bag</li><li>Bag depth: 17&rdquo;</li><li>Hoop size: Medium 17" x
+  mesh bag</li><li>Bag Depth: 17&rdquo;</li><li>Hoop Size: Medium 17" x
   19"</li><li>Measure fish up to 36 inches</li><li>Weight: 1.45
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
