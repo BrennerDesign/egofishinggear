@@ -1,5 +1,5 @@
 ---
-name: ' Kryptek S1 Genesis 25&#34; handle'
+name: 'Kryptek S1 Genesis 25&#34; handle'
 subheading: Fits All S1 or S2 Net Heads or Handle Tools
 order_number: 30
 display_product: true
@@ -26,16 +26,16 @@ left_column_html: >-
   interchangeability and compact storage. The handles are designed with a solid
   foam core body that provides floatation should it be dropped overboard.</p>
 right_column_html: >-
-  <div class="divider">&nbsp;</div><h7>30lbs&ndash;Max Load Capacity</h7><div
+  <div class="divider">&nbsp;</div><h7>Max Load Capacity&mdash;30lbs</h7><div
   class="divider">&nbsp;</div><ul><li>Solid foam core, floats when attached to
   any net head</li><li>Strong lightweight hexagonal extruded anodized aluminum
   design</li><li>Kryptek camo technology</li><li>30lbs&ndash;Max load capacity
   with all EGO net heads</li><li>Works with all S1 or S2 net heads and
   attachment tools.</li></ul>
 warranty_left_column_html: >-
-  <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products
-  warrants your EGO accessory to be free of defects in material and workmanship
-  for a period of two (2) years from the date of original purchase.</p><div
+  <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
+  accessory to be free of defects in material and workmanship for a period of
+  two (2) years from the date of original purchase.</p><div
   class="divider">&nbsp;</div><p><strong>If your EGO fishing accessory exhibits
   such a defect, Adventure Products will, at its option, replace or repair it
   without charge, provided the customer:</strong></p><p><strong>1) Returns the
