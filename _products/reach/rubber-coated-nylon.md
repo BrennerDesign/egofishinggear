@@ -24,14 +24,16 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO REACH, the ultimate crappie landing net features a telescoping
-  handle reaching up to 8.5ft. The official fishing net of Crappie
-  USA.&nbsp;</p><div class="divider">&nbsp;</div><ul><li>Hoop: 14&rdquo; x
-  18&rdquo;</li><li>Bag Depth: 15&rdquo;&nbsp;</li><li>Reaches up to
-  8.5ft&nbsp;</li><li>Unique Scoop Design</li><li>Non-Tangle/Hook-Free PVC
-  Coated Mesh</li><li>Telescoping Quick Twist-Lock Handle</li><li>Product
-  Weight: 1.8 lbs</li></ul><div class="divider">&nbsp;</div><h7>official fishing
-  net of Crappie USA</h7><p><img alt="" src="/images/crappieUSA.jpg" /></p>
+  <p>The EGO REACH PVC landing net was designed specifically to meet the unique
+  requirements of the serious crappie angler. The ultimate crappie landing net
+  features a 3-section quick twist lock telescoping handle that extends up to
+  8.5ft and is the official fishing net of Crappie USA.&nbsp;</p><div
+  class="divider">&nbsp;</div><ul><li>Extends to 8.5ft&nbsp;</li><li>Unique
+  Scoop Design</li><li>Handle: Quick twist lock 3 section aluminum</li><li>Mesh
+  Bag: PVC</li><li>Bag Depth: 15&rdquo;</li><li>Hoop: 14&rdquo; x
+  18&rdquo;</li><li>Product Weight: 1.8 lbs</li></ul><div
+  class="divider">&nbsp;</div><h7>official fishing net of Crappie
+  USA</h7><p><img alt="" src="/images/crappieUSA.jpg" /></p>
 right_column_html: >-
   <h7><p>PVC COATED MESH</p></h7><p><img alt=""
   src="/images/PVC_Small_400x150.jpg" /></p>
