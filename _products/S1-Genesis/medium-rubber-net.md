@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS—MEDIUM RUBBER NET
-subheading: 25in Removable Handle — 17in x 19in Hoop
+subheading: '25inch Removable Handle — 17&#34; x 19&#34; Hoop'
 order_number: 70
 display_product: true
 forsale_online: true
@@ -27,14 +27,14 @@ left_column_html: >-
   <p>The innovative EGO S1 Genesis Medium Rubber fishing net series utilizes a
   strong lightweight hexagonal extruded aluminum handle design that provides
   economical and dependable functionality.&nbsp; With a simple twist of the
-  wrist, any EGO net head or attachment tool can be securely fastened and ready
-  to use. The modular platform allows for easy transport, compact storage, and
-  maximum angler customization. &nbsp;&nbsp; &nbsp;</p><div
+  wrist, any EGO net head or attachment tool can be quickly secured and ready to
+  use. The modular platform allows for easy transport, compact storage, and
+  maximum angler customization.&nbsp;</p><div
   class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 25"</li><li>Mesh bag: Lightweight
-  non-tangle rubber mesh</li><li>Bag depth: 15" Flat Bottom (Stretches up to
+  design</li><li>Removable handle &ndash; 25"</li><li>Mesh Bag: Lightweight
+  non-tangle rubber mesh</li><li>Bag Depth: 15" Flat bottom (Stretches up to
   1.5X with load)</li><li>Hoop Size: Small 17" x 19"</li><li>Weight: 1.65
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
