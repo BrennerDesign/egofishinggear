@@ -27,11 +27,11 @@ left_column_html: >-
   should it be dropped overboard.</p>
 right_column_html: >-
   <div class="divider">&nbsp;</div><h7>Max Load Capacity&mdash;30lbs</h7><div
-  class="divider">&nbsp;</div><ul><li><ul><li>Solid foam core
-  body</li><li>Strong lightweight hexagonal extruded anodized aluminum
+  class="divider">&nbsp;</div><ul><li>Solid foam core body</li><li>Strong
+  lightweight hexagonal extruded anodized aluminum
   design</li><li>30lbs&ndash;Max load capacity with all EGO net
   heads</li><li>Works with all S1 or S2 net heads and attachment
-  tools.</li></ul></li></ul>
+  tools.</li></ul>
 warranty_left_column_html: >-
   <p><h7>2-Year Limited Warranty</h7></p><p>Adventure Products warrants your EGO
   accessory to be free of defects in material and workmanship for a period of
