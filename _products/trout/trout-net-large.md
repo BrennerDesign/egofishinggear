@@ -1,5 +1,5 @@
 ---
-name: EGO TROUT NET LARGE
+name: EGO LARGE TROUT NET
 subheading: Nylon Mesh
 order_number: 130
 display_product: true
@@ -24,13 +24,13 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO Large Nylon Trout Net is lightweight and has a built-in retractable
-  quick-draw tether plus a waistband clip. &nbsp;An ideal trout net for the
-  angler who needs a great net at a reasonable price.</p><div
-  class="divider">&nbsp;</div><ul><li>Product Weight: 0.5 lbs</li><li>Hoop:
-  13.5&rdquo; x 17&rdquo;</li><li>Bag Depth:
-  20&rdquo;&nbsp;</li><li>Non-Tangle/Hook-Free</li><li>Rubber Coated Nylon
-  Mesh</li><li>Waistband Clip-On</li><li>Retractable Quick-Draw</li></ul>
+  <p>The EGO Large Trout Net is lightweight and has a built-in retractable
+  quick-draw tether with waistband clip. &nbsp;It is the ideal trout net for the
+  angler who needs a great trout net at an economical price.</p><div
+  class="divider">&nbsp;</div><ul><li>Retractable Quick-Draw</li><li>Waistband
+  Clip-On</li><li>Handle: 8&rdquo; injection mold plastic</li><li>Mesh Bag:
+  Woven polyester fabric</li><li>Bag Depth: 20&rsquo;</li><li>Hoop: 13.5&rdquo;
+  x 17&rdquo;</li><li>Product Weight: 0.5 lbs</li></ul>
 right_column_html: >-
   <h7>LARGE NYLON MESH</h7><p><img alt="" src="/images/Nylon_400x150.jpg"
   /></p><p>&nbsp;</p>
