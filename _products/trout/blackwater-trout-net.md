@@ -1,6 +1,6 @@
 ---
 name: EGO Blackwater Trout Net
-subheading: Measure Net technology
+subheading: Measure Net Technology
 order_number: 110
 display_product: true
 forsale_online: true
