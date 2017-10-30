@@ -1,6 +1,6 @@
 ---
 name: EGO BIG GAME—XLARGE RUBBER NET
-subheading: '48 inch Handle—24&#34; x 29&#34; Hoop'
+subheading: '48inch Handle—24&#34; x 29&#34; Hoop'
 order_number: 30
 display_product: true
 forsale_online: false
@@ -23,16 +23,19 @@ slides:
     video:
     is_video: false
 left_column_html: >-
-  <p>The EGO XLarge Big Game flat bottom light weight rubber fishing net with a
-  48" handle makes fishing easy for Catfish, Striper, and other large fish.
-  Designed to float for easy recovery if dropped or blown overboard.
-  &nbsp;Designed with a functional grip that aids in net control, eliminates
-  bulky yoke assemblies and protects mono line from being frayed or cut.
-  &nbsp;EGO fishing nets are the first choice for the Savvy angler.</p><div
-  class="divider">&nbsp;</div><ul><li>Floats</li><li>Product Weight: 3.5
-  lbs</li><li>Hoop: 24&rdquo; x 29&rdquo;</li><li>Handle: 48&rdquo; Anodized
-  Octagonal Aluminum</li><li>Flat bottom Lightweight Rubber Mesh Net</li><li>Bag
-  Depth: 16&rdquo; (Stretches up to 1.5X with load)</li></ul>
+  <p>The EGO XLarge Big Game Lightweight Rubber fishing net with a 48" handle
+  was developed to provide the angler with better control when landing Catfish,
+  Striper, and other large fish.&nbsp; The functional grip aids in net control,
+  eliminates bulky yoke assemblies and protects mono line from being frayed or
+  cut. All EGO Big Game fishing nets float for easy recovery if dropped or blown
+  overboard. &nbsp;The rubber mesh bag is ideal for catch and release fishing
+  and allows the fish to be returned to their natural habitat with minimal
+  negative impact.</p><div
+  class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
+  design</li><li>Handle: 48&rdquo; anodized octagonal aluminum</li><li>Mesh Bag:
+  Lightweight non-tangle rubber</li><li>Bag Depth: 16&rdquo; (Stretches up to
+  1.5X with load)</li><li>Hoop: Xlarge 24&rdquo; x 29&rdquo;</li><li>Weight: 3.5
+  lbs</li></ul>
 right_column_html: >-
   <h7>Lightweight Rubber Mesh</h7><p><img alt=""
   src="/images/Rubber_400x150.jpg" /></p>
