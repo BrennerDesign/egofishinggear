@@ -724,6 +724,10 @@ h6 {
     #main_content {
       background: #383838; } }
 
+@media (min-width: 980px) {
+  .main_menu > li.sub_nav_link {
+    float: left; } }
+
 /* Product Page Styles
 ----------------------------------------------------------------------------------------*/
 .product_specs {

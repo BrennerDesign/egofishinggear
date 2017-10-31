@@ -876,7 +876,11 @@ h6 {
 	}
 }
 
-
+.main_menu > li.sub_nav_link {
+	@media (min-width: 980px) {
+		float:left;
+	}
+}
 
 
 
