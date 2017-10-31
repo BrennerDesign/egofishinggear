@@ -20,12 +20,12 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The Ego Kryptek Plier Sheath is built for the savvy angler and is crafted
-  from heavy-duty materials providing many years of trustworthy use on the
-  water.&nbsp; It features a coiled lanyard, and a hardened pocket, which will
-  protect your plier from damage or self-injury.&nbsp; Finally, the Ego Kryptek
-  Plier Sheath is finished with Kryptek camo for taking the battle to the
-  water.</p>
+  <p>The Ego Kryptek Plier Sheath is constructed from heavy-duty fabric and
+  rubber materials to provide to provide longevity and durability even in the
+  toughest fishing conditions.&nbsp; It features a coiled lanyard and modeled
+  pocket designed to protect the pliers from damage and the angler from
+  self-injury.&nbsp; The universal design of the sheath will allow most
+  6.5&rdquo; and 7.5&rdquo; pliers to be securely held in place.</p>
 right_column_html: >-
   <ul><li>Easy plier access</li><li>Durable material construction</li><li>Quick
   clip lanyard</li><li>Designed for both wet and dry use</li><li>Kryptek camo
