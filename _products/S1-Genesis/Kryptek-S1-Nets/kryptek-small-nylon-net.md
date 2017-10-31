@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS KRYPTEK—SMALL NYLON NET
-subheading: 13in Removable Handle — 14in x 16in Hoop
+subheading: '13inch Removable Handle — 14&#34; x 16&#34; Hoop'
 order_number: 410
 display_product: true
 forsale_online: true
@@ -32,8 +32,8 @@ left_column_html: >-
   functionality.</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 13"</li><li>Kryptek Camo
-  Technology</li><li>Mesh bag: Nylon</li><li>Bag depth: 20"</li><li>Hoop Size:
+  design</li><li>Removable handle &ndash; 13"</li><li>Kryptek camo
+  technology</li><li>Mesh Bag: Nylon</li><li>Bag Depth: 20"</li><li>Hoop Size:
   Small 14" x 16"</li><li>Minimal water drag</li><li>Weight: .95
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
