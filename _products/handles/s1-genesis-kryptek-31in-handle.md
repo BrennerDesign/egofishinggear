@@ -8,7 +8,7 @@ description: 'EGO Fishing Kryptek S1 Genesis 31&#34;  Fishing Net Handle that Fl
 billable_weight: 8
 categories:
   - s1-genesis-kryptek-handles
-price: '18.99'
+price: '22.99'
 price_range:
 sku: HS75150
 show_as_crosssells: false
