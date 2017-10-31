@@ -8,7 +8,7 @@ description: 'EGO Fishing Kryptek S1 Genesis 13&#34;  Fishing Net Handle that Fl
 billable_weight: 4
 categories:
   - s1-genesis-kryptek-handles
-price: '14.99'
+price: '17.99'
 price_range:
 sku: HS75370
 show_as_crosssells: false
