@@ -25,8 +25,8 @@ left_column_html: >-
   accurate way to measure fish length without having to deal with hassles of
   using a tradition tape. The angler can quickly get an accurate measuring
   length by simply setting the fish on the board and placing the nose against
-  the vertical end of the board. The rugged EGO 18in aluminum measuring board
-  features Kryptek camo for taking the battle to the water.</p>
+  the vertical end of the board. The rugged 18&rdquo; aluminum measuring board
+  features the high-tech Kryptek camo.</p>
 right_column_html: >-
   <ul><li>3/16" aluminum plate</li><li>Accurate measuring length (1/4"
   increments)</li><li>Kryptek camo
