@@ -20,16 +20,15 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Kryptek camo Ultra-Grip built-in 40lbs scale fish gripping tool was
-  designed to allow the angler to quickly and easily reach out and lip a fish to
-  lift it into the boat and get an accurate weight on the fish with the built-in
-  weigh scale. The EGO Kryptek camo Ultra-Grip fish gripping tool with Kryptek
-  camo technology offers excellent quality and exceptional value.</p>
+  <p>The EGO Kryptek Ultra-Grip with a built-in 40lbs scale was designed to
+  allow the angler to quickly and easily reach out and lip a fish, lift it into
+  the boat and get an accurate weight on the fish before releasing. The Ultra
+  Grip tool features the high-tech Kryptek camo technology offers the savvy
+  angler excellent quality and exceptional value.</p>
 right_column_html: >-
-  <ul><li>Magnetic Release</li><li>Aluminum body and jaw trigger</li><li>Kryptek
-  camo technology</li><li>Extra wide jaw opening</li><li>Ergonomic foam
-  grip</li><li>Comfortable palm design</li><li>Compact &amp;
-  lightweight</li></ul>
+  <ul><li>Aluminum body</li><li>Stainless-steel jaws</li><li>Kryptek camo
+  technology</li><li>Quick trigger action</li><li>Built-in weigh scale (up to
+  40lbs)</li></ul>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO fishing tool to be free of defects in material and
