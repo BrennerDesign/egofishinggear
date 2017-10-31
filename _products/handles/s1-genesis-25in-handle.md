@@ -8,7 +8,7 @@ description: EGO Fishing Gear S1 Genesis 24" Fishing Net Handle that Floats.
 billable_weight: 5
 categories:
   - s1-genesis-handles
-price: '16.99'
+price: '19.99'
 price_range:
 sku: HS71260
 show_as_crosssells: false
