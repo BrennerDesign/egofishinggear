@@ -21,12 +21,12 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Kryptek camo measuring board was designed to provide an efficient
-  and accurate way to measure fish length without having to deal with hassles of
+  <p>The EGO Kryptek measuring board was designed to provide an effect and
+  accurate way to measure fish length without having to deal with hassles of
   using a tradition tape. The angler can quickly get an accurate measuring
   length by simply setting the fish on the board and placing the nose against
-  the vertical end of the board. The rugged EGO 34in aluminum measuring board
-  features Kryptek camo for taking the battle to the water.</p>
+  the vertical end of the board. The rugged 34&rdquo; aluminum measuring board
+  features the high-tech Kryptek camo.</p>
 right_column_html: >-
   <ul><li>3/16" aluminum plate</li><li>Accurate measuring length (1/4"
   increments)</li><li>Kryptek camo technology</li><li>Durable</li></ul>
