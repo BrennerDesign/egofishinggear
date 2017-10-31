@@ -23,9 +23,9 @@ left_column_html: >-
   <p>The EGO Kryptek Magnetic Release keeps your favorite fishing tool(s)
   securely fastened but within reach for quick and easy use. The magnet is
   designed to separate into two parts so you can use your tool effectively or
-  you can choose to leave them connected and the 6" stretchable spring-cord will
-  extend to 36". Carabiner clips on both ends of the magnetic release secure
-  your fishing tool to your belt, waders and/or boat.</p>
+  leave it connected and the 6" stretchable spring-cord will extend to 36".
+  Carabiner clips on both ends of the magnetic release secure your fishing tool
+  to your belt, waders and/or boat.</p>
 right_column_html: >-
   <ul><li>Quick release magnet with carabiner</li><li>Multi-functional
   uses</li><li>Stretchable spring-cord. Length 13.7&rdquo; &amp; extends to a
