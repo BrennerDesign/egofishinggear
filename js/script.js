@@ -204,7 +204,7 @@ $(document).ready(function() {
 				$(this).find('.hover_bar').css('background-color', '#CC1015');
 				$(this).find('.sub-menu').animate({
 					top: 0
-				}, 400);
+				}, 0);
 			} else {
 
 			}
@@ -216,7 +216,7 @@ $(document).ready(function() {
 				$(this).find('.hover_bar').css('background-color', 'transparent');
 				$(this).find('.sub-menu').animate({
 					top: -300
-				}, 400, function() {
+				}, 0, function() {
 					$(this).parent().css('display', 'none');
 				});
 			} else {
