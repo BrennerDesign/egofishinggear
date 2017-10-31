@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS KRYPTEK—LARGE DEEP RUBBER NET
-subheading: 31in Removable Handle — 19in x 21in Hoop
+subheading: '31inch Removable Handle — 19&#34; x 21&#34; Hoop'
 order_number: 500
 display_product: true
 forsale_online: true
@@ -33,9 +33,9 @@ left_column_html: >-
   dependable functionality.</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 31"</li><li>Kryptek Camo
-  Technology</li><li>Mesh bag: Lightweight non-tangle deep rubber
-  mesh</li><li>Bag depth: 24" Flat Bottom (Stretches up to 1.5X with
+  design</li><li>Removable handle &ndash; 31"</li><li>Kryptek camo
+  technology</li><li>Mesh Bag: Lightweight non-tangle deep rubber
+  mesh</li><li>Bag Depth: 24" Flat bottom (Stretches up to 1.5X with
   load)</li><li>Hoop Size: Large 19" x 21"</li><li>Weight: 2.1
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
