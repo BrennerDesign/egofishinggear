@@ -20,9 +20,10 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Kryptek Camo Gaff Hook features 24" durable aluminum handle, 3"
-  stainless steel hook, very popular Kryptek camo technology. &nbsp;The perfect
-  gaff hook for savvy anglers to take the battle to the water.</p><ul></ul>
+  <p>The EGO Kryptek 3&rdquo; Gaff Hook features a 24" durable aluminum handle,
+  3" stainless steel hook and the high-tech and very popular Kryptek camo
+  technology. &nbsp;Now the savvy angler has yet another weapon to ensure a
+  successful day on the water!</p><ul></ul>
 right_column_html: >-
   <ul><li>3&rdquo; stainless steel hook</li><li>24&rdquo; durable aluminum
   handle</li><li>Comfortable hand grip</li><li>6&rdquo; wrist tether for
