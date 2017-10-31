@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS KRYPTEK—LARGE PVC COATED NET
-subheading: 31in Removable Handle — 19in x 21in Hoop
+subheading: '31inch Removable Handle — 19&#34; x 21&#34; Hoop'
 order_number: 470
 display_product: true
 forsale_online: true
@@ -32,8 +32,8 @@ left_column_html: >-
   dependable functionality.</p><div class="divider">&nbsp;</div><h7>MAX LOAD
   CAPACITY</h7><p><strong>30lbs</strong></p><div
   class="divider">&nbsp;</div><ul><li>Floats</li><li>Innovative grip
-  design</li><li>Removable handle &ndash; 31"</li><li>Kryptek Camo
-  Technology</li><li>Mesh bag: PVC Coated Mesh</li><li>Bag depth:
+  design</li><li>Removable handle &ndash; 31"</li><li>Kryptek camo
+  technology</li><li>Mesh Bag: PVC Coated Mesh</li><li>Bag Depth:
   31"</li><li>Hoop Size: Medium 19" x 21"</li><li>Weight: 1.5
   lbs</li></ul><div>&nbsp;</div>
 right_column_html: >-
