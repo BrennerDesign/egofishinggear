@@ -23,7 +23,7 @@ left_column_html: >-
   <p>The EGO Kryptek Ultra-Grip with a built-in 40lbs scale was designed to
   allow the angler to quickly and easily reach out and lip a fish, lift it into
   the boat and get an accurate weight on the fish before releasing. The Ultra
-  Grip tool features the high-tech Kryptek camo technology offers the savvy
+  Grip tool features the high-tech Kryptek camo technology and offers the savvy
   angler excellent quality and exceptional value.</p>
 right_column_html: >-
   <ul><li>Aluminum body</li><li>Stainless-steel jaws</li><li>Kryptek camo
