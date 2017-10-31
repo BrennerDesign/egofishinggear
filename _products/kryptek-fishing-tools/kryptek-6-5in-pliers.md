@@ -20,16 +20,17 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The Ego Kryptek Aluminum Pliers are made from durable aircraft-grade
-  aluminum resulting in an ultra lightweight set of fishing pliers.
-  &nbsp;Equipped with, split-ring tool, crimping slots, and replaceable
-  stainless steel cutters for cutting braided line. &nbsp;Featuring Kryptek
-  Camo, the Ego Kryptek Aluminum fishing pliers are for a savvy angler's fishing
-  arsenal.</p>
+  <p>The Ego Kryptek Aluminum 6.5&rdquo; Pliers feature the high-tech Kryptek
+  camo technology and are made from durable aircraft-grade aluminum resulting in
+  an ultra-lightweight set of fishing pliers. &nbsp;As a bonus, these pliers are
+  equipped with a split-ring tool, crimping slots and replaceable
+  stainless-steel cutters for cutting braided and monofilament line. &nbsp;The
+  versatility and finish quality make these pliers the best value in the highly
+  competitive fishing plier market.</p>
 right_column_html: >-
   <ul><li>Contoured handles for comfortable grip</li><li>Thumb
-  posts</li><li>Stainless steel jaw plates&nbsp;</li><li>Replaceable stainless
-  steel cutters</li><li>Aircraft aluminum body</li><li>Kryptek camo
+  posts</li><li>Stainless steel jaw plates&nbsp;</li><li>Replaceable
+  stainless-steel cutters</li><li>Aircraft aluminum body</li><li>Kryptek camo
   technology</li></ul>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products
