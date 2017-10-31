@@ -20,12 +20,15 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Kryptek 4.5&rdquo; aluminum fishing pliers feature Kryptek camo
-  technology, replaceable stainless steel cutters and come with a plier sheath.
-  Lightweight and Durable, these trout pliers are a savvy anglers top pick for
-  fly fishing pliers.&nbsp;</p>
+  <p>The Ego Kryptek Aluminum 4.5&rdquo; Pliers feature the high-tech Kryptek
+  camo technology and are made from durable aircraft-grade aluminum resulting in
+  an ultra-lightweight set of fishing pliers. &nbsp;As a bonus, these pliers are
+  equipped with stainless-steel cutters for cutting braided and monofilament
+  line and come with sheath and lanyard. &nbsp;The versatility and finish
+  quality make these pliers the best value for savvy anglers with a wide variety
+  of fishing demands.</p>
 right_column_html: >-
-  <ul><li>Stainless steel jaw plates&nbsp;</li><li>Replaceable stainless steel
+  <ul><li>Stainless steel jaw plates&nbsp;</li><li>Replaceable stainless-steel
   cutters</li><li>Cuts mono and braided lines with ease</li><li>Aircraft
   aluminum body</li><li>Kryptek camo technology</li><li>Plier sheath
   included</li><li>Belt loops for securing to your shorts or pants</li><li>Quick
