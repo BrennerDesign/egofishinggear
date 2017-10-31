@@ -20,12 +20,12 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Kryptek Camo Mini Gripper Tool with Magnetic Release helps land
-  fish with ease. This gripper is equipped with a magnetic release and features
-  an extra wide jaw opening. In addition, it has an ergonomic foam grip and
-  comfortable palm design. Compact and lightweight, the EGO Kryptek Camo Mini
-  Gripper Tool with Magnetic Release is constructed with an aluminum body,
-  Kryptek Camo technology, and jaw trigger.</p>
+  <p>The EGO Kryptek Camo Mini Gripper Tool with Magnetic Release featuring the
+  high-tech Kryptek camo technology is one of the most popular tools offered by
+  EGO. The mini grip is equipped with an easy break away magnetic release, extra
+  wide jaw opening and has an ergonomic foam grip for comfortable and easy
+  gripping. The versatility and compact design have made this tool a favorite
+  among freshwater and saltwater anglers alike.&nbsp;</p>
 right_column_html: >-
   <ul><li>Magnetic Release</li><li>Aluminum body and jaw trigger</li><li>Kryptek
   camo technology</li><li>Extra wide jaw opening</li><li>Ergonomic foam
