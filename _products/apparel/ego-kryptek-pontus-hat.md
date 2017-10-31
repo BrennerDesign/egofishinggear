@@ -21,9 +21,9 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>Our Kryptek Pontus one size fits all camo hat. This hat features a 3D
-  embroidered EGO logo, a stitched American flag on the right side and a velcro
-  adjustment strap in the back.&nbsp;&nbsp;</p>
+  <p>The EGO Kryptek Pontus cap is a one size fits all camo hat that features a
+  3D embroidered EGO logo, a stitched American flag on the right side and a
+  Velcro adjustment strap in the back.&nbsp;&nbsp;</p>
 right_column_html:
 warranty_left_column_html:
 warranty_right_column_html:
