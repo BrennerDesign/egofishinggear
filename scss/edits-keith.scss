@@ -25,10 +25,16 @@ h7 {
 	font-size: 1.25em; /* 20px */
 	font-weight: bold;
 	text-transform: uppercase;
+	
 }
 
 
+.product_ads .ad_block.top_ad.s1.partners .titles {
+    text-align: center;
+    right: 40px;
+    top: 52px;
 
+}
 /* Home Page
 ----------------------------------------------------------------------------------------*/
 
@@ -61,6 +67,7 @@ header.featured_prod h1 {
     width: 160px;
     font-weight: bold;
 }
+
 
 
 
@@ -210,5 +217,66 @@ header.replacement_parts.about h2 {
 
 
 .product_specs.warranty .yotpo-review-page {
-    clear: both;
+    clear: both;}
+    
+    
+    
+    
+ /* Mobile Header Style Edits
+----------------------------------------------------------------------------------------*/
+
+
+header.featured_prod {
+	clear: both;
+	z-index: 2;
+	position: relative;
+	@media (max-width: 580px) {
+		height: 500px;
+	}
+	h1 {
+		color: white;
+		width: 520px;
+		max-width: 90%;
+		margin: 76px auto 138px;
+		line-height: 1.0em;
+		@media (max-width: 580px) {
+			font-size: 2.1428em; /* 30px */
+			line-height: 1.1em!important;
+			max-width: 80%!important;
+			margin: 15px auto 30px!important;
+		}
+	}
+	
+	
+header.featured_prod.home {
+	h1 {
+		max-width: 90%;
+		width: 700px;
+		margin: 24px auto;
+	}
+	.logo_img {
+		width: 146px;
+		margin: 20px auto 320px;
+	}
+	h2 {
+		max-width: 90%;
+		color: #0093E0;
+		width: 500px;
+		margin: 0px auto 0px;
+		@media (max-width: 680px) {
+			margin-top: 0;
+		}
+	}
+	.block_btn {
+		border-color: white;
+		color: white;
+		margin: 0 12px 12px;
+	}
 }
+
+	
+}
+
+
+   
+    
