@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS—LARGE RUBBER COATED  NYLON NET
-subheading: '31inch Removable Handle — 19&#34; x 21&#34; Hoop'
+subheading: '31 inch Removable Handle — 19&#34; x 21&#34; Hoop'
 order_number: 100
 display_product: true
 forsale_online: true
