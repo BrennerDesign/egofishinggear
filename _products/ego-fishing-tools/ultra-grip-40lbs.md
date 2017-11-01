@@ -20,11 +20,10 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Ultra-Grip built-in 40lbs scale fish gripping tool was designed to
-  allow the angler to quickly and easily reach out and lip a fish to either lift
-  it into the boat and/or get an accurate weight on the fish with the built-in
-  weigh scale. The EGO Ultra-Grip fish gripping tool offers very good quality
-  and exceptional value.</p>
+  <p>The EGO Ultra-Grip with a built-in 40lbs scale was designed to allow the
+  angler to quickly and easily reach out and lip a fish, lift it into the boat
+  and get an accurate weight on the fish before releasing. The Ultra Grip tool
+  offers the savvy angler excellent quality and exceptional value.</p>
 right_column_html: >-
   <ul><li>Stainless Steel Jaws</li><li>Anodized aluminum body</li><li>Quick
   trigger action</li><li>Built-in weigh scale (up to 40lbs)</li><li>Quick-clip
