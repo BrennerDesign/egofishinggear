@@ -20,11 +20,9 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>The EGO Ultra Grip Standard model is perfect for landing fish - especially
-  the toothy variety. The stainless steel jaws open by a quick-action trigger
-  that provides easy and convenient operation with the flick of your finger. The
-  anodized aluminum body keeps it lightweight and its rubber handle grip
-  provides a solid grip even in wet conditions.</p>
+  <p>The EGO Ultra-tool was designed to allow the angler to quickly and easily
+  reach out and lip a fish and lift it into the boat. The Ultra Grip tool offers
+  the savvy angler excellent quality and exceptional value.</p>
 right_column_html: >-
   <ul><li>Stainless Steel Jaws</li><li>Anodized aluminum body</li><li>Quick
   trigger action</li><li>Built-in weigh scale (up to 40lbs)</li><li>Quick-clip
