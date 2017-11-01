@@ -31,6 +31,51 @@ header.featured_prod h1 {
   margin: 76px auto 138px;
   line-height: 1.05em; }
 
+header.featured_prod {
+  clear: both;
+  z-index: 2;
+  position: relative; }
+  @media (max-width: 580px) {
+    header.featured_prod {
+      height: 500px; } }
+  header.featured_prod h1 {
+    color: white;
+    width: 520px;
+    max-width: 90%;
+    margin: 76px auto 138px;
+    line-height: 1.0em; }
+    @media (max-width: 580px) {
+      header.featured_prod h1 {
+        font-size: 2.1428em;
+        /* 30px */
+        line-height: 1.1em !important;
+        max-width: 100% !important;
+        margin: 42px auto 64px !important; } }
+  header.featured_prod .title_wrap {
+    width: 1100px;
+    max-width: 90%;
+    margin: 0 auto;
+    padding-top: 30px;
+    text-align: center; }
+  header.featured_prod .logo_img {
+    width: 260px;
+    margin: 104px auto 0; }
+    header.featured_prod .logo_img img {
+      width: 100%;
+      height: auto; }
+    @media (max-width: 580px) {
+      header.featured_prod .logo_img {
+        width: 118px;
+        margin: 42px auto 0; } }
+  header.featured_prod .play_btn {
+    width: 72px;
+    height: 72px;
+    display: block;
+    margin: 0 auto 138px; }
+    header.featured_prod .play_btn img {
+      width: 100%;
+      height: auto; }
+
 /* Outline Button Style
 ----------------------------------------------------------------------------------------*/
 .block_btn {
