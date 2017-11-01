@@ -20,14 +20,14 @@ filter_handle:
 filter_hoop:
 filter_mesh:
 left_column_html: >-
-  <p>EGO's Ti22 Titanium Pliers are made with lightweight, strong and corrosion
-  proof titanium and the replaceable tungsten steel cutters will easily cut
-  through braided and Mono line. The pliers come with a light weight and
-  saltwater friendly sheath and tether lanyard so you never have to worry about
-  loosing them overboard. Limited lifetime
-  warranty.</p><p>&nbsp;</p><ul><li>100% Rust proof titanium body</li><li>Ultra
-  strong teeth for maximum grip</li><li>Precisely engineered replaceable
-  tungsten steel cutters</li><li>Contoured handles for comfort
+  <p>The EGO Ti22 Titanium Plier bodies are made using lightweight, strong and
+  corrosion proof titanium The replaceable tungsten steel cutters will easily
+  cut through braided and mono line and the pliers come with a lightweight and
+  saltwater friendly sheath and tether lanyard. Never worry about losing the
+  pliers overboard. &nbsp;Limited lifetime
+  warranty.</p><p>&nbsp;</p><ul><li>100% Rustproof titanium
+  body</li><li>Ultra-strong teeth for maximum grip</li><li>Precisely engineered
+  replaceable tungsten steel cutters</li><li>Contoured handles for comfort
   grip</li><li>Thumb posts for extra control and support</li><li>Lanyard
   fastening loop</li><li>Limited lifetime warranty</li></ul>
 right_column_html: >-
