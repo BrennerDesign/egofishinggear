@@ -22,14 +22,14 @@ filter_hoop:
 filter_mesh:
 left_column_html: >-
   <p>The EGO Tournament Weigh-In Bag was designed to provide a safe and friendly
-  way for the tournament or recreational angler to carry and weigh-in their
-  trophy fish. The 20 mil thick clear cold crack and UV protected plastic
-  substrate material is extremely durable and absolutely does not leak
+  way for the tournament or recreational angler to transport their trophy fish
+  to tournament weigh-ins. The 20-mil thick clear cold-crack and UV protected
+  plastic substrate material is extremely durable and will not leak
   water.</p><ul></ul>
 right_column_html: >-
   <ul><li>Cold crack and UV protection for longevity</li><li>Strong woven nylon
   carrying handles</li><li>R.F. Sealed / Zero leaks</li><li>Clear vinyl
-  material</li><li>20 mil thick wall</li><li>8 gallon capacity</li></ul>
+  material</li><li>20 mil thick wall</li><li>8-gallon capacity</li></ul>
 warranty_left_column_html: >-
   <p><h7></h7></p><p><h7>1-Year Limited Warranty</h7></p><p>Adventure Products
   warrants your EGO fishing tool to be free of defects in material and
