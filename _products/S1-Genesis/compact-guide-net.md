@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS—COMPACT GUIDE NET
-subheading: '13inch Removable Handle — 17&#34; x 19&#34; Hoop'
+subheading: '13 inch Removable Handle — 17&#34; x 19&#34; Hoop'
 order_number: 30
 display_product: true
 forsale_online: true
