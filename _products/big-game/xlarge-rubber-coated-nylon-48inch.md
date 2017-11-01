@@ -1,6 +1,6 @@
 ---
 name: EGO BIG GAME—XLARGE RUBBER COATED NYLON NET
-subheading: '48inch Handle—24&#34; x 29&#34; Hoop'
+subheading: '48 inch Handle—24&#34; x 29&#34; Hoop'
 order_number: 20
 display_product: true
 forsale_online: false
