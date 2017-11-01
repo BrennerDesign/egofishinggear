@@ -39,6 +39,35 @@ header.featured_prod.kryptek .logo_img {
   width: 146px;
   margin: 0 auto 320px; }
 
+header.featured_prod.s1 .title_wrap {
+  text-align: left; }
+
+header.featured_prod.s1 h1 {
+  margin: 58px 0 240px 6%;
+  width: 420px; }
+  @media (max-width: 820px) {
+    header.featured_prod.s1 h1 {
+      font-size: 2.5em;
+      /* 35px */
+      margin: 30px 0 120px 6%;
+      width: 260px;
+      line-height: 1.05em; } }
+  @media (max-width: 680px) {
+    header.featured_prod.s1 h1 {
+      text-align: center;
+      margin: 30px auto; } }
+
+header.featured_prod.s1 .logo_img {
+  width: 230px;
+  margin: 180px 0 0 6%; }
+  @media (max-width: 820px) {
+    header.featured_prod.s1 .logo_img {
+      width: 148px;
+      margin-top: 90px; } }
+  @media (max-width: 680px) {
+    header.featured_prod.s1 .logo_img {
+      margin: 6px auto 250px; } }
+
 /* Outline Button Style
 ----------------------------------------------------------------------------------------*/
 .block_btn {
