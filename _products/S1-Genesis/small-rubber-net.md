@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS—SMALL RUBBER NET
-subheading: '13inch Removable Handle — 14&#34; x 16&#34; Hoop'
+subheading: '13 inch Removable Handle — 14&#34; x 16&#34; Hoop'
 order_number: 20
 display_product: true
 forsale_online: true
