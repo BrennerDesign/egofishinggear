@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS—MEDIUM RUBBER NET
-subheading: '25inch Removable Handle — 17&#34; x 19&#34; Hoop'
+subheading: '25 inch Removable Handle — 17&#34; x 19&#34; Hoop'
 order_number: 70
 display_product: true
 forsale_online: true
