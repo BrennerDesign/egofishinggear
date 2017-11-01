@@ -197,3 +197,7 @@ header.featured_prod {
     border-color: white;
     color: white;
     margin: 0 12px 12px; }
+  header.featured_prod header.featured_prod.home h1 {
+    max-width: 90%;
+    width: 700px;
+    margin: 24px auto 35px; }
