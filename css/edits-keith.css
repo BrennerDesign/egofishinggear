@@ -31,6 +31,14 @@ header.featured_prod h1 {
   margin: 76px auto 138px;
   line-height: 1.05em; }
 
+header.featured_prod.kryptek h1 {
+  width: 100%;
+  margin: 70px auto 24px; }
+
+header.featured_prod.kryptek .logo_img {
+  width: 146px;
+  margin: 0 auto 320px; }
+
 /* Outline Button Style
 ----------------------------------------------------------------------------------------*/
 .block_btn {
@@ -202,9 +210,3 @@ header.featured_prod {
     border-color: white;
     color: white;
     margin: 0 12px 12px; }
-  header.featured_prod header.featured_prod.kryptek h1 {
-    width: 100%;
-    margin: 70px auto 24px; }
-  header.featured_prod header.featured_prod.kryptek .logo_img {
-    width: 146px;
-    margin: 0 auto 320px; }
