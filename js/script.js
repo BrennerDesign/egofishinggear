@@ -200,7 +200,8 @@ $(document).ready(function() {
 		if ($(this).hasClass('active')) {
 		} else {
 			if (doc_width > 980) {
-				$(this).find('.sub-menu-cont').css('display', 'block');
+				// $(this).find('.sub-menu-cont').css('display', 'block');
+				$(this).find('.sub-menu-cont').fadeIn(400);
 				$(this).find('.hover_bar').css('background-color', '#CC1015');
 				$(this).find('.sub-menu').animate({
 					top: 0
