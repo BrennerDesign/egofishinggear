@@ -31,6 +31,21 @@ header.featured_prod h1 {
   margin: 76px auto 138px;
   line-height: 1.05em; }
 
+header.featured_prod.kryptek h1 {
+  width: 90%;
+  margin: 70px auto 24px; }
+  @media (max-width: 580px) {
+    header.featured_prod.kryptek h1 {
+      font-size: 2.1428em;
+      /* 30px */
+      line-height: 1.1em !important;
+      max-width: 100% !important;
+      margin: 15px auto 30px !important; } }
+
+header.featured_prod.kryptek .logo_img {
+  width: 146px;
+  margin: 0 auto 320px; }
+
 /* Outline Button Style
 ----------------------------------------------------------------------------------------*/
 .block_btn {
