@@ -1,6 +1,6 @@
 ---
 name: S1 GENESIS KRYPTEK—SMALL NYLON NET
-subheading: '13inch Removable Handle — 14&#34; x 16&#34; Hoop'
+subheading: '13 inch Removable Handle — 14&#34; x 16&#34; Hoop'
 order_number: 410
 display_product: true
 forsale_online: true
