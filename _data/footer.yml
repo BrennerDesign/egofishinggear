@@ -2,7 +2,7 @@ footer_links:
   - title: Left Links
     links:
       - name: Customer Service
-        link:
+        link: '#'
         highlight: true
       - name: Contact Us
         link: /contact-us/
