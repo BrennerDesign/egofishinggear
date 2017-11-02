@@ -3,7 +3,7 @@ footer_links:
     links:
       - name: Customer Service
         link: '#'
-        highlight: true
+        highlight: false
       - name: Contact Us
         link: /contact-us/
       - name: FAQS
